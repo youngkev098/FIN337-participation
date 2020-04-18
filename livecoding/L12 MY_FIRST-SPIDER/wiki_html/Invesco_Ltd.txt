@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Invesco - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoLtwpAAL0ABBJ2J5EAAAAW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Invesco","wgTitle":"Invesco","wgCurRevisionId":947168565,"wgRevisionId":947168565,"wgArticleId":1785058,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Invesco","wgRelevantArticleId":1785058,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Invesco_Ltd.","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Invesco","wgWikibaseItemId":"Q522617","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},
+"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Invesco.svg/1200px-Invesco.svg.png"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Invesco&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Invesco&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Invesco"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Invesco rootpage-Invesco stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Invesco" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Invesco" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Invesco</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Invesco" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Invesco" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Invesco&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Invesco_Ltd.&amp;redirect=no" class="mw-redirect" title="Invesco Ltd.">Invesco Ltd.</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<p><b>Invesco Ltd.</b> is an American independent <a href="/wiki/Investment_management" title="Investment management">investment management</a> company that is headquartered in <a href="/wiki/Atlanta,_Georgia" class="mw-redirect" title="Atlanta, Georgia">Atlanta, Georgia</a>, United States, and has branch offices in 20 countries. Its common stock is a constituent of the <a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> and trades on the New York stock exchange.<sup id="cite_ref-about_5-0" class="reference"><a href="#cite_note-about-5">[5]</a></sup> Invesco operates under the Invesco, <a href="/w/index.php?title=Trimark_(Financial)&amp;action=edit&amp;redlink=1" class="new" title="Trimark (Financial) (page does not exist)">Trimark</a>, <a href="/wiki/Invesco_Perpetual" title="Invesco Perpetual">Invesco Perpetual</a>, <a href="/wiki/WL_Ross_%26_Co" title="WL Ross &amp; Co">WL Ross &amp; Co</a> and <a href="/wiki/Powershares" class="mw-redirect" title="Powershares">Powershares</a> brand names.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Invesco Ltd.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Invesco.svg" class="image"><img alt="Invesco.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Invesco.svg/120px-Invesco.svg.png" decoding="async" width="120" height="100" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Invesco.svg/180px-Invesco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Invesco.svg/240px-Invesco.svg.png 2x" data-file-width="48" data-file-height="40"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:IVZ">IVZ</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=BMG491BT1088">BMG491BT1088 </a><a href="https://www.wikidata.org/wiki/Q522617?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Financial_services" title="Financial services">Financial services</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1935</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Atlanta,_Georgia" class="mw-redirect" title="Atlanta, Georgia">Atlanta, Georgia</a>, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Rex_Adams" title="Rex Adams">Rex Adams</a>, <a href="/wiki/Chairman" class="mw-redirect" title="Chairman">Chairman</a><br> <a href="/w/index.php?title=Martin_L._Flanagan&amp;action=edit&amp;redlink=1" class="new" title="Martin L. Flanagan (page does not exist)">Martin L. Flanagan</a> <span style="font-size:85%;">(CEO)</span>, Phil Taylor Sr Director<br> <a href="/w/index.php?title=Mark_Armour&amp;action=edit&amp;redlink=1" class="new" title="Mark Armour (page does not exist)">Mark Armour</a>, Sr Director<br> <a href="/wiki/Wilbur_Ross" title="Wilbur Ross">Wilbur Ross</a>, CEO WL Ross</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a href="/wiki/Investment_management" title="Investment management">Investment management</a>: <a href="/wiki/Real_estate_investing" title="Real estate investing">real estate</a>, <a href="/wiki/Distressed_securities" title="Distressed securities">distressed investing</a>, <a href="/wiki/Loan" title="Loan">bank loans</a>, <a href="/wiki/Mathematical_finance" title="Mathematical finance">quantitative equity</a>, <a href="/wiki/Fundamental_analysis" title="Fundamental analysis">fundamental</a> <a href="/wiki/Stock" title="Stock">equity</a>, <a href="/wiki/Fixed_income" title="Fixed income">Fixed income</a>, <a href="/wiki/Hedge_fund" title="Hedge fund">hedge funds</a>, <a href="/wiki/Fund_of_funds" title="Fund of funds">Fund of funds</a>, <a href="/wiki/Socially_responsible_investing" title="Socially responsible investing">environmental investing</a> and <a href="/wiki/Exchange-traded_fund" title="Exchange-traded fund">ETFs</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 4,644.6 million (2013) <sup id="cite_ref-xbrlus_1_1-0" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 4,050.4 million (2012) <sup id="cite_ref-xbrlus_1_1-1" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 1,120.2 million (2013) <sup id="cite_ref-xbrlus_1_1-2" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li><li><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 842.6 million (2012) <sup id="cite_ref-xbrlus_1_1-3" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 940.3 million (2013) <sup id="cite_ref-xbrlus_1_1-4" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li><li><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 677.1 million (2012) <sup id="cite_ref-xbrlus_1_1-5" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 19,270.5 million (2013) <sup id="cite_ref-xbrlus_2_2-0" class="reference"><a href="#cite_note-xbrlus_2-2">[2]</a></sup></span></li><li><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 17,492.4 million (2012) <sup id="cite_ref-xbrlus_1_1-6" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 8,977.3 million (2013) <sup id="cite_ref-xbrlus_3_3-0" class="reference"><a href="#cite_note-xbrlus_3-3">[3]</a></sup></span></li><li><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 9,049.0 million (2012) <sup id="cite_ref-xbrlus_3_3-1" class="reference"><a href="#cite_note-xbrlus_3-3">[3]</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">8900 <small>(2019)</small><sup id="cite_ref-AR2007_4-0" class="reference"><a href="#cite_note-AR2007-4">[4]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><a rel="nofollow" class="external text" href="http://www.invesco.com">www.invesco.com</a></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Financial_statistics"><span class="tocnumber">2</span> <span class="toctext">Financial statistics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Invesco&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Invesco.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Invesco.jpg/220px-Invesco.jpg" decoding="async" width="220" height="165" class="thumbimage" data-file-width="1600" data-file-height="1200"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 165px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Invesco.jpg/220px-Invesco.jpg" data-alt="" data-width="220" data-height="165" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Invesco.jpg" class="internal" title="Enlarge"></a></div>Invesco headquarters in Atlanta, Georgia</div></div></div>
+<p>Invesco (then officially spelled with all-capital letters: INVESCO) was created in Atlanta in 1978 when <a href="/wiki/Citizens_%26_Southern_National_Bank" title="Citizens &amp; Southern National Bank">Citizens &amp; Southern National Bank</a> divested its money management operations.<sup id="cite_ref-Karkaria_6-0" class="reference"><a href="#cite_note-Karkaria-6">[6]</a></sup> In 1988, the company was purchased by the British firm <a href="/wiki/Britannia_Arrow" class="mw-redirect" title="Britannia Arrow">Britannia Arrow</a>, based in London, which later took the INVESCO name.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> In 1997 INVESCO <a href="/wiki/Public_limited_company" title="Public limited company">PLC</a> merged with AIM Investments.<sup id="cite_ref-history_8-0" class="reference"><a href="#cite_note-history-8">[8]</a></sup> Upon completion of the merger the company adopted the name Amvescap.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> In 2007 the company reverted to the Invesco name.<sup id="cite_ref-Coleman_10-0" class="reference"><a href="#cite_note-Coleman-10">[10]</a></sup></p><p>Since 2000 Invesco has grown through acquisitions such as the <a href="/wiki/Exchange-traded_fund" title="Exchange-traded fund">ETF</a> firm PowerShares Capital Management and the <a href="/wiki/Restructuring" title="Restructuring">restructuring</a> of <a href="/wiki/WL_Ross_%26_Co" title="WL Ross &amp; Co">WL Ross &amp; Co</a>.<sup id="cite_ref-history_8-1" class="reference"><a href="#cite_note-history-8">[8]</a></sup></p><p>In 2004, the company agreed to a $450 million settlement with the <a href="/wiki/State_Attorney_General" class="mw-redirect" title="State Attorney General">Attorneys General</a> of New York, <a href="/wiki/Colorado" title="Colorado">Colorado</a> and the <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">SEC</a> after allegations of improper trading practices.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p><p>In May 2007 the company changed their name to Invesco (initial cap only) <a href="/wiki/Public_limited_company" title="Public limited company">PLC</a>, moved its primary stock market listing from the <a href="/wiki/London_Stock_Exchange" title="London Stock Exchange">London Stock Exchange</a> to the NYSE and became domiciled in <a href="/wiki/Bermuda" title="Bermuda">Bermuda</a>, adopting the name Invesco Ltd.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> As a result, the company's shares were withdrawn from the <a href="/wiki/FTSE_100_Index" title="FTSE 100 Index">FTSE 100 Index</a> and added to the <a href="/wiki/Russell_1000_Index" title="Russell 1000 Index">Russell 1000 Index</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> In November 2007, Invesco moved its headquarters from London to Atlanta.<sup id="cite_ref-Karkaria_6-1" class="reference"><a href="#cite_note-Karkaria-6">[6]</a></sup></p><p>Invesco planned to list the PowerShares Global Progressive Transportation Portfolio (PTRP on the <a href="/wiki/Nasdaq_Stock_Market" class="mw-redirect" title="Nasdaq Stock Market">Nasdaq Stock Market</a>).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> This fund was closed in 2010.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p><p>On October 19, 2009, Invesco bought <a href="/wiki/Morgan_Stanley" title="Morgan Stanley">Morgan Stanley</a>'s Retail Unit, including <a href="/wiki/Van_Kampen_Investments" title="Van Kampen Investments">Van Kampen Investments</a> for $1.5 billion.<sup id="cite_ref-Van_Kampen_Sale_17-0" class="reference"><a href="#cite_note-Van_Kampen_Sale-17">[17]</a></sup></p><p>In April 2010, Invesco Aim became Invesco. Later that year, it was reported that Invesco had plans to introduce a <a href="/wiki/Risk_parity" title="Risk parity">Risk parity</a> commodity fund according to regulatory filings.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p><p>In December 2013, Invesco reported assets under management (AUM) of $778.7 billion<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p><p>In September 2017, Invesco agreed to buy Guggenheim Investment's exchange-traded fund business for $1.2 Billion in cash.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p><p>On October 18, 2018, Invesco purchased OppenheimerFunds from <a href="/wiki/Massachusetts_Mutual_Life_Insurance_Company" title="Massachusetts Mutual Life Insurance Company">Massachusetts Mutual Life Insurance Co.</a> for about $5.7 billion in stock. <sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p><p>In March 2020 amid a major <a href="/wiki/Black_Monday_2020" class="mw-redirect" title="Black Monday 2020">stock market crash</a> triggered by the <a href="/wiki/COVID-19" class="mw-redirect" title="COVID-19">COVID-19</a> pandemic, Invesco Mortgage Capital Inc., a branch handling <a href="/wiki/Real_Estate_Investment_Trust" class="mw-redirect" title="Real Estate Investment Trust">Real Estate Investment Trusts</a>, announced they were unable to cover <a href="/wiki/Margin_(finance)#Margin_call" title="Margin (finance)">margin calls</a> due to dramatic devaluations and investors selling shares.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> The company also announced they would delay <a href="/wiki/Dividend" title="Dividend">dividend</a> payments.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Financial_statistics">Financial statistics</span><span class="mw-editsection"><a href="/w/index.php?title=Invesco&amp;action=edit&amp;section=2" title="Edit section: Financial statistics" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<table class="wikitable"><tbody><tr><th>Year Ending
+</th>
+<th>Operating Revenue
+</th>
+<th>Net Income
+</th>
+<th>Assets Under Management
+</th>
+<th>Employees
+</th></tr><tr><td>31 December 2018
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>$888.2 billion<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></td>
+<td>
+</td></tr><tr><td>31 December 2017
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>$937.6 billion
+</td>
+<td>
+</td></tr><tr><td>31 December 2016
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>$812.9 billion
+</td>
+<td>
+</td></tr><tr><td>31 December 2015
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>$775.6 billion
+</td>
+<td>
+</td></tr><tr><td>31 December 2014
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>$792.4 billion
+</td>
+<td>
+</td></tr><tr><td>31 December 2013
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>$778.7 billion
+</td>
+<td>
+</td></tr><tr><td>31 December 2012
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>$687.7 billion
+</td>
+<td>
+</td></tr><tr><td>31 December 2011
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>$625.3 billion
+</td>
+<td>
+</td></tr><tr><td>31 December 2010
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>$616.0 billion
+</td>
+<td>
+</td></tr><tr><td>31 December 2009
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>$423.1 billion
+</td>
+<td>
+</td></tr><tr><td>31 December 2008
+</td>
+<td>$3,307.6 million
+</td>
+<td>$481.7 million
+</td>
+<td>$357.2 billion
+</td>
+<td>5,900
+</td></tr><tr><td>31 December 2007
+</td>
+<td>$3,878.9 million
+</td>
+<td>$673.6 million
+</td>
+<td>$500.1 billion
+</td>
+<td>5,475
+</td></tr><tr><td>31 December 2006
+</td>
+<td>$3,246.7 million
+</td>
+<td>$482.7 million
+</td>
+<td>$462.6 billion
+</td>
+<td>5,574
+</td></tr><tr><td>30 December 2005
+</td>
+<td>$2,872.6 million
+</td>
+<td>$219.8 million
+</td>
+<td>$386.3 billion
+</td>
+<td>5,798
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Invesco&amp;action=edit&amp;section=3" title="Edit section: References" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references"><li id="cite_note-xbrlus_1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-xbrlus_1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/914208/000091420814000271/0000914208-14-000271-index.htm">"Invesco Ltd. 2013 Annual Report Form (10-K)"</a> <span class="cs1-format">(XBRL)</span>. United States Securities and Exchange Commission. February 21, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Invesco+Ltd.+2013+Annual+Report+Form+%2810-K%29&amp;rft.pub=United+States+Securities+and+Exchange+Commission&amp;rft.date=2014-02-21&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F914208%2F000091420814000271%2F0000914208-14-000271-index.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-xbrlus_2-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-xbrlus_2_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/914208/000091420814000313/0000914208-14-000313-index.htm">"Invesco Ltd. 2014 Q1 Quarterly Report Form (10-Q)"</a> <span class="cs1-format">(XBRL)</span>. United States Securities and Exchange Commission. May 1, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Invesco+Ltd.+2014+Q1+Quarterly+Report+Form+%2810-Q%29&amp;rft.pub=United+States+Securities+and+Exchange+Commission&amp;rft.date=2014-05-01&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F914208%2F000091420814000313%2F0000914208-14-000313-index.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-xbrlus_3-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-xbrlus_3_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-xbrlus_3_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/914208/000091420814000316/0000914208-14-000316-index.htm">"Invesco Ltd. 2014 Q1 Quarterly Report Form (10-Q)"</a> <span class="cs1-format">(XBRL)</span>. United States Securities and Exchange Commission. May 1, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Invesco+Ltd.+2014+Q1+Quarterly+Report+Form+%2810-Q%29&amp;rft.pub=United+States+Securities+and+Exchange+Commission&amp;rft.date=2014-05-01&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F914208%2F000091420814000316%2F0000914208-14-000316-index.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-AR2007-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-AR2007_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080515102654/http://www.invesco.com/invest/reports/annrpt_07.pdf">"Annual Report 2007"</a> <span class="cs1-format">(PDF)</span>. Invesco. Archived from <a rel="nofollow" class="external text" href="http://www.invesco.com/invest/reports/annrpt_07.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2008-05-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Annual+Report+2007&amp;rft.pub=Invesco&amp;rft_id=http%3A%2F%2Fwww.invesco.com%2Finvest%2Freports%2Fannrpt_07.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-about-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-about_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071209201304/http://www.invesco.com/about/index.html">"Company overview"</a>. Invesco. Archived from <a rel="nofollow" class="external text" href="http://www.invesco.com/about/index.html">the original</a> on 2007-12-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-12-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Company+overview&amp;rft.pub=Invesco&amp;rft_id=http%3A%2F%2Fwww.invesco.com%2Fabout%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Karkaria-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Karkaria_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Karkaria_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Karkaria, Urvaksh (2007-11-07). <a rel="nofollow" class="external text" href="http://www.bizjournals.com/atlanta/stories/2007/11/05/daily28.html?page=all">"Invesco moving global HQ to Atlanta"</a>. <i>Atlanta Business Chronicle</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Atlanta+Business+Chronicle&amp;rft.atitle=Invesco+moving+global+HQ+to+Atlanta&amp;rft.date=2007-11-07&amp;rft.aulast=Karkaria&amp;rft.aufirst=Urvaksh&amp;rft_id=http%3A%2F%2Fwww.bizjournals.com%2Fatlanta%2Fstories%2F2007%2F11%2F05%2Fdaily28.html%3Fpage%3Dall&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Chernoff, Joel (1994-07-25). <a rel="nofollow" class="external text" href="http://www.pionline.com/article/19940725/PRINT/407250732/invescos-uk-business-hit-hard">"INVESCO'S U.K. BUSINESS HIT HARD"</a>. <i>Pensions &amp; Investments</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pensions+%26+Investments&amp;rft.atitle=INVESCO%27S+U.K.+BUSINESS+HIT+HARD&amp;rft.date=1994-07-25&amp;rft.aulast=Chernoff&amp;rft.aufirst=Joel&amp;rft_id=http%3A%2F%2Fwww.pionline.com%2Farticle%2F19940725%2FPRINT%2F407250732%2Finvescos-uk-business-hit-hard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-history-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-history_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-history_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.invesco.com/portal/site/global/History/">"Company history"</a>. Invesco<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-12-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Company+history&amp;rft.pub=Invesco&amp;rft_id=http%3A%2F%2Fwww.invesco.com%2Fportal%2Fsite%2Fglobal%2FHistory%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news">Wyatt, Edward (1996-11-05). <a rel="nofollow" class="external text" href="https://www.nytimes.com/1996/11/05/business/invesco-to-acquire-aim-for-1.6-billion.html">"Invesco to Acquire AIM for $1.6 Billion"</a>. <i>The New York Times</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0362-4331">0362-4331</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Invesco+to+Acquire+AIM+for+%241.6+Billion&amp;rft.date=1996-11-05&amp;rft.issn=0362-4331&amp;rft.aulast=Wyatt&amp;rft.aufirst=Edward&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F1996%2F11%2F05%2Fbusiness%2Finvesco-to-acquire-aim-for-1.6-billion.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Coleman-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Coleman_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Coleman, Murray (May 24, 2007). <a rel="nofollow" class="external text" href="https://www.marketwatch.com/story/amvescap-officially-switches-name-to-invesco">"Amvescap officially switches name to Invesco"</a>. <i>marketwatch.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 June</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=marketwatch.com&amp;rft.atitle=Amvescap+officially+switches+name+to+Invesco&amp;rft.date=2007-05-24&amp;rft.aulast=Coleman&amp;rft.aufirst=Murray&amp;rft_id=https%3A%2F%2Fwww.marketwatch.com%2Fstory%2Famvescap-officially-switches-name-to-invesco&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Timmons, Heather (8 September 2004). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2004/09/08/business/08place.html">"2 Fund Groups to Pay $450 Million to End Inquiry"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=2+Fund+Groups+to+Pay+%24450+Million+to+End+Inquiry&amp;rft.date=2004-09-08&amp;rft.aulast=Timmons&amp;rft.aufirst=Heather&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2004%2F09%2F08%2Fbusiness%2F08place.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080512145645/http://www.invesco.com/media/press_releases/2007_11_14.pdf">"Invesco PLC Shareholders Approve Relisting on the New York Stock Exchange"</a> <span class="cs1-format">(PDF)</span> (Press release). Invesco. 14 November 2007. Archived from <a rel="nofollow" class="external text" href="http://www.invesco.com/media/press_releases/2007_11_14.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2008-05-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-12-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Invesco+PLC+Shareholders+Approve+Relisting+on+the+New+York+Stock+Exchange&amp;rft.pub=Invesco&amp;rft.date=2007-11-14&amp;rft_id=http%3A%2F%2Fwww.invesco.com%2Fmedia%2Fpress_releases%2F2007_11_14.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://investing.reuters.co.uk/news/articleinvesting.aspx?type=allBreakingNews&amp;storyID=2007-11-30T080021Z_01_L30278526_RTRIDST_0_FTSE-INVESCO.XML">"LSE to replace Invesco in UK's FTSE 100"</a>. <a href="/wiki/Reuters" title="Reuters">Reuters</a>. 30 November 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-12-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=LSE+to+replace+Invesco+in+UK%27s+FTSE+100&amp;rft.date=2007-11-30&amp;rft_id=http%3A%2F%2Finvesting.reuters.co.uk%2Fnews%2Farticleinvesting.aspx%3Ftype%3DallBreakingNews%26storyID%3D2007-11-30T080021Z_01_L30278526_RTRIDST_0_FTSE-INVESCO.XML&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since November 2017">permanent dead link</span></a></i>]</span></sup></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.invescopowershares.com/news/pdf/NR%20082608%20PWSH%20Progressive%20Transportation.pdf">"Invesco PowerShares to list Global Progressive Transportation ETF"</a> <span class="cs1-format">(PDF)</span>. Invesco<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Invesco+PowerShares+to+list+Global+Progressive+Transportation+ETF&amp;rft.pub=Invesco&amp;rft_id=http%3A%2F%2Fwww.invescopowershares.com%2Fnews%2Fpdf%2FNR%2520082608%2520PWSH%2520Progressive%2520Transportation.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.greentechmedia.com/articles/green-transportation-fund-set-to-launch-1386.html">"Green Transportation Fund Set to Launch"</a>. <a href="/wiki/Greentech_Media" title="Greentech Media">Greentech Media</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+Transportation+Fund+Set+to+Launch&amp;rft.pub=Greentech+Media&amp;rft_id=http%3A%2F%2Fwww.greentechmedia.com%2Farticles%2Fgreen-transportation-fund-set-to-launch-1386.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://money.cnn.com/news/newsfeeds/articles/marketwire/0671657.htm">"Invesco PowerShares Announces Changes to ETF Family"</a>. <a href="/wiki/CNNMoney" class="mw-redirect" title="CNNMoney">CNNMoney</a>. October 8, 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Invesco+PowerShares+Announces+Changes+to+ETF+Family&amp;rft.pub=CNNMoney&amp;rft.date=2010-10-08&amp;rft_id=http%3A%2F%2Fmoney.cnn.com%2Fnews%2Fnewsfeeds%2Farticles%2Fmarketwire%2F0671657.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Van_Kampen_Sale-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Van_Kampen_Sale_17-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://mfwire.com/article.asp?template=article&amp;storyID=22977&amp;wire=MFWire&amp;wireID=2&amp;bhcp=1">"Invesco Pulls the Trigger on Van Kampen Deal"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-10-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Invesco+Pulls+the+Trigger+on+Van+Kampen+Deal&amp;rft_id=http%3A%2F%2Fmfwire.com%2Farticle.asp%3Ftemplate%3Darticle%26storyID%3D22977%26wire%3DMFWire%26wireID%3D2%26bhcp%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Wall Street Journal, Oct 2 2010, How Risky Are Those Low Risks Funds? Eleanor Laise</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140202214920/http://www.invesco.com/site/global/pdf/invest/media/press_releases/2014_01_30.pdf">"Invesco Ltd. Announces December 31, 2013 Assets Under Management"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.invesco.com/site/global/pdf/invest/media/press_releases/2014_01_30.pdf">the original</a> <span class="cs1-format">(PDF)</span> on February 2, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">January 30,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Invesco+Ltd.+Announces+December+31%2C+2013+Assets+Under+Management&amp;rft_id=http%3A%2F%2Fwww.invesco.com%2Fsite%2Fglobal%2Fpdf%2Finvest%2Fmedia%2Fpress_releases%2F2014_01_30.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">Baer, Justin (2017-09-28). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/the-price-invesco-is-paying-for-guggenheims-etf-business-1-2-billion-1506636178">"The Price Invesco Is Paying for Guggenheim's ETF Business: $1.2 Billion"</a>. <i>Wall Street Journal</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0099-9660">0099-9660</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-10-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wall+Street+Journal&amp;rft.atitle=The+Price+Invesco+Is+Paying+for+Guggenheim%27s+ETF+Business%3A+%241.2+Billion&amp;rft.date=2017-09-28&amp;rft.issn=0099-9660&amp;rft.aulast=Baer&amp;rft.aufirst=Justin&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-price-invesco-is-paying-for-guggenheims-etf-business-1-2-billion-1506636178&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.thestreet.com/markets/invesco-will-buy-oppenheimerfunds-14749624">"Invesco Will Buy OppenheimerFunds for $5.7 Billion in All-Stock Deal"</a>. 2018-10-18.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Invesco+Will+Buy+OppenheimerFunds+for+%245.7+Billion+in+All-Stock+Deal&amp;rft.date=2018-10-18&amp;rft_id=https%3A%2F%2Fwww.thestreet.com%2Fmarkets%2Finvesco-will-buy-oppenheimerfunds-14749624&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Patricia Clark (March 24, 2020). <a rel="nofollow" class="external text" href="https://www.thestreet.com/investing/invesco-unable-to-meet-margin-calls">Invesco Mortgage Capital Warns It Can’t Fund Margin Calls</a>, Yahoo Finance, accessed 24 March 2020</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.invesco.com/dam/jcr:30a18685-c55c-4344-9ca9-967a78a8fe8b/press-release-aum-20190131m.pdf">"Invesco Ltd. Announces January 31, 2019 Assets Under Management"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Invesco+Ltd.+Announces+January+31%2C+2019+Assets+Under+Management&amp;rft_id=https%3A%2F%2Fwww.invesco.com%2Fdam%2Fjcr%3A30a18685-c55c-4344-9ca9-967a78a8fe8b%2Fpress-release-aum-20190131m.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInvesco" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Invesco&amp;action=edit&amp;section=4" title="Edit section: External links" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li><a rel="nofollow" class="external text" href="http://www.invesco.com/">Invesco Official website</a></li>
+<li>Business data for Invesco: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=IVZ">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=IVZ">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=IVZ">SEC filings</a></li></ul></div></li>
+<li><a rel="nofollow" class="external text" href="http://www.invesco.com/us">Invesco US Retail Official website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.institutional.invesco.com/">Invesco US Institutional Official website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.invescoperpetual.co.uk/">Invesco Perpetual UK website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.institutional.invesco.com/">Invesco Institutional Official website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.invescotrimark.com/">Invesco Trimark Canada Website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.invescopowershares.com/">Invesco PowerShares Official website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.wlross.com/">WL Ross &amp; Co. Official website</a></li></ul></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Invesco&amp;oldid=947168565">https://en.wikipedia.org/w/index.php?title=Invesco&amp;oldid=947168565</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Invesco"
+				data-user-name="174.52.131.208"
+				data-user-gender="unknown"
+				data-timestamp="1585074661">
+				<span>Last edited on 24 March 2020, at 18:31</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Invesco&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.392","walltime":"0.524","ppvisitednodes":{"value":1981,"limit":1000000},"postexpandincludesize":{"value":62046,"limit":2097152},"templateargumentsize":{"value":7348,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":67765,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  478.975      1 -total"," 55.05%  263.652      1 Template:Reflist"," 31.13%  149.118      1 Template:Infobox_company"," 29.25%  140.124     14 Template:Cite_web"," 28.72%  137.567      1 Template:Infobox"," 12.14%   58.135      1 Template:Br_separated_entries"," 11.98%   57.381      6 Template:Cite_news"," 11.98%   57.368      8 Template:Wikidata"," 10.81%   51.795      1 Template:Short_description","  7.59%   36.336      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.232","limit":"10.000"},"limitreport-memusage":{"value":6859378,"limit":52428800}},"cachereport":{"origin":"mw1405","timestamp":"20200416052353","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Invesco","url":"https:\/\/en.wikipedia.org\/wiki\/Invesco","sameAs":"http:\/\/www.wikidata.org\/entity\/Q522617","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q522617","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-23T14:34:21Z","dateModified":"2020-03-24T18:31:01Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/99\/Invesco.svg","headline":"company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":113,"wgHostname":"mw1385"});});</script>		</body>
+		</html>
+		

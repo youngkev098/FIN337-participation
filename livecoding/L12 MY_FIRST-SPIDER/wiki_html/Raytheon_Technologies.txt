@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Raytheon Technologies - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d8c8a8e2-7691-4821-b5c4-902affb66743","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Raytheon_Technologies","wgTitle":"Raytheon Technologies","wgCurRevisionId":951235948,"wgRevisionId":951235948,"wgArticleId":63554945,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Raytheon_Technologies","wgRelevantArticleId":63554945,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q89368734","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},
+"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Raytheon_Technologies&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Raytheon_Technologies&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Raytheon_Technologies"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Raytheon_Technologies rootpage-Raytheon_Technologies stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Raytheon+Technologies" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Raytheon+Technologies" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Raytheon Technologies</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Raytheon_Technologies" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Raytheon+Technologies" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Raytheon_Technologies&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><div role="note" class="hatnote navigation-not-searchable">"Raytheon" redirects here. For the predecessor company that merged to form this company, see <a href="/wiki/Raytheon_Company" title="Raytheon Company">Raytheon Company</a>.</div>
+
+<p class="mw-empty-elt">  
+
+</p>
+<p><b>Raytheon Technologies Corporation</b> is a <a href="/wiki/Multinational_corporation" title="Multinational corporation">multinational</a> <a href="/wiki/List_of_conglomerates" title="List of conglomerates">conglomerate</a> headquartered in <a href="/wiki/Waltham,_Massachusetts" title="Waltham, Massachusetts">Waltham, Massachusetts</a>. It researches, develops, and manufactures advanced technology products in the aerospace and defense industry, including <a href="/wiki/Aircraft_engine" title="Aircraft engine">aircraft engines</a>, <a href="/wiki/Avionics" title="Avionics">avionics</a>, <a href="/wiki/Aerostructure" title="Aerostructure">aerostructures</a>, <a href="/wiki/Cybersecurity" class="mw-redirect" title="Cybersecurity">cybersecurity</a>, <a href="/wiki/Missile" title="Missile">missiles</a>, <a href="/wiki/Anti-aircraft_warfare" title="Anti-aircraft warfare">air defense systems</a>, and <a href="/wiki/Unmanned_aerial_vehicle" title="Unmanned aerial vehicle">drones</a>. The company is also a large military contractor, getting a significant portion of its revenue from the U.S. government.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Former United Technologies CEO and chairman <a href="/wiki/Gregory_J._Hayes" title="Gregory J. Hayes">Gregory J. Hayes</a> is the CEO of the combined company,<sup id="cite_ref-rtxpresidentceo_2-1" class="reference"><a href="#cite_note-rtxpresidentceo-2">[2]</a></sup> and former Raytheon CEO and chairman <a href="/wiki/Thomas_A._Kennedy" title="Thomas A. Kennedy">Thomas A. Kennedy</a> is the Executive Chairman.<sup id="cite_ref-rtxchairman_1-1" class="reference"><a href="#cite_note-rtxchairman-1">[1]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">Raytheon Technologies Corporation</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Raytheon_Technologies_logo.svg" class="image"><img alt="Raytheon Technologies logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a8/Raytheon_Technologies_logo.svg/220px-Raytheon_Technologies_logo.svg.png" decoding="async" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a8/Raytheon_Technologies_logo.svg/330px-Raytheon_Technologies_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a8/Raytheon_Technologies_logo.svg/440px-Raytheon_Technologies_logo.svg.png 2x" data-file-width="368" data-file-height="99"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:RTX">RTX</a></li><li><a href="/wiki/DJIA" class="mw-redirect" title="DJIA">DJIA</a> component</li><li><a href="/wiki/S%26P_100" title="S&amp;P 100">S&amp;P 100</a> component</li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Aerospace_manufacturer" title="Aerospace manufacturer">Aerospace</a>, <a href="/wiki/Arms_industry" title="Arms industry">defense</a>, <a href="/wiki/Electronics_industry" title="Electronics industry">electronics</a>, <a href="/wiki/Information_security" title="Information security">information security</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Predecessor</th><td style="line-height: 1.35em;"><a href="/wiki/United_Technologies" title="United Technologies">United Technologies</a><br><a href="/wiki/Raytheon_Company" title="Raytheon Company">Raytheon Company</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">3 April 2020<span class="noprint">; 13 days ago</span><span style="display:none"> (<span class="bday dtstart published updated">2020-04-03</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Waltham,_Massachusetts" title="Waltham, Massachusetts">Waltham, Massachusetts</a></div>, <div style="display: inline;" class="country-name">U.S.</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">Worldwide</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Thomas_A._Kennedy" title="Thomas A. Kennedy">Thomas A. Kennedy</a> (<a href="/wiki/Chairman" class="mw-redirect" title="Chairman">Chairman</a>)<sup id="cite_ref-rtxchairman_1-0" class="reference"><a href="#cite_note-rtxchairman-1">[1]</a></sup><br><a href="/wiki/Gregory_J._Hayes" title="Gregory J. Hayes">Gregory J. Hayes</a> (<a href="/wiki/President_(corporate_title)" title="President (corporate title)">President</a> and <a href="/wiki/Chief_executive_officer" title="Chief executive officer">CEO</a>)<sup id="cite_ref-rtxpresidentceo_2-0" class="reference"><a href="#cite_note-rtxpresidentceo-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"><span style="white-space: nowrap">US$97.75 billion</span> (2020)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">195,000 (2020)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th><td style="line-height: 1.35em;"><a href="/wiki/Collins_Aerospace" title="Collins Aerospace">Collins Aerospace</a><br><a href="/wiki/Pratt_%26_Whitney" title="Pratt &amp; Whitney">Pratt &amp; Whitney</a><br><a href="/wiki/Raytheon_Intelligence_%26_Space" title="Raytheon Intelligence &amp; Space">Raytheon Intelligence &amp; Space</a><br><a href="/wiki/Raytheon_Missiles_%26_Defense" title="Raytheon Missiles &amp; Defense">Raytheon Missiles &amp; Defense</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://rtx.com">rtx<wbr></wbr>.com</a></span></td></tr><tr><td colspan="2" style="text-align:center;line-height: 1.35em;"><b>Footnotes / references</b><br><sup id="cite_ref-10K_3-0" class="reference"><a href="#cite_note-10K-3">[3]</a></sup><sup id="cite_ref-mergercomplete_4-0" class="reference"><a href="#cite_note-mergercomplete-4">[4]</a></sup></td></tr></tbody></table><p>The company is the result of the merger of equals between the aerospace subsidiaries of <a href="/wiki/United_Technologies_Corporation" class="mw-redirect" title="United Technologies Corporation">United Technologies Corporation</a> (UTC) and the <a href="/wiki/Raytheon_Company" title="Raytheon Company">Raytheon Company</a>, which was completed on April 3, 2020. Before the merger, UTC <a href="/wiki/Corporate_spin-off" title="Corporate spin-off">spun-off</a> its non-aerospace subsidiaries <a href="/wiki/Otis_Elevator_Company" class="mw-redirect" title="Otis Elevator Company">Otis Elevator Company</a> and <a href="/wiki/Carrier_Corporation" class="mw-redirect" title="Carrier Corporation">Carrier Corporation</a>. UTC is the nominal survivor of the merger but it changed its name to Raytheon Technologies and relocated its headquarters to Waltham.<sup id="cite_ref-mergercomplete_4-1" class="reference"><a href="#cite_note-mergercomplete-4">[4]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p><p>The company is one of the largest aerospace and defense manufacturers in the world by revenue and market capitalization. Through its predecessors, including UTC, its stock has been one of the most durable constituents of the US blue-chip index <a href="/wiki/Dow_Jones_Industrial_Average" title="Dow Jones Industrial Average">Dow Jones Industrial Average</a> for more than 80 years. The stock trades on the <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">New York Stock Exchange</a> and the ticker symbol is RTX.
+</p><p>The company has four subsidiaries: <a href="/wiki/Collins_Aerospace" title="Collins Aerospace">Collins Aerospace</a>, <a href="/wiki/Pratt_%26_Whitney" title="Pratt &amp; Whitney">Pratt &amp; Whitney</a>, <a href="/wiki/Raytheon_Intelligence_%26_Space" title="Raytheon Intelligence &amp; Space">Raytheon Intelligence &amp; Space</a> and <a href="/wiki/Raytheon_Missiles_%26_Defense" title="Raytheon Missiles &amp; Defense">Raytheon Missiles &amp; Defense</a>. 
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Raytheon_Technologies&amp;action=edit&amp;section=1" title="Edit section: References" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-rtxchairman-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-rtxchairman_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rtxchairman_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Raytheon Technologies. <a rel="nofollow" class="external text" href="https://www.rtx.com/Our-Company/corporate-governance/Thomas-A-Kennedy">"Thomas A. Kennedy"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Thomas+A.+Kennedy&amp;rft.au=Raytheon+Technologies&amp;rft_id=https%3A%2F%2Fwww.rtx.com%2FOur-Company%2Fcorporate-governance%2FThomas-A-Kennedy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaytheon+Technologies" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-rtxpresidentceo-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-rtxpresidentceo_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rtxpresidentceo_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Raytheon Technologies. <a rel="nofollow" class="external text" href="https://www.rtx.com/Our-Company/our-leadership/gregory-j-hayes">"Gregory J. Hayes"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gregory+J.+Hayes&amp;rft.au=Raytheon+Technologies&amp;rft_id=https%3A%2F%2Fwww.rtx.com%2FOur-Company%2Four-leadership%2Fgregory-j-hayes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaytheon+Technologies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10K-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-10K_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/ix?doc=/Archives/edgar/data/101829/000010182920000013/utx-20191231_d2.htm">"United Technologies Corporation 2019 Form 10-K Annual Report"</a>. <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">U.S. Securities and Exchange Commission</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=United+Technologies+Corporation+2019+Form+10-K+Annual+Report&amp;rft.pub=U.S.+Securities+and+Exchange+Commission&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2Fix%3Fdoc%3D%2FArchives%2Fedgar%2Fdata%2F101829%2F000010182920000013%2Futx-20191231_d2.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaytheon+Technologies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-mergercomplete-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-mergercomplete_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mergercomplete_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.rtx.com/News/2020/04/03/United-Technologies-and-Raytheon-Complete-Merger-of-Equals-Transaction">"United Technologies and Raytheon Complete Merger of Equals Transaction"</a>. <i>www.rtx.com</i> (Press release). Raytheon Technologies. April 3, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">April 3,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=United+Technologies+and+Raytheon+Complete+Merger+of+Equals+Transaction&amp;rft.pub=Raytheon+Technologies&amp;rft.date=2020-04-03&amp;rft_id=https%3A%2F%2Fwww.rtx.com%2FNews%2F2020%2F04%2F03%2FUnited-Technologies-and-Raytheon-Complete-Merger-of-Equals-Transaction&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaytheon+Technologies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Ehrenfreund, Max (December 5, 2016). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/news/wonk/wp/2016/12/05/ceo-united-tech-considered-federal-contracts-in-decision-to-keep-indiana-jobs-in-deal-with-trump">"CEO: United Tech. considered federal contracts in decision to keep Indiana jobs in deal with Trump"</a>. <i>The Washington Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 2,</span> 2016</span>. <q>I also know that about 10 percent of our revenue comes from the U.S. government," [United Technologies chief executive Greg Hayes] said.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Washington+Post&amp;rft.atitle=CEO%3A+United+Tech.+considered+federal+contracts+in+decision+to+keep+Indiana+jobs+in+deal+with+Trump&amp;rft.date=2016-12-05&amp;rft.aulast=Ehrenfreund&amp;rft.aufirst=Max&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Fwonk%2Fwp%2F2016%2F12%2F05%2Fceo-united-tech-considered-federal-contracts-in-decision-to-keep-indiana-jobs-in-deal-with-trump&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaytheon+Technologies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150704133159/http://www.corpwatch.org/article.php?list=type&amp;type=14">"CorpWatch : United Technologies"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.corpwatch.org/article.php?list=type&amp;type=14">the original</a> on July 4, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">July 3,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CorpWatch+%3A+United+Technologies&amp;rft_id=http%3A%2F%2Fwww.corpwatch.org%2Farticle.php%3Flist%3Dtype%26type%3D14&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaytheon+Technologies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Kilgore, Tomi (April 4, 2020). <a rel="nofollow" class="external text" href="https://www.marketwatch.com/story/raytheon-technologies-stock-formerly-united-technologies-starts-trading-in-the-dow-friday-2020-04-03">"Raytheon Technologies' stock, formerly United Technologies, starts trading in"</a>. <i><a href="/wiki/MarketWatch" title="MarketWatch">MarketWatch</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MarketWatch&amp;rft.atitle=Raytheon+Technologies%27+stock%2C+formerly+United+Technologies%2C+starts+trading+in&amp;rft.date=2020-04-04&amp;rft.aulast=Kilgore&amp;rft.aufirst=Tomi&amp;rft_id=https%3A%2F%2Fwww.marketwatch.com%2Fstory%2Fraytheon-technologies-stock-formerly-united-technologies-starts-trading-in-the-dow-friday-2020-04-03&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARaytheon+Technologies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Raytheon_Technologies&amp;action=edit&amp;section=2" title="Edit section: External links" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://www.rtx.com">Official website</a></span></span></li>
+<li class="mw-empty-elt">
+<li>Business data for Raytheon Technologies: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=RTX">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.bloomberg.com/quote/RTX:US">Bloomberg</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=RTX">SEC filings</a></li></ul></div></li></ul>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Factory_USA.svg" class="image"><noscript><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Factory_USA.svg/30px-Factory_USA.svg.png" decoding="async" width="30" height="25" data-file-width="465" data-file-height="390"></noscript><span class="lazy-image-placeholder" style="width: 30px;height: 25px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Factory_USA.svg/30px-Factory_USA.svg.png" data-alt="Stub icon" data-width="30" data-height="25" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Factory_USA.svg/45px-Factory_USA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Factory_USA.svg/60px-Factory_USA.svg.png 2x"> </span></a></td><td><i>This United States corporation or company article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Raytheon_Technologies&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:US-company-stub" title="Template:US-company-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:US-company-stub" title="Template talk:US-company-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:US-company-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Raytheon_Technologies&amp;oldid=951235948">https://en.wikipedia.org/w/index.php?title=Raytheon_Technologies&amp;oldid=951235948</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Raytheon_Technologies"
+				data-user-name="61.94.243.215"
+				data-user-gender="unknown"
+				data-timestamp="1587011143">
+				<span>Last edited on 16 April 2020, at 04:25</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Raytheon_Technologies&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.360","walltime":"0.531","ppvisitednodes":{"value":1720,"limit":1000000},"postexpandincludesize":{"value":36406,"limit":2097152},"templateargumentsize":{"value":2994,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":22562,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  489.514      1 -total"," 43.49%  212.906      1 Template:Infobox_company"," 39.79%  194.788      1 Template:Infobox"," 16.92%   82.802      4 Template:Cite_web"," 10.90%   53.378      7 Template:Wikidata","  9.47%   46.354      1 Template:Br_separated_entries","  9.24%   45.223      1 Template:Short_description","  8.44%   41.297      1 Template:Redirect","  7.47%   36.555      1 Template:Start_date_and_age","  6.40%   31.311      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.168","limit":"10.000"},"limitreport-memusage":{"value":4940609,"limit":52428800}},"cachereport":{"origin":"mw1366","timestamp":"20200416051427","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Raytheon Technologies","url":"https:\/\/en.wikipedia.org\/wiki\/Raytheon_Technologies","sameAs":"http:\/\/www.wikidata.org\/entity\/Q89368734","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q89368734","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2020-04-03T14:52:47Z","dateModified":"2020-04-16T04:25:43Z","headline":"American multinational conglomerate"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1262"});});</script>		</body>
+		</html>
+		

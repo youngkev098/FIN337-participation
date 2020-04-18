@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Monster Beverage - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpiHAApAMNcAAvbDc5QAAABG","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Monster_Beverage","wgTitle":"Monster Beverage","wgCurRevisionId":947609276,"wgRevisionId":947609276,"wgArticleId":6214025,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Monster_Beverage","wgRelevantArticleId":6214025,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1945295","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/f/f7/Monster_Logo.png"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Monster_Beverage&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Monster_Beverage&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Monster_Beverage"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Monster_Beverage rootpage-Monster_Beverage stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Monster+Beverage" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Monster+Beverage" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Monster Beverage</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Monster_Beverage" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Monster+Beverage" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<div role="note" class="hatnote navigation-not-searchable">"Hansen's" redirects here. For other uses, see <a href="/wiki/Hansen_(disambiguation)" class="mw-redirect mw-disambig" title="Hansen (disambiguation)">Hansen</a>.</div>
+<p><b>Monster Beverage Corporation</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> is an American <a href="/wiki/Beverage_company" class="mw-redirect" title="Beverage company">beverage company</a> that manufactures <a href="/wiki/Energy_drink" title="Energy drink">energy drinks</a> including <a href="/wiki/Monster_Energy" title="Monster Energy">Monster Energy</a>, <a href="/wiki/Relentless_(drink)" title="Relentless (drink)">Relentless</a> and <a href="/wiki/Burn_(energy_drink)" title="Burn (energy drink)">Burn</a>. The company was originally founded as <b>Hansen's</b> in 1935 in <a href="/wiki/Southern_California" title="Southern California">Southern California</a>, originally selling juice products. The company renamed itself as Monster Beverage in 2012, and then sold their Hansen's juices and sodas and their other non-energy drink brands to <a href="/wiki/The_Coca-Cola_Company" title="The Coca-Cola Company">The Coca-Cola Company</a> in 2015.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Monster Beverage Corporation</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Monster_Logo.png" class="image"><img alt="Monster Logo.png" src="//upload.wikimedia.org/wikipedia/en/f/f7/Monster_Logo.png" decoding="async" width="120" height="164" data-file-width="108" data-file-height="148"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a>: <a rel="nofollow" class="external text" href="https://www.nasdaq.com/symbol/mnst">MNST</a> <br> <a href="/wiki/NASDAQ-100" title="NASDAQ-100">NASDAQ-100 Component</a> <br> <a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US6117401017">US6117401017 </a><a href="https://www.wikidata.org/wiki/Q1945295?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1935<span class="noprint">; 85 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1935</span>)</span><br>(as Hansen's)<br><a href="/wiki/Southern_California" title="Southern California">Southern California</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;">Hubert Hansen</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Corona,_California" title="Corona, California">Corona</a>, <a href="/wiki/California" title="California">California</a></div>, <div style="display: inline;" class="country-name"><a href="/wiki/United_States" title="United States">U.S.</a></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Rodney_Sacks" title="Rodney Sacks">Rodney Sacks</a> <br> <small>(<a href="/wiki/Chairman" class="mw-redirect" title="Chairman">Chairman</a> and <a href="/wiki/Chief_executive_officer" title="Chief executive officer">CEO</a>)</small> <br> <a href="/wiki/Hilton_Schlosberg" title="Hilton Schlosberg">Hilton Schlosberg</a> <br> <small>(<a href="/wiki/President_(corporate_title)" title="President (corporate title)">President</a> and <a href="/wiki/Chief_operating_officer" title="Chief operating officer">COO</a>)</small></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a href="/wiki/Energy_drink" title="Energy drink">Energy drinks</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Brands</th><td style="line-height: 1.35em;">Authentic logo designer<a href="/wiki/F" title="F">F</a> Andi Nugraha</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>3.369 billion <small>(2017)</small><sup id="cite_ref-17AnnualReport_1-0" class="reference"><a href="#cite_note-17AnnualReport-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>1.199 billion <small>(2017)</small><sup id="cite_ref-17AnnualReport_1-1" class="reference"><a href="#cite_note-17AnnualReport-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>821 million <small>(2017)</small><sup id="cite_ref-17AnnualReport_1-2" class="reference"><a href="#cite_note-17AnnualReport-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_dollar" title="United States dollar">US$</a>4.791 billion <small>(2017)</small><sup id="cite_ref-17AnnualReport_1-3" class="reference"><a href="#cite_note-17AnnualReport-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_dollar" title="United States dollar">US$</a>3.895 billion <small>(2017)</small><sup id="cite_ref-17AnnualReport_1-4" class="reference"><a href="#cite_note-17AnnualReport-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Owner</th><td style="line-height: 1.35em;"><a href="/wiki/The_Coca-Cola_Company" title="The Coca-Cola Company">The Coca-Cola Company</a> (16.7%)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">1,991 (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://monsterbevcorp.com">monsterbevcorp<wbr></wbr>.com</a></span></td></tr></tbody></table><p>As of May 2012, Monster held nearly 35% of the $31.9 billion US energy drink market.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Sponsorship"><span class="tocnumber">2</span> <span class="toctext">Sponsorship</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Finances"><span class="tocnumber">3</span> <span class="toctext">Finances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Products"><span class="tocnumber">4</span> <span class="toctext">Products</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Former_products"><span class="tocnumber">5</span> <span class="toctext">Former products</span></a>
+<ul><li class="toclevel-2 tocsection-6"><a href="#Natural_soda"><span class="tocnumber">5.1</span> <span class="toctext">Natural soda</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Diet_soda"><span class="tocnumber">5.2</span> <span class="toctext">Diet soda</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Drink_mixers"><span class="tocnumber">5.3</span> <span class="toctext">Drink mixers</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Fruit_juices"><span class="tocnumber">5.4</span> <span class="toctext">Fruit juices</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Juices_for_children"><span class="tocnumber">5.5</span> <span class="toctext">Juices for children</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Other_beverages"><span class="tocnumber">5.6</span> <span class="toctext">Other beverages</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Signature_Soda"><span class="tocnumber">5.7</span> <span class="toctext">Signature Soda</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Natural_and_diet_tea_sodas"><span class="tocnumber">5.8</span> <span class="toctext">Natural and diet tea sodas</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>Hansen's was founded in 1935.<sup id="cite_ref-hansens_4-0" class="reference"><a href="#cite_note-hansens-4">[4]</a></sup> In the 1930s, Hubert Hansen and his three sons began selling juice to film studios and retailers in Southern California under the Hansen's name. In the 1970s, Tim Hansen (the grandson of Hubert) developed and marketed a variety of sodas and juices, also under the Hansen's label.<sup id="cite_ref-story_5-0" class="reference"><a href="#cite_note-story-5">[5]</a></sup></p><p>The company became Hansen's Juices, and later The Fresh Juice Company of California. The plant that was opened in <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a> in 1946 was used until operations were moved to a new plant in <a href="/wiki/Azusa,_California" title="Azusa, California">Azusa, California</a> in 1993. The company filed for bankruptcy in 1988, and was acquired by the California CoPackers Corporation and renamed Hansen Natural Company. In 1998, the company moved from <a href="/wiki/Anaheim,_California" title="Anaheim, California">Anaheim, California</a> to <a href="/wiki/Corona,_California" title="Corona, California">Corona, California</a>. On January 5, 2012, shareholders agreed to change the name of the company from Hansen's Natural to Monster
+Beverage Corporation, under the new ticker MNST. Shareholders also approved an increase in the number of authorized shares of common stock to 240,000,000 shares from 120,000,000 shares.<sup id="cite_ref-Shares_6-0" class="reference"><a href="#cite_note-Shares-6">[6]</a></sup></p><p>In April 2008, the U.S. <a href="/wiki/Food_and_Drug_Administration" title="Food and Drug Administration">Food and Drug Administration</a> ruled products containing <a href="/wiki/High-fructose_corn_syrup" title="High-fructose corn syrup">high-fructose corn syrup</a> could not be labeled "natural".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Shortly after, Hansen's Natural Corporation announced they had begun using cane sugar instead.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p><p>In September 2009, Hansen brand Monster Energy sent a <a href="/wiki/Cease_and_desist" title="Cease and desist">cease and desist</a> letter to <a href="/wiki/Rock_Art_Brewery" title="Rock Art Brewery">Rock Art Brewery</a>, demanding the <a href="/wiki/Microbrewery" class="mw-redirect" title="Microbrewery">microbrewery</a> stop selling its new Vermonster beer, drop its pursuit of a federal trademark for the name, and pay Hansen's lawyer fees. This resulted in a boycott of all Hansen products by a few Vermont retailers.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p><p>In June 2015, <a href="/wiki/The_Coca-Cola_Company" title="The Coca-Cola Company">The Coca-Cola Company</a> took ownership of Hansen’s juice products and sodas, Hubert’s Lemonade, Blue Sky sodas, 
+Peace Tea and other non-energy drink brands, in exchange for their energy drink brands.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Sponsorship">Sponsorship</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=2" title="Edit section: Sponsorship" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p><a href="/wiki/NASCAR" title="NASCAR">NASCAR</a> announced on December 1, 2016 a multi-year deal that will make Monster Energy only the third entitlement sponsor in its <a href="/wiki/Monster_Energy_NASCAR_Cup_Series" class="mw-redirect" title="Monster Energy NASCAR Cup Series">premier series</a> history.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> However, this deal ended after the 2019 race season, and the series will be known as simply the "NASCAR Cup Series" from 2020 onward. The company is expected to continue sponsoring individual drivers, including <a href="/wiki/Kurt_Busch" title="Kurt Busch">Kurt Busch</a>, <a href="/wiki/Ty_Gibbs" title="Ty Gibbs">Ty Gibbs</a>, and <a href="/wiki/Riley_Herbst" title="Riley Herbst">Riley Herbst</a> into the future.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Finances">Finances</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=3" title="Edit section: Finances" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>For the fiscal year 2017, Monster Beverage reported earnings of US$821 million, with an annual revenue of US$3.369 billion, an increase of 10.5% over the previous fiscal cycle. Monster Beverage's shares traded at over $51 per share, and its market capitalization was valued at US$29.9 billion in November 2018.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<table class="wikitable float-left" style="text-align: right;"><tbody><tr><th>Year
+</th>
+<th>Revenue<br>in mil. USD$
+</th>
+<th>Net income<br>in mil. USD$
+</th>
+<th>Total Assets<br>in mil. USD$
+</th>
+<th>Price per Share<br>in USD$
+</th>
+<th>Employees
+</th></tr><tr><td>2005
+</td>
+<td>349
+</td>
+<td>63
+</td>
+<td>164
+</td>
+<td>1.75
+</td>
+<td>
+</td></tr><tr><td>2006
+</td>
+<td>606
+</td>
+<td>98
+</td>
+<td>308
+</td>
+<td>5.49
+</td>
+<td>
+</td></tr><tr><td>2007
+</td>
+<td>904
+</td>
+<td>149
+</td>
+<td>545
+</td>
+<td>7.30
+</td>
+<td>
+</td></tr><tr><td>2008
+</td>
+<td>1,034
+</td>
+<td>108
+</td>
+<td>762
+</td>
+<td>5.27
+</td>
+<td>
+</td></tr><tr><td>2009
+</td>
+<td>1,143
+</td>
+<td>209
+</td>
+<td>800
+</td>
+<td>5.81
+</td>
+<td>
+</td></tr><tr><td>2010
+</td>
+<td>1,304
+</td>
+<td>212
+</td>
+<td>1,147
+</td>
+<td>7.36
+</td>
+<td>
+</td></tr><tr><td>2011
+</td>
+<td>1,703
+</td>
+<td>286
+</td>
+<td>1,362
+</td>
+<td>12.44
+</td>
+<td>
+</td></tr><tr><td>2012
+</td>
+<td>2,061
+</td>
+<td>340
+</td>
+<td>1,043
+</td>
+<td>19.77
+</td>
+<td>
+</td></tr><tr><td>2013
+</td>
+<td>2,246
+</td>
+<td>339
+</td>
+<td>1,421
+</td>
+<td>18.65
+</td>
+<td>1,571
+</td></tr><tr><td>2014
+</td>
+<td>2,465
+</td>
+<td>483
+</td>
+<td>1,939
+</td>
+<td>26.79
+</td>
+<td>1,538
+</td></tr><tr><td>2015
+</td>
+<td>2,723
+</td>
+<td>547
+</td>
+<td>5,571
+</td>
+<td>45.46
+</td>
+<td>1,659
+</td></tr><tr><td>2016
+</td>
+<td>3,049
+</td>
+<td>713
+</td>
+<td>4,153
+</td>
+<td>47.66
+</td>
+<td>1,836
+</td></tr><tr><td>2017
+</td>
+<td>3,369
+</td>
+<td>821
+</td>
+<td>4,791
+</td>
+<td>51.69
+</td>
+<td>2,114
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=4" title="Edit section: Products" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li><a href="/wiki/Monster_Energy" title="Monster Energy">Monster Energy</a></li>
+<li><a href="/wiki/Relentless_(drink)" title="Relentless (drink)">Relentless</a></li>
+<li><a href="/wiki/Full_Throttle_(drink)" title="Full Throttle (drink)">Full Throttle</a></li>
+<li><a href="/wiki/NOS_(drink)" title="NOS (drink)">NOS</a></li>
+<li><a href="/wiki/Mother_(drink)" title="Mother (drink)">Mother</a></li>
+<li><a href="/wiki/Burn_(energy_drink)" title="Burn (energy drink)">Burn</a></li>
+<li>Predator</li>
+<li>Reign</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Former_products">Former products</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=5" title="Edit section: Former products" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<h3 class="in-block"><span class="mw-headline" id="Natural_soda">Natural soda</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=6" title="Edit section: Natural soda" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p><i>Natural Soda</i> comes in twelve flavors: Original Cola, Ginger Ale, Key Lime Twist, Cherry Vanilla Creme, Grapefruit, Kiwi Strawberry, Vanilla Cola, Mandarin Lime, Creamy Root Beer, Raspberry, Mango Orange, and Pomegranate.<sup id="cite_ref-product_13-0" class="reference"><a href="#cite_note-product-13">[13]</a></sup> All Hansen's sodas were made with <a href="/wiki/Cane_sugar" class="mw-redirect" title="Cane sugar">cane sugar</a>.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Diet_soda">Diet soda</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=7" title="Edit section: Diet soda" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Their <i><a href="/wiki/Diet_soda" class="mw-redirect" title="Diet soda">Diet Soda</a></i> is available in ten flavors: Cola, Black Cherry, Peach, Kiwi Strawberry, Vanilla Cherry Créme,Tangerine Lime, Ginger Ale, Root Beer, Grapefruit, and Pomegranate. Hansen's diet soda is sweetened with <a href="/wiki/Acesulfame_potassium" title="Acesulfame potassium">acesulfame potassium</a> and <a href="/wiki/Sucralose" title="Sucralose">sucralose</a>. All diet sodas are OU Kosher certified.<sup id="cite_ref-hansens_4-1" class="reference"><a href="#cite_note-hansens-4">[4]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (December 2016)">failed verification</span></a></i>]</sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Drink_mixers">Drink mixers</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=8" title="Edit section: Drink mixers" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Monster Beverage sells three flavors of <a href="/wiki/Drink_mixer" title="Drink mixer">soda mixer</a>: Tonic, Ginger Ale, and Club Soda.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Fruit_juices">Fruit juices</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=9" title="Edit section: Fruit juices" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The company sells thirteen fruit juices in 64-ounce <a href="/wiki/Polyethylene_terephthalate" title="Polyethylene terephthalate">PET</a> bottles, several of which are available in smaller bottles for kids. These include Apple, Grape, White Grape, Pineapple, Apple Grape, Apple Strawberry, Orange, Cranberry Apple, Ruby Red Grapefruit, Pomegranate, Organic Apple White Grape, Organic Apple Wild Berry and Organic Apple. Hansen's Natural Organic Apple Juice is made solely from concentrates the company obtains from <a href="/wiki/China" title="China">China</a>. Hansen's uses concentrates from China in other varieties of its juices, despite the availability of such juice concentrates made from fruit grown and processed in the United States, which grows an abundance of apples, as well as many of the other fruits used in Hansen's juice products. These juices contain 120% of the United States Recommended Daily Allowances (USRDA) for Vitamin C (except Pomegranate, which contains 100%).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>]</sup></p><p>In 2009, Monster Beverage introduced Hansen's Natural Lo-Cal 64-ounce juice cocktails, in four flavors. They are sweetened with <a href="/wiki/Truvia" title="Truvia">Truvia</a>.
+</p><p>Hansen's fruit juice smoothies contain approximately 25% juice and provide 100% of the recommended daily adult intake of Vitamins A, C, and E. They are packaged in 11.5-ounce aluminum cans.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Juices_for_children">Juices for children</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=10" title="Edit section: Juices for children" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Hansen's Juice Blast line of children's juice drinks was launched in conjunction with <a href="/wiki/Costco" title="Costco">Costco</a> and sold in Costco stores. Hansen also has a Juice Slam line of children's juice drinks. Both lines are sold in 6.75-ounce boxes.
+</p><p>In May 2001, Hansen's acquired the <a href="/wiki/Junior_Juice" class="mw-redirect" title="Junior Juice">Junior Juice</a> beverage business.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Hansen's Junior Juice is 100% juice, sold in 4.23-ounce cartons and targeted at toddlers and preschoolers. Certain flavors of Junior Juice have calcium added and all flavors contain 100% of the daily recommended allowance of Vitamin C. The brand was introduced in 1991 by <a href="/wiki/McCain_Foods" title="McCain Foods">McCain Foods</a>,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> and sold to the Pasco Beverage Group in 2000<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> before being sold again, to Hansen's. Hansen's replaced the original four mascots, Uncle Froggy, Emily the Mouse, Ronald Rabbit, and Nick the Fox,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> with <a href="/wiki/Clifford_the_Big_Red_Dog" title="Clifford the Big Red Dog">Clifford the Big Red Dog</a>.
+</p><p>In July 2008, Hansen's introduced Hansen's Organic <a href="/wiki/Junior_Water" class="mw-redirect" title="Junior Water">Junior Water</a>, in 4.23-ounce packages aimed at children between two and six years old. The Hansen's Organic Junior Water line of flavored water contains 100% of the daily recommended allowance of Vitamin C and thirty calories per serving. Also in 2008, organic Junior Water was introduced. Hansen's later introduced Coconut Water Twist, containing <a href="/wiki/Coconut_water" title="Coconut water">coconut water</a>,<sup id="cite_ref-hansensjunior_18-0" class="reference"><a href="#cite_note-hansensjunior-18">[18]</a></sup> and Garden Twist, a combination of fruits and vegetables, which is the only Junior Juice variant to be sold in bottles.<sup id="cite_ref-hansensjunior_18-1" class="reference"><a href="#cite_note-hansensjunior-18">[18]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Other_beverages">Other beverages</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=11" title="Edit section: Other beverages" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p><i>Smoothies</i>, <i>Rumba Energy Juice,</i> <i>Energade,</i> and <i>Energy Formula,</i> are minor products. Monster owns <a href="/wiki/Blue_Sky_Beverage_Company" title="Blue Sky Beverage Company">Blue Sky Beverage Company</a>, which manufactures several soft drinks. Monster produces the <i>Monster</i>, <i>Lost</i>, and <i>Rumba</i> <a href="/wiki/Energy_drink" title="Energy drink">energy drinks</a>, which were previously distributed in the United States by <a href="/wiki/Anheuser_Busch" class="mw-redirect" title="Anheuser Busch">Anheuser Busch</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> On November 10, 2008, distribution of the Monster Energy and Monster Java products was turned over to <a href="/wiki/Coca-Cola_Enterprises" title="Coca-Cola Enterprises">Coca-Cola Enterprises</a>.
+</p><p>In August 2009, Hansen's introduced the SELF Beauty Elixir line, a low-calorie beverage containing vitamins, minerals, natural fruit &amp; botanical extracts, antioxidants and 30% fruit juice. The beverage contains 35 calories and a low amount of sodium per 8-ounce aluminum can.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Signature_Soda">Signature Soda</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=12" title="Edit section: Signature Soda" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Hansen's <i>Signature Soda</i> line included Black Cherry, Vanilla Cream, Orange Cream, <a href="/wiki/Ginger_Beer" class="mw-redirect" title="Ginger Beer">Ginger Beer</a>, and <a href="/wiki/Sarsaparilla_(soft_drink)" title="Sarsaparilla (soft drink)">Sarsaparilla</a> flavors.<sup id="cite_ref-hansens_4-2" class="reference"><a href="#cite_note-hansens-4">[4]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Natural_and_diet_tea_sodas">Natural and diet tea sodas</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=13" title="Edit section: Natural and diet tea sodas" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Hansen's Natural and Diet Soda flavors included: Black Cherry, Tangerine, Tropical, Orange Mango, Peach Mango, Peach, Cherry, Cranberry, Clear Root Beer, Vanilla Coffee, Low Cal Wildberry, Low Cal Cola, and Low Cal Creamy Cola.
+</p><p>In 2006, Hansen's introduced a line of iced teas in 16-ounce PET bottles. Some varieties were sweetened with cane sugar and some were unsweetened. Flavors included Lemon Mint, Pomegranate, Ginger, and Tangerine. There were also three flavors of diet <a href="/wiki/Green_tea" title="Green tea">green tea</a> soda: Lemon Mint, Ginger and Tangerine. Each bottle of tea contained 75 mg of <a href="/wiki/Epigallocatechin_gallate" title="Epigallocatechin gallate">Epigallocatechin gallate</a>. Hansen's also made <a href="/wiki/Tea_bag" title="Tea bag">tea bags</a>.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=14" title="Edit section: References" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references"><li id="cite_note-17AnnualReport-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-17AnnualReport_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-17AnnualReport_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-17AnnualReport_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-17AnnualReport_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-17AnnualReport_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investors.monsterbevcorp.com/static-files/cf736c53-16ff-4e17-b12c-bada8016d506">"2017 Annual Report"</a>. <i>Investors Monster Beverage</i>. Monster Beverage Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">23 October</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Investors+Monster+Beverage&amp;rft.atitle=2017+Annual+Report&amp;rft_id=http%3A%2F%2Finvestors.monsterbevcorp.com%2Fstatic-files%2Fcf736c53-16ff-4e17-b12c-bada8016d506&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="https://dx.doi.org/10.5040/9781501303241.ch-001">"Evolution of Merchandising in the Apparel Industry and Management of Private Label Apparel in the Retail Industry"</a>, <i>Apparel Merchandising</i>, Fairchild Publications, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-5013-0324-1" title="Special:BookSources/978-1-5013-0324-1"><bdi>978-1-5013-0324-1</bdi></a><span class="reference-accessdate">, retrieved <span class="nowrap">2020-03-19</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Apparel+Merchandising&amp;rft.atitle=Evolution+of+Merchandising+in+the+Apparel+Industry+and+Management+of+Private+Label+Apparel+in+the+Retail+Industry&amp;rft.isbn=978-1-5013-0324-1&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.5040%2F9781501303241.ch-001&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">O'Farrell, Renee. <a rel="nofollow" class="external text" href="http://seekingalpha.com/article/552071-coca-cola-explores-energy-drink-bolt-on">"Coca-Cola Explores Energy Drink Bolt-On"</a>. Seeking Alpha<span class="reference-accessdate">. Retrieved <span class="nowrap">2 May</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Coca-Cola+Explores+Energy+Drink+Bolt-On&amp;rft.pub=Seeking+Alpha&amp;rft.aulast=O%27Farrell&amp;rft.aufirst=Renee&amp;rft_id=http%3A%2F%2Fseekingalpha.com%2Farticle%2F552071-coca-cola-explores-energy-drink-bolt-on&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-hansens-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-hansens_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hansens_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hansens_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hansens.com/">"Hansen's Natural Sodas"</a>. <i>www.hansens.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.hansens.com&amp;rft.atitle=Hansen%27s+Natural+Sodas&amp;rft_id=http%3A%2F%2Fwww.hansens.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-story-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-story_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hansens.com/about_hansens/our_story.php">"Hansen's Natural Sodas"</a>. <i>www.hansens.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.hansens.com&amp;rft.atitle=Hansen%27s+Natural+Sodas&amp;rft_id=http%3A%2F%2Fwww.hansens.com%2Fabout_hansens%2Four_story.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Shares-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Shares_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://files.shareholder.com/downloads/HANS/1957154430x0x532109/ff719ad1-e705-4d72-8e2d-77a18209d622/HANS_News_2012_1_5_General_Releases.pdf">"New Stock Ticker Press release"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+Stock+Ticker+Press+release&amp;rft_id=http%3A%2F%2Ffiles.shareholder.com%2Fdownloads%2FHANS%2F1957154430x0x532109%2Fff719ad1-e705-4d72-8e2d-77a18209d622%2FHANS_News_2012_1_5_General_Releases.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Mueller, Sue. <a rel="nofollow" class="external text" href="http://foodconsumer.org/7777/8888/L_aws_amp_P_olitics_42/042207442008_FDA_High_fructose_corn_syrup_not_natural.shtml">FDA: High fructose corn syrup not natural</a>, April 22, 2008</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.marketwire.com/mw/release.do?id=840536">"Natural Soda"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Natural+Soda&amp;rft_id=http%3A%2F%2Fwww.marketwire.com%2Fmw%2Frelease.do%3Fid%3D840536&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wcax.com/global/story.asp?s=11291060">"Monster Problem for Rock Art - WCAX.COM Local Vermont News, Weather and Sports"</a>. Wcax.com. 2009-10-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Monster+Problem+for+Rock+Art+-+WCAX.COM+Local+Vermont+News%2C+Weather+and+Sports&amp;rft.pub=Wcax.com&amp;rft.date=2009-10-09&amp;rft_id=http%3A%2F%2Fwww.wcax.com%2Fglobal%2Fstory.asp%3Fs%3D11291060&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.coca-colacompany.com/stories/coke-takes-ownership-of-monsters-non-energy-business/">"Coke Takes Ownership of Monster's Non-Energy Business"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Coke+Takes+Ownership+of+Monster%E2%80%99s+Non-Energy+Business&amp;rft_id=http%3A%2F%2Fwww.coca-colacompany.com%2Fstories%2Fcoke-takes-ownership-of-monsters-non-energy-business%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.espn.com/racing/nascar/story/_/id/18181321/monster-energy-replace-sprint-title-sponsor-nascar-premier-series">"Monster Energy backing NASCAR's top series"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Monster+Energy+backing+NASCAR%27s+top+series&amp;rft_id=http%3A%2F%2Fwww.espn.com%2Fracing%2Fnascar%2Fstory%2F_%2Fid%2F18181321%2Fmonster-energy-replace-sprint-title-sponsor-nascar-premier-series&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.macrotrends.net/stocks/charts/MNST/monster-beverage/revenue">"Monster Beverage Revenue 2006-2018 | MNST"</a>. <i>www.macrotrends.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.macrotrends.net&amp;rft.atitle=Monster+Beverage+Revenue+2006-2018+%7C+MNST&amp;rft_id=https%3A%2F%2Fwww.macrotrends.net%2Fstocks%2Fcharts%2FMNST%2Fmonster-beverage%2Frevenue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-product-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-product_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hansens.com/products/products.php?subcat=1&amp;color=soda">"Hansen's Natural Sodas"</a>. <i>www.hansens.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.hansens.com&amp;rft.atitle=Hansen%27s+Natural+Sodas&amp;rft_id=http%3A%2F%2Fwww.hansens.com%2Fproducts%2Fproducts.php%3Fsubcat%3D1%26color%3Dsoda&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nutraceuticalsworld.com/issues/2001-07/view_industry-news/hansen-buys-junior-juice/">"Hansen Buys Junior Juice"</a> Nutraceuticals World, July 1, 2001</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">"McCain Citrus: the little juice company grows up" Business Library, April–May 1992</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">"Pasco adds McCain Citrus, sells 'Old South' brand" Business Library, May 8, 2000</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=QuBmvM-f_TU">"YouTube"</a>. <i>www.youtube.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.youtube.com&amp;rft.atitle=YouTube&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQuBmvM-f_TU&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-hansensjunior-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-hansensjunior_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hansensjunior_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hansens.com/us/en/products/juice/junior-juice/">"Hansen's Natural Sodas"</a>. <i>www.hansens.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.hansens.com&amp;rft.atitle=Hansen%27s+Natural+Sodas&amp;rft_id=http%3A%2F%2Fwww.hansens.com%2Fus%2Fen%2Fproducts%2Fjuice%2Fjunior-juice%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hansens.com/news_and_events/current_news.php?id=39">"Hansen's Natural Sodas"</a>. <i>www.hansens.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.hansens.com&amp;rft.atitle=Hansen%27s+Natural+Sodas&amp;rft_id=http%3A%2F%2Fwww.hansens.com%2Fnews_and_events%2Fcurrent_news.php%3Fid%3D39&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonster+Beverage" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Monster_Beverage&amp;action=edit&amp;section=15" title="Edit section: External links" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-7 collapsible-block" id="mf-section-7">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.monsterbevcorp.com/">Official website</a></span></span></li>
+<li>Business data for Monster Beverage: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=MNST">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=MNST">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=MNST">SEC filings</a></li></ul></div></li></ul><style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul><li><span><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" decoding="async" width="28" height="28" class="noviewer" data-file-width="512" data-file-height="512"></noscript><span class="lazy-image-placeholder" style="width: 28px;height: 28px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" data-alt="" data-width="28" data-height="28" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-class="noviewer"> </span></span><span><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li></ul></div>
+
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Monster_Beverage&amp;oldid=947609276">https://en.wikipedia.org/w/index.php?title=Monster_Beverage&amp;oldid=947609276</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Monster_Beverage"
+				data-user-name="Paulinho28"
+				data-user-gender="male"
+				data-timestamp="1585307296">
+				<span>Last edited on 27 March 2020, at 11:08</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Monster_Beverage&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.472","walltime":"0.670","ppvisitednodes":{"value":2324,"limit":1000000},"postexpandincludesize":{"value":93295,"limit":2097152},"templateargumentsize":{"value":4941,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":47665,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  573.916      1 -total"," 31.18%  178.936      1 Template:Infobox_company"," 28.26%  162.210      1 Template:Infobox"," 26.97%  154.770      1 Template:Reflist"," 22.40%  128.583     14 Template:Cite_web"," 13.18%   75.655      1 Template:Br_separated_entries"," 11.28%   64.727      6 Template:Wikidata"," 10.51%   60.318      1 Template:Short_description","  8.75%   50.200      2 Template:Fix","  8.12%   46.606      1 Template:Failed_verification"]},"scribunto":{"limitreport-timeusage":{"value":"0.235","limit":"10.000"},"limitreport-memusage":{"value":7468356,"limit":52428800}},"cachereport":{"origin":"mw1351","timestamp":"20200416051001","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Monster Beverage","url":"https:\/\/en.wikipedia.org\/wiki\/Monster_Beverage","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1945295","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1945295","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-08-01T15:39:47Z","dateModified":"2020-03-27T11:08:16Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f7\/Monster_Logo.png","headline":"American beverage company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":137,"wgHostname":"mw1373"});});</script>		</body>
+		</html>
+		

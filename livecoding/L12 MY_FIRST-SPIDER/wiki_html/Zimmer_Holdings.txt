@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Zimmer Biomet - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoNugpAEKIAATCcjecAAABN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Zimmer_Biomet","wgTitle":"Zimmer Biomet","wgCurRevisionId":932510768,"wgRevisionId":932510768,"wgArticleId":3725607,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Zimmer_Biomet","wgRelevantArticleId":3725607,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Zimmer_Holdings","wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Zimmer_Biomet","wgWikibaseItemId":"Q203552","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,
+"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Zimmer_Biomet&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Zimmer_Biomet&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Zimmer_Biomet"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Zimmer_Biomet rootpage-Zimmer_Biomet stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Zimmer+Biomet" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Zimmer+Biomet" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Zimmer Biomet</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Zimmer_Biomet" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Zimmer+Biomet" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Zimmer_Biomet&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Zimmer_Holdings&amp;redirect=no" class="mw-redirect" title="Zimmer Holdings">Zimmer Holdings</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><p><b>Zimmer Biomet</b> is a publicly traded <a href="/wiki/Medical_device" title="Medical device">medical device</a> company. It was founded in 1927 to produce aluminum splints. The firm is headquartered in <a href="/wiki/Warsaw,_Indiana" title="Warsaw, Indiana">Warsaw, Indiana</a>, where it is part of the medical devices <a href="/wiki/Business_cluster" title="Business cluster">business cluster</a>.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Zimmer Biomet Holdings, Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Zimmer_Biomet_logo.svg" class="image"><img alt="Zimmer Biomet logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/93/Zimmer_Biomet_logo.svg/220px-Zimmer_Biomet_logo.svg.png" decoding="async" width="220" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/93/Zimmer_Biomet_logo.svg/330px-Zimmer_Biomet_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/93/Zimmer_Biomet_logo.svg/440px-Zimmer_Biomet_logo.svg.png 2x" data-file-width="187" data-file-height="34"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:ZBH">ZBH</a></li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US98956P1021">US98956P1021 </a><a href="https://www.wikidata.org/wiki/Q203552?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Biomedical_engineering" title="Biomedical engineering">biomedical engineering</a> <a href="https://www.wikidata.org/wiki/Q203552?uselang=en#P452" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1927</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;">Justin O. Zimmer</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Warsaw,_Indiana" title="Warsaw, Indiana">Warsaw</a>, <a href="/wiki/Indiana" title="Indiana">Indiana</a>, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Bryan C. Hanson (CEO)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><a href="/wiki/United_States_dollar" title="United States dollar">US$</a> 7.824 billion (2017)<sup id="cite_ref-zimmerbiomet.com1_1-0" class="reference"><a href="#cite_note-zimmerbiomet.com1-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">18,200 (2017)<sup id="cite_ref-zimmerbiomet.com1_1-1" class="reference"><a href="#cite_note-zimmerbiomet.com1-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://zimmerbiomet.com">zimmerbiomet<wbr></wbr>.com</a></span></td></tr></tbody></table><p>In 2001 Zimmer was spun off from Bristol-Myers Squibb and began trading on the New York Stock Exchange, on August 7, under the ticker symbol “ZMH”.<sup id="cite_ref-Zimmer-Biomet-Inc-Jul-2001-10-12B/A_2-0" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Jul-2001-10-12B/A-2">[2]</a></sup> In November 2011, the company acquired ExtraOrtho, Inc. (ExtraOrtho). In January 2012, the company acquired Reno, Nevada-based Synvasive Technology, Inc.<sup id="cite_ref-Zimmer-Biomet-Inc-Feb-2013-10-K_3-0" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Feb-2013-10-K-3">[3]</a></sup> On June 29, 2015, the company changed the ticker symbol to "ZBH" to reflect its acquisition of Biomet.<sup id="cite_ref-Zimmer-Biomet-Inc-Jun-2015-8-K_4-0" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Jun-2015-8-K-4">[4]</a></sup></p><p>On January 12, 2017, Zimmer Biomet announced a resolution with the <a href="/wiki/United_States_Department_of_Justice" title="United States Department of Justice">DOJ</a> and the <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">SEC</a> in which it agreed to pay a fine of approximately $30.5 million, an amount which would not affect its 2017 outlook.<sup id="cite_ref-Zimmer-Biomet-Inc-Jan-2017-8-K_5-0" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Jan-2017-8-K-5">[5]</a></sup></p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Products"><span class="tocnumber">1</span> <span class="toctext">Products</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul><li class="toclevel-2 tocsection-3"><a href="#Acquisition_history"><span class="tocnumber">2.1</span> <span class="toctext">Acquisition history</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-4"><a href="#Company_data"><span class="tocnumber">3</span> <span class="toctext">Company data</span></a>
+<ul><li class="toclevel-2 tocsection-5"><a href="#Leadership"><span class="tocnumber">3.1</span> <span class="toctext">Leadership</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Recognition"><span class="tocnumber">3.2</span> <span class="toctext">Recognition</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><a href="/w/index.php?title=Zimmer_Biomet&amp;action=edit&amp;section=1" title="Edit section: Products" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>Zimmer designs, develops, manufactures and markets <a href="/wiki/Orthopaedics" class="mw-redirect" title="Orthopaedics">orthopaedics</a> products, including knee, hip, shoulder, elbow, foot and ankle artificial joints and dental prostheses. Zimmer has operations in more than 40 countries around the world (US, Australia, Austria, Belgium, Canada, China, Czech Republic, Finland, France, Germany, India, Ireland, Israel, Italy, Japan, Latin America, Netherlands, Brasil, Poland, Portugal, Russia, South Africa, Spain etc.) and sells products in more than 100 countries.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Zimmer_Biomet&amp;action=edit&amp;section=2" title="Edit section: History" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Zimmer_Biometric.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Zimmer_Biometric.jpg/250px-Zimmer_Biometric.jpg" decoding="async" width="250" height="188" class="thumbimage" data-file-width="3264" data-file-height="2448"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 188px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Zimmer_Biometric.jpg/250px-Zimmer_Biometric.jpg" data-alt="" data-width="250" data-height="188" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Zimmer_Biometric.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Exton,_Pennsylvania" title="Exton, Pennsylvania">Exton, Pennsylvania</a> office</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Zimmer_Biomet_in_Winterthur.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Zimmer_Biomet_in_Winterthur.jpg/250px-Zimmer_Biomet_in_Winterthur.jpg" decoding="async" width="250" height="141" class="thumbimage" data-file-width="3840" data-file-height="2160"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 141px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Zimmer_Biomet_in_Winterthur.jpg/250px-Zimmer_Biomet_in_Winterthur.jpg" data-alt="" data-width="250" data-height="141" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Zimmer_Biomet_in_Winterthur.jpg" class="internal" title="Enlarge"></a></div>EMEA-Office in <a href="/wiki/Winterthur" title="Winterthur">Winterthur</a>, Switzerland</div></div></div>
+<p>On April 24, 2014, it was announced that Zimmer had agreed to purchase <a href="/wiki/Biomet_Inc." class="mw-redirect" title="Biomet Inc.">Biomet Inc.</a> for $13.4 billion.<sup id="cite_ref-Zimmer-Biomet-Inc-Apr-2014-8-K_7-0" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Apr-2014-8-K-7">[7]</a></sup> In October 2014 however, it was announced that the EU’s antitrust regulators had opened an extensive investigation into Zimmer’s bid for Biomet due to concern that it would substantially lessen competition in certain markets.<sup id="cite_ref-Zimmer-Biomet-Inc-Oct-2014-8-K_8-0" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Oct-2014-8-K-8">[8]</a></sup> In March 2016, European Commission (“EC”) conditionally cleared Zimmer’s proposed acquisition of Biomet, Inc.<sup id="cite_ref-Zimmer-Biomet-Inc-Mar-2015-425_9-0" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Mar-2015-425-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>and on June 24, 2015, Zimmer completed its acquisition of Biomet forming Zimmer Biomet Holdings.<sup id="cite_ref-Zimmer-Biomet-Inc-Jun-2015-8-K_4-1" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Jun-2015-8-K-4">[4]</a></sup></p><p>In October 2014, the company announced it would acquire <a href="/w/index.php?title=ETEX_Holdings,_Inc.&amp;action=edit&amp;redlink=1" class="new" title="ETEX Holdings, Inc. (page does not exist)">ETEX Holdings, Inc.</a>.<sup id="cite_ref-Zimmer-Biomet-Inc-Feb-2015-10-K_11-0" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Feb-2015-10-K-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p><p>In March 2016, Zimmer Biomet announced it would acquire <a href="/w/index.php?title=Ortho_Transmission,_LLC&amp;action=edit&amp;redlink=1" class="new" title="Ortho Transmission, LLC (page does not exist)">Ortho Transmission, LLC</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> The company also announced it would acquire sports medicine company, <a href="/w/index.php?title=Cayenne_Medical,_Inc.&amp;action=edit&amp;redlink=1" class="new" title="Cayenne Medical, Inc. (page does not exist)">Cayenne Medical, Inc.</a><sup id="cite_ref-Zimmer-Biomet-Inc-Apr-2016-8-K_14-0" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Apr-2016-8-K-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Later in the same year the company acquired medical device manufacturer, <a href="/w/index.php?title=LDR_Holding_Corporation&amp;action=edit&amp;redlink=1" class="new" title="LDR Holding Corporation (page does not exist)">LDR Holding Corporation</a> for $37 per share ($1 billion in total),<sup id="cite_ref-Zimmer-Biomet-Inc-Jun-2016-8-K_16-0" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Jun-2016-8-K-16">[16]</a></sup> merging it into their Spine division.<sup id="cite_ref-Zimmer-Biomet-Inc-Jul-2016-8-K_17-0" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Jul-2016-8-K-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> In July the company acquired French surgical robotics company Medtech. <sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> In August, the company announced it was acquiring Delaware-based <a href="/w/index.php?title=CD_Diagnostics&amp;action=edit&amp;redlink=1" class="new" title="CD Diagnostics (page does not exist)">CD Diagnostics</a>,<sup id="cite_ref-Zimmer-Biomet-Inc-Aug-2016-8-K_20-0" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Aug-2016-8-K-20">[20]</a></sup> a diagnostics company developing immunoassays and biomarker testing.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> In September, Zimmer announced the acquisition of <a href="/w/index.php?title=Clinical_Graphics,_B.V.&amp;action=edit&amp;redlink=1" class="new" title="Clinical Graphics, B.V. (page does not exist)">Clinical Graphics, B.V.</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>. 
+</p><p>The <a href="/wiki/Justin_Zimmer_House" title="Justin Zimmer House">Justin Zimmer House</a> in Warsaw is listed on the <a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">National Register of Historic Places</a>.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Acquisition_history">Acquisition history</span><span class="mw-editsection"><a href="/w/index.php?title=Zimmer_Biomet&amp;action=edit&amp;section=3" title="Edit section: Acquisition history" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The following is an illustration of the company's major mergers, acquisitions and historical predecessors:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r935768785">.mw-parser-output table.clade{border-spacing:0;margin:0;font-size:100%;line-height:100%;border-collapse:separate;width:auto}.mw-parser-output table.clade table.clade{width:100%}.mw-parser-output table.clade td.clade-label{width:0.7em;padding:0 0.15em;vertical-align:bottom;text-align:center;border-left:1px solid;border-bottom:1px solid;white-space:nowrap}.mw-parser-output table.clade td.clade-fixed-width{overflow:hidden;text-overflow:ellipsis}.mw-parser-output table.clade td.clade-fixed-width:hover{overflow:visible}.mw-parser-output table.clade td.clade-label.first{border-left:none;border-right:none}.mw-parser-output table.clade td.clade-label.reverse{border-left:none;border-right:1px solid}.mw-parser-output table.clade td.clade-slabel{padding:0 0.15em;vertical-align:top;text-align:center;border-left:1px solid;white-space:nowrap}.mw-parser-output table.clade td.clade-slabel:hover{overflow:visible}.mw-parser-output table.clade td.clade-slabel.last{border-left:none;border-right:none}.mw-parser-output table.clade td.clade-slabel.reverse{border-left:none;border-right:1px solid}.mw-parser-output table.clade td.clade-bar{vertical-align:middle;text-align:left;padding:0 0.5em;position:relative}.mw-parser-output table.clade td.clade-bar.reverse{text-align:right;position:relative}.mw-parser-output table.clade td.clade-leaf{border:0;padding:0;text-align:left}.mw-parser-output table.clade td.clade-leafR{border:0;padding:0;text-align:right}.mw-parser-output table.clade td.clade-leaf.reverse{text-align:right}.mw-parser-output table.clade:hover span.linkA{background-color:yellow}.mw-parser-output table.clade:hover span.linkB{background-color:green}</style><table class="clade" style="font-size:90%;line-height:110%"><tbody><tr><td class="clade-label first" style="border-left:none;border-right:none;border-bottom:0px solid;"><b>Zimmer Biomet</b>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first">Zimmer, Inc
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Zimmer
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Centerpulse AG<sup id="cite_ref-zimmerbiomet.com_23-0" class="reference"><a href="#cite_note-zimmerbiomet.com-23">[23]</a></sup><br><small>(Acq 2003)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>InCentive Capital AG<sup id="cite_ref-zimmerbiomet.com_23-1" class="reference"><a href="#cite_note-zimmerbiomet.com-23">[23]</a></sup><br><small>(Acq 2003)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>ORTHOsoft Inc<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><br><small>(Acq 2007)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Medizin-Technik GmbH<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup><br><small>(Acq 2013)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Knee Creations, LLC<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><br><small>(Acq 2013)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>ETEX Holdings, Inc<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><br><small>(Acq 2014)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label">Biomet, Inc<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Merck_KGaA" class="mw-redirect" title="Merck KGaA">Merck KGaA</a><sup id="cite_ref-biomet.co.uk_28-0" class="reference"><a href="#cite_note-biomet.co.uk-28">[28]</a></sup><br><small>(Merck’s interest in Biomet Merck Joint Venture, Acq 2004<br>renamed Biomet Europe Group)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Innovations, Inc<sup id="cite_ref-biomet.co.uk_28-1" class="reference"><a href="#cite_note-biomet.co.uk-28">[28]</a></sup><br><small>(Acq 1999)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Kirschner Medical Corporation<sup id="cite_ref-biomet.co.uk_28-2" class="reference"><a href="#cite_note-biomet.co.uk-28">[28]</a></sup><br><small>(Acq 1994)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>W. Lorenz Surgical, Inc<sup id="cite_ref-biomet.co.uk_28-3" class="reference"><a href="#cite_note-biomet.co.uk-28">[28]</a></sup><br><small>(1992)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Arrow Surgical Technologies<sup id="cite_ref-biomet.co.uk_28-4" class="reference"><a href="#cite_note-biomet.co.uk-28">[28]</a></sup><small><br>(Acq 1990, renamed Biomet Sports Medicine)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Electro-Biology, Inc<sup id="cite_ref-biomet.co.uk_28-5" class="reference"><a href="#cite_note-biomet.co.uk-28">[28]</a></sup><br><small>(Acq 1988)</small>
+</p>
+</td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Orthopaedic Equipment Company<sup id="cite_ref-biomet.co.uk_28-6" class="reference"><a href="#cite_note-biomet.co.uk-28">[28]</a></sup><br><small>(Acq 1984)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Ortho Transmission, LLC<br><small>(Acq 2016)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Cayenne Medical, Inc.<br><small>(Acq 2016)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>LDR Holding Corporation<br><small>(Acq 2016)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>CD Diagnostics<br><small>(Acq 2016)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Clinical Graphics, B.V.<br><small>(Acq 2016)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last" style="border-right:none;border-left:none;"> 
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Company_data">Company data</span><span class="mw-editsection"><a href="/w/index.php?title=Zimmer_Biomet&amp;action=edit&amp;section=4" title="Edit section: Company data" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>Zimmer's 2017 sales were approximately $7.824 billion. The company is supported by the efforts of approximately 18,200 employees worldwide.<sup id="cite_ref-zimmerbiomet.com1_1-2" class="reference"><a href="#cite_note-zimmerbiomet.com1-1">[1]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Leadership">Leadership</span><span class="mw-editsection"><a href="/w/index.php?title=Zimmer_Biomet&amp;action=edit&amp;section=5" title="Edit section: Leadership" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<ul><li>David C. Dvorak, was President and CEO<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> from May 1, 2007 to July 11, 2017.<sup id="cite_ref-Zimmer-Biomet-Inc-Jul-2017-8-K_31-0" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Jul-2017-8-K-31">[31]</a></sup></li>
+<li>Dan Florin, Interim President and CEO from July 11, 2017 to December 19, 2017.<sup id="cite_ref-Zimmer-Biomet-Inc-Dec-2017-8-K_32-0" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Dec-2017-8-K-32">[32]</a></sup></li>
+<li>Bryan C. Hanson, President and CEO from December 19, 2017<sup id="cite_ref-Zimmer-Biomet-Inc-Dec-2017-8-K_32-1" class="reference"><a href="#cite_note-Zimmer-Biomet-Inc-Dec-2017-8-K-32">[32]</a></sup> to present.</li></ul><h3 class="in-block"><span class="mw-headline" id="Recognition">Recognition</span><span class="mw-editsection"><a href="/w/index.php?title=Zimmer_Biomet&amp;action=edit&amp;section=6" title="Edit section: Recognition" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>In 2016, the company was recognized on the <a href="/wiki/Fortune_500" title="Fortune 500">Fortune 500</a> list for the first time, ranking in position #431.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> Since then, it has been on the list for three straight years.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> As of 2018, the company is ranked 361st on the list.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Zimmer_Biomet&amp;action=edit&amp;section=7" title="Edit section: References" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-zimmerbiomet.com1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-zimmerbiomet.com1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-zimmerbiomet.com1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-zimmerbiomet.com1_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://investor.zimmerbiomet.com/~/media/Files/Z/ZimmerBiomet-IR/documents/annual-reports/2017-annual-report.pdf">http://investor.zimmerbiomet.com/~/media/Files/Z/ZimmerBiomet-IR/documents/annual-reports/2017-annual-report.pdf</a></span>
+</li>
+<li id="cite_note-Zimmer-Biomet-Inc-Jul-2001-10-12B/A-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zimmer-Biomet-Inc-Jul-2001-10-12B/A_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/1776/91205701522923/filing-main.htm">"Zimmer Biomet Inc, Form 10-12B/A, Filing Date Jul 6, 2001"</a>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">Apr 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Inc%2C+Form+10-12B%2FA%2C+Filing+Date+Jul+6%2C+2001&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F1776%2F91205701522923%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Zimmer-Biomet-Inc-Feb-2013-10-K-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zimmer-Biomet-Inc-Feb-2013-10-K_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://pdf.secdatabase.com/1973/0001193125-13-079914.pdf">"Zimmer Biomet Inc, Form 10-K, Annual Report, Filing Date Feb 27, 2013"</a> <span class="cs1-format">(PDF)</span>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">Apr 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Inc%2C+Form+10-K%2C+Annual+Report%2C+Filing+Date+Feb+27%2C+2013&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fpdf.secdatabase.com%2F1973%2F0001193125-13-079914.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Zimmer-Biomet-Inc-Jun-2015-8-K-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Zimmer-Biomet-Inc-Jun-2015-8-K_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Zimmer-Biomet-Inc-Jun-2015-8-K_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/55/119312515237276/filing-main.htm">"Zimmer Biomet Inc, Form 8-K, Current Report, Filing Date Jun 26, 2015"</a>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">Apr 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Inc%2C+Form+8-K%2C+Current+Report%2C+Filing+Date+Jun+26%2C+2015&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F55%2F119312515237276%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Zimmer-Biomet-Inc-Jan-2017-8-K-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zimmer-Biomet-Inc-Jan-2017-8-K_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/2072/119312517011702/filing-main.htm">"Zimmer Biomet Inc, Form 8-K, Current Report, Filing Date Jan 18, 2017"</a>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">Apr 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Inc%2C+Form+8-K%2C+Current+Report%2C+Filing+Date+Jan+18%2C+2017&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F2072%2F119312517011702%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="/wiki/Simon,_Hermann" class="mw-redirect" title="Simon, Hermann">Simon, Hermann</a>, <i><a href="/wiki/Hidden_Champions" class="mw-redirect" title="Hidden Champions">Hidden Champions</a> of the 21st Century: Success Strategies of unknown World Market Leaders</i>, London: Springer, 2009, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-387-98147-5" title="Special:BookSources/978-0-387-98147-5">978-0-387-98147-5</a></span>
+</li>
+<li id="cite_note-Zimmer-Biomet-Inc-Apr-2014-8-K-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zimmer-Biomet-Inc-Apr-2014-8-K_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://pdf.secdatabase.com/1228/0001193125-14-155810.pdf">"Zimmer Biomet Inc, Form 8-K, Current Report, Filing Date Apr 24, 2014"</a> <span class="cs1-format">(PDF)</span>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">Apr 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Inc%2C+Form+8-K%2C+Current+Report%2C+Filing+Date+Apr+24%2C+2014&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fpdf.secdatabase.com%2F1228%2F0001193125-14-155810.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Zimmer-Biomet-Inc-Oct-2014-8-K-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zimmer-Biomet-Inc-Oct-2014-8-K_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/492/119312514362005/filing-main.htm">"Zimmer Biomet Inc, Form 8-K, Current Report, Filing Date Oct 2, 2014"</a>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">Apr 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Inc%2C+Form+8-K%2C+Current+Report%2C+Filing+Date+Oct+2%2C+2014&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F492%2F119312514362005%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Zimmer-Biomet-Inc-Mar-2015-425-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zimmer-Biomet-Inc-Mar-2015-425_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://pdf.secdatabase.com/2159/0001193125-15-110423.pdf">"Zimmer Biomet Inc, Form 425, Filing Date Mar 30, 2015"</a> <span class="cs1-format">(PDF)</span>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">Apr 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Inc%2C+Form+425%2C+Filing+Date+Mar+30%2C+2015&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fpdf.secdatabase.com%2F2159%2F0001193125-15-110423.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/2014/10/03/us-biomet-m-a-zimmer-hldgs-eu-idUSKCN0HS19I20141003">"EU regulators open extensive probe into Zimmer, Biomet deal"</a> (Press release). Reuters. 3 October 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=EU+regulators+open+extensive+probe+into+Zimmer%2C+Biomet+deal&amp;rft.pub=Reuters&amp;rft.date=2014-10-03&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2F2014%2F10%2F03%2Fus-biomet-m-a-zimmer-hldgs-eu-idUSKCN0HS19I20141003&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Zimmer-Biomet-Inc-Feb-2015-10-K-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zimmer-Biomet-Inc-Feb-2015-10-K_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://pdf.secdatabase.com/1080/0001193125-15-058361.pdf">"Zimmer Biomet Inc, Form 10-K, Annual Report, Filing Date Feb 23, 2015"</a> <span class="cs1-format">(PDF)</span>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">Apr 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Inc%2C+Form+10-K%2C+Annual+Report%2C+Filing+Date+Feb+23%2C+2015&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fpdf.secdatabase.com%2F1080%2F0001193125-15-058361.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.zimmerbiomet.com/news-and-events/news/2014/01-10-2014-192141578">"Zimmer Acquires ETEX Holdings, Inc"</a>. <i>investor.zimmerbiomet.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=investor.zimmerbiomet.com&amp;rft.atitle=Zimmer+Acquires+ETEX+Holdings%2C+Inc.&amp;rft_id=http%3A%2F%2Finvestor.zimmerbiomet.com%2Fnews-and-events%2Fnews%2F2014%2F01-10-2014-192141578&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.zimmerbiomet.com/news-and-events/news/2016/01-03-2016-191753582">"Zimmer Biomet Acquires Ortho Transmission, LLC and Assets for Pioneering Technology to Restore Limb Amputee Patients"</a>. <i>investor.zimmerbiomet.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=investor.zimmerbiomet.com&amp;rft.atitle=Zimmer+Biomet+Acquires+Ortho+Transmission%2C+LLC+and+Assets+for+Pioneering+Technology+to+Restore+Limb+Amputee+Patients&amp;rft_id=http%3A%2F%2Finvestor.zimmerbiomet.com%2Fnews-and-events%2Fnews%2F2016%2F01-03-2016-191753582&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Zimmer-Biomet-Inc-Apr-2016-8-K-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zimmer-Biomet-Inc-Apr-2016-8-K_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/2332/119312516553115/filing-main.htm">"Zimmer Biomet Inc, Form 8-K, Current Report, Filing Date Apr 25, 2016"</a>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">Apr 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Inc%2C+Form+8-K%2C+Current+Report%2C+Filing+Date+Apr+25%2C+2016&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F2332%2F119312516553115%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.zimmerbiomet.com/news-and-events/news/2016/16-05-2016-191728106">"Zimmer Biomet Completes Acquisition of Cayenne Medical"</a>. <i>investor.zimmerbiomet.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=investor.zimmerbiomet.com&amp;rft.atitle=Zimmer+Biomet+Completes+Acquisition+of+Cayenne+Medical&amp;rft_id=http%3A%2F%2Finvestor.zimmerbiomet.com%2Fnews-and-events%2Fnews%2F2016%2F16-05-2016-191728106&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Zimmer-Biomet-Inc-Jun-2016-8-K-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zimmer-Biomet-Inc-Jun-2016-8-K_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://pdf.secdatabase.com/898/0001193125-16-614660.pdf">"Zimmer Biomet Inc, Form 8-K, Current Report, Filing Date Jun 7, 2016"</a> <span class="cs1-format">(PDF)</span>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">Apr 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Inc%2C+Form+8-K%2C+Current+Report%2C+Filing+Date+Jun+7%2C+2016&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fpdf.secdatabase.com%2F898%2F0001193125-16-614660.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Zimmer-Biomet-Inc-Jul-2016-8-K-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zimmer-Biomet-Inc-Jul-2016-8-K_17-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/184/119312516646935/filing-main.htm">"Zimmer Biomet Inc, Form 8-K, Current Report, Filing Date Jul 13, 2016"</a>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">Apr 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Inc%2C+Form+8-K%2C+Current+Report%2C+Filing+Date+Jul+13%2C+2016&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F184%2F119312516646935%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.zimmerbiomet.com/news-and-events/news/2016/07-06-2016-191722319">"Zimmer Biomet To Acquire LDR To Enhance Innovation And Growth Of Spine Business"</a>. <i>investor.zimmerbiomet.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=investor.zimmerbiomet.com&amp;rft.atitle=Zimmer+Biomet+To+Acquire+LDR+To+Enhance+Innovation+And+Growth+Of+Spine+Business&amp;rft_id=http%3A%2F%2Finvestor.zimmerbiomet.com%2Fnews-and-events%2Fnews%2F2016%2F07-06-2016-191722319&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/1136869/000119312516649891/d223411dex991.htm">"EX-99.1"</a>. <i>www.sec.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.sec.gov&amp;rft.atitle=EX-99.1&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F1136869%2F000119312516649891%2Fd223411dex991.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Zimmer-Biomet-Inc-Aug-2016-8-K-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zimmer-Biomet-Inc-Aug-2016-8-K_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://pdf.secdatabase.com/1634/0001193125-16-681374.pdf">"Zimmer Biomet Inc, Form 8-K, Current Report, Filing Date Aug 15, 2016"</a> <span class="cs1-format">(PDF)</span>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">Apr 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Inc%2C+Form+8-K%2C+Current+Report%2C+Filing+Date+Aug+15%2C+2016&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fpdf.secdatabase.com%2F1634%2F0001193125-16-681374.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.zimmerbiomet.com/news-and-events/news/2016/15-08-2016-191641805">"Zimmer Biomet Strengthens Musculoskeletal Diagnostic Offering with Acquisition of CD Diagnostics"</a>. <i>investor.zimmerbiomet.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=investor.zimmerbiomet.com&amp;rft.atitle=Zimmer+Biomet+Strengthens+Musculoskeletal+Diagnostic+Offering+with+Acquisition+of+CD+Diagnostics&amp;rft_id=http%3A%2F%2Finvestor.zimmerbiomet.com%2Fnews-and-events%2Fnews%2F2016%2F15-08-2016-191641805&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.zimmerbiomet.com/news-and-events/news/2016/15-09-2016-191625846">"Zimmer Biomet Adds 3D Range-of-Motion Simulation Capability with Strategic Acquisition of Clinical Graphics"</a>. <i>investor.zimmerbiomet.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=investor.zimmerbiomet.com&amp;rft.atitle=Zimmer+Biomet+Adds+3D+Range-of-Motion+Simulation+Capability+with+Strategic+Acquisition+of+Clinical+Graphics&amp;rft_id=http%3A%2F%2Finvestor.zimmerbiomet.com%2Fnews-and-events%2Fnews%2F2016%2F15-09-2016-191625846&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-zimmerbiomet.com-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-zimmerbiomet.com_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-zimmerbiomet.com_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.zimmerbiomet.com/releasedetail.cfm?ReleaseID=111945">"Zimmer Biomet -- Zimmer Launches Offers to Acquire Centerpulse AG and InCentive Capital AG"</a>. <i>zimmerbiomet.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=zimmerbiomet.com&amp;rft.atitle=Zimmer+Biomet+--+Zimmer+Launches+Offers+to+Acquire+Centerpulse+AG+and+InCentive+Capital+AG&amp;rft_id=http%3A%2F%2Finvestor.zimmerbiomet.com%2Freleasedetail.cfm%3FReleaseID%3D111945&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.zimmerbiomet.com/releasedetail.cfm?releaseid=269235">"Zimmer Biomet -- Zimmer's Offer To Acquire ORTHOsoft Is Successful"</a>. <i>zimmerbiomet.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=zimmerbiomet.com&amp;rft.atitle=Zimmer+Biomet+--+Zimmer%27s+Offer+To+Acquire+ORTHOsoft+Is+Successful&amp;rft_id=http%3A%2F%2Finvestor.zimmerbiomet.com%2Freleasedetail.cfm%3Freleaseid%3D269235&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.zimmerbiomet.com/releasedetail.cfm?releaseid=768910">"Zimmer Biomet -- Zimmer Acquires NORMED Medizin-Technik GmbH"</a>. <i>zimmerbiomet.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=zimmerbiomet.com&amp;rft.atitle=Zimmer+Biomet+--+Zimmer+Acquires+NORMED+Medizin-Technik+GmbH&amp;rft_id=http%3A%2F%2Finvestor.zimmerbiomet.com%2Freleasedetail.cfm%3Freleaseid%3D768910&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.zimmerbiomet.com/releasedetail.cfm?releaseid=761649">"Zimmer Biomet -- Zimmer Acquires Knee Creations, LLC's Business"</a>. <i>zimmerbiomet.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=zimmerbiomet.com&amp;rft.atitle=Zimmer+Biomet+--+Zimmer+Acquires+Knee+Creations%2C+LLC%27s+Business&amp;rft_id=http%3A%2F%2Finvestor.zimmerbiomet.com%2Freleasedetail.cfm%3Freleaseid%3D761649&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.zimmerbiomet.com/releaseDetail.cfm?ReleaseID=874124&amp;id=14">"Zimmer Biomet -- Zimmer Acquires ETEX Holdings, Inc"</a>. <i>zimmerbiomet.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=zimmerbiomet.com&amp;rft.atitle=Zimmer+Biomet+--+Zimmer+Acquires+ETEX+Holdings%2C+Inc.&amp;rft_id=http%3A%2F%2Finvestor.zimmerbiomet.com%2FreleaseDetail.cfm%3FReleaseID%3D874124%26id%3D14&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-biomet.co.uk-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-biomet.co.uk_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-biomet.co.uk_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-biomet.co.uk_28-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-biomet.co.uk_28-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-biomet.co.uk_28-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-biomet.co.uk_28-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-biomet.co.uk_28-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.biomet.co.uk/company/history">"Biomet UK - History of Biomet - A Heritage of Excellence"</a>. <i>biomet.co.uk</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=biomet.co.uk&amp;rft.atitle=Biomet+UK+-+History+of+Biomet+-+A+Heritage+of+Excellence&amp;rft_id=http%3A%2F%2Fwww.biomet.co.uk%2Fcompany%2Fhistory&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.zimmerbiomet.com/releasedetail.cfm?ReleaseID=919331">"Zimmer Biomet -- Zimmer Completes Combination with Biomet"</a>. <i>zimmerbiomet.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=zimmerbiomet.com&amp;rft.atitle=Zimmer+Biomet+--+Zimmer+Completes+Combination+with+Biomet&amp;rft_id=http%3A%2F%2Finvestor.zimmerbiomet.com%2Freleasedetail.cfm%3FReleaseID%3D919331&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.zimmerbiomet.com/leadership.html">"Zimmer Biomet Leadership Team"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Leadership+Team&amp;rft_id=http%3A%2F%2Fwww.zimmerbiomet.com%2Fleadership.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Zimmer-Biomet-Inc-Jul-2017-8-K-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zimmer-Biomet-Inc-Jul-2017-8-K_31-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://pdf.secdatabase.com/568/0001193125-17-226126.pdf">"Zimmer Biomet Inc, Form 8-K, Current Report, Filing Date Jul 11, 2017"</a> <span class="cs1-format">(PDF)</span>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">Apr 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Inc%2C+Form+8-K%2C+Current+Report%2C+Filing+Date+Jul+11%2C+2017&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fpdf.secdatabase.com%2F568%2F0001193125-17-226126.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Zimmer-Biomet-Inc-Dec-2017-8-K-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-Zimmer-Biomet-Inc-Dec-2017-8-K_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Zimmer-Biomet-Inc-Dec-2017-8-K_32-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/1116/119312517376624/filing-main.htm">"Zimmer Biomet Inc, Form 8-K, Current Report, Filing Date Dec 21, 2017"</a>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">Apr 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zimmer+Biomet+Inc%2C+Form+8-K%2C+Current+Report%2C+Filing+Date+Dec+21%2C+2017&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F1116%2F119312517376624%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://fortune.com/2016/06/06/fortune-500-companies-making-debuts/">"Here Are the 15 New Companies Joining the Fortune 500"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-06-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Fortune&amp;rft.atitle=Here+Are+the+15+New+Companies+Joining+the+Fortune+500&amp;rft_id=http%3A%2F%2Ffortune.com%2F2016%2F06%2F06%2Ffortune-500-companies-making-debuts%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/zimmer-biomet-holdings/">"Zimmer Biomet Holdings"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-06-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Zimmer+Biomet+Holdings&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Fzimmer-biomet-holdings%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/zimmer-biomet-holdings/">"Zimmer Biomet Holdings"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Zimmer+Biomet+Holdings&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Fzimmer-biomet-holdings%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZimmer+Biomet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Zimmer_Biomet&amp;action=edit&amp;section=8" title="Edit section: External links" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.zimmerbiomet.com/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://research.secdatabase.com/CIK/1136869/Company-Name/ZIMMER-BIOMET-HOLDINGS-INC">All Zimmer Biomet EDGAR Filings</a></li>
+<li>Business data for Zimmer Biomet: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=ZBH">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=ZBH">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.bloomberg.com/quote/ZBH:US">Bloomberg</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=ZBH">SEC filings</a></li></ul></div></li></ul></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Zimmer_Biomet&amp;oldid=932510768">https://en.wikipedia.org/w/index.php?title=Zimmer_Biomet&amp;oldid=932510768</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Zimmer_Biomet"
+				data-user-name="147.192.103.42"
+				data-user-gender="unknown"
+				data-timestamp="1577364424">
+				<span>Last edited on 26 December 2019, at 12:47</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Zimmer_Biomet&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.524","walltime":"0.657","ppvisitednodes":{"value":2705,"limit":1000000},"postexpandincludesize":{"value":235055,"limit":2097152},"templateargumentsize":{"value":2019,"limit":2097152},"expansiondepth":{"value":34,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":165799,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["175.56% 1053.494     34 Template:Clade","100.00%  600.079      1 -total"," 44.10%  264.647      1 Template:Reflist"," 31.59%  189.535      1 Template:Infobox_company"," 29.47%  176.851      1 Template:Infobox"," 29.04%  174.283     31 Template:Cite_web"," 12.26%   73.552     11 Template:Wikidata"," 10.52%   63.113      1 Template:Br_separated_entries","  7.37%   44.255      1 Template:ISBN","  5.01%   30.039      1 Template:Ubl"]},"scribunto":{"limitreport-timeusage":{"value":"0.300","limit":"10.000"},"limitreport-memusage":{"value":6606695,"limit":52428800}},"cachereport":{"origin":"mw1352","timestamp":"20200416054711","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Zimmer Biomet","url":"https:\/\/en.wikipedia.org\/wiki\/Zimmer_Biomet","sameAs":"http:\/\/www.wikidata.org\/entity\/Q203552","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q203552","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-15T03:14:24Z","dateModified":"2019-12-26T12:47:04Z","headline":"company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":116,"wgHostname":"mw1401"});});</script>		</body>
+		</html>
+		

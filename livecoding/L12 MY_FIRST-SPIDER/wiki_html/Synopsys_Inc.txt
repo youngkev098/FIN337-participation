@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Synopsys - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoNJgpAAMEAAhVvC@cAAAAV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Synopsys","wgTitle":"Synopsys","wgCurRevisionId":945676343,"wgRevisionId":945676343,"wgArticleId":424893,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Synopsys","wgRelevantArticleId":424893,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Synopsys_Inc.","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Synopsys","wgWikibaseItemId":"Q2303478","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0}
+,"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/f/f7/Synopsys_Mountainview_Office_2019.jpg"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Synopsys&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Synopsys&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Synopsys"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Synopsys rootpage-Synopsys stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Synopsys" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Synopsys" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Synopsys</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Synopsys" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Synopsys" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Synopsys&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Synopsys_Inc.&amp;redirect=no" class="mw-redirect" title="Synopsys Inc.">Synopsys Inc.</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Synopsis_(disambiguation)" class="mw-redirect mw-disambig" title="Synopsis (disambiguation)">Synopsis (disambiguation)</a>.</div>
+<table class="box-COI plainlinks metadata ambox ambox-content ambox-COI" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span"><b> A major contributor to this article appears to have a <a href="/wiki/Wikipedia:Conflict_of_interest" title="Wikipedia:Conflict of interest">close connection</a> with its subject.</b><span class="hide-when-compact"> It may require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a> to comply with Wikipedia's content policies, particularly <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>. Please discuss further on the <a href="/wiki/Talk:Synopsys" title="Talk:Synopsys">talk page</a>.</span>  <small class="date-container"><i>(<span class="date">February 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p><b>Synopsys</b> (<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="'s' in 'sigh'">s</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'n' in 'nigh'">n</span><span title="/ɒ/: 'o' in 'body'">ɒ</span><span title="'p' in 'pie'">p</span><span title="'s' in 'sigh'">s</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="'s' in 'sigh'">s</span></span>/</a></span></span>) is an American <a href="/wiki/Electronic_design_automation" title="Electronic design automation">electronic design automation</a> company that focuses on silicon design and verification, silicon <a href="/wiki/Intellectual_property" title="Intellectual property">intellectual property</a> and <a href="/wiki/Computer_security" title="Computer security">software security</a> and quality.  Products include <a href="/wiki/Logic_synthesis" title="Logic synthesis">logic synthesis</a>, behavioral synthesis, <a href="/wiki/Place_and_route" title="Place and route">place and route</a>, <a href="/wiki/Static_timing_analysis" title="Static timing analysis">static timing analysis</a>, <a href="/wiki/Formal_verification" title="Formal verification">formal verification</a>, hardware description language (<a href="/wiki/SystemC" title="SystemC">SystemC</a>, <a href="/wiki/SystemVerilog" title="SystemVerilog">SystemVerilog</a>/<a href="/wiki/Verilog" title="Verilog">Verilog</a>, <a href="/wiki/VHDL" title="VHDL">VHDL</a>) simulators, as well as transistor-level <a href="/wiki/Circuit_simulation" class="mw-redirect" title="Circuit simulation">circuit simulation</a>. The <a href="/wiki/Simulation" title="Simulation">simulators</a> include development and <a href="/wiki/Debugging" title="Debugging">debugging</a> environments which assist in the design of the logic for <a href="/wiki/Integrated_circuit" title="Integrated circuit">chips</a> and computer systems. In recent years, Synopsys has expanded its products and services to include <a href="/wiki/Application_security" title="Application security">application security</a> testing. Their technology is present in <a href="/wiki/Self-driving_car" title="Self-driving car">self-driving cars</a>, <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>, and <a href="/wiki/Internet_of_things" title="Internet of things">internet of things</a> consumer products.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Synopsys, Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:SynopsysLogo.svg" class="image"><img alt="SynopsysLogo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SynopsysLogo.svg/220px-SynopsysLogo.svg.png" decoding="async" width="220" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SynopsysLogo.svg/330px-SynopsysLogo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SynopsysLogo.svg/440px-SynopsysLogo.svg.png 2x" data-file-width="785" data-file-height="169"></a></td></tr><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Synopsys_Mountainview_Office_2019.jpg" class="image"><img alt="Synopsys Mountainview Office 2019.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Synopsys_Mountainview_Office_2019.jpg/220px-Synopsys_Mountainview_Office_2019.jpg" decoding="async" width="220" height="165" data-file-width="1000" data-file-height="748"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a>: <a rel="nofollow" class="external text" href="https://www.nasdaq.com/symbol/snps">SNPS</a></li><li><a href="/wiki/NASDAQ-100" title="NASDAQ-100">NASDAQ-100</a> component</li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US8716071076">US8716071076 </a><a href="https://www.wikidata.org/wiki/Q2303478?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><div class="plainlist">
+<ul><li><a href="/wiki/Integrated_circuit" title="Integrated circuit">Integrated circuit</a></li>
+<li><a href="/wiki/Self-driving_car" title="Self-driving car">Self-driving car</a></li>
+<li><a href="/wiki/Software_as_a_service" title="Software as a service">Software as a service </a></li>
+<li><a href="/wiki/Software_Testing" class="mw-redirect" title="Software Testing">Software Testing </a></li>
+<li><a href="/wiki/Internet_of_Things" class="mw-redirect" title="Internet of Things">Internet of Things </a></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Predecessor</th><td style="line-height: 1.35em;">C Level Design <a href="https://www.wikidata.org/wiki/Q2303478?uselang=en#P155" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1986 in Research Triangle Park, North Carolina.</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;">David Gregory<br> <a href="/wiki/Aart_de_Geus" title="Aart de Geus">Aart de Geus</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Mountain_View,_California" title="Mountain View, California">Mountain View, California</a>, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Aart_de_Geus" title="Aart de Geus">Aart J. de Geus</a><br><small>(<a href="/wiki/Founder_(company)" class="mw-redirect" title="Founder (company)">Founder</a>, <a href="/wiki/Chairman" class="mw-redirect" title="Chairman">Chairman</a> &amp; co-<a href="/wiki/CEO" class="mw-redirect" title="CEO">CEO</a>)</small><br>Chi-Foon Chan<br><small>(<a href="/wiki/President_(corporate_title)" title="President (corporate title)">President</a> &amp; co-<a href="/wiki/CEO" class="mw-redirect" title="CEO">CEO</a>)</small></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_dollar" title="United States dollar">US$</a>3.3 billion (2019)<sup id="cite_ref-yahoofin_1-0" class="reference"><a href="#cite_note-yahoofin-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$625 million (2019)<sup id="cite_ref-yahoofin_1-1" class="reference"><a href="#cite_note-yahoofin-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">13,000<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Division_(business)" title="Division (business)">Divisions</a></th><td style="line-height: 1.35em;">Silicon Design &amp; Verification, Silicon Intellectual Property, Software Integrity Group</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://synopsys.com">synopsys<wbr></wbr>.com</a></span></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Divisions"><span class="tocnumber">2</span> <span class="toctext">Divisions</span></a>
+<ul><li class="toclevel-2 tocsection-3"><a href="#Silicon_Design_&amp;_Verification"><span class="tocnumber">2.1</span> <span class="toctext">Silicon Design &amp; Verification</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Silicon_Intellectual_Property"><span class="tocnumber">2.2</span> <span class="toctext">Silicon Intellectual Property</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Software_Integrity"><span class="tocnumber">2.3</span> <span class="toctext">Software Integrity</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-6"><a href="#Products"><span class="tocnumber">3</span> <span class="toctext">Products</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Synopsys&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>Synopsys was founded by <a href="/wiki/Aart_de_Geus" title="Aart de Geus">Aart J de Geus</a> and David Gregory in 1986 in Research Triangle Park, North Carolina. The outfit was initially established as Optimal Solutions with a charter to develop and market synthesis technology developed by the team at <a href="/wiki/General_Electric" title="General Electric">General Electric</a>. They have evolved to become a leader in electronic design automation, semiconductor intellectual property, and software security solutions.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2020)">citation needed</span></a></i>]</sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Divisions">Divisions</span><span class="mw-editsection"><a href="/w/index.php?title=Synopsys&amp;action=edit&amp;section=2" title="Edit section: Divisions" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>Synopsys has three divisions including silicon design and verification, silicon intellectual property, and software integrity.
+</p>
+<h3 class="in-block"><span id="Silicon_Design_.26_Verification"></span><span class="mw-headline" id="Silicon_Design_&amp;_Verification">Silicon Design &amp; Verification</span><span class="mw-editsection"><a href="/w/index.php?title=Synopsys&amp;action=edit&amp;section=3" title="Edit section: Silicon Design &amp; Verification" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>This Synopsys division focuses the design and verification of integrated circuits and designing more advanced processes and models for the manufacturing of those chips.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Silicon_Intellectual_Property">Silicon Intellectual Property</span><span class="mw-editsection"><a href="/w/index.php?title=Synopsys&amp;action=edit&amp;section=4" title="Edit section: Silicon Intellectual Property" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>This division of Synopsys focuses on the enabling organizations to create high-quality silicon proven intellectual property solutions for System on a chip (SoC) designs.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Software_Integrity">Software Integrity</span><span class="mw-editsection"><a href="/w/index.php?title=Synopsys&amp;action=edit&amp;section=5" title="Edit section: Software Integrity" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>In 2014, Synopsys began to expand their products and services to include software security and quality. This division helps organizations integrate security into <a href="/wiki/DevOps" title="DevOps">DevOps</a> environments, build holistic <a href="/wiki/Application_security" title="Application security">application security</a> programs, <a href="/wiki/Software_testing" title="Software testing">test any software</a> on-demand, find and fix <a href="/wiki/Software_licensing_audit" title="Software licensing audit">software quality and compliance</a> issues earlier, identify and manage <a href="/wiki/Open-source_software" title="Open-source software">open source</a> components, and assess application security threats, risks and dependancies.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><a href="/w/index.php?title=Synopsys&amp;action=edit&amp;section=6" title="Edit section: Products" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>Synopsys has three types of products and services within the three divisions of Silicon Design &amp; Verification<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>, Silicon Intellectual Property<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>, and Software Integrity.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Synopsys has a number of products and services, including: 
+</p>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li>Advanced Fusion Technology<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+<li>Black Duck<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></li>
+<li>Black Duck Audit Services<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li><a href="/wiki/BSIMM" class="mw-redirect" title="BSIMM">BSIMM</a></li>
+<li>Code Sight<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+<li><a href="/wiki/Coverity" title="Coverity">Coverity</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li>Custom Compiler</li>
+<li>DC Explorer</li>
+<li>Defensics<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+<li>Design Compiler Graphical</li>
+<li>Design Complier NXT</li>
+<li>ESP</li>
+<li>Formality®</li>
+<li>Fusion Compiler</li>
+<li>Fusion Design Platform</li>
+<li>HAPS® Prototyping</li>
+<li>IC Compiler™</li>
+<li>IC Compiler II™ with RedHawk™</li>
+<li>Identify® RTL Debugger</li>
+<li>Lynx Design System]</li>
+<li>Nanotime</li>
+<li>Polaris Software Integrity Platform™<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li>
+<li>PrimeECO</li>
+<li>PrimePower</li>
+<li>PrimeYield</li>
+<li>Proteus</li>
+<li>QuickCap NX</li>
+<li>Seeker<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li>
+<li>SilconSmart®</li>
+<li>Siloti</li>
+<li>Simpleware™ ScanIP</li>
+<li>SpyGlass®</li>
+<li>StarRC™</li>
+<li>Synopsys eLearning</li>
+<li>Synopsys Managed Services<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li>
+<li>Synopsys Professional Services</li>
+<li>Synopsys TestMAX™</li>
+<li>Synplify Premiere®</li>
+<li>Synplify Pro®</li>
+<li>The PrimeTime ® Suite</li>
+<li>Tinfoil<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></li>
+<li>Verdi®</li>
+<li>Verdi Advanced AMS Debug</li>
+<li>Verdi HW/SW Debug</li>
+<li>Verdi Performance Analyzer</li>
+<li>Verdi Power-Aware Debug</li>
+<li>VerIDE</li>
+<li>Virtualizer®</li>
+<li>VCS®</li></ul></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><a href="/w/index.php?title=Synopsys&amp;action=edit&amp;section=7" title="Edit section: See also" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li><a href="/wiki/List_of_EDA_companies" title="List of EDA companies">List of EDA companies</a></li>
+<li><a href="/wiki/List_of_tools_for_static_code_analysis" title="List of tools for static code analysis">List of tools for static code analysis</a></li>
+<li><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary software</a></li>
+<li><a href="/wiki/Security_information_and_event_management" title="Security information and event management">Security information and event management</a></li>
+<li><a href="/wiki/Dynamic_application_security_testing" title="Dynamic application security testing">Dynamic application security testing</a></li>
+<li><a href="/wiki/OWASP" title="OWASP">OWASP</a></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Synopsys&amp;action=edit&amp;section=8" title="Edit section: References" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-yahoofin-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-yahoofin_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-yahoofin_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://finance.yahoo.com/quote/SNPS/financials?p=SNPS">"Yahoo Finance Page for Synopsys"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yahoo+Finance+Page+for+Synopsys&amp;rft_id=https%3A%2F%2Ffinance.yahoo.com%2Fquote%2FSNPS%2Ffinancials%3Fp%3DSNPS&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.synopsys.com/content/dam/synopsys/company/publications/corporate-brochure-eng.pdf">"Synopsys Corporate Backgrounder Spring 2018"</a> <span class="cs1-format">(PDF)</span>. Synopsys.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-11-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Synopsys+Corporate+Backgrounder+Spring+2018&amp;rft.pub=Synopsys.com&amp;rft_id=https%3A%2F%2Fwww.synopsys.com%2Fcontent%2Fdam%2Fsynopsys%2Fcompany%2Fpublications%2Fcorporate-brochure-eng.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.synopsys.com/silicon-design.html">"Electronic Design Automation (EDA)"</a>. <i>www.synopsys.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-02-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.synopsys.com&amp;rft.atitle=Electronic+Design+Automation+%28EDA%29&amp;rft_id=https%3A%2F%2Fwww.synopsys.com%2Fsilicon-design.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.synopsys.com/designware-ip.html">"Synopsys DesignWare IP"</a>. <i>www.synopsys.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-02-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.synopsys.com&amp;rft.atitle=Synopsys+DesignWare+IP&amp;rft_id=https%3A%2F%2Fwww.synopsys.com%2Fdesignware-ip.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.synopsys.com/software-integrity.html">"Synopsys Security | Software Integrity Group"</a>. <i>www.synopsys.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-02-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.synopsys.com&amp;rft.atitle=Synopsys+Security+%7C+Software+Integrity+Group&amp;rft_id=https%3A%2F%2Fwww.synopsys.com%2Fsoftware-integrity.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.synopsys.com/silicon-design.html">"Electronic Design Automation (EDA)"</a>. <i>www.synopsys.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-07-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.synopsys.com&amp;rft.atitle=Electronic+Design+Automation+%28EDA%29&amp;rft_id=https%3A%2F%2Fwww.synopsys.com%2Fsilicon-design.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.synopsys.com/dw/doc.php/ds/o/ip_accelerated_brochure.pdf">"IP Accelerated Synopsys"</a> <span class="cs1-format">(PDF)</span>. <i>Synopsys.com</i>. 2019-11-02.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Synopsys.com&amp;rft.atitle=IP+Accelerated+Synopsys&amp;rft.date=2019-11-02&amp;rft_id=https%3A%2F%2Fwww.synopsys.com%2Fdw%2Fdoc.php%2Fds%2Fo%2Fip_accelerated_brochure.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.synopsys.com/software-integrity/all-products-services.html">"Software Security &amp; Quality Tools &amp; Services | Synopsys"</a>. <i>www.synopsys.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-06-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.synopsys.com&amp;rft.atitle=Software+Security+%26+Quality+Tools+%26+Services+%7C+Synopsys&amp;rft_id=https%3A%2F%2Fwww.synopsys.com%2Fsoftware-integrity%2Fall-products-services.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"> <cite class="citation web">Diamantidis, Stelios (2020-02-06). <a rel="nofollow" class="external text" href="https://semiengineering.com/machine-learning-everywhere/">"Machine Learning..Everywhere"</a>. <i>Semiconductor Engineering</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Semiconductor+Engineering&amp;rft.atitle=Machine+Learning..Everywhere&amp;rft.date=2020-02-06&amp;rft.aulast=Diamantidis&amp;rft.aufirst=Stelios&amp;rft_id=https%3A%2F%2Fsemiengineering.com%2Fmachine-learning-everywhere%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Bals, Fred (2020-01-29). <a rel="nofollow" class="external text" href="https://securityboulevard.com/2020/01/taking-the-next-step-in-your-application-security-program/">"Taking Next Step in Your AppSec Program"</a>. <i>Security Boulevard</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Security+Boulevard&amp;rft.atitle=Taking+Next+Step+in+Your+AppSec+Program&amp;rft.date=2020-01-29&amp;rft.aulast=Bals&amp;rft.aufirst=Fred&amp;rft_id=https%3A%2F%2Fsecurityboulevard.com%2F2020%2F01%2Ftaking-the-next-step-in-your-application-security-program%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Germain, Jack (2019-04-30). <a rel="nofollow" class="external text" href="https://www.linuxinsider.com/story/85988.html">"Open Source Flaw Management Shows Sign of Improvement: Report"</a>. <i>LinuxInsider</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LinuxInsider&amp;rft.atitle=Open+Source+Flaw+Management+Shows+Sign+of+Improvement%3A+Report&amp;rft.date=2019-04-30&amp;rft.aulast=Germain&amp;rft.aufirst=Jack&amp;rft_id=https%3A%2F%2Fwww.linuxinsider.com%2Fstory%2F85988.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Klien, Charlie (2019-05-08). <a rel="nofollow" class="external text" href="https://www.synopsys.com/blogs/software-security/code-sight-ide-plugin-2019-4/">"Announcing Code Sight 2019.4"</a>. <i>Software Integrity Blog</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Software+Integrity+Blog&amp;rft.atitle=Announcing+Code+Sight+2019.4&amp;rft.date=2019-05-08&amp;rft.aulast=Klien&amp;rft.aufirst=Charlie&amp;rft_id=https%3A%2F%2Fwww.synopsys.com%2Fblogs%2Fsoftware-security%2Fcode-sight-ide-plugin-2019-4%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Gray, James (2016-09-06). <a rel="nofollow" class="external text" href="https://www.linuxjournal.com/content/synopsys-coverity">"Synopsys' Coverity"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Synopsys%27+Coverity&amp;rft.date=2016-09-06&amp;rft.aulast=Gray&amp;rft.aufirst=James&amp;rft_id=https%3A%2F%2Fwww.linuxjournal.com%2Fcontent%2Fsynopsys-coverity&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Korolov, Maria (2019-03-26). <a rel="nofollow" class="external text" href="https://www.csoonline.com/article/3375203/what-is-ai-fuzzing-and-why-it-may-be-the-next-big-cybersecurity-threat.html">"What is AI fuzzing?"</a>. <i>CSO Online</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CSO+Online&amp;rft.atitle=What+is+AI+fuzzing%3F&amp;rft.date=2019-03-26&amp;rft.aulast=Korolov&amp;rft.aufirst=Maria&amp;rft_id=https%3A%2F%2Fwww.csoonline.com%2Farticle%2F3375203%2Fwhat-is-ai-fuzzing-and-why-it-may-be-the-next-big-cybersecurity-threat.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Kerner, Sean Michael (2019-02-25). <a rel="nofollow" class="external text" href="https://www.eweek.com/development/synopsys-launches-polaris-software-integrity-platform">"Synopsys Launches Polaris Software Integrity Platform"</a>. <i>eWeek</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=eWeek&amp;rft.atitle=Synopsys+Launches+Polaris+Software+Integrity+Platform&amp;rft.date=2019-02-25&amp;rft.aulast=Kerner&amp;rft.aufirst=Sean+Michael&amp;rft_id=https%3A%2F%2Fwww.eweek.com%2Fdevelopment%2Fsynopsys-launches-polaris-software-integrity-platform&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/synopsys-redefines-interactive-application-security-testing-with-new-seeker-solution-optimized-for-devsecops-300688668.html">"Synopsys Redefines Interactive Application Security Testing"</a>. <i>Cision PR Newswire</i>. 2018-07-31.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Cision+PR+Newswire&amp;rft.atitle=Synopsys+Redefines+Interactive+Application+Security+Testing&amp;rft.date=2018-07-31&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fsynopsys-redefines-interactive-application-security-testing-with-new-seeker-solution-optimized-for-devsecops-300688668.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web">Menear, Harry (2020-01-02). <a rel="nofollow" class="external text" href="https://www.gigabitmagazine.com/cloud-computing/2020-vision-synopsys-predictions">"2020 vision: Synopsys predictions"</a>. <i>Gigabit</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gigabit&amp;rft.atitle=2020+vision%3A+Synopsys+predictions&amp;rft.date=2020-01-02&amp;rft.aulast=Menear&amp;rft.aufirst=Harry&amp;rft_id=https%3A%2F%2Fwww.gigabitmagazine.com%2Fcloud-computing%2F2020-vision-synopsys-predictions&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Staff, DarkReading (2020-01-10). <a rel="nofollow" class="external text" href="https://www.darkreading.com/application-security/synopsys-buys-tinfoil/d/d-id/1336781">"Synopsys buys Tinfoil"</a>. <i>Dark Reading</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dark+Reading&amp;rft.atitle=Synopsys+buys+Tinfoil&amp;rft.date=2020-01-10&amp;rft.aulast=Staff&amp;rft.aufirst=DarkReading&amp;rft_id=https%3A%2F%2Fwww.darkreading.com%2Fapplication-security%2Fsynopsys-buys-tinfoil%2Fd%2Fd-id%2F1336781&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynopsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Synopsys&amp;oldid=945676343">https://en.wikipedia.org/w/index.php?title=Synopsys&amp;oldid=945676343</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Synopsys"
+				data-user-name="Delta 51"
+				data-user-gender="unknown"
+				data-timestamp="1584280994">
+				<span>Last edited on 15 March 2020, at 14:03</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Synopsys&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.416","walltime":"0.575","ppvisitednodes":{"value":2011,"limit":1000000},"postexpandincludesize":{"value":80394,"limit":2097152},"templateargumentsize":{"value":3198,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":53601,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  496.514      1 -total"," 32.29%  160.314      1 Template:Infobox_company"," 29.78%  147.867      1 Template:Reflist"," 28.98%  143.902      1 Template:Infobox"," 26.36%  130.872     18 Template:Cite_web"," 13.90%   69.014      9 Template:Wikidata"," 12.51%   62.136      1 Template:Br_separated_entries","  9.76%   48.443      1 Template:Short_description","  7.36%   36.534      1 Template:COI","  7.20%   35.756      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.216","limit":"10.000"},"limitreport-memusage":{"value":6654109,"limit":52428800}},"cachereport":{"origin":"mw1407","timestamp":"20200416050659","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Synopsys","url":"https:\/\/en.wikipedia.org\/wiki\/Synopsys","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2303478","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2303478","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-01-09T00:02:31Z","dateModified":"2020-03-15T14:03:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f7\/Synopsys_Mountainview_Office_2019.jpg","headline":"American software company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":121,"wgHostname":"mw1389"});});</script>		</body>
+		</html>
+		

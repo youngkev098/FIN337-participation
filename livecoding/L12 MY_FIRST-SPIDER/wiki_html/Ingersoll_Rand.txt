@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ingersoll Rand - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpjDigpAIHkAAuSzMQwAAADS","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ingersoll_Rand","wgTitle":"Ingersoll Rand","wgCurRevisionId":950959848,"wgRevisionId":950959848,"wgArticleId":22756627,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Ingersoll_Rand","wgRelevantArticleId":22756627,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1494132","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ingersoll_Rand&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ingersoll_Rand&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ingersoll_Rand"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ingersoll_Rand rootpage-Ingersoll_Rand stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ingersoll+Rand" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Ingersoll+Rand" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Ingersoll Rand</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Ingersoll_Rand" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Ingersoll+Rand" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Ingersoll_Rand&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<div role="note" class="hatnote navigation-not-searchable">This article is about the American company formerly known as Gardner Denver. For the Irish-domiciled company formerly known as Ingersoll Rand plc, see <a href="/wiki/Trane_Technologies" title="Trane Technologies">Trane Technologies</a>.</div> 
+<p><b>Ingersoll Rand Inc.</b> (formerly <b>Gardner Denver Inc.</b>), founded in 1859, is an American worldwide provider of industrial equipment, technologies and related parts and services to a broad and diverse customer base through a family of brands. The company has over 30 manufacturing facilities located in the Americas, Europe, the Middle East, and Asia Pacific with offices in 35 different countries. Based in <a href="/wiki/Milwaukee,_Wisconsin,_USA" class="mw-redirect" title="Milwaukee, Wisconsin, USA">Milwaukee, Wisconsin, USA</a>, it operates in three groups: the Industrials Group, Energy Group, and Medical Group.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Ingersoll Rand Inc.</caption><tbody><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Formerly</div></th><td class="nickname" style="line-height: 1.35em;">Gardner Denver Inc.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:IR">IR</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US45687V1061">US45687V1061</a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;">Diversified Machinery</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1859</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;">Robert Gardner</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Milwaukee,_Wisconsin" class="mw-redirect" title="Milwaukee, Wisconsin">Milwaukee, Wisconsin</a></div>, <div style="display: inline;" class="country-name">United States</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">Worldwide</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Vicente Reynal (<a href="/wiki/CEO" class="mw-redirect" title="CEO">CEO</a>)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;">Compressors, vacuum &amp; blowers, liquid ring pumps, petroleum pumps, loading arms, couplers, water jetting, and others</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"><a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>2.375 billion <small>(<i>2017</i>)</small><sup id="cite_ref-SEC_filing_1-0" class="reference"><a href="#cite_note-SEC_filing-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"><a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>108.7 million <small>(<i>2017</i>)</small><sup id="cite_ref-SEC_filing_1-1" class="reference"><a href="#cite_note-SEC_filing-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"><a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>18.5 million <small>(<i>2017</i>)</small><sup id="cite_ref-SEC_filing_1-2" class="reference"><a href="#cite_note-SEC_filing-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"><a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>1.46 billion <small>(<i>2017</i>)</small><sup id="cite_ref-SEC_filing_1-3" class="reference"><a href="#cite_note-SEC_filing-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"><a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>4.62 billion <small>(<i>2017</i>)</small><sup id="cite_ref-SEC_filing_1-4" class="reference"><a href="#cite_note-SEC_filing-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Owner</th><td style="line-height: 1.35em;"><a href="/wiki/Kohlberg_Kravis_Roberts" title="Kohlberg Kravis Roberts">Kohlberg Kravis Roberts</a> (35.3%)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.irco.com">www<wbr></wbr>.irco<wbr></wbr>.com</a></span></td></tr><tr><td colspan="2" style="text-align:center;line-height: 1.35em;"><b>Footnotes / references</b><br><sup id="cite_ref-SEC_filing_1-5" class="reference"><a href="#cite_note-SEC_filing-1">[1]</a></sup></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Divisions"><span class="tocnumber">1</span> <span class="toctext">Divisions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Divisions">Divisions</span><span class="mw-editsection"><a href="/w/index.php?title=Ingersoll_Rand&amp;action=edit&amp;section=1" title="Edit section: Divisions" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Ingersoll_Rand&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.<br><small><span class="plainlinks"><i>Find sources:</i> <a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Ingersoll+Rand%22">"Ingersoll Rand"</a> – <a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Ingersoll+Rand%22+-wikipedia">news</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Ingersoll+Rand%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Ingersoll+Rand%22+-wikipedia">books</a> <b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Ingersoll+Rand%22">scholar</a> <b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Ingersoll+Rand%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">March 2019</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p>The <b>Industrials Group</b> designs, manufactures, markets and services a wide range of products including rotary screw, reciprocating and sliding vane compressors, multistage and positive displacement, centrifugal and side-channel blowers, vacuum technology as well as mobile transport products. The end market sectors served by the Industrials Group are primarily industrial manufacturing, transportation, energy, mining and construction, environmental, and food and beverage.
+</p><p>The <b>Energy Group</b> manufactures, markets and services liquid ring pumps and engineered systems for power generation, environmental, petrochemical, pulp and paper and industrial applications; pumps and fluid transfer equipment used primarily in oil and natural gas well drilling, servicing and production, and petrochemical and industrial applications; and water jetting pumps. The Energy Group includes three divisions: Petroleum Pump, Nash, and <a href="/wiki/EMCO_Wheaton" title="EMCO Wheaton">EMCO Wheaton</a>. The Petroleum Pump Division designs, manufactures, tests and markets a diverse range of pumps for the oil &amp; gas industry. Nash is the leader in liquid ring vacuum pumps. The Emco Wheaton Division designs, manufactures and installs a wide range of solutions for the loading and unloading of almost any liquid and compressed gas products from river barges, ships and oceangoing supertankers. In addition, Emco Wheaton and Todo swivel joints, Dry-Break couplers and adapters, off-highway fueling systems and grounding equipment are all used within bunkering applications; the transfer of oil via hoses, pipelines, or loading arms for the purpose of providing fuel or lubricants to a tank vessel or nontank.
+</p><p>The <b>Medical Group</b> manufactures single-piece piston reciprocating, diaphragm and linear compressor and vacuum pumps, which are used in medical, environmental and laboratory applications.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Ingersoll_Rand&amp;action=edit&amp;section=2" title="Edit section: History" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<table class="box-Prose plainlinks metadata ambox ambox-style ambox-Prose" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This section <b>is in <a href="/wiki/MOS:LIST" class="mw-redirect" title="MOS:LIST">list</a> format, but may read better as <a href="/wiki/MOS:PROSE" class="mw-redirect" title="MOS:PROSE">prose</a></b>.<span class="hide-when-compact"> You can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Ingersoll_Rand&amp;action=edit">converting this section</a>, if appropriate. <a href="/wiki/Help:Editing" title="Help:Editing">Editing help</a> is available.</span>  <small class="date-container"><i>(<span class="date">March 2019</span>)</i></small></div></td></tr></tbody></table><ul><li>1859 The Gardner Governor Company, founded by Robert Gardner, introduces a speed control for <a href="/wiki/Steam_engine" title="Steam engine">steam engines</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> This innovation, known as the <a href="/wiki/Flyball_governor" class="mw-redirect" title="Flyball governor">flyball governor</a>, helped pave the way to later production of other industrial products such as <a href="/wiki/Air_compressor" title="Air compressor">air compressors</a>. By the turn of the century, the company sold more than 150,000 governors across the United States and Canada.</li>
+<li>1927 The Gardner Governor Company merges with the Denver Rock Drill Company and becomes Gardner-Denver.</li>
+<li>1943 Gardner Denver is listed on the New York Stock Exchange</li>
+<li>1950s During the post-war growth period, Gardner-Denver makes a number of acquisitions, including Keller Tool Company and the CycloBlower Company, a manufacturer of helical screw blowers.</li>
+<li>1960s Gardner Denver adds the Apex Machine and Tool Company and the Martin Decker Corporation.</li>
+<li>1979 The company is acquired by <a href="/wiki/Cooper_Industries" title="Cooper Industries">Cooper Industries</a>, Inc. (Cooper).</li>
+<li>1985-1988 Cooper purchases Sutorbilt and DuroFlow blowers, OPI well servicing pumps, and Joy compressors.</li>
+<li>1994 As Cooper Industries’ strategy changes, the Gardner Denver Industrial Machinery Division is spun off as an independent company. Gardner Denver, Inc. then becomes a publicly held company trading on the New York Stock Exchange.</li>
+<li>2004 Drilling Solutions business was sold to the Swedish company <a href="/wiki/Atlas_Copco" title="Atlas Copco">Atlas Copco</a>.</li></ul><p>Gardner Denver, Inc. continues to acquire complementary companies. Twenty-five companies have been acquired since the spin-off from Cooper Industries, including: 
+</p>
+<ul><li>1996 Lamson Corp., Syracuse, New York, USA and Twentieth Century Manufacturing (TCM), Tulsa, Oklahoma, USA</li>
+<li>1997 Oy Tamrotor AB, Tampere, Finland and Champion Pneumatic, Princeton, Illinois, USA</li>
+<li>1998 Fort Worth, Texas-based Geological Equipment and Wittig, Schopfheim, Germany</li>
+<li>1999 US-based Allen-Stuart Equipment Co and Butterworth Jetting Systems, both Houston, Texas, as well as Air Relief, Mayfield, Kentucky</li>
+<li>2000 Invincible Airflow Systems, Baltic, Ohio, Jetting Systems &amp; Accessories, Inc. and CRS Power Flow, Inc, both Houston, Texas</li>
+<li>2001 Gloucester, UK compressor manufacturer Belliss &amp; Morcom and Syracuse, New York based •	Hoffman Air &amp; Filtration System</li>
+<li>2003 Chaparral, Odessa, Texas, USA</li>
+<li>2004 Syltone / Emco Wheaton, Margate, UK and Kirchhain, Germany as well as Nash Elmo</li>
+<li>2005 Bottarini, Lonate, Italy as well as US and Europe based Thomas Rietschle</li>
+<li>2006 Todo, Toreboda, Sweden</li>
+<li>2008 CompAir, Redditch, UK and Simmern, Germany</li>
+<li>2009 Ilmvac, Ilmenau, Germany; Gardner Denver, Inc. marks its sesquicentennial (150 years) as a company</li>
+<li>2011 Robuschi, Parma, Italy</li></ul><p>In 2013, Gardner Denver goes from a publicly traded to a private company when its outstanding shares are purchased by US multi-national private equity firm Kohlberg Kravis Roberts &amp; Co. L.P.
+</p>
+<ul><li>2014 Acquisition of Texas-based Conroe Plastics Molding, Inc.</li>
+<li>2016 - sold Air Relief to Epic</li>
+<li>2017 Conducted IPO<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+<li>2020 The Gardner-Denver Company merges with the industrial businesses of Ingersoll Rand plc (now known as <a href="/wiki/Trane_Technologies" title="Trane Technologies">Trane Technologies</a>) and becomes Ingersoll Rand Inc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Ingersoll_Rand&amp;action=edit&amp;section=3" title="Edit section: References" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Ingersoll_Rand&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i> <a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Ingersoll+Rand%22">"Ingersoll Rand"</a> – <a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Ingersoll+Rand%22+-wikipedia">news</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Ingersoll+Rand%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Ingersoll+Rand%22+-wikipedia">books</a> <b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Ingersoll+Rand%22">scholar</a> <b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Ingersoll+Rand%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">April 2010</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><ul><li>Gardner Denver 1859-2009 Sesquicentennial, 150 Years of Industrial Innovation, Donning Company Publishers, 2009</li>
+<li>Gardner Denver press release: "KKR Completes Acquisition of Gardner Denver" <a rel="nofollow" class="external free" href="http://www.gardnerdenver.com/company/news___events/">http://www.gardnerdenver.com/company/news___events/</a></li>
+<li><i>Bloomberg</i> Press releases for Gardner Denver, Inc. <a rel="nofollow" class="external free" href="https://www.bloomberg.com/topics/companies/GDI:US">https://www.bloomberg.com/topics/companies/GDI:US</a></li>
+<li>MSN money article "Gardner Denver, Inc. Reports Preliminary First Quarter 2009 Financial Results" <a rel="nofollow" class="external free" href="http://news.moneycentral.msn.com/provider/providerarticle.aspx?feed=MW&amp;date=20090423&amp;id=9833173">http://news.moneycentral.msn.com/provider/providerarticle.aspx?feed=MW&amp;date=20090423&amp;id=9833173</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since November 2019">permanent dead link</span></a></i>]</span></sup></li>
+<li>Gardner Denver press release; "Gardner Denver, Inc. Announces Manufacturing Consolidation Project" <a rel="nofollow" class="external free" href="http://www.marketwire.com/press-release/Gardner-Denver-Inc-NYSE-GDI-973780.html">http://www.marketwire.com/press-release/Gardner-Denver-Inc-NYSE-GDI-973780.html</a></li></ul><div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-SEC_filing-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-SEC_filing_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SEC_filing_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-SEC_filing_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-SEC_filing_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-SEC_filing_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-SEC_filing_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q/ks?s=IR+Key+Statistics">"Ingersoll Rand Inc. (IR)"</a>. Yahoo! Finance.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ingersoll+Rand+Inc.+%28IR%29&amp;rft.pub=Yahoo%21+Finance&amp;rft_id=https%3A%2F%2Ffinance.yahoo.com%2Fq%2Fks%3Fs%3DIR%2BKey%2BStatistics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIngersoll+Rand" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/1699150/000114036119005649/s002732x1_def14a.htm#tOOS">Proxy statement</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=rTIWAQAAMAAJ"><i>Standard &amp; Poor's Smallcap 600 Guide</i></a>. McGraw-Hill. 1999. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-07-052763-8" title="Special:BookSources/978-0-07-052763-8"><bdi>978-0-07-052763-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Standard+%26+Poor%27s+Smallcap+600+Guide&amp;rft.pub=McGraw-Hill&amp;rft.date=1999&amp;rft.isbn=978-0-07-052763-8&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DrTIWAQAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIngersoll+Rand" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-gardner-denver-ipo-idUSKBN1882SF">KKR-owned Gardner Denver makes tepid return to stock market</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://finance.yahoo.com/news/gardner-denver-ingersoll-rand-industrial-083200886.html">"Gardner Denver and Ingersoll Rand Industrial Segment Finalize Merger to Form a Global Leader in Mission-Critical Flow Creation and Industrial Technologies"</a>. <i>finance.yahoo.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-03-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=finance.yahoo.com&amp;rft.atitle=Gardner+Denver+and+Ingersoll+Rand+Industrial+Segment+Finalize+Merger+to+Form+a+Global+Leader+in+Mission-Critical+Flow+Creation+and+Industrial+Technologies&amp;rft_id=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fgardner-denver-ingersoll-rand-industrial-083200886.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIngersoll+Rand" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Ingersoll_Rand&amp;action=edit&amp;section=4" title="Edit section: External links" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://www.irco.com">Official website</a></span></span></li>
+<li>Business data for Ingersoll Rand Inc.: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=IR">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=IR">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.bloomberg.com/quote/IR:US">Bloomberg</a></li><li><a rel="nofollow" class="external text" href="https://www.reuters.com/finance/stocks/overview?symbol=IR.N">Reuters</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001699150">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ingersoll_Rand&amp;oldid=950959848">https://en.wikipedia.org/w/index.php?title=Ingersoll_Rand&amp;oldid=950959848</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Ingersoll_Rand"
+				data-user-name="UnitedStatesian"
+				data-user-gender="unknown"
+				data-timestamp="1586891946">
+				<span>Last edited on 14 April 2020, at 19:19</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Ingersoll_Rand&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.360","walltime":"0.544","ppvisitednodes":{"value":1652,"limit":1000000},"postexpandincludesize":{"value":65953,"limit":2097152},"templateargumentsize":{"value":4317,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10847,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  496.606      1 -total"," 29.72%  147.567      1 Template:Infobox_company"," 26.16%  129.912      1 Template:Infobox"," 19.93%   98.968      1 Template:Reflist"," 16.81%   83.472      1 Template:Unreferenced_section"," 16.59%   82.373      2 Template:Cite_web"," 16.43%   81.581      3 Template:Ambox"," 15.45%   76.747      1 Template:Unreferenced","  9.86%   48.949      1 Template:Short_description","  8.97%   44.548      3 Template:Wikidata"]},"scribunto":{"limitreport-timeusage":{"value":"0.191","limit":"10.000"},"limitreport-memusage":{"value":5021478,"limit":52428800}},"cachereport":{"origin":"mw1387","timestamp":"20200416051742","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ingersoll Rand","url":"https:\/\/en.wikipedia.org\/wiki\/Ingersoll_Rand","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1494132","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1494132","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-05-10T23:30:42Z","dateModified":"2020-04-14T19:19:06Z","headline":"company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":166,"wgHostname":"mw1405"});});</script>		</body>
+		</html>
+		

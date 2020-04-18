@@ -1,0 +1,1213 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>John Deere - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoKvApAMM8AAkkKoUgAAACP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"John_Deere","wgTitle":"John Deere","wgCurRevisionId":951391221,"wgRevisionId":951391221,"wgArticleId":432397,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"John_Deere","wgRelevantArticleId":432397,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Deere_\u0026_Co.","wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/John_Deere","wgWikibaseItemId":"Q496302","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,
+"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init",
+"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.page.gallery.styles%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/John_Deere_logo.svg/1200px-John_Deere_logo.svg.png"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=John_Deere&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=John_Deere&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/John_Deere"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-John_Deere rootpage-John_Deere stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=John+Deere" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=John+Deere" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">John Deere</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/John_Deere" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=John+Deere" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Deere_%26_Co.&amp;redirect=no" class="mw-redirect" title="Deere &amp; Co.">Deere &amp; Co.</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<div role="note" class="hatnote navigation-not-searchable">This article is about the company. For the person, see <a href="/wiki/John_Deere_(inventor)" title="John Deere (inventor)">John Deere (inventor)</a>. For the tractor, see <a href="/wiki/List_of_John_Deere_tractors" title="List of John Deere tractors">List of John Deere tractors</a>.</div>
+<p><b>John Deere</b> is the brand name of <b>Deere &amp; Company</b>, an American <a href="/wiki/Corporation" title="Corporation">corporation</a> that manufactures <a href="/wiki/Agricultural" class="mw-redirect" title="Agricultural">agricultural</a>, <a href="/wiki/Construction" title="Construction">construction</a>, and forestry <a href="/wiki/Machinery" class="mw-redirect" title="Machinery">machinery</a>, <a href="/wiki/Diesel_engine" title="Diesel engine">diesel engines</a>, <a href="/wiki/Drivetrain" title="Drivetrain">drivetrains</a> (axles, transmissions, gearboxes) used in heavy equipment, and lawn care equipment. In 2019, it was listed as 87th in the <a href="/wiki/Fortune_500" title="Fortune 500"><i>Fortune</i> 500</a> America's ranking<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and was ranked 329th in the <a href="/wiki/Fortune_Global_500" title="Fortune Global 500">global</a> ranking.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The company also provides financial services and other related activities.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Deere &amp; Company</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:John_Deere_logo.svg" class="image"><img alt="John Deere logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/John_Deere_logo.svg/220px-John_Deere_logo.svg.png" decoding="async" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/John_Deere_logo.svg/330px-John_Deere_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/John_Deere_logo.svg/440px-John_Deere_logo.svg.png 2x" data-file-width="145" data-file-height="97"></a></td></tr><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Deere_%26_Company_World_Headquarters.jpg" class="image"><img alt="Deere &amp; Company World Headquarters.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Deere_%26_Company_World_Headquarters.jpg/220px-Deere_%26_Company_World_Headquarters.jpg" decoding="async" width="220" height="165" data-file-width="3664" data-file-height="2748"></a><div><a href="/wiki/John_Deere_World_Headquarters" title="John Deere World Headquarters">John Deere World Headquarters</a> in <a href="/wiki/Moline,_Illinois" title="Moline, Illinois">Moline, Illinois</a></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:DE">DE</a><br><a href="/wiki/S%26P_500_Index" title="S&amp;P 500 Index">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US2441991054">US2441991054 </a><a href="https://www.wikidata.org/wiki/Q496302?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Heavy_equipment" title="Heavy equipment">Heavy equipment</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1837<span class="noprint">; 183 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1837</span>)</span><br><a href="/wiki/Grand_Detour,_Illinois" title="Grand Detour, Illinois">Grand Detour, Illinois</a>, U.S.<sup id="cite_ref-fortune_1-0" class="reference"><a href="#cite_note-fortune-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/John_Deere_(inventor)" title="John Deere (inventor)">John Deere</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Moline,_Illinois" title="Moline, Illinois">Moline, Illinois</a></div>, <div style="display: inline;" class="country-name">U.S.</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">Worldwide</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Samuel_R._Allen" title="Samuel R. Allen">Samuel R. Allen</a> (Chairman)<br><span class="nowrap"><a href="/w/index.php?title=John_C._May&amp;action=edit&amp;redlink=1" class="new" title="John C. May (page does not exist)">John C. May</a> (CEO and President)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a href="/wiki/Agriculture" title="Agriculture">Agriculture</a>, <a href="/wiki/Construction" title="Construction">construction</a>, <a href="/wiki/Forestry" title="Forestry">forestry</a>, consumer &amp; commercial equipment, <a href="/wiki/Diesel_engine" title="Diesel engine">diesel engines</a>, <a href="/wiki/Car" title="Car">automobiles</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Services</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Financial_services" title="Financial services">Financial services</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_dollar" title="United States dollar">US$</a>37.357 billion (2018)<sup id="cite_ref-yahoo2016_2-0" class="reference"><a href="#cite_note-yahoo2016-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$4.053 billion (2017)<sup id="cite_ref-yahoo2016_2-1" class="reference"><a href="#cite_note-yahoo2016-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$2.159 billion (2017)<sup id="cite_ref-yahoo2016_2-2" class="reference"><a href="#cite_note-yahoo2016-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$65.786 billion (2017)<sup id="cite_ref-yahoo2016_2-3" class="reference"><a href="#cite_note-yahoo2016-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$9.557 billion (2017)<sup id="cite_ref-yahoo2016_2-4" class="reference"><a href="#cite_note-yahoo2016-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">74,412 (2018)<sup id="cite_ref-yahoo2016_2-5" class="reference"><a href="#cite_note-yahoo2016-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://deere.com">deere<wbr></wbr>.com</a></span></td></tr></tbody></table><p>Deere &amp; Company is listed on the <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">New York Stock Exchange</a> under the symbol DE.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The company's slogan is "Nothing Runs Like a Deere", and its logo is a leaping <a href="/wiki/Deer" title="Deer">deer</a>, with the words 'JOHN DEERE' under it. Various logos incorporating a leaping deer have been used by the company for over 155 years.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#19th_century"><span class="tocnumber">1</span> <span class="toctext">19th century</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#20th_century"><span class="tocnumber">2</span> <span class="toctext">20th century</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#21st_century"><span class="tocnumber">3</span> <span class="toctext">21st century</span></a>
+<ul><li class="toclevel-2 tocsection-4"><a href="#Use_of_the_Digital_Millennium_Copyright_Act_to_prevent_user_repairs"><span class="tocnumber">3.1</span> <span class="toctext">Use of the Digital Millennium Copyright Act to prevent user repairs</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-5"><a href="#Products"><span class="tocnumber">4</span> <span class="toctext">Products</span></a>
+<ul><li class="toclevel-2 tocsection-6"><a href="#Agricultural_equipment"><span class="tocnumber">4.1</span> <span class="toctext">Agricultural equipment</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Construction_equipment"><span class="tocnumber">4.2</span> <span class="toctext">Construction equipment</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Forestry_equipment"><span class="tocnumber">4.3</span> <span class="toctext">Forestry equipment</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Other_products"><span class="tocnumber">4.4</span> <span class="toctext">Other products</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-10"><a href="#Factories"><span class="tocnumber">5</span> <span class="toctext">Factories</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Equipment_divisions"><span class="tocnumber">6</span> <span class="toctext">Equipment divisions</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Subsidiaries_and_affiliates"><span class="tocnumber">7</span> <span class="toctext">Subsidiaries and affiliates</span></a>
+<ul><li class="toclevel-2 tocsection-13"><a href="#Current"><span class="tocnumber">7.1</span> <span class="toctext">Current</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Former"><span class="tocnumber">7.2</span> <span class="toctext">Former</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-15"><a href="#Finances"><span class="tocnumber">8</span> <span class="toctext">Finances</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#In_popular_culture"><span class="tocnumber">9</span> <span class="toctext">In popular culture</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Sponsorships"><span class="tocnumber">10</span> <span class="toctext">Sponsorships</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Green_Magazine"><span class="tocnumber">11</span> <span class="toctext"><i>Green Magazine</i></span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">12</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">13</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Sources"><span class="tocnumber">14</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#External_links"><span class="tocnumber">15</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="19th_century">19th century</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=1" title="Edit section: 19th century" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<table class="box-More_citations_needed_section plainlinks metadata ambox mbox-small-left ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.  <small class="date-container"><i>(<span class="date">April 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p>Deere &amp; Company began when <a href="/wiki/John_Deere_(inventor)" title="John Deere (inventor)">John Deere</a>, born in <a href="/wiki/Rutland_(town),_Vermont" title="Rutland (town), Vermont">Rutland, Vermont</a>, United States on February 7, 1804, moved to <a href="/wiki/Grand_Detour,_Illinois" title="Grand Detour, Illinois">Grand Detour, Illinois</a> in 1836 to escape <a href="/wiki/Bankruptcy_in_the_United_States" title="Bankruptcy in the United States">bankruptcy</a> in <a href="/wiki/Vermont" title="Vermont">Vermont</a>. Already an established <a href="/wiki/Blacksmith" title="Blacksmith">blacksmith</a>, Deere opened a 1,378-square-foot (128 m<sup>2</sup>) shop in Grand Detour in 1837, which allowed him to serve as a general repairman in the village, as well as a manufacturer of tools such as pitchforks and shovels.
+Tools were just a start; the item that set him apart was the self-scouring steel plow, which was pioneered in 1837 when John Deere fashioned a Scottish steel saw blade into a plow. Prior to Deere's steel plow, most farmers used iron or wooden plows to which the rich Midwestern soil stuck, so they had to be cleaned frequently. The smooth-sided steel plow solved this problem, and greatly aided migration into the American Great Plains in the 19th and early 20th centuries.
+</p><p>The traditional way of doing business was to make the product as and when it was ordered. This style was very slow, As Deere realized that this was not going to be a viable business model, he increased the rate of production by manufacturing plows before putting them up for sale; this allowed customers to not only see what they were buying beforehand, but also allowed his customers to purchase his products straight away. Word of his products began to spread quickly.
+</p><p>In 1842, Deere entered a business partnership with Leonard Andrus and purchased land for the construction of a new, two-story factory along the <a href="/wiki/Rock_River_(Mississippi_River)" class="mw-redirect" title="Rock River (Mississippi River)">Rock River</a> in Illinois. This factory, named the "L. Andrus Plough Manufacturer", produced about 100 plows in 1842 and around 400 plows during the next year. Deere's partnership with Andrus ended in 1848, and Deere relocated to <a href="/wiki/Moline,_Illinois" title="Moline, Illinois">Moline, Illinois</a>, to have access to the railroad and the <a href="/wiki/Mississippi_River" title="Mississippi River">Mississippi River</a>. There, Deere formed a partnership with Robert Tate and John Gould and built a 1,440-square-foot (134 m<sup>2</sup>) factory the same year. Production rose quickly, and by 1849, the Deere, Tate &amp; Gould Company was producing over 200 plows a month. A two-story addition to the plant was built, allowing further production.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:John_Deere_logo_1876-1912.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/John_Deere_logo_1876-1912.jpg/200px-John_Deere_logo_1876-1912.jpg" decoding="async" width="200" height="95" class="thumbimage" data-file-width="631" data-file-height="301"></noscript><span class="lazy-image-placeholder" style="width: 200px;height: 95px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/John_Deere_logo_1876-1912.jpg/200px-John_Deere_logo_1876-1912.jpg" data-alt="" data-width="200" data-height="95" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:John_Deere_logo_1876-1912.jpg" class="internal" title="Enlarge"></a></div>Company logo used between 1876 and 1912</div></div></div>
+<p>Deere bought out Tate and Gould's interests in the company in 1853, and was joined in the business by his son <a href="/wiki/Charles_Deere" class="mw-redirect" title="Charles Deere">Charles Deere</a>. At that time, the company was manufacturing a variety of farm equipment products in addition to plows, including wagons, corn planters, and cultivators. In 1857, the company's production totals reached almost 1,120 implements per month. In 1858, a nationwide financial recession took a toll on the company. To prevent bankruptcy, the company was reorganized and Deere sold his interests in the business to his son-in-law, Christopher Webber, and his son, Charles Deere, who would take on most of his father's managerial roles. John Deere served as president of the company until 1886. The company was reorganized again in 1868, when it was incorporated as Deere &amp; Company. While the company's original stockholders were Charles Deere, Stephen Velie, George Vinton, and John Deere, Charles effectively ran the company. In 1869, Charles began to introduce marketing centers and independent retail dealers to advance the company's sales nationwide. This same year, Deere &amp; Company won "Best and Greatest Display of Plows in Variety" at the 17th Annual <a href="/wiki/Illinois_State_Fair" title="Illinois State Fair">Illinois State Fair</a>, for which it won $10 and a Silver Medal.<sup id="cite_ref-Reynolds_6-0" class="reference"><a href="#cite_note-Reynolds-6">[6]</a></sup></p><p>The core focus remained on the agricultural implements, but John Deere also made a few bicycles in the 1890s.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="20th_century">20th century</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=2" title="Edit section: 20th century" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<div class="thumb tleft"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:NOLA1903JohnDeerePlowHouse.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/NOLA1903JohnDeerePlowHouse.jpg/170px-NOLA1903JohnDeerePlowHouse.jpg" decoding="async" width="170" height="194" class="thumbimage" data-file-width="526" data-file-height="600"></noscript><span class="lazy-image-placeholder" style="width: 170px;height: 194px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/NOLA1903JohnDeerePlowHouse.jpg/170px-NOLA1903JohnDeerePlowHouse.jpg" data-alt="" data-width="170" data-height="194" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:NOLA1903JohnDeerePlowHouse.jpg" class="internal" title="Enlarge"></a></div>John Deere Plow &amp; Cultivators Co.'s <a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a> House, 1903</div></div></div>
+<p>Increased competition during the early <a href="/wiki/1900s_(decade)" title="1900s (decade)">1900s</a> from the new <a href="/wiki/International_Harvester_Company" class="mw-redirect" title="International Harvester Company">International Harvester Company</a> led the company to expand its offerings in the implement business, but the production of gasoline tractors came to define Deere &amp; Company's operations during the 20th century.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:John_Deere_logo_1912-1936.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/John_Deere_logo_1912-1936.jpg/200px-John_Deere_logo_1912-1936.jpg" decoding="async" width="200" height="125" class="thumbimage" data-file-width="736" data-file-height="459"></noscript><span class="lazy-image-placeholder" style="width: 200px;height: 125px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/John_Deere_logo_1912-1936.jpg/200px-John_Deere_logo_1912-1936.jpg" data-alt="" data-width="200" data-height="125" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:John_Deere_logo_1912-1936.jpg" class="internal" title="Enlarge"></a></div>Company logo used between 1912 and 1936</div></div></div> 
+<p>In 1912, Deere &amp; Company president <a href="/wiki/William_Butterworth_(businessman)" title="William Butterworth (businessman)">William Butterworth</a> (Charles' son-in-law), who had replaced Charles Deere after his death in 1907, began the company's expansion into the tractor business. Deere &amp; Company briefly experimented with its own tractor models, the most successful of which was the Dain All-Wheel-Drive, but in the end decided to continue its foray into the tractor business by purchasing the <a href="/wiki/Waterloo_Gasoline_Engine_Company" title="Waterloo Gasoline Engine Company">Waterloo Gasoline Engine Company</a> in 1918, which manufactured the popular <a href="/wiki/Waterloo_Boy" class="mw-redirect" title="Waterloo Boy">Waterloo Boy</a> tractor at its facilities in <a href="/wiki/Waterloo,_Iowa" title="Waterloo, Iowa">Waterloo, Iowa</a>. Deere &amp; Company continued to sell tractors under the Waterloo Boy name until 1923, when the <a rel="nofollow" class="external text" href="http://www.tractordata.com/farm-tractors/000/0/2/23-john-deere-d.html">John Deere Model D</a> was introduced. The company continues to manufacture a large percentage of its tractors in Waterloo, Iowa, namely the 7R, 8R, and 9R series.
+</p><p>The company produced its first combine harvester, the John Deere No. 2, in 1927. A year later, this innovation was followed up by the introduction of John Deere No. 1, a smaller machine that was more popular with customers. By 1929, the No. 1 and No. 2 were replaced by newer, lighter-weight harvesters. In the 1930s, John Deere and other farm equipment manufacturers began developing hillside harvesting technology. Harvesters now had the ability to effectively use their combines to harvest grain on hillsides with up to a 50% slope gradient.<sup id="cite_ref-blog.machinefinder.com_8-0" class="reference"><a href="#cite_note-blog.machinefinder.com-8">[8]</a></sup></p><p>On an episode of the <a href="/wiki/Travel_Channel" title="Travel Channel">Travel Channel</a> series <i>Made in America</i> that profiled Deere &amp; Company, host <a href="/wiki/John_Ratzenberger" title="John Ratzenberger">John Ratzenberger</a> stated that the company never <a href="/wiki/Repossession" title="Repossession">repossessed</a> any equipment from American farmers during the <a href="/wiki/Great_Depression" title="Great Depression">Great Depression</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p><p>During World War II, the great-grandson of John Deere, Charles Deere Wiman, was president of the company, but he accepted a commission as a <a href="/wiki/Colonel" title="Colonel">colonel</a> in the U.S. Army. A replacement was hired and before returning to work at the company in late 1944, Wiman directed the farm machinery and equipment division of the <a href="/wiki/War_Production_Board" title="War Production Board">War Production Board</a>.<sup id="cite_ref-machinefinder_10-0" class="reference"><a href="#cite_note-machinefinder-10">[10]</a></sup> In addition to farm machinery, John Deere manufactured military tractors, and transmissions for the <a href="/wiki/M3_Grant" class="mw-redirect" title="M3 Grant">M3 tank</a>. They also made aircraft parts, ammunition, and mobile laundry units to support the war effort.<sup id="cite_ref-livinghistoryfarm_11-0" class="reference"><a href="#cite_note-livinghistoryfarm-11">[11]</a></sup></p><p>In 1947, John Deere introduced its first self-propelled combine, the model 55. It was soon followed by the smaller models 40 and 45, the larger model 95, and an even larger model 105 was introduced in the 1960s. In the mid-1950s, Deere introduced attachable corn heads, allowing crop producers to cut, shell, and clean corn in one smooth operation.<sup id="cite_ref-blog.machinefinder.com_8-1" class="reference"><a href="#cite_note-blog.machinefinder.com-8">[8]</a></sup></p><p>In 1956, Deere &amp; Company bought-out the German tractor manufacturer, <a href="/wiki/Heinrich_Lanz_AG" title="Heinrich Lanz AG">Heinrich Lanz AG</a> (see <a href="/wiki/Lanz_Bulldog" title="Lanz Bulldog">Lanz Bulldog</a>).
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:John_Deere-Lanz_700.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/John_Deere-Lanz_700.jpg/220px-John_Deere-Lanz_700.jpg" decoding="async" width="220" height="165" class="thumbimage" data-file-width="2272" data-file-height="1704"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 165px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/John_Deere-Lanz_700.jpg/220px-John_Deere-Lanz_700.jpg" data-alt="" data-width="220" data-height="165" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:John_Deere-Lanz_700.jpg" class="internal" title="Enlarge"></a></div>A John Deere-Lanz <i>700</i> tractor</div></div></div>
+<p>In the last months of 1958, John Deere constructed a factory in northern Rosario, Argentina.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> In Argentina, the make was managed by Agar Cross &amp; Co.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+John Deere made in Argentina the following models of tractors: 445,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> 730;<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> the models of the serie 20 like 1420,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> 2420,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> 3420, 4420;<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> the models of the serie 30 like 2330,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> 2530, 2730,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> 3330,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> 3530,<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> 4530;<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> the models of the serie 40 like 2140,<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> 3140 / 3140 DT, 3440,<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> 3540<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> and the last made in Baigorria of the serie 50 like 2850, 3350, 3550<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> until 1994.
+Seventeen years later, (in 2011) the argentinian plant returns the assembly of tractors with the following models: 5036C, 5045D (45 HP) Serie 5D, 5045E (45 HP) Serie 5E, 5065E (65 HP) Serie 5E, 5075E (75 HP) Serie 5E, 5425N (77 HP) Serie 5000, 5725 (92 HP) Serie 5025, 5725HC (92 HP) Serie 5025, 5090E, 5090EH, 5076EF, 6110J, 6130J, 6145J and 6165J.
+</p><p>Plus, in 2012, added in SKD/CKD format, the assembly of combine harvesters 9570 STS Serie 70, 9470 STS, 9670 STS and 9770 STS.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></p><p>Also with the green line, the argentinian facility made some backhoe loaders and motor graders like 570 A/B,<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> 544 A/B,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> 507, 308, 200<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> and the 627, 727 model tractors.
+</p><p>On August 30, 1960, John Deere dealers from around the world converged on Dallas, Texas, for an unprecedented product showcase. Deere Day in Dallas, as the event was called, introduced the world to the "New Generation of Power", the company's first modern four-cylinder and six-cylinder tractors, during a day packed with high-tech presentations, live demonstrations, and a parking lot full of brand-new green and yellow machines. The line of tractors introduced that day was five years in the making, and the event itself took months to plan. Deere chose Dallas to host the event partly because it was home to facilities large enough to accommodate the 6,000 guests and the equipment they were all there to see. The <a href="/wiki/Dallas_Memorial_Auditorium" class="mw-redirect" title="Dallas Memorial Auditorium">Dallas Memorial Auditorium</a>, the <a href="/wiki/Texas_State_Fairgrounds" class="mw-redirect" title="Texas State Fairgrounds">Texas State Fairgrounds</a> Coliseum, the <a href="/wiki/Cotton_Bowl_(stadium)" title="Cotton Bowl (stadium)">Cotton Bowl</a>, and the Cotton Bowl parking lot were each the site of part of the event. During the event, a new John Deere tractor with a diamond-covered nameplate was displayed for all to see inside <a href="/wiki/Neiman-Marcus" class="mw-redirect" title="Neiman-Marcus">Neiman-Marcus</a>, a popular Dallas-based department store.
+</p><p>According to information released by the company at the time of the event, John Deere dealers and key employees came to Dallas via the "largest commercial airlift of its type ever attempted." During the 24 hours leading up to the event, 16 airlines brought Deere employees and sales people from all over the United States and Canada to <a href="/wiki/Dallas_Love_Field" title="Dallas Love Field">Love Field</a> in Dallas. Bill Hewitt, then chairman and CEO of Deere &amp; Company, welcomed the dealers and introduced the new tractors. Hewitt told the guests they were about to see "a line
+of entirely new tractors – completely modern in every respect – with outstanding features not duplicated in any other make of tractor."
+</p><p>Since entering the tractor business in 1918, John Deere had focused on two-cylinder machines. The New Generation of Power introduced at Deere Day in Dallas was very different from anything Deere had built before. The new line of four- and six-cylinder tractors, the models 1010, 2010, 3010, and 4010, were more far more powerful than Deere's two-cylinder models, and also easier and more comfortable to operate, with conveniently located controls, better visibility, and improved seat suspension. These new tractors were also easier to service.<sup id="cite_ref-deere_32-0" class="reference"><a href="#cite_note-deere-32">[32]</a></sup></p><p>The <a href="/wiki/John_Deere_4010" title="John Deere 4010">4010</a> was rated at 80 horsepower in 1960, but tested at 84 horsepower during testing trials, making it one of the most powerful two-wheel-drive farm tractors at that time. The 4010 was the predecessor to the <a href="/wiki/John_Deere_4020" class="mw-redirect" title="John Deere 4020">4020</a>, which is widely regarded as the most popular tractor ever produced by John Deere, and perhaps any tractor manufacturer in the United States. Although the 4020, which was available with Deere's optional <a href="/wiki/John_Deere_Powershift_transmission" title="John Deere Powershift transmission">Power Shift</a>, enjoyed greater popularity, the 4010 moved John Deere into the modern era of farm tractor technology and design following its successful history as a tractor manufacturer that was by the late 1950s experiencing waning market share due to its outdated technology.
+</p><p>In addition to the advanced engine technology, the "10" series tractors offered many other upgrades from the older two-cylinder models they replaced, including significantly higher horsepower-to-weight ratio, advanced hydraulics, more convenient and comfortable operator stations, and many other improvements. Of the "10" series John Deere tractors introduced in 1960, the 4010 was by far the most popular, with more than 58,000 units sold from 1960 to 1963. The success of the "10" series John Deere tractors, led by the 4010, helped propel John Deere from a 23% market share in 1959 to 34% by 1964 when the 4020 was introduced, making it the top manufacturer of farm equipment in the United States.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></p><p>In 1973, Deere introduced its new 'Sound Idea' tractors, the 4030, 4230, 4430, and 4630. While these tractors were mechanically similar to the New Generation tractors they replaced, and the 4230, 4430, and 4630 used a 404-cubic-inch displacement engine like the 4020, they featured redesigned sheet metal and most importantly they were available with an optional completely integrated operator's cab that John Deere called the Sound Gard body.  This insulated cab that included a roll-over protective structure had a distinctive rounded windshield and came equipped with heat and air conditioning, as well as speakers for an optional radio. An <a href="/wiki/8-track_tape" title="8-track tape">8-track tape</a> player was also available as an option.  The 5020 was replaced by the very similar 6030 and continued in production with New Generation styling until 1977 when the 30 Series tractors were replaced by Deere's 'Iron Horses' series that included the 90-hp 4040, 110-hp 4240, 130-hp 4440, 150-HP 4640, and 180-hp 4840.  The 4240, 4440, 4640, and 4840 featured a new 466-cubic-inch displacement engine, and improvements to the cab including an optional hydraulic seat for a smoother ride. The Sound Gard body and Power Shift transmission were standard equipment on the 4840.
+</p><p>In 1983, Deere introduced the 4050, 4250, 4450, 4650, and 4850.  These tractors were essentially the same machines as the Iron Horses they replaced, but with significant upgrades. They offered a new 15-speed Power Shift transmission, and were available with optional mechanical front-wheel drive featuring caster action for better traction and a tighter turning radius.  They also featured cosmetic upgrades, including a new light brown cab interior, instead of the black interior on previous models. These tractors were followed by the mechanically similar 55 and 60 series tractors before they were replaced by the Deere's completely redesigned 7000 and 8000 series tractors in the early 1990s.
+</p><p>In the 1962 Illinois Manufacturers Directory (50th anniversary edition), John Deere, listed as Deere and Company, claimed a total work force of 35,000, of which 9,000 were in Illinois. The corporate headquarters were located at 1325 Third Ave. in Moline, Illinois, with six manufacturing plants located around that city and a seventh plant in Hoopston, Illinois. The six plants in Moline were listed as:
+</p>
+<ul><li>John Deere Harvester Works at 1100 - 13th Ave., East Moline, where 3,000 employees made agricultural implements</li>
+<li>John Deere Industrial Equipment Works at 301 Third Ave., Moline, where 500 employees made earth-moving equipment</li>
+<li>John Deere Malleable Works at 1335-13th Street, East Moline, where 600 employees made malleable and nodular iron castings</li>
+<li>John Deere Planter Works at 501 Third Ave., Moline, where 1,000 employees made agricultural implements *John Deere Plow Works at 1225 Third Ave., Moline, where 1,100 employees made agricultural implements</li>
+<li>John Deere Spreader Works at 1209-13th Ave., Moline where 800 employees made agricultural implements</li></ul><p>The John Deere Vermilion Works was located at North Sixth Ave., Hoopston, Illinois, where 140 employees were listed as making iron work and implement parts. Moline, with 42,705 residents in 1962, had the local 7,000 employees of John Deere represent 16% of the city's entire population.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></p><p>In 1969, John Deere followed its New Generation tractors of the 1960s with a New Generation of combines. These included the 3300, 4400, 6600, and 7700. These models were also the first to come with Quik-Tatch header mounting capabilities as standard equipment. In the 1980s, these combines were followed by the 4420, 6620, 7720, and 8820 that were essentially updated and improved versions of the previous models with larger capacity, a nicer cab, and easier maintenance and service. The 4420 was discontinued in 1984 and replaced by the 4425 combine imported from Germany, and the 6620, 7720, and 8820 received the Titan II updates.
+</p><p>In 1989, Deere replaced the 6620, 7720, and 8820 with a new line of completely redesigned 'Maximizer' combines that included the 9400, 9500, and 9600 walker combines. These combines featured a center-mounted cab, rear-mounted engine, and more comforts in the cab. Also in 1989, Deere was inducted into the <a href="/wiki/National_Inventors_Hall_of_Fame" title="National Inventors Hall of Fame">National Inventors Hall of Fame</a>. In 1997, Deere celebrated 50 years of self-propelled combine production, and the 1997 models featured a 50th-anniversary decal. In 1998, the 9410, 9510, and 9610 were introduced. These were essentially the same machines, but with minor upgrades. Deere dealers offered '10 series' upgrades to owners of older 9000 series Maximizer combines. In 1999, Deere introduced the 50 series Maximizer combines. These machines featured significant cosmetic upgrades including a more streamlined appearance, improved ergonomics in the cab, <a href="/wiki/Power_take-off" title="Power take-off">PTO</a> shaft-style header hook-up, and the larger models were available as rotary machines which were a complete departure from the combines that Deere had built in the past.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></p><p>In the late 1970s, <a href="/wiki/International_Harvester" title="International Harvester">International Harvester</a> had pioneered rotary combines with their <a href="/wiki/Axial_flow" class="mw-redirect" title="Axial flow">Axial flow</a> machines, and were soon followed by other manufacturers, but Deere continued to build only conventional walker combines through the 1980s and 1990s. In 1999, John Deere introduced the Single-Tine Separation (STS) system on its 9550, 9650, and 9750 combines, representing a step forward in rotary combine technology. The STS system uses less horsepower and improves material handling.<sup id="cite_ref-blog.machinefinder.com_8-2" class="reference"><a href="#cite_note-blog.machinefinder.com-8">[8]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="21st_century">21st century</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=3" title="Edit section: 21st century" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>As of 2018<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=John_Deere&amp;action=edit">[update]</a></sup>, Deere &amp; Company employed about 67,000 people worldwide, of which half are in the United States and Canada, and is the largest agriculture machinery company in the world. In August 2014, the company announced it was indefinitely laying off 600 of its workers at plants in Illinois, Iowa, and Kansas due to less demand for its products.<sup id="cite_ref-DeereJobs_38-0" class="reference"><a href="#cite_note-DeereJobs-38">[38]</a></sup> Inside the United States, the company's primary locations are its administrative center in <a href="/wiki/Moline,_Illinois" title="Moline, Illinois">Moline, Illinois</a>, and manufacturing factories in central and southeastern United States.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> As of 2016<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=John_Deere&amp;action=edit">[update]</a></sup>, the company experiments with <a href="/wiki/Electric_vehicle#On-_and_off-road_EVs" title="Electric vehicle">an electric farm tractor</a>.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></p><p>The logo of the leaping deer has been used by this company for over 155 years. Over the years, the logo has had minor changes and pieces removed. Some of the older style logos have the deer leaping over a log.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup> The company uses different logo colors for agricultural vs. construction products. The company's agricultural products are identifiable by a distinctive shade of green paint, with the inside border being yellow. While the construction products are identifiable by a shade of black with the deer being yellow, and the inside border also being yellow.
+</p><p>In September 2017, Deere &amp; Company signed a definitive agreement to acquire Blue River Technology, which is based in Sunnyvale, California and is a leader in applying <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a> to agriculture. Blue River has designed and integrated computer vision and machine learning technology that will enable growers to reduce the use of herbicides by spraying only where weeds are present, optimizing the use of inputs in farming.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup></p><p>On August 29, 2019,<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup> it was announced that <a href="/wiki/Samuel_R._Allen" title="Samuel R. Allen">Samuel R. Allen</a> will step down as CEO and president of John Deere. John May, president of the Worldwide Agriculture and Turf and Integrated Solutions divisions will replace him in November 2019.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Use_of_the_Digital_Millennium_Copyright_Act_to_prevent_user_repairs">Use of the Digital Millennium Copyright Act to prevent user repairs</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=4" title="Edit section: Use of the Digital Millennium Copyright Act to prevent user repairs" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>John Deere's license covering the internal software on tractor control computers does not allow users to modify the software. This prevents <a href="/wiki/Repairs" class="mw-redirect" title="Repairs">repairs</a> by farmers and creates a monopoly for John Deere dealerships.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup> John Deere claims user repair is forbidden by the <a href="/wiki/Digital_Millennium_Copyright_Act" title="Digital Millennium Copyright Act">Digital Millennium Copyright Act</a>, through bypassing of <a href="/wiki/Digital_rights_management" title="Digital rights management">digital rights management</a>.<sup id="cite_ref-Wired_2015-04-21_46-0" class="reference"><a href="#cite_note-Wired_2015-04-21-46">[46]</a></sup> Groups including the <a href="/wiki/Electronic_Frontier_Foundation" title="Electronic Frontier Foundation">Electronic Frontier Foundation</a> have criticised this activity.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup>  Some farmers use Ukrainian versions of John Deere software to circumvent restrictions on repair.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=5" title="Edit section: Products" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<p>John Deere manufactures a wide range of products, with several models of each in many cases.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Agricultural_equipment">Agricultural equipment</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=6" title="Edit section: Agricultural equipment" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Agricultural products include, among others, tractors, combine harvesters, cotton harvesters, balers, planters/seeders, silage machines, and sprayers.
+</p>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_John_Deere_tractors" title="List of John Deere tractors">List of John Deere tractors</a></div>
+<ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 192px"><div style="width: 192px">
+			<div class="thumb" style="width: 190px;"><div style="margin:0px auto;"><a href="/wiki/File:John_Deere_8345_R.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/John_Deere_8345_R.jpg/285px-John_Deere_8345_R.jpg" decoding="async" width="190" height="120" data-file-width="2790" data-file-height="1764"></noscript><span class="lazy-image-placeholder" style="width: 190px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/John_Deere_8345_R.jpg/285px-John_Deere_8345_R.jpg" data-alt="" data-width="190" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Tractor" title="Tractor">Tractor</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 215.33333333333px"><div style="width: 215.33333333333px">
+			<div class="thumb" style="width: 213.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/File:John_Deere_9630T_Iowa.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/John_Deere_9630T_Iowa.jpg/320px-John_Deere_9630T_Iowa.jpg" decoding="async" width="214" height="120" data-file-width="1024" data-file-height="576"></noscript><span class="lazy-image-placeholder" style="width: 214px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/John_Deere_9630T_Iowa.jpg/320px-John_Deere_9630T_Iowa.jpg" data-alt="" data-width="214" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Tractor" title="Tractor">Tracked tractor</a> (<a href="/wiki/John_Deere_9630" title="John Deere 9630">9630T</a>)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 162px"><div style="width: 162px">
+			<div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="/wiki/File:John_Deere_663_front_loader,_parked.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Deere_663_front_loader%2C_parked.jpg/240px-John_Deere_663_front_loader%2C_parked.jpg" decoding="async" width="160" height="120" data-file-width="3264" data-file-height="2448"></noscript><span class="lazy-image-placeholder" style="width: 160px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Deere_663_front_loader%2C_parked.jpg/240px-John_Deere_663_front_loader%2C_parked.jpg" data-alt="" data-width="160" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Loader_(equipment)" title="Loader (equipment)">FEL attachment</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 162px"><div style="width: 162px">
+			<div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="/wiki/File:John_Deere_2266_Extra_1.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/John_Deere_2266_Extra_1.jpg/240px-John_Deere_2266_Extra_1.jpg" decoding="async" width="160" height="120" data-file-width="3200" data-file-height="2400"></noscript><span class="lazy-image-placeholder" style="width: 160px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/John_Deere_2266_Extra_1.jpg/240px-John_Deere_2266_Extra_1.jpg" data-alt="" data-width="160" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Combine_harvester" title="Combine harvester">Combine</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 162px"><div style="width: 162px">
+			<div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="/wiki/File:JohnDeere7450s.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/JohnDeere7450s.jpg/240px-JohnDeere7450s.jpg" decoding="async" width="160" height="120" data-file-width="2592" data-file-height="1944"></noscript><span class="lazy-image-placeholder" style="width: 160px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/JohnDeere7450s.jpg/240px-JohnDeere7450s.jpg" data-alt="" data-width="160" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Forage_harvester" title="Forage harvester">Forage harvester</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 181.33333333333px"><div style="width: 181.33333333333px">
+			<div class="thumb" style="width: 179.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/File:Baumwoll-Erntemaschine_auf_Feld.jpeg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Baumwoll-Erntemaschine_auf_Feld.jpeg/269px-Baumwoll-Erntemaschine_auf_Feld.jpeg" decoding="async" width="180" height="120" data-file-width="2700" data-file-height="1805"></noscript><span class="lazy-image-placeholder" style="width: 180px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Baumwoll-Erntemaschine_auf_Feld.jpeg/269px-Baumwoll-Erntemaschine_auf_Feld.jpeg" data-alt="" data-width="180" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Cotton_picker" title="Cotton picker">Cotton picker</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 182px"><div style="width: 182px">
+			<div class="thumb" style="width: 180px;"><div style="margin:0px auto;"><a href="/wiki/File:Sugarcane_harvesting_equipment_Piracicaba_05_2009_5845.JPG" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sugarcane_harvesting_equipment_Piracicaba_05_2009_5845.JPG/270px-Sugarcane_harvesting_equipment_Piracicaba_05_2009_5845.JPG" decoding="async" width="180" height="120" data-file-width="1200" data-file-height="800"></noscript><span class="lazy-image-placeholder" style="width: 180px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sugarcane_harvesting_equipment_Piracicaba_05_2009_5845.JPG/270px-Sugarcane_harvesting_equipment_Piracicaba_05_2009_5845.JPG" data-alt="" data-width="180" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Sugarcane_harvester" title="Sugarcane harvester">Sugarcane harvester</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 178.66666666667px"><div style="width: 178.66666666667px">
+			<div class="thumb" style="width: 176.66666666667px;"><div style="margin:0px auto;"><a href="/wiki/File:JohnDeere_750A.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/JohnDeere_750A.jpg/265px-JohnDeere_750A.jpg" decoding="async" width="177" height="120" data-file-width="2466" data-file-height="1679"></noscript><span class="lazy-image-placeholder" style="width: 177px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/JohnDeere_750A.jpg/265px-JohnDeere_750A.jpg" data-alt="" data-width="177" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Seed_drill" title="Seed drill">Seed drill</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 182.66666666667px"><div style="width: 182.66666666667px">
+			<div class="thumb" style="width: 180.66666666667px;"><div style="margin:0px auto;"><a href="/wiki/File:John_Deere_Sprayers.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/John_Deere_Sprayers.jpg/271px-John_Deere_Sprayers.jpg" decoding="async" width="181" height="120" data-file-width="4288" data-file-height="2848"></noscript><span class="lazy-image-placeholder" style="width: 181px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/John_Deere_Sprayers.jpg/271px-John_Deere_Sprayers.jpg" data-alt="" data-width="181" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Sprayer" title="Sprayer">Field sprayer</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 160.66666666667px"><div style="width: 160.66666666667px">
+			<div class="thumb" style="width: 158.66666666667px;"><div style="margin:0px auto;"><a href="/wiki/File:Loading_hay_bales_-_geograph.org.uk_-_901170.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Loading_hay_bales_-_geograph.org.uk_-_901170.jpg/238px-Loading_hay_bales_-_geograph.org.uk_-_901170.jpg" decoding="async" width="159" height="120" data-file-width="640" data-file-height="485"></noscript><span class="lazy-image-placeholder" style="width: 159px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Loading_hay_bales_-_geograph.org.uk_-_901170.jpg/238px-Loading_hay_bales_-_geograph.org.uk_-_901170.jpg" data-alt="" data-width="159" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Telescopic_handler" title="Telescopic handler">Telescopic handler</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 182px"><div style="width: 182px">
+			<div class="thumb" style="width: 180px;"><div style="margin:0px auto;"><a href="/wiki/File:John_Deere_Horse_Drawn_Manure_Spreader_Canton_Michigan.JPG" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/John_Deere_Horse_Drawn_Manure_Spreader_Canton_Michigan.JPG/270px-John_Deere_Horse_Drawn_Manure_Spreader_Canton_Michigan.JPG" decoding="async" width="180" height="120" data-file-width="4752" data-file-height="3168"></noscript><span class="lazy-image-placeholder" style="width: 180px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/John_Deere_Horse_Drawn_Manure_Spreader_Canton_Michigan.JPG/270px-John_Deere_Horse_Drawn_Manure_Spreader_Canton_Michigan.JPG" data-alt="" data-width="180" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>Horse-drawn <a href="/wiki/Manure_spreader" title="Manure spreader">manure spreader</a>
+</p>
+			</div>
+		</div></li>
+</ul><h3 class="in-block"><span class="mw-headline" id="Construction_equipment">Construction equipment</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=7" title="Edit section: Construction equipment" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Construction equipment includes:
+</p>
+<ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 182px"><div style="width: 182px">
+			<div class="thumb" style="width: 180px;"><div style="margin:0px auto;"><a href="/wiki/File:Excavator_(John_Deere).jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Excavator_%28John_Deere%29.jpg/270px-Excavator_%28John_Deere%29.jpg" decoding="async" width="180" height="120" data-file-width="5616" data-file-height="3744"></noscript><span class="lazy-image-placeholder" style="width: 180px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Excavator_%28John_Deere%29.jpg/270px-Excavator_%28John_Deere%29.jpg" data-alt="" data-width="180" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Excavator" title="Excavator">Excavator</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 162px"><div style="width: 162px">
+			<div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="/wiki/File:John_Deere_loader_(1).jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/John_Deere_loader_%281%29.jpg/240px-John_Deere_loader_%281%29.jpg" decoding="async" width="160" height="120" data-file-width="3072" data-file-height="2304"></noscript><span class="lazy-image-placeholder" style="width: 160px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/John_Deere_loader_%281%29.jpg/240px-John_Deere_loader_%281%29.jpg" data-alt="" data-width="160" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Loader_(equipment)" title="Loader (equipment)">Loader</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 182px"><div style="width: 182px">
+			<div class="thumb" style="width: 180px;"><div style="margin:0px auto;"><a href="/wiki/File:Blair_Lakes_Range_in_1973.JPEG" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Blair_Lakes_Range_in_1973.JPEG/270px-Blair_Lakes_Range_in_1973.JPEG" decoding="async" width="180" height="120" data-file-width="2830" data-file-height="1890"></noscript><span class="lazy-image-placeholder" style="width: 180px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Blair_Lakes_Range_in_1973.JPEG/270px-Blair_Lakes_Range_in_1973.JPEG" data-alt="" data-width="180" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Tracked_loader" title="Tracked loader">Tracked loader</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 182px"><div style="width: 182px">
+			<div class="thumb" style="width: 180px;"><div style="margin:0px auto;"><a href="/wiki/File:John_Deere_110_Backhoe.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/John_Deere_110_Backhoe.jpg/270px-John_Deere_110_Backhoe.jpg" decoding="async" width="180" height="120" data-file-width="2816" data-file-height="1880"></noscript><span class="lazy-image-placeholder" style="width: 180px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/John_Deere_110_Backhoe.jpg/270px-John_Deere_110_Backhoe.jpg" data-alt="" data-width="180" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Backhoe" title="Backhoe">Backhoe</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 182px"><div style="width: 182px">
+			<div class="thumb" style="width: 180px;"><div style="margin:0px auto;"><a href="/wiki/File:2008-08-12_John_Deere_280_(right).jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2008-08-12_John_Deere_280_%28right%29.jpg/270px-2008-08-12_John_Deere_280_%28right%29.jpg" decoding="async" width="180" height="120" data-file-width="3888" data-file-height="2592"></noscript><span class="lazy-image-placeholder" style="width: 180px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2008-08-12_John_Deere_280_%28right%29.jpg/270px-2008-08-12_John_Deere_280_%28right%29.jpg" data-alt="" data-width="180" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Skid-steer" class="mw-redirect" title="Skid-steer">Skid-steer</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 183.33333333333px"><div style="width: 183.33333333333px">
+			<div class="thumb" style="width: 181.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/File:John_Deere_grader.JPEG" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/John_Deere_grader.JPEG/272px-John_Deere_grader.JPEG" decoding="async" width="182" height="120" data-file-width="2850" data-file-height="1890"></noscript><span class="lazy-image-placeholder" style="width: 182px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/John_Deere_grader.JPEG/272px-John_Deere_grader.JPEG" data-alt="" data-width="182" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Grader" title="Grader">Grader</a>
+</p>
+			</div>
+		</div></li>
+</ul><h3 class="in-block"><span class="mw-headline" id="Forestry_equipment">Forestry equipment</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=8" title="Edit section: Forestry equipment" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>John Deere manufactures a range of <a href="/wiki/Forestry" title="Forestry">forestry</a> machinery, among others, <a href="/wiki/Harvester_(forestry)" title="Harvester (forestry)">harvesters</a>, <a href="/wiki/Forwarder" title="Forwarder">forwarders</a>, <a href="/wiki/Skidder" title="Skidder">skidders</a>. <a href="/wiki/Feller_buncher" title="Feller buncher">feller bunchers</a> and <a href="/wiki/Log_loader" class="mw-redirect" title="Log loader">log loaders</a>. <a href="/wiki/Timberjack" title="Timberjack">Timberjack</a> was a subsidiary of John Deere from 2000 to 2006.
+</p>
+<ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 162px"><div style="width: 162px">
+			<div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="/wiki/File:Wheeled_Harvester_-_geograph.org.uk_-_511567.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wheeled_Harvester_-_geograph.org.uk_-_511567.jpg/240px-Wheeled_Harvester_-_geograph.org.uk_-_511567.jpg" decoding="async" width="160" height="120" data-file-width="640" data-file-height="480"></noscript><span class="lazy-image-placeholder" style="width: 160px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wheeled_Harvester_-_geograph.org.uk_-_511567.jpg/240px-Wheeled_Harvester_-_geograph.org.uk_-_511567.jpg" data-alt="" data-width="160" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Harvester_(forestry)" title="Harvester (forestry)">Harvester</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 162px"><div style="width: 162px">
+			<div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="/wiki/File:JD_kuormatraktori.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/JD_kuormatraktori.jpg/240px-JD_kuormatraktori.jpg" decoding="async" width="160" height="120" data-file-width="800" data-file-height="600"></noscript><span class="lazy-image-placeholder" style="width: 160px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/JD_kuormatraktori.jpg/240px-JD_kuormatraktori.jpg" data-alt="" data-width="160" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Forwarder" title="Forwarder">Forwarder</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 181.33333333333px"><div style="width: 181.33333333333px">
+			<div class="thumb" style="width: 179.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/File:John_Deere_648H_skidder.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Deere_648H_skidder.jpg/269px-John_Deere_648H_skidder.jpg" decoding="async" width="180" height="120" data-file-width="3872" data-file-height="2592"></noscript><span class="lazy-image-placeholder" style="width: 180px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Deere_648H_skidder.jpg/269px-John_Deere_648H_skidder.jpg" data-alt="" data-width="180" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Skidder" title="Skidder">Skidder</a>
+</p>
+			</div>
+		</div></li>
+</ul><h3 class="in-block"><span class="mw-headline" id="Other_products">Other products</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=9" title="Edit section: Other products" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The company manufactures lawn mowers and also is a manufacturer of consumer and commercial equipment, and <a href="/wiki/Snow_blower" title="Snow blower">snow throwers</a>, as well as a supplier of <a href="/wiki/Diesel_engine" title="Diesel engine">diesel engines</a> and <a href="/wiki/Powertrain" title="Powertrain">powertrains</a> (<a href="/wiki/Axle" title="Axle">axles</a>, <a href="/wiki/Transmission_(mechanics)" title="Transmission (mechanics)">transmissions</a>, etc.) used especially in heavy equipment.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2013)">citation needed</span></a></i>]</sup></p><p>Other products were/are <a href="/wiki/John_Deere_snowmobiles" title="John Deere snowmobiles">snowmobiles</a>, <a href="/wiki/All-terrain_vehicle" title="All-terrain vehicle">all-terrain vehicles</a>, and <a href="/wiki/StarFire_(navigation_system)" title="StarFire (navigation system)">StarFire</a> (a wide-area differential GPS).
+</p><p>John Deere leasing has expanded to non-equipment loans. As of 2017, this is the leading division of John Deere. With a loan portfolio of $2 billion, it accounts for a third of John Deere's income.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup></p>
+<ul class="gallery mw-gallery-packed"><li class="gallerybox" style="width: 94px"><div style="width: 94px">
+			<div class="thumb" style="width: 92px;"><div style="margin:0px auto;"><a href="/wiki/File:Lawn_mower.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lawn_mower.jpg/138px-Lawn_mower.jpg" decoding="async" width="92" height="120" data-file-width="1617" data-file-height="2105"></noscript><span class="lazy-image-placeholder" style="width: 92px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lawn_mower.jpg/138px-Lawn_mower.jpg" data-alt="" data-width="92" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Lawn_mower" title="Lawn mower">Lawn mower</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 162px"><div style="width: 162px">
+			<div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="/wiki/File:The_Gator_-_geograph.org.uk_-_1386833.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Gator_-_geograph.org.uk_-_1386833.jpg/240px-The_Gator_-_geograph.org.uk_-_1386833.jpg" decoding="async" width="160" height="120" data-file-width="640" data-file-height="480"></noscript><span class="lazy-image-placeholder" style="width: 160px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Gator_-_geograph.org.uk_-_1386833.jpg/240px-The_Gator_-_geograph.org.uk_-_1386833.jpg" data-alt="" data-width="160" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/All-terrain_vehicle" title="All-terrain vehicle">UTV</a> (<a href="/wiki/John_Deere_Gator" title="John Deere Gator">Gator</a>)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 162px"><div style="width: 162px">
+			<div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="/wiki/File:John_Deere_3350_tractor_cut_engine_angle.JPG" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/John_Deere_3350_tractor_cut_engine_angle.JPG/240px-John_Deere_3350_tractor_cut_engine_angle.JPG" decoding="async" width="160" height="120" data-file-width="2848" data-file-height="2136"></noscript><span class="lazy-image-placeholder" style="width: 160px;height: 120px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/John_Deere_3350_tractor_cut_engine_angle.JPG/240px-John_Deere_3350_tractor_cut_engine_angle.JPG" data-alt="" data-width="160" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Diesel_engine" title="Diesel engine">Diesel engine</a>
+</p>
+			</div>
+		</div></li>
+</ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Factories">Factories</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=10" title="Edit section: Factories" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:JDPavilionMar06.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/JDPavilionMar06.jpg/220px-JDPavilionMar06.jpg" decoding="async" width="220" height="109" class="thumbimage" data-file-width="512" data-file-height="254"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 109px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/JDPavilionMar06.jpg/220px-JDPavilionMar06.jpg" data-alt="" data-width="220" data-height="109" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:JDPavilionMar06.jpg" class="internal" title="Enlarge"></a></div>The <a href="/wiki/John_Deere_Pavilion" title="John Deere Pavilion">John Deere Pavilion</a> in <a href="/wiki/Moline,_Illinois" title="Moline, Illinois">Moline, Illinois</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:John_Deere_plant_in_Horicon_Wisconsin.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/John_Deere_plant_in_Horicon_Wisconsin.jpg/220px-John_Deere_plant_in_Horicon_Wisconsin.jpg" decoding="async" width="220" height="146" class="thumbimage" data-file-width="1754" data-file-height="1162"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 146px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/John_Deere_plant_in_Horicon_Wisconsin.jpg/220px-John_Deere_plant_in_Horicon_Wisconsin.jpg" data-alt="" data-width="220" data-height="146" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:John_Deere_plant_in_Horicon_Wisconsin.jpg" class="internal" title="Enlarge"></a></div>Horicon Works in <a href="/wiki/Horicon,_Wisconsin" title="Horicon, Wisconsin">Horicon, Wisconsin</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Mannheim_John_Deere_20100917.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mannheim_John_Deere_20100917.jpg/220px-Mannheim_John_Deere_20100917.jpg" decoding="async" width="220" height="147" class="thumbimage" data-file-width="2622" data-file-height="1755"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 147px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mannheim_John_Deere_20100917.jpg/220px-Mannheim_John_Deere_20100917.jpg" data-alt="" data-width="220" data-height="147" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Mannheim_John_Deere_20100917.jpg" class="internal" title="Enlarge"></a></div>John Deere factory in <a href="/wiki/Mannheim" title="Mannheim">Mannheim</a>, Germany</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:FRANCISCO_SANTOS_SALAZAR_8625_(21774733464).jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/FRANCISCO_SANTOS_SALAZAR_8625_%2821774733464%29.jpg/220px-FRANCISCO_SANTOS_SALAZAR_8625_%2821774733464%29.jpg" decoding="async" width="220" height="156" class="thumbimage" data-file-width="6930" data-file-height="4912"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 156px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/FRANCISCO_SANTOS_SALAZAR_8625_%2821774733464%29.jpg/220px-FRANCISCO_SANTOS_SALAZAR_8625_%2821774733464%29.jpg" data-alt="" data-width="220" data-height="156" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:FRANCISCO_SANTOS_SALAZAR_8625_(21774733464).jpg" class="internal" title="Enlarge"></a></div>John Deere representatives at the Encuentro Empresarial <a href="/wiki/Coparmex" title="Coparmex">Coparmex</a> in <a href="/wiki/Chihuahua_(state)" title="Chihuahua (state)">Chihuahua</a>, Mexico.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bulldogs_vor_Mannheim.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bulldogs_vor_Mannheim.jpg/220px-Bulldogs_vor_Mannheim.jpg" decoding="async" width="220" height="62" class="thumbimage" data-file-width="2329" data-file-height="653"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 62px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bulldogs_vor_Mannheim.jpg/220px-Bulldogs_vor_Mannheim.jpg" data-alt="" data-width="220" data-height="62" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bulldogs_vor_Mannheim.jpg" class="internal" title="Enlarge"></a></div>New John Deere tractors on a <a href="/wiki/Barge" title="Barge">barge</a>, <a href="/wiki/Mannheim_Harbour" title="Mannheim Harbour">Mannheim Harbour</a></div></div></div>
+<div role="note" class="hatnote navigation-not-searchable plainlinks">This is a <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">dynamic list</a> and may never be able to satisfy particular standards for completeness. You can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=John_Deere&amp;action=edit">expanding it</a> with <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliably sourced</a> entries.</div>
+<p>Major North American factories include:
+</p>
+<ul><li>Harvester Works (large combine harvesters), <a href="/wiki/East_Moline,_Illinois" title="East Moline, Illinois">East Moline, Illinois</a></li>
+<li>Cylinder Internal Platform (hydraulic cylinders), <a href="/wiki/Moline,_Illinois" title="Moline, Illinois">Moline, Illinois</a></li>
+<li>Seeding Group (planting equipment), Moline, Illinois and <a href="/wiki/Valley_City,_North_Dakota" title="Valley City, North Dakota">Valley City, North Dakota</a></li>
+<li>Davenport Works (<a href="/wiki/Wheel_loader" class="mw-redirect" title="Wheel loader">wheel loaders</a>, <a href="/wiki/Motor_grader" class="mw-redirect" title="Motor grader">motor graders</a>, <a href="/wiki/Articulated_hauler" title="Articulated hauler">articulated dump trucks</a>, wheeled forestry equipment), <a href="/wiki/Davenport,_Iowa" title="Davenport, Iowa">Davenport, Iowa</a></li>
+<li>Dubuque Works (backhoes, crawlers, skid-steer loaders, tracked forestry equipment), <a href="/wiki/Dubuque,_Iowa" title="Dubuque, Iowa">Dubuque, Iowa</a></li>
+<li>Des Moines Works (tillage equipment, cotton harvesters, sprayers), <a href="/wiki/Ankeny,_Iowa" title="Ankeny, Iowa">Ankeny, Iowa</a></li>
+<li>Ottumwa Works (hay and forage equipment), <a href="/wiki/Ottumwa,_Iowa" title="Ottumwa, Iowa">Ottumwa, Iowa</a></li>
+<li>Thibodaux Works (cane-harvesting equipment, scrapers), <a href="/wiki/Thibodaux,_Louisiana" title="Thibodaux, Louisiana">Thibodaux, Louisiana</a></li>
+<li>Horicon Works (lawn and garden and turf care), <a href="/wiki/Horicon,_Wisconsin" title="Horicon, Wisconsin">Horicon, Wisconsin</a></li>
+<li>Augusta Works (small commercial and agricultural tractors), <a href="/wiki/Grovetown,_Georgia" title="Grovetown, Georgia">Grovetown, Georgia</a></li>
+<li>Turf Care (specialty golf equipment and commercial mowing), <a href="/wiki/Fuquay_Varina,_North_Carolina" class="mw-redirect" title="Fuquay Varina, North Carolina">Fuquay Varina, North Carolina</a></li>
+<li>Industrias John Deere (agricultural tractors; construction equipment), (Monterrey, Mexico)</li>
+<li>Motores John Deere (power systems; 6- and 4-cylinder engines, heavy-duty axles), <a href="/wiki/Torreon,_Mexico" class="mw-redirect" title="Torreon, Mexico">Torreon, Mexico</a></li>
+<li>Coffeyville Works (transmissions, pump drives, planetaries), <a href="/wiki/Coffeyville,_Kansas" title="Coffeyville, Kansas">Coffeyville, Kansas</a></li>
+<li>Waterloo Works (tractor, cab, and assembly operations, drivetrain operations, foundry operations, service parts operations), <a href="/wiki/Waterloo,_Iowa" title="Waterloo, Iowa">Waterloo, Iowa</a></li>
+<li>Power Systems and Engine Works (power systems and engines), <a href="/wiki/Waterloo,_Iowa" title="Waterloo, Iowa">Waterloo, Iowa</a></li>
+<li>Greeneville Works (entry-level lawn care equipment), <a href="/wiki/Greeneville,_Tennessee" title="Greeneville, Tennessee">Greeneville, Tennessee</a></li></ul><p>Other important factories:
+</p>
+<ul><li>John Deere Usine Saran (power systems), <a href="/wiki/Fleury-les-Aubrais" title="Fleury-les-Aubrais">Fleury-les-Aubrais</a>, France</li>
+<li>John Deere Argentina (engines, tractors, and combine harvesters), <a href="/wiki/Granadero_Baigorria" title="Granadero Baigorria">Granadero Baigorria</a>, <a href="/wiki/Santa_Fe_Province" title="Santa Fe Province">Santa Fe</a>, Argentina</li>
+<li>John Deere Equipment Pvt Ltd (5000-series tractors), <a href="/wiki/Pune" title="Pune">Pune</a>, India</li>
+<li>John Deere Equipment Pvt Ltd (5000-series tractors), <a href="/wiki/Dewas" title="Dewas">Dewas</a>, India</li>
+<li>John Deere Electronic solutions, Fargo, ND and Pune, India</li>
+<li>John Deere Harvester Works, <a href="/wiki/Sirhind-Fategarh" title="Sirhind-Fategarh">Sirhind-Fategarh</a>, India</li>
+<li>John Deere Werke Mannheim (6000-series tractors), <a href="/wiki/Mannheim" title="Mannheim">Mannheim</a>, Germany</li>
+<li>John Deere Brasil: <a href="/wiki/Montenegro,_Rio_Grande_do_Sul" title="Montenegro, Rio Grande do Sul">Montenegro, Rio Grande do Sul</a> (tractors), <a href="/wiki/Horizontina" title="Horizontina">Horizontina</a> - RS (harvesters and planters), <a href="/wiki/Catal%C3%A3o" title="Catalão">Catalão</a> - GO (sugarcane harvesters)</li>
+<li>John Deere Werke Zweibrücken (harvesting equipment), <a href="/wiki/Zweibr%C3%BCcken" title="Zweibrücken">Zweibrücken</a>, Germany</li>
+<li>John Deere Fabriek Horst (pulled and self-propelled agricultural sprayers), <a href="/wiki/Horst,_Limburg" title="Horst, Limburg">Horst</a>, <a href="/wiki/Netherlands" title="Netherlands">The Netherlands</a></li>
+<li>John Deere Forestry Oy (forwarders, wheeled harvesters), <a href="/wiki/Joensuu" title="Joensuu">Joensuu</a>, <a href="/wiki/Finland" title="Finland">Finland</a></li>
+<li>John Deere Reman,<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup> remanufacturing components for off-highway vehicles: facilities in Edmonton, Alberta, Canada (cylinders, axles, transmissions, pumps, hydraulic and powertrain components) and Springfield, Missouri, USA (engines, fuel systems, turbochargers).</li>
+<li>Sabo (consumer and commercial lawn equipment), <a href="/wiki/Gummersbach" title="Gummersbach">Gummersbach</a>, Germany</li></ul><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:SS851422.JPG" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/SS851422.JPG/220px-SS851422.JPG" decoding="async" width="220" height="165" class="thumbimage" data-file-width="2048" data-file-height="1536"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 165px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/SS851422.JPG/220px-SS851422.JPG" data-alt="" data-width="220" data-height="165" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:SS851422.JPG" class="internal" title="Enlarge"></a></div>John Deere <a href="/wiki/Combine_harvester" title="Combine harvester">Combine harvesters</a> being transported by railway on <a href="/wiki/Goods_wagon" title="Goods wagon">goods wagons</a> in <a href="/wiki/Tyrone,_Pennsylvania" title="Tyrone, Pennsylvania">Tyrone, Pennsylvania</a>, in the United States</div></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Equipment_divisions">Equipment divisions</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=11" title="Edit section: Equipment divisions" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<table class="wikitable sortable"><tbody><tr><th>Name
+</th>
+<th>City/state
+</th>
+<th>Country
+</th>
+<th class="unsortable">Products
+</th>
+<th>Division
+</th>
+<th class="unsortable">Comments
+</th></tr><tr><td>Industrias John Deere Argentina S.A.</td>
+<td><a href="/wiki/Granadero_Baigorria" title="Granadero Baigorria">Granadero Baigorria</a>, <a href="/wiki/Santa_Fe,_Argentina" title="Santa Fe, Argentina">Santa Fe</a></td>
+<td>Argentina</td>
+<td>Engines, tractors and combine harvesters</td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Limited Parts Distribution Center</td>
+<td><a href="/wiki/Derrimut,_Victoria" title="Derrimut, Victoria">Derrimut, Victoria</a></td>
+<td>Australia</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>Auteq Telematica S.A.</td>
+<td><a href="/wiki/S%C3%A3o_Paulo" title="São Paulo">São Paulo</a></td>
+<td><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Brazil Ltda. - Unidade Catalão</td>
+<td><a href="/wiki/Catal%C3%A3o" title="Catalão">Catalão (GO)</a></td>
+<td>Brazil</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Brazil Ltda. - Unidade Horizontina</td>
+<td><a href="/wiki/Horizontina" title="Horizontina">Horizontina (RS)</a></td>
+<td><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Brazil Ltda. - Unidade Montenegro</td>
+<td><a href="/wiki/Montenegro,_Rio_Grande_do_Sul" title="Montenegro, Rio Grande do Sul">Montenegro (RS)</a></td>
+<td><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere (Harbin) Agriculture Machinery Co., Ltd.</td>
+<td><a href="/wiki/Jiamusi,_Heilongjiang" class="mw-redirect" title="Jiamusi, Heilongjiang">Jiamusi, Heilongjiang</a></td>
+<td>China</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere (Ningbo) Agriculture Machinery Co., Ltd.</td>
+<td>Zhenhai District, Ningbo</td>
+<td>China</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere (Tianjin) Agriculture Machinery Co., Ltd.</td>
+<td><a href="/wiki/Tianjin" title="Tianjin">Tianjin</a></td>
+<td>China</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Usine d'Arc-les-Gray, France</td>
+<td>Gray Cedex</td>
+<td>France</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere GmbH &amp; Co. KG</td>
+<td><a href="/wiki/Bruchsal" title="Bruchsal">Bruchsal</a></td>
+<td>Germany</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere GmbH &amp; Co. KG</td>
+<td><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></td>
+<td>Germany</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>Maschinenfabrik Kemper GmbH &amp; Co.KG</td>
+<td><a href="/wiki/Stadtlohn" title="Stadtlohn">Stadtlohn</a></td>
+<td>Germany</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere GmbH &amp; Co. KG</td>
+<td><a href="/wiki/Zweibruecken" class="mw-redirect" title="Zweibruecken">Zweibruecken</a></td>
+<td>Germany</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Equipment Private Ltd.</td>
+<td>Dist. Pune - 412208 Maharashtra</td>
+<td>India</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere India Private Limited</td>
+<td>Patiala Punjab 147 001</td>
+<td>India</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere India Pvt. Ltd.</td>
+<td>Dewas (Madhya Pradesh)</td>
+<td>India</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere BH Works Ltd</td>
+<td>Park Zvaim</td>
+<td>Israel</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Cylinder Internal Platform</td>
+<td><a href="/wiki/Ramos_Arizpe" title="Ramos Arizpe">Ramos Arizpe</a>, <a href="/wiki/Coahuila" title="Coahuila">Coah.</a></td>
+<td>Mexico</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>Industrias John Deere S.A. de C.V.</td>
+<td><a href="/wiki/Monterrey" title="Monterrey">Monterrey</a>, <a href="/wiki/Nuevo_Le%C3%B3n" title="Nuevo León">N.L.</a></td>
+<td>Mexico</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>Industrias John Deere, S.A. de C.V.</td>
+<td>Zona Centro, <a href="/wiki/Saltillo" title="Saltillo">Saltillo</a>, Coah.</td>
+<td>Mexico</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Ramos</td>
+<td>Ramos Arizpe, Coah.</td>
+<td>Mexico</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Fabriek Horst B.V.</td>
+<td><a href="/wiki/Horst_aan_de_Maas" title="Horst aan de Maas">Horst</a></td>
+<td><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
+<td> Pulled and self-propelled sprayers</td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Domodedovo</td>
+<td><a href="/wiki/Domodedovsky_District" title="Domodedovsky District">Domodedovo</a></td>
+<td>Russia</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Orenburg</td>
+<td><a href="/wiki/Orenburg" title="Orenburg">Orenburg</a></td>
+<td>Russia</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Ibérica, S.</td>
+<td><a href="/wiki/Madrid" title="Madrid">Madrid</a></td>
+<td>Spain</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>The Vapormatic Company Ltd.</td>
+<td><a href="/wiki/Exeter" title="Exeter">Exeter</a></td>
+<td>United Kingdom</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>NavCom Technology, Inc.</td>
+<td><a href="/wiki/Torrance,_CA" class="mw-redirect" title="Torrance, CA">Torrance, CA</a></td>
+<td>United States</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Cylinder Internal Platform</td>
+<td>Moline, IL</td>
+<td>United States</td>
+<td>Cylinder manufacturing</td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Harvester Works</td>
+<td>East Moline, IL</td>
+<td>United States</td>
+<td>Large combine harvesters</td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Seeding Group</td>
+<td>East Moline, IL</td>
+<td>United States</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Des Moines Works</td>
+<td><a href="/wiki/Ankeny,_IA" class="mw-redirect" title="Ankeny, IA">Ankeny, IA</a></td>
+<td>United States</td>
+<td>Sprayers, cotton harvesters, and tillage equipment</td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Ottumwa Works</td>
+<td><a href="/wiki/Ottumwa,_IA" class="mw-redirect" title="Ottumwa, IA">Ottumwa, IA</a></td>
+<td>United States</td>
+<td>Baling technology</td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Paton</td>
+<td><a href="/wiki/Paton,_IA" class="mw-redirect" title="Paton, IA">Paton, IA</a></td>
+<td>United States</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Intelligent Solutions Group - Urbandale</td>
+<td><a href="/wiki/Urbandale,_IA" class="mw-redirect" title="Urbandale, IA">Urbandale, IA</a></td>
+<td>United States</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Waterloo Works - Tractor, Cab, and Assembly Operations</td>
+<td>Waterloo, IA</td>
+<td>United States</td>
+<td>6R, 7R, 8R/8RT, and 9R/9RT Series tractors</td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Waterloo Works - Drivetrain Operations</td>
+<td>Waterloo, IA</td>
+<td>United States</td>
+<td>Transmissions, drives, and axle machining and assembly</td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Waterloo Works - Service Parts Operations</td>
+<td>Waterloo, IA</td>
+<td>United States</td>
+<td>Tractor service parts</td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Waterloo Works - Foundry Operations</td>
+<td>Waterloo, IA</td>
+<td>United States</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Thibodaux</td>
+<td>Thibodaux, LA</td>
+<td>United States</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Seeding Group</td>
+<td><a href="/wiki/Valley_City,_ND" class="mw-redirect" title="Valley City, ND">Valley City, ND</a></td>
+<td>United States</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>Waratah Forestry Equipment Pty. Ltd</td>
+<td><a href="/wiki/Melton,_Victoria" title="Melton, Victoria">Melton, Victoria</a></td>
+<td>Australia</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>John Deere Brazil Ltda.</td>
+<td>Lado Direito Indaiatuba – <a href="/wiki/S%C3%A3o_Paulo" title="São Paulo">São Paulo</a></td>
+<td>Brazil</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>Deere Hitachi</td>
+<td>Indaiatuba, São Paulo</td>
+<td>Brazil</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>Deere-Hitachi Specialty Products (DHSP) — Langley</td>
+<td><a href="/wiki/Langley,_British_Columbia_(city)" title="Langley, British Columbia (city)">Langley, British Columbia</a></td>
+<td>Canada</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>John Deere Reman — Edmonton</td>
+<td><a href="/wiki/Alberta" title="Alberta">Alberta</a></td>
+<td>Canada</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>Waratah Forestry Equipment Canada, Ltd.</td>
+<td><a href="/wiki/Kamloops,_BC" class="mw-redirect" title="Kamloops, BC">Kamloops, BC</a></td>
+<td>Canada</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>John Deere (Tianjin) Company Limited</td>
+<td><a href="/wiki/Tianjin" title="Tianjin">Tianjin</a></td>
+<td>China</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>John Deere Forestry — Joensuu, Finland</td>
+<td>Joensuu</td>
+<td>Finland</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>Waratah OM Oy</td>
+<td>Joensuu, Finland</td>
+<td>Finland</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>Ashok Leyland John Deere Construction Equipment Pvt. Ltd.</td>
+<td><a href="/wiki/Tamil_Nadu" title="Tamil Nadu">Tamil Nadu</a></td>
+<td>India</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>Industrias John Deere S.A. de C.V.</td>
+<td>Garza Garcia, Nuevo León</td>
+<td>Mexico</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>Waratah NZ Ltd.</td>
+<td>Tokoroa Waikato</td>
+<td>New Zealand</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>John Deere Domodedovo</td>
+<td><a href="/wiki/Moscow" title="Moscow">Moscow</a></td>
+<td>Russia</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>Bell Equipment Limited</td>
+<td><a href="/wiki/Empangeni" title="Empangeni">Empangeni</a></td>
+<td><a href="/wiki/South_Africa" title="South Africa">South Africa</a></td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>Waratah Forestry Attachment, LLC.</td>
+<td><a href="/wiki/Peachtree_City,_GA" class="mw-redirect" title="Peachtree City, GA">Peachtree City, GA</a></td>
+<td>United States</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>John Deere Construction &amp; Forestry Company</td>
+<td>Moline, IL</td>
+<td>United States</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>John Deere Davenport Works</td>
+<td><a href="/wiki/Davenport,_IA" class="mw-redirect" title="Davenport, IA">Davenport, IA</a></td>
+<td>United States</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>John Deere Training Center - Davenport</td>
+<td>Davenport, IA</td>
+<td>United States</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>John Deere Dubuque Works</td>
+<td>Dubuque, IA</td>
+<td>United States</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>John Deere Reman — Springfield</td>
+<td><a href="/wiki/Springfield,_MO" class="mw-redirect" title="Springfield, MO">Springfield, MO</a></td>
+<td>United States</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>Deere-Hitachi Construction Machinery Corp.</td>
+<td><a href="/wiki/Kernersville,_NC" class="mw-redirect" title="Kernersville, NC">Kernersville, NC</a></td>
+<td>United States</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>Waratah Forestry Attachment, LLC</td>
+<td><a href="/wiki/Kelso,_WA" class="mw-redirect" title="Kelso, WA">Kelso, WA</a></td>
+<td>United States</td>
+<td> </td>
+<td>Construction and forestry</td>
+<td> 
+</td></tr><tr><td>SABO - Maschinenfabrik GmbH</td>
+<td><a href="/wiki/Gummersbach" title="Gummersbach">Gummersbach</a></td>
+<td>Germany</td>
+<td> </td>
+<td>Turf</td>
+<td> 
+</td></tr><tr><td>John Deere Commercial Products</td>
+<td><a href="/wiki/Grovetown,_GA" class="mw-redirect" title="Grovetown, GA">Grovetown, GA</a></td>
+<td>United States</td>
+<td> </td>
+<td>Agriculture</td>
+<td> 
+</td></tr><tr><td>John Deere Turf Care</td>
+<td>Fuquay-Varina, NC</td>
+<td>United States</td>
+<td> Commercial mowers and Golf equipment</td>
+<td>Turf</td>
+<td> 
+</td></tr><tr><td>John Deere Training Center - Morrisville</td>
+<td><a href="/wiki/Morrisville,_NC" class="mw-redirect" title="Morrisville, NC">Morrisville, NC</a></td>
+<td>United States</td>
+<td> </td>
+<td>Turf</td>
+<td> 
+</td></tr><tr><td>Transaxle Manufacturing of America Corporation</td>
+<td><a href="/wiki/Rock_Hill,_SC" class="mw-redirect" title="Rock Hill, SC">Rock Hill, SC</a></td>
+<td>United States</td>
+<td> </td>
+<td>Turf</td>
+<td> 
+</td></tr><tr><td>John Deere Power Products</td>
+<td><a href="/wiki/Greeneville,_TN" class="mw-redirect" title="Greeneville, TN">Greeneville, TN</a></td>
+<td>United States</td>
+<td> Riding lawn tractors and zero turn lawn mowers</td>
+<td>Turf</td>
+<td> 
+</td></tr><tr><td>John Deere Horicon Works</td>
+<td><a href="/wiki/Horicon,_WI" class="mw-redirect" title="Horicon, WI">Horicon, WI</a></td>
+<td>United States</td>
+<td> Gator utility vehicles, riding lawn tractors, walk behind greens mowers, and mower decks</td>
+<td>Turf</td>
+<td> 
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Subsidiaries_and_affiliates">Subsidiaries and affiliates</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=12" title="Edit section: Subsidiaries and affiliates" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-7 collapsible-block" id="mf-section-7">
+<h3 class="in-block"><span class="mw-headline" id="Current">Current</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=13" title="Edit section: Current" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<ul><li>AGRIS Corporation (John Deere Agri Services)<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:John_Deere_8530_with_Kinze_3700.JPG" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/John_Deere_8530_with_Kinze_3700.JPG/220px-John_Deere_8530_with_Kinze_3700.JPG" decoding="async" width="220" height="165" class="thumbimage" data-file-width="2272" data-file-height="1704"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 165px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/John_Deere_8530_with_Kinze_3700.JPG/220px-John_Deere_8530_with_Kinze_3700.JPG" data-alt="" data-width="220" data-height="165" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:John_Deere_8530_with_Kinze_3700.JPG" class="internal" title="Enlarge"></a></div>John Deere 8530 tractor with <a href="/wiki/Kinze" class="mw-redirect" title="Kinze">Kinze</a> 3700 planter</div></div></div></li>
+<li>John Deere Ag Management Solutions (intelligent mobile equipment technologies), <a href="/wiki/Urbandale,_Iowa" title="Urbandale, Iowa">Urbandale, Iowa</a></li>
+<li>John Deere Capital Corporation</li>
+<li>John Deere Financial<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup> (John Deere Credit and Finance), <a href="/wiki/Johnston,_Iowa" title="Johnston, Iowa">Johnston, Iowa</a></li>
+<li>Kemper (row tolerant headers for forage harvesters and combines), <a href="/wiki/Stadtlohn" title="Stadtlohn">Stadtlohn</a>, Germany</li>
+<li>Waratah Forestry Attachments (forestry harvesting heads), <a href="/wiki/Tokoroa" title="Tokoroa">Tokoroa</a>, New Zealand</li>
+<li>Agreentech</li>
+<li>NavCom Technology, Inc. (precision positioning systems, see also <a href="/wiki/StarFire_(navigation_system)" title="StarFire (navigation system)">StarFire</a>), <a href="/wiki/Torrance,_California" title="Torrance, California">Torrance, California</a></li>
+<li>John Deere Electronic Solutions (Ruggedized electronics), <a href="/wiki/Fargo,_North_Dakota" title="Fargo, North Dakota">Fargo, North Dakota</a></li>
+<li>Ningbo Benye Tractor &amp; Automobile Manufacture Co. Ltd. (low HP tractors), <a href="/wiki/Ningbo" title="Ningbo">Ningbo</a>, China</li>
+<li>Machinefinder (used equipment division and marketplace)</li>
+<li>John Deere Technology Innovation Center, <a href="/wiki/Research_Park,_University_of_Illinois_at_Urbana-Champaign" class="mw-redirect" title="Research Park, University of Illinois at Urbana-Champaign">Research Park, University of Illinois at Urbana-Champaign</a></li>
+<li>QCFS and Consolidating (attachment distribution center), Davenport, Iowa</li>
+<li>Hagie Sprayers (Upfront Sprayers)</li>
+<li>¨KingAgro (Sprayers) Argentina</li>
+<li>PLA (sprayers) Argentina</li>
+<li><a href="/wiki/Wirtgen_Group" title="Wirtgen Group">Wirtgen Group</a></li>
+<li>Blue River Technology -  Pioneer in the use of computer vision and robotics for agriculture bringing crop protection into the digital era with sea and spray machines that precisely observe and treat each plant in the field</li></ul><h3 class="in-block"><span class="mw-headline" id="Former">Former</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=14" title="Edit section: Former" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<ul><li>John Deere Renewables, LLC, a <a href="/wiki/Wind_energy" class="mw-redirect" title="Wind energy">wind energy</a> plant manufacturing arm which represented John Deere's extension into the renewable energy industry - under which it had successfully completed 36 projects in eight US states - was sold to <a href="/wiki/Exelon_Energy" class="mw-redirect" title="Exelon Energy">Exelon Energy</a> in August 2010.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Finances">Finances</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=15" title="Edit section: Finances" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-8 collapsible-block" id="mf-section-8">
+<table class="wikitable"><caption><b>Financial data in $ millions</b><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup></caption>
+<tbody><tr><th>Year
+</th>
+<th>2005
+</th>
+<th>2006
+</th>
+<th>2007
+</th>
+<th>2008
+</th>
+<th>2009
+</th>
+<th>2010
+</th>
+<th>2011
+</th>
+<th>2012
+</th>
+<th>2013
+</th>
+<th>2014
+</th>
+<th>2015
+</th>
+<th>2016
+</th>
+<th>2017
+</th></tr><tr><td><a href="/wiki/Revenue" title="Revenue">Revenue</a>
+</td>
+<td>21,191
+</td>
+<td>22,148
+</td>
+<td>24,082
+</td>
+<td>28,438
+</td>
+<td>23,112
+</td>
+<td>26,005
+</td>
+<td>32,013
+</td>
+<td>36,157
+</td>
+<td>37,795
+</td>
+<td>36,067
+</td>
+<td>28,863
+</td>
+<td>26,644
+</td>
+<td>29,738
+</td></tr><tr><td><a href="/wiki/Net_Income" class="mw-redirect" title="Net Income">Net Income</a>
+</td>
+<td>1,447
+</td>
+<td>1,694
+</td>
+<td>1,822
+</td>
+<td>2,053
+</td>
+<td>874
+</td>
+<td>1,864
+</td>
+<td>2,800
+</td>
+<td>3,065
+</td>
+<td>3,537
+</td>
+<td>3,162
+</td>
+<td>1,940
+</td>
+<td>1,524
+</td>
+<td>2,159
+</td></tr><tr><td><a href="/wiki/Assets" class="mw-redirect" title="Assets">Assets</a>
+</td>
+<td>33,637
+</td>
+<td>34,720
+</td>
+<td>38,576
+</td>
+<td>38,735
+</td>
+<td>41,133
+</td>
+<td>43,267
+</td>
+<td>48,207
+</td>
+<td>56,266
+</td>
+<td>59,521
+</td>
+<td>61,336
+</td>
+<td>57,948
+</td>
+<td>57,919
+</td>
+<td>65,786
+</td></tr><tr><td>Employees
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>67,000
+</td>
+<td>59,623
+</td>
+<td>57,200
+</td>
+<td>56,800
+</td>
+<td>60,500
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="In_popular_culture">In popular culture</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=16" title="Edit section: In popular culture" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-9 collapsible-block" id="mf-section-9">
+<ul><li><a href="/wiki/Joe_Diffie" title="Joe Diffie">Joe Diffie</a> released a song in 1993 called "<a href="/wiki/John_Deere_Green" title="John Deere Green">John Deere Green</a>", a top-five hit.</li>
+<li><a href="/wiki/Kenny_Chesney" title="Kenny Chesney">Kenny Chesney</a> released a song in 1999 called "<a href="/wiki/She_Thinks_My_Tractor%27s_Sexy" title="She Thinks My Tractor's Sexy">She Thinks My Tractor's Sexy</a>" referencing John Deere Tractors: "She ain't into cars or pick up trucks,/But if it runs like a Deere, man, her eyes light up."</li>
+<li><a href="/wiki/George_Jones" title="George Jones">George Jones</a> famously drove a John Deere <a href="/wiki/Lawn_tractor" class="mw-redirect" title="Lawn tractor">lawn tractor</a> to a liquor store after his wife had taken away his car keys to keep him from driving drunk. The incident was later memorialized as part of <a href="/wiki/Country_music" title="Country music">country music</a> lore in numerous songs and videos, including Jones’ own “Honky Tonk Song” in 1996. Twelve years earlier, the video for <a href="/wiki/Hank_Williams_Jr" class="mw-redirect" title="Hank Williams Jr">Hank Williams Jr</a>.’s “All My Rowdy Friends Are Coming Over Tonight” featured George Jones riding a lawnmower. <a href="/wiki/Vince_Gill" title="Vince Gill">Vince Gill</a>’s 1993 hit “One More Last Chance” includes the line, “She might have took my car keys, but she forgot about my old John Deere.” The video ends with Gill on a John Deere tractor passing Jones on a John Deere lawnmower. The video for <a href="/wiki/John_Rich" title="John Rich">John Rich</a>’s “Country Done Come to Town” also features Jones on a riding lawnmower.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup></li>
+<li><a href="/wiki/Alvin_Straight" title="Alvin Straight">Alvin Straight</a> rode a John Deere 240 miles in 1994, inspiring <a href="/wiki/David_Lynch" title="David Lynch">David Lynch</a>'s 1999 film <i><a href="/wiki/The_Straight_Story" title="The Straight Story">The Straight Story</a></i>.</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(10)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Sponsorships">Sponsorships</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=17" title="Edit section: Sponsorships" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-10 collapsible-block" id="mf-section-10">
+<ul><li>The <a href="/wiki/John_Deere_Classic" title="John Deere Classic">John Deere Classic</a> is an American professional golf tournament sponsored by the company.</li>
+<li>John Deere sponsored the #23 and #97 cars for <a href="/wiki/NASCAR" title="NASCAR">NASCAR</a> driver <a href="/wiki/Chad_Little" title="Chad Little">Chad Little</a> in the late 1990s.<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup></li>
+<li>John Deere sponsored the #17 car for <a href="/wiki/NASCAR" title="NASCAR">NASCAR</a> driver <a href="/wiki/Ricky_Stenhouse_Jr" class="mw-redirect" title="Ricky Stenhouse Jr">Ricky Stenhouse Jr</a> in the <a href="/wiki/Monster_Energy_NASCAR_Cup_Series" class="mw-redirect" title="Monster Energy NASCAR Cup Series">Monster Energy NASCAR Cup Series</a> in the late 2010s.</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(11)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Green_Magazine"><i>Green Magazine</i></span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=18" title="Edit section: Green Magazine" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-11 collapsible-block" id="mf-section-11">
+<p><i>Green Magazine</i> is a publication devoted to John Deere enthusiasts.<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup><sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup> It was begun in November 1984 by Richard and Carol Hain of <a href="/wiki/Bee,_Nebraska" title="Bee, Nebraska">Bee, Nebraska</a>.
+</p><p>The first issue was mailed in early November 1984 to 135 paid subscribers, and had 10 black-and-white pages with features on tractors, letters from readers, and advertisements.<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[61]</a></sup> At the time, the magazine was published bimonthly. It was written in <a href="/wiki/Lincoln,_Nebraska" title="Lincoln, Nebraska">Lincoln, Nebraska</a>, and it was mailed from the Bee post office.
+</p><p>The magazine grew rapidly, and in 1990, bowing to public demand, it became a monthly. Circulation continued to increase, and currently hovers around 30,000. The magazine now generally contains 88 full-color pages and is perfect bound. It is now printed in Michigan and mailed from several post offices throughout the country.
+</p><p>Current content usually includes a "Tip of the Month" article covering New Generation restoration written by Dan Brotzman, a "Youngtimer" article written by Tyler Buchheit, "Shop Talk" by Ron and JoAnn O'Neill, "Saw it On eBay" by Adam Smith and Benjamin Hain, "Scale Models" by Bill Proft, "What's New and Old" by Greg Stephen, "Feature Model" by Benjamin Hain, "Do You Have One of These" by Richard Hain, and "Mr. Thinker", which is said to be written by "a variety of experts".
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(12)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=19" title="Edit section: See also" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-12 collapsible-block" id="mf-section-12">
+<style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul><li><span><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" decoding="async" width="28" height="28" class="noviewer" data-file-width="512" data-file-height="512"></noscript><span class="lazy-image-placeholder" style="width: 28px;height: 28px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" data-alt="" data-width="28" data-height="28" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-class="noviewer"> </span></span><span><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li>
+<li><span><a href="/wiki/File:Veranotrigo.jpg" class="image"><noscript><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veranotrigo.jpg/32px-Veranotrigo.jpg" decoding="async" width="32" height="24" class="noviewer" data-file-width="1600" data-file-height="1200"></noscript><span class="lazy-image-placeholder" style="width: 32px;height: 24px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veranotrigo.jpg/32px-Veranotrigo.jpg" data-alt="icon" data-width="32" data-height="24" data-class="noviewer"> </span></a></span><span><a href="/wiki/Portal:Agriculture_and_Agronomy" class="mw-redirect" title="Portal:Agriculture and Agronomy">Agriculture and Agronomy portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/John_Deere_World_Headquarters" title="John Deere World Headquarters">John Deere World Headquarters</a></li>
+<li><a href="/wiki/List_of_John_Deere_tractors" title="List of John Deere tractors">List of John Deere tractors</a></li>
+<li><a href="/wiki/John_Deere_Buck" title="John Deere Buck">John Deere Buck</a></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(13)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=20" title="Edit section: References" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-13 collapsible-block" id="mf-section-13">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-fortune-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-fortune_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">VanderMey, Anne (February 25, 2013). "John Deere Plows Ahead". <i><a href="/wiki/Fortune_(magazine)" title="Fortune (magazine)">Fortune</a></i>. <b>167</b> (3): 19.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Fortune&amp;rft.atitle=John+Deere+Plows+Ahead&amp;rft.volume=167&amp;rft.issue=3&amp;rft.pages=19&amp;rft.date=2013-02-25&amp;rft.aulast=VanderMey&amp;rft.aufirst=Anne&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-yahoo2016-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-yahoo2016_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-yahoo2016_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-yahoo2016_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-yahoo2016_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-yahoo2016_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-yahoo2016_2-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.nasdaq.com/symbol/de/financials?query=income-statement">"DE Income Statement"</a>. <i>NASDAQ.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NASDAQ.com&amp;rft.atitle=DE+Income+Statement&amp;rft_id=https%3A%2F%2Fwww.nasdaq.com%2Fsymbol%2Fde%2Ffinancials%3Fquery%3Dincome-statement&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/list/">"Fortune 500 Companies 2018: Who Made the List"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Fortune+500+Companies+2018%3A+Who+Made+the+List&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Flist%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/global500/deere/">"Deere"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Deere&amp;rft_id=http%3A%2F%2Ffortune.com%2Fglobal500%2Fdeere%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.nyse.com/quote/XNYS:DE">https://www.nyse.com/quote/XNYS:DE</a>, retrieved 2014-07-22.</span>
+</li>
+<li id="cite_note-Reynolds-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Reynolds_6-0">^</a></b></span> <span class="reference-text">Reynolds, John P. "Transactions of the Illinois State Agricultural Society, with Reports from County and District Agricultural Societies", Illinois Journal Printing Office, 1871, pg. 43,</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.qconline.com/life/john-deere-collectors-center-tractor-and-memorabilia-auction-june/article_1229dbed-c052-5dbd-a59e-775215b895a6.html">"John Deere Collectors Center Tractor and Memorabilia Auction June 29 – 30"</a>. <i>Dispatch-Argus-QCOnline</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-10-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dispatch-Argus-QCOnline&amp;rft.atitle=John+Deere+Collectors+Center+Tractor+and+Memorabilia+Auction+June+29+%E2%80%93+30&amp;rft_id=http%3A%2F%2Fwww.qconline.com%2Flife%2Fjohn-deere-collectors-center-tractor-and-memorabilia-auction-june%2Farticle_1229dbed-c052-5dbd-a59e-775215b895a6.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-blog.machinefinder.com-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-blog.machinefinder.com_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-blog.machinefinder.com_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-blog.machinefinder.com_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://blog.machinefinder.com/16329/john-deere-combine-history">"A Brief Look at John Deere Combine History: 86 Years of Evolution"</a>. blog.machinefinder.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-02-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Brief+Look+at+John+Deere+Combine+History%3A+86+Years+of+Evolution&amp;rft.pub=blog.machinefinder.com&amp;rft_id=http%3A%2F%2Fblog.machinefinder.com%2F16329%2Fjohn-deere-combine-history&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/science/pure-genius-the-inventors-hall-of-fame-785519.html">Pure genius: the inventor's hall of fame</a>. Independent.co.uk (2008-02-22). Retrieved on 2011-01-03.</span>
+</li>
+<li id="cite_note-machinefinder-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-machinefinder_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://blog.machinefinder.com/8629/john-deere-tractors-featured-in-memorial-day-parades-across-america">"John Deere War Hero's Recognized for Patriotism"</a>. blog.machinefinder.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-02-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=John+Deere+War+Hero%26%23039%3Bs+Recognized+for+Patriotism&amp;rft.pub=blog.machinefinder.com&amp;rft_id=http%3A%2F%2Fblog.machinefinder.com%2F8629%2Fjohn-deere-tractors-featured-in-memorial-day-parades-across-america&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-livinghistoryfarm-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-livinghistoryfarm_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.livinghistoryfarm.org/farminginthe40s/machines_01.html">"Agricultural Machinery during the 1940s"</a>. livinghistoryfarm.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-02-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Agricultural+Machinery+during+the+1940s&amp;rft.pub=livinghistoryfarm.org&amp;rft_id=http%3A%2F%2Fwww.livinghistoryfarm.org%2Ffarminginthe40s%2Fmachines_01.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (8 December 2017). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2016/03/no-pudieron-ser-john-deere-720.html">"Pesados Argentinos: Anexo: Documento radicación industria de John Deere / No pudieron ser: John Deere 720"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+Anexo%3A+Documento+radicaci%C3%B3n+industria+de+John+Deere+%2F+No+pudieron+ser%3A+John+Deere+720&amp;rft.date=2017-12-08&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2016%2F03%2Fno-pudieron-ser-john-deere-720.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (13 January 2014). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2012/11/john-deere.html">"Pesados Argentinos: John Deere"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere&amp;rft.date=2014-01-13&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2012%2F11%2Fjohn-deere.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (25 April 2016). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2013/09/john-deere-445.html">"Pesados Argentinos: John Deere 445"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+445&amp;rft.date=2016-04-25&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2013%2F09%2Fjohn-deere-445.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (9 August 2015). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2013/06/john-deere-730.html">"Pesados Argentinos: John Deere 730"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+730&amp;rft.date=2015-08-09&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2013%2F06%2Fjohn-deere-730.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (15 June 2015). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2013/05/john-deere-1420.html">"Pesados Argentinos: John Deere 1420"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+1420&amp;rft.date=2015-06-15&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2013%2F05%2Fjohn-deere-1420.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (15 June 2015). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2013/05/john-deere-2420.html">"Pesados Argentinos: John Deere 2420"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+2420&amp;rft.date=2015-06-15&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2013%2F05%2Fjohn-deere-2420.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (15 June 2015). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2013/05/john-deere-4420.html">"Pesados Argentinos: John Deere 4420"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+4420&amp;rft.date=2015-06-15&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2013%2F05%2Fjohn-deere-4420.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (30 January 2015). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2014/01/john-deere-2330.html">"Pesados Argentinos: John Deere 2330"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+2330&amp;rft.date=2015-01-30&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2014%2F01%2Fjohn-deere-2330.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (30 January 2015). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2014/08/john-deere-2730.html">"Pesados Argentinos: John Deere 2730"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+2730&amp;rft.date=2015-01-30&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2014%2F08%2Fjohn-deere-2730.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (30 January 2015). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2014/10/john-deere-3330.html">"Pesados Argentinos: John Deere 3330"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+3330&amp;rft.date=2015-01-30&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2014%2F10%2Fjohn-deere-3330.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (29 January 2015). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2014/08/john-deere-3530.html">"Pesados Argentinos: John Deere 3530"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+3530&amp;rft.date=2015-01-29&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2014%2F08%2Fjohn-deere-3530.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (29 January 2015). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2014/08/john-deere-4530.html">"Pesados Argentinos: John Deere 4530"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+4530&amp;rft.date=2015-01-29&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2014%2F08%2Fjohn-deere-4530.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (31 December 2014). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2013/12/john-deere-2140.html">"Pesados Argentinos: John Deere 2140"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+2140&amp;rft.date=2014-12-31&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2013%2F12%2Fjohn-deere-2140.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (31 December 2014). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2013/12/john-deere-3440.html">"Pesados Argentinos: John Deere 3440"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+3440&amp;rft.date=2014-12-31&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2013%2F12%2Fjohn-deere-3440.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (31 December 2014). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2013/12/john-deere-3540.html">"Pesados Argentinos: John Deere 3540"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+3540&amp;rft.date=2014-12-31&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2013%2F12%2Fjohn-deere-3540.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (13 March 2016). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2013/07/john-deere-3550.html">"Pesados Argentinos: John Deere 3550"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+3550&amp;rft.date=2016-03-13&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2013%2F07%2Fjohn-deere-3550.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (13 January 2014). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2013/12/john-deere-fabricados-en-el-pais.html">"Pesados Argentinos: John Deere fabricados en el país"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+fabricados+en+el+pa%C3%ADs&amp;rft.date=2014-01-13&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2013%2F12%2Fjohn-deere-fabricados-en-el-pais.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (23 April 2017). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2014/03/john-deere-570-b.html">"Pesados Argentinos: John Deere 570 A / B"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+570+A+%2F+B&amp;rft.date=2017-04-23&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2014%2F03%2Fjohn-deere-570-b.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (11 December 2014). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2013/12/john-deere-544-b.html">"Pesados Argentinos: John Deere 544 A / B"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+544+A+%2F+B&amp;rft.date=2014-12-11&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2013%2F12%2Fjohn-deere-544-b.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web">Dl, Esteban (1 April 2015). <a rel="nofollow" class="external text" href="http://pesadosargentinos.blogspot.com.ar/2014/04/john-deere-200.html">"Pesados Argentinos: John Deere 200"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pesados+Argentinos%3A+John+Deere+200&amp;rft.date=2015-04-01&amp;rft.aulast=Dl&amp;rft.aufirst=Esteban&amp;rft_id=http%3A%2F%2Fpesadosargentinos.blogspot.com.ar%2F2014%2F04%2Fjohn-deere-200.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-deere-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-deere_32-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="https://www.deere.com/en_US/docs/Corporate/fans_visitors/publications/plowshare_issue14.pdf">"A Big Day for Deere"</a> <span class="cs1-format">(PDF)</span>. <i>The Plowshare</i>. <b>14</b>: 1–6. 27 March 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-02-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Plowshare&amp;rft.atitle=A+Big+Day+for+Deere&amp;rft.volume=14&amp;rft.pages=1-6&amp;rft.date=2009-03-27&amp;rft_id=https%3A%2F%2Fwww.deere.com%2Fen_US%2Fdocs%2FCorporate%2Ffans_visitors%2Fpublications%2Fplowshare_issue14.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web">Peter Easterlund. <a rel="nofollow" class="external text" href="http://www.tractordata.com/farm-tractors/000/0/6/61-john-deere-4010.html">"TractorData.com John Deere 4010 tractor information"</a>. <i>tractordata.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=tractordata.com&amp;rft.atitle=TractorData.com+John+Deere+4010+tractor+information&amp;rft.au=Peter+Easterlund&amp;rft_id=http%3A%2F%2Fwww.tractordata.com%2Ffarm-tractors%2F000%2F0%2F6%2F61-john-deere-4010.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150622025720/http://www.tractorfriends.org/history/jd10series/jd1010series.html">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.tractorfriends.org/history/jd10series/jd1010series.html">the original</a> on 2015-06-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.tractorfriends.org%2Fhistory%2Fjd10series%2Fjd1010series.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.agriculture.com/machinery/tractors/antique-tractor/john-deere-4010_201-ar15646">"John Deere 4010"</a>. <i>agriculture.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=agriculture.com&amp;rft.atitle=John+Deere+4010&amp;rft_id=http%3A%2F%2Fwww.agriculture.com%2Fmachinery%2Ftractors%2Fantique-tractor%2Fjohn-deere-4010_201-ar15646&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text">Illinois Manufacturers Directory, Manufacturers' News, Inc. Chicago, IL, copyright 1962, p. 1503, 1594–1595</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://farmindustrynews.com/show-me-rotaries">"Show me the rotaries"</a>. <i>Farm Industry News</i>. 1999-07-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-10-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Farm+Industry+News&amp;rft.atitle=Show+me+the+rotaries&amp;rft.date=1999-07-01&amp;rft_id=http%3A%2F%2Ffarmindustrynews.com%2Fshow-me-rotaries&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-DeereJobs-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-DeereJobs_38-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.chicagochronicle.com/index.php/sid/224785739">"Hit by weak crop prices Deere to lay off 600 manufacturing staff"</a>. Chicago Chronicle. 15 August 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-08-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Hit+by+weak+crop+prices+Deere+to+lay+off+600+manufacturing+staff&amp;rft.date=2014-08-15&amp;rft_id=http%3A%2F%2Fwww.chicagochronicle.com%2Findex.php%2Fsid%2F224785739&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.deere.com/en_US/docs/Corporate/about_us/worldwide_locations/worldwidelocations.pdf">"John Deere worldwide"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=John+Deere+worldwide&amp;rft_id=http%3A%2F%2Fwww.deere.com%2Fen_US%2Fdocs%2FCorporate%2Fabout_us%2Fworldwide_locations%2Fworldwidelocations.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://electrek.co/2016/12/05/john-deere-electric-tractor-prototype/">"John Deere unveils latest all-electric tractor prototype for zero-emission agriculture"</a>. <i>Electrek</i>. 5 December 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Electrek&amp;rft.atitle=John+Deere+unveils+latest+all-electric+tractor+prototype+for+zero-emission+agriculture&amp;rft.date=2016-12-05&amp;rft_id=https%3A%2F%2Felectrek.co%2F2016%2F12%2F05%2Fjohn-deere-electric-tractor-prototype%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.deere.com/en_US/corporate/our_company/about_us/history/history.page?">"John Deere History"</a>. <i>www.deere.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-04-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.deere.com&amp;rft.atitle=John+Deere+History&amp;rft_id=http%3A%2F%2Fwww.deere.com%2Fen_US%2Fcorporate%2Four_company%2Fabout_us%2Fhistory%2Fhistory.page%3F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.deere.com/wps/dcom/en_US/corporate/our_company/about_us/history/trademarks/trademarks.page?">History of the John Deere Trademark</a> Trademarks</span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.prnewswire.com/news-releases/deere-to-advance-machine-learning-capabilities-in-acquisition-of-blue-river-technology-300514879.html">"Deere to advance machine learning capabilities in acquisition of Blue River Technology"</a>. <i>PR Newswire</i>. Deere &amp; Company<span class="reference-accessdate">. Retrieved <span class="nowrap">11 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PR+Newswire&amp;rft.atitle=Deere+to+advance+machine+learning+capabilities+in+acquisition+of+Blue+River+Technology&amp;rft_id=http%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fdeere-to-advance-machine-learning-capabilities-in-acquisition-of-blue-river-technology-300514879.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.deere.com/en/our-company/news-and-announcements/news-releases/2019/corporate/2019-aug29-leadership-announcement/">https://www.deere.com/en/our-company/news-and-announcements/news-releases/2019/corporate/2019-aug29-leadership-announcement/</a></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation web">Sydell, Laura (2015-08-17). <a rel="nofollow" class="external text" href="https://www.npr.org/sections/alltechconsidered/2015/08/17/432601480/diy-tractor-repair-runs-afoul-of-copyright-law">"DIY Tractor Repair Runs Afoul Of Copyright Law"</a>. npr.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-31</span></span>. <q><i>And the little computer screen lets him know when something is wrong. Unfortunately, Alford isn't allowed to fix it. John Deere has a digital lock on the software that runs his tractor. And it won't give him the key. [...] The company went on to say that unqualified individuals could endanger customer safety.</i></q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DIY+Tractor+Repair+Runs+Afoul+Of+Copyright+Law&amp;rft.pub=npr.com&amp;rft.date=2015-08-17&amp;rft.aulast=Sydell&amp;rft.aufirst=Laura&amp;rft_id=https%3A%2F%2Fwww.npr.org%2Fsections%2Falltechconsidered%2F2015%2F08%2F17%2F432601480%2Fdiy-tractor-repair-runs-afoul-of-copyright-law&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Wired_2015-04-21-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wired_2015-04-21_46-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Wiens, Kyle (21 April 2015). <a rel="nofollow" class="external text" href="https://www.wired.com/2015/04/dmca-ownership-john-deere/">"We Can't Let John Deere Destroy the Very Idea of Ownership"</a>. <i><a href="/wiki/Wired_(magazine)" title="Wired (magazine)">Wired</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-04-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wired&amp;rft.atitle=We+Can%27t+Let+John+Deere+Destroy+the+Very+Idea+of+Ownership&amp;rft.date=2015-04-21&amp;rft.aulast=Wiens&amp;rft.aufirst=Kyle&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2015%2F04%2Fdmca-ownership-john-deere%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.eff.org/de/deeplinks/2015/04/automakers-say-you-dont-really-own-your-car">Automakers Say You Don’t Really Own Your Car</a> on eff.org (April 2015)</span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.eff.org/deeplinks/2016/12/john-deere-really-doesnt-want-you-own-tractor">John Deere Really Doesn’t Want You to Own That Tractor</a> on eff.org by Kit Walsh (December 20, 2016)</span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><cite id="CITEREFMotherboard2018" class="citation">Motherboard (2018-02-01), <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=F8JCh0owT4w"><i>Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">July 30,</span> 2018</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Tractor+Hacking%3A+The+Farmers+Breaking+Big+Tech%27s+Repair+Monopoly&amp;rft.date=2018-02-01&amp;rft.au=Motherboard&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DF8JCh0owT4w&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rudolphi, Josie M.; Campo, Shelly; Gerr, Fred; Rohlman, Diane S. (May 2018). "Social and Individual Influences on Tractor Operating Practices of Young Adult Agricultural Workers". <i>Journal of Adolescent Health</i>. <b>62</b> (5): 605–611. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.jadohealth.2017.11.300">10.1016/j.jadohealth.2017.11.300</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1054-139X">1054-139X</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a> <a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/29478719">29478719</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Adolescent+Health&amp;rft.atitle=Social+and+Individual+Influences+on+Tractor+Operating+Practices+of+Young+Adult+Agricultural+Workers&amp;rft.volume=62&amp;rft.issue=5&amp;rft.pages=605-611&amp;rft.date=2018-05&amp;rft.issn=1054-139X&amp;rft_id=info%3Apmid%2F29478719&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jadohealth.2017.11.300&amp;rft.aulast=Rudolphi&amp;rft.aufirst=Josie+M.&amp;rft.au=Campo%2C+Shelly&amp;rft.au=Gerr%2C+Fred&amp;rft.au=Rohlman%2C+Diane+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><cite class="citation journal">Irwin, Amy; Poots, Jill (12 Apr 2018). "Investigation of UK Farmer Go/No-Go Decisions in Response to Tractor-Based Risk Scenarios". <i>Journal of Agromedicine</i>. <b>23</b> (2): 154–165. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1080%2F1059924X.2017.1423000">10.1080/1059924X.2017.1423000</a>. <a href="/wiki/Handle_System" title="Handle System">hdl</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//hdl.handle.net/2164%2F12160">2164/12160</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a> <a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/29648955">29648955</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Agromedicine&amp;rft.atitle=Investigation+of+UK+Farmer+Go%2FNo-Go+Decisions+in+Response+to+Tractor-Based+Risk+Scenarios&amp;rft.volume=23&amp;rft.issue=2&amp;rft.pages=154-165&amp;rft.date=2018-04-12&amp;rft_id=info%3Ahdl%2F2164%2F12160&amp;rft_id=info%3Apmid%2F29648955&amp;rft_id=info%3Adoi%2F10.1080%2F1059924X.2017.1423000&amp;rft.aulast=Irwin&amp;rft.aufirst=Amy&amp;rft.au=Poots%2C+Jill&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><cite class="citation news">Nosowitz, Dan (24 July 2017). <a rel="nofollow" class="external text" href="http://modernfarmer.com/2017/07/john-deere-lending/">"John Deere Is the 5th Largest Agricultural Bank in the Country"</a>. <i><a href="/wiki/Modern_Farmer_(magazine)" title="Modern Farmer (magazine)">Modern Farmer</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Modern+Farmer&amp;rft.atitle=John+Deere+Is+the+5th+Largest+Agricultural+Bank+in+the+Country&amp;rft.date=2017-07-24&amp;rft.aulast=Nosowitz&amp;rft.aufirst=Dan&amp;rft_id=http%3A%2F%2Fmodernfarmer.com%2F2017%2F07%2Fjohn-deere-lending%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.deere.com/en_US/reman/">John Deere Reman Homepage</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090724121342/http://www.deere.com/en_US/reman/">Archived</a> 2009-07-24 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Deere.com (2009-03-20). Retrieved on 2011-01-03.</span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.deere.com/en_US/jdc/index.html">John Deere Credit</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081209105206/http://www.deere.com/en_US/jdc/index.html">Archived</a> 2008-12-09 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Deere.com. Retrieved on 2011-01-03.</span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.deere.com/en_US/newsroom/2010/releases/corporate/31aug2010_corporaterelease.html">Deere Reaches Agreement for Sale of Wind Energy Business</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100903102033/http://www.deere.com/en_US/newsroom/2010/releases/corporate/31aug2010_corporaterelease.html">Archived</a> 2010-09-03 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Deere.com (2010-08-31). Retrieved on 2011-01-03.</span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://investor.deere.com/sec-filings/default.aspx">"John Deere - SEC Filings"</a>. <i>investor.deere.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=investor.deere.com&amp;rft.atitle=John+Deere+-+SEC+Filings&amp;rft_id=https%3A%2F%2Finvestor.deere.com%2Fsec-filings%2Fdefault.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.savingcountrymusic.com/george-jones-his-notorious-riding-lawnmower/">"George Jones &amp; His Notorious Riding Lawnmower"</a>. <i>Saving Country Music</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-10-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Saving+Country+Music&amp;rft.atitle=George+Jones+%26+His+Notorious+Riding+Lawnmower&amp;rft_id=http%3A%2F%2Fwww.savingcountrymusic.com%2Fgeorge-jones-his-notorious-riding-lawnmower%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://racing-reference.info/driver/Chad_Little">"Chad Little Sprint Cup All Star race results"</a>. Racing Reference<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-06-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chad+Little+Sprint+Cup+All+Star+race+results&amp;rft.pub=Racing+Reference&amp;rft_id=http%3A%2F%2Fracing-reference.info%2Fdriver%2FChad_Little&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><cite class="citation book">Dietz, John. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=u25by50YJusC&amp;pg=PA4"><i>John Deere Two-Cylinder Tractor Buyer's Guide</i></a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781610604291" title="Special:BookSources/9781610604291"><bdi>9781610604291</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=John+Deere+Two-Cylinder+Tractor+Buyer%27s+Guide&amp;rft.isbn=9781610604291&amp;rft.aulast=Dietz&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Du25by50YJusC%26pg%3DPA4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><cite class="citation book">Pripps, Robert (2011-02-28). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=KoYq0Gg9zMkC&amp;pg=PA8"><i>Standard Catalog of John Deere Tractors 1st</i></a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781440225710" title="Special:BookSources/9781440225710"><bdi>9781440225710</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Standard+Catalog+of+John+Deere+Tractors+1st&amp;rft.date=2011-02-28&amp;rft.isbn=9781440225710&amp;rft.aulast=Pripps&amp;rft.aufirst=Robert&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DKoYq0Gg9zMkC%26pg%3DPA8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><cite class="citation web">Mary Lou Montgomery. <a rel="nofollow" class="external text" href="http://www.neoshodailynews.com/article/20120207/NEWS/302079741">"John Deere heritage runs deep on Missouri farm"</a>. <i>Neosho Daily News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Neosho+Daily+News&amp;rft.atitle=John+Deere+heritage+runs+deep+on+Missouri+farm&amp;rft.au=Mary+Lou+Montgomery&amp;rft_id=http%3A%2F%2Fwww.neoshodailynews.com%2Farticle%2F20120207%2FNEWS%2F302079741&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(14)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=21" title="Edit section: Sources" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-14 collapsible-block" id="mf-section-14">
+<ul><li><cite class="citation book">Broehl, Wayne G., Jr. (1984). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/johndeerescompan00broe"><i>John Deere's Company: A History of Deere &amp; Company and Its Times</i></a></span>. New York City: Doubleday. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780385196642" title="Special:BookSources/9780385196642"><bdi>9780385196642</bdi></a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/10606276">10606276</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=John+Deere%27s+Company%3A+A+History+of+Deere+%26+Company+and+Its+Times&amp;rft.place=New+York+City&amp;rft.pub=Doubleday&amp;rft.date=1984&amp;rft_id=info%3Aoclcnum%2F10606276&amp;rft.isbn=9780385196642&amp;rft.aulast=Broehl&amp;rft.aufirst=Wayne+G.%2C+Jr.&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fjohndeerescompan00broe&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></li>
+<li><cite class="citation book">Dahlstrom, Jeremy; Dahlstrom, Neil (2005). <i>The John Deere Story: A Biography of Plowmakers John &amp; Charles Deere</i>. Dekalb, Illinois: Northern Illinois University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780875803364" title="Special:BookSources/9780875803364"><bdi>9780875803364</bdi></a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/56753352">56753352</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+John+Deere+Story%3A+A+Biography+of+Plowmakers+John+%26+Charles+Deere&amp;rft.place=Dekalb%2C+Illinois&amp;rft.pub=Northern+Illinois+University+Press&amp;rft.date=2005&amp;rft_id=info%3Aoclcnum%2F56753352&amp;rft.isbn=9780875803364&amp;rft.aulast=Dahlstrom&amp;rft.aufirst=Jeremy&amp;rft.au=Dahlstrom%2C+Neil&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></li>
+<li><cite class="citation book">Kendall, Edward C. (1959). <i>John Deere's Steel Plow</i>. Washington, D.C.: Smithsonian Institution. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/3302873">3302873</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=John+Deere%27s+Steel+Plow&amp;rft.place=Washington%2C+D.C.&amp;rft.pub=Smithsonian+Institution&amp;rft.date=1959&amp;rft_id=info%3Aoclcnum%2F3302873&amp;rft.aulast=Kendall&amp;rft.aufirst=Edward+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Deere" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(15)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=John_Deere&amp;action=edit&amp;section=22" title="Edit section: External links" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-15 collapsible-block" id="mf-section-15">
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"><tbody><tr>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:John_Deere" class="extiw" title="commons:Category:John Deere"><span style="">John Deere</span></a></b></i>.</td></tr></tbody></table><ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.deere.com">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.greenmagazine.com">Green Magazine</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ritchiewiki.com/wiki/index.php/John_Deere">John Deere at RitchieWiki, the Equipment Wiki</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/channel/UCxeAYuhwAPAsSP7Gtfeml0g">John Deere's official youtube</a></li>
+<li>Business data for John Deere: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=DE">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=DE">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=DE">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=John_Deere&amp;oldid=951391221">https://en.wikipedia.org/w/index.php?title=John_Deere&amp;oldid=951391221</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/John_Deere"
+				data-user-name="ClueBot III"
+				data-user-gender="unknown"
+				data-timestamp="1587077254">
+				<span>Last edited on 16 April 2020, at 22:47</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=John_Deere&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.164","walltime":"1.575","ppvisitednodes":{"value":4655,"limit":1000000},"postexpandincludesize":{"value":183625,"limit":2097152},"templateargumentsize":{"value":5309,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":178997,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00% 1282.179      1 -total"," 29.50%  378.239      1 Template:Reflist"," 17.17%  220.123      1 Template:Infobox_company"," 16.03%  205.524      1 Template:Infobox"," 10.89%  139.689     38 Template:Cite_web"," 10.80%  138.471      4 Template:Cite_journal","  7.38%   94.625      1 Template:Br_separated_entries","  7.07%   90.613      1 Template:More_citations_needed_section","  6.96%   89.296      7 Template:Wikidata","  6.46%   82.870      1 Template:More_citations_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.544","limit":"10.000"},"limitreport-memusage":{"value":13763590,"limit":52428800}},"cachereport":{"origin":"mw1369","timestamp":"20200416224845","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"John Deere","url":"https:\/\/en.wikipedia.org\/wiki\/John_Deere","sameAs":"http:\/\/www.wikidata.org\/entity\/Q496302","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q496302","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-01-16T04:06:09Z","dateModified":"2020-04-16T22:47:34Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/c\/cf\/John_Deere_logo.svg","headline":"American corporation"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":167,"wgHostname":"mw1365"});});</script>		</body>
+		</html>
+		

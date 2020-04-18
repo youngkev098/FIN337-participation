@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Intuitive Surgical - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoLtQpAMNcABBrN5V4AAAAK","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Intuitive_Surgical","wgTitle":"Intuitive Surgical","wgCurRevisionId":946755385,"wgRevisionId":946755385,"wgArticleId":3828482,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Intuitive_Surgical","wgRelevantArticleId":3828482,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Intuitive_Surgical_Inc.","wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Intuitive_Surgical","wgWikibaseItemId":"Q2743863","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":
+!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Intuitive_Surgical_logo.svg/1200px-Intuitive_Surgical_logo.svg.png"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Intuitive_Surgical&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Intuitive_Surgical&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Intuitive_Surgical"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Intuitive_Surgical rootpage-Intuitive_Surgical stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Intuitive+Surgical" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Intuitive+Surgical" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Intuitive Surgical</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Intuitive_Surgical" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Intuitive+Surgical" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Intuitive_Surgical&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Intuitive_Surgical_Inc.&amp;redirect=no" class="mw-redirect" title="Intuitive Surgical Inc.">Intuitive Surgical Inc.</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><p><b>Intuitive Surgical Inc.</b> is an American <a href="/wiki/Corporation" title="Corporation">corporation</a> that develops, manufactures, and markets robotic products designed to improve clinical outcomes of patients through minimally invasive surgery, most notably with the <i>da Vinci</i> Surgical System.  The company is part of the <a href="/wiki/NASDAQ-100" title="NASDAQ-100">NASDAQ-100</a> and <a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a>. As of December 31, 2019, Intuitive Surgical had an installed base of 5,582 da Vinci Surgical Systems, including 3,531 in the U.S., 977 in Europe, 780 in Asia, and 294 in the rest of the world. <sup id="cite_ref-Dec_2019_10K_4-0" class="reference"><a href="#cite_note-Dec_2019_10K-4">[4]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">Intuitive Surgical Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Intuitive_Surgical_logo.svg" class="image"><img alt="Intuitive Surgical logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/0/01/Intuitive_Surgical_logo.svg/220px-Intuitive_Surgical_logo.svg.png" decoding="async" width="220" height="88" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/01/Intuitive_Surgical_logo.svg/330px-Intuitive_Surgical_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/01/Intuitive_Surgical_logo.svg/440px-Intuitive_Surgical_logo.svg.png 2x" data-file-width="173" data-file-height="69"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a>: <a rel="nofollow" class="external text" href="https://www.nasdaq.com/symbol/isrg">ISRG</a><br><a href="/wiki/NASDAQ-100" title="NASDAQ-100">NASDAQ-100 Component</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US46120E6023">US46120E6023 </a><a href="https://www.wikidata.org/wiki/Q2743863?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;">Medical Appliances &amp; Equipment</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1995</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Sunnyvale,_California" title="Sunnyvale, California">Sunnyvale</a>, <a href="/wiki/California" title="California">California</a>, United States</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Gary S. Guthart, CEO <br>Lonnie M. Smith, Chairman</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><i>da Vinci</i> Surgical System</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 3,724.2 million (2018) <sup id="cite_ref-xbrlus_1_1-0" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 2,178.8 million (2012) <sup id="cite_ref-xbrlus_1_1-1" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 852.5 million (2013) <sup id="cite_ref-xbrlus_1_1-2" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 878.1 million (2012) <sup id="cite_ref-xbrlus_1_1-3" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 671.0 million (2013) <sup id="cite_ref-xbrlus_1_1-4" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 656.6 million (2012) <sup id="cite_ref-xbrlus_1_1-5" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 3,950.3 million (2013) <sup id="cite_ref-xbrlus_2_2-0" class="reference"><a href="#cite_note-xbrlus_2-2">[2]</a></sup></span></li><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 4,059.2 million (2012) <sup id="cite_ref-xbrlus_1_1-6" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 3,501.4 million (2013) <sup id="cite_ref-xbrlus_2_2-1" class="reference"><a href="#cite_note-xbrlus_2-2">[2]</a></sup></span></li><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 3,580.1 million (2012) <sup id="cite_ref-xbrlus_1_1-7" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">5,527<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><a rel="nofollow" class="external text" href="https://www.intuitive.com">www.intuitive.com</a></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Finances"><span class="tocnumber">2</span> <span class="toctext">Finances</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#da_Vinci_Surgical_System"><span class="tocnumber">3</span> <span class="toctext">da Vinci Surgical System</span></a>
+<ul><li class="toclevel-2 tocsection-4"><a href="#Efficacy"><span class="tocnumber">3.1</span> <span class="toctext">Efficacy</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-5"><a href="#Lawsuit"><span class="tocnumber">4</span> <span class="toctext">Lawsuit</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Intuitive_Surgical&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>The research that eventually led to the development of the <i>da Vinci</i> Surgical System was performed in the late 1980s at a non-profit research institute <a href="/wiki/SRI_International" title="SRI International">SRI International</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>  In 1990, SRI received funding from the <a href="/wiki/National_Institutes_of_Health" title="National Institutes of Health">National Institutes of Health</a>.  SRI developed a prototype robotic surgical system that caught the interest of the <a href="/wiki/Defense_Advanced_Research_Projects_Agency" class="mw-redirect" title="Defense Advanced Research Projects Agency">Defense Advanced Research Projects Agency</a> (DARPA), which was interested in the system for its potential to allow surgeons to operate remotely on soldiers wounded on the battlefield.
+</p><p>In 1994, Dr. <a href="/wiki/Frederic_Moll" title="Frederic Moll">Frederic Moll</a> became interested in the SRI System, as the device was known at the time. At the time, Moll was employed by <a href="/wiki/Guidant" title="Guidant">Guidant</a>. He tried to interest Guidant in backing it, to no avail. In 1995, Moll was introduced to John Freund, who had recently left Acuson Corporation. Freund negotiated an option to acquire SRI's intellectual property, and incorporated a new company that he named Intuitive Surgical Devices, Inc.
+</p><p>At that point Freund, Moll, and Robert (also from Acuson) wrote the business plan for the company and raised its initial venture capital.  Early investors included the <a href="/wiki/Mayfield_Fund" class="mw-redirect" title="Mayfield Fund">Mayfield Fund</a>, Sierra Ventures, and Morgan Stanley.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2014)">citation needed</span></a></i>]</sup></p><p>The company refined the SRI System into a prototype known originally as "Lenny" (after the young Leonardo da Vinci), which was ready for testing in 1997. As the company's prototypes became more advanced, they were named using da Vinci themes. One was named "Leonardo", and another was "Mona". The final version of the prototype was nicknamed the <i>da Vinci</i> Surgical System, and the name stuck when the system was eventually commercialized. After further testing, Intuitive Surgical began marketing this system in Europe in 1999, while awaiting FDA approval in the United States.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2014)">citation needed</span></a></i>]</sup></p><p>The company raised $46 million in an initial public offering in 2000.  That same year, the FDA approved use of the <i>da Vinci</i> Surgical System for general <a href="/wiki/Laparoscopic" class="mw-redirect" title="Laparoscopic">laparoscopic</a> surgery, which can be used to address gallbladder disease and gastroesophageal disease.  In 2001, the FDA approved use of the system for prostate surgery.  The FDA has subsequently approved the system for thoracoscopic surgery, cardiac procedures performed with adjunctive incisions, and gynecologic procedures.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p><p>Shortly before going public, Intuitive Surgical was sued for patent infringement by Computer Motion, Inc, its chief rival.  Computer Motion had actually gotten into the robotic surgery field earlier than Intuitive Surgical, with its own system, the <a href="/wiki/ZEUS_Robotic_Surgical_System" class="mw-redirect" title="ZEUS Robotic Surgical System">ZEUS Robotic Surgical System</a>.  Although the ZEUS system was approved in Europe, the U.S. <a href="/wiki/Food_and_Drug_Administration" title="Food and Drug Administration">Food and Drug Administration</a> had not yet approved it for any procedure at the time that the FDA first approved the <i>da Vinci</i> system.  The uncertainty created by the litigation between the companies was a drag on each company's growth. In 2003, Intuitive Surgical and Computer Motion agreed to merge, thus ending the litigation between them.<sup id="cite_ref-INTUITIVE-SURGICAL-INC-Mar-2003-8-K_7-0" class="reference"><a href="#cite_note-INTUITIVE-SURGICAL-INC-Mar-2003-8-K-7">[7]</a></sup>  The ZEUS system was ultimately phased out in favor of the <i>da Vinci</i> system.
+</p><p>Before the buyout of Computer Motion, the stock of Intuitive was selling at around $14 per share, adjusted for stock splits. After the merger, the stock price rose significantly (and by 2015 it was at about $500),<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> primarily because of the growth in systems sold (60 in 2002 compared with 431 in 2014) and the number of surgical procedures performed (less than 1,000 in 2002 compared with 540,000 in 2014).
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Finances">Finances</span><span class="mw-editsection"><a href="/w/index.php?title=Intuitive_Surgical&amp;action=edit&amp;section=2" title="Edit section: Finances" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>For the fiscal year 2017, Intuitive Surgical reported earnings of US$660 million, with an annual revenue of US$3.129 billion, an increase of 15.7% over the previous fiscal cycle. Intuitive Surgical's shares traded at over $307 per share, and its market capitalization was valued at over US$58 billion in November 2018.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<table class="wikitable float-left" style="text-align: right;"><tbody><tr><th>Year
+</th>
+<th>Revenue<br>in mil. USD$
+</th>
+<th>Net income<br>in mil. USD$
+</th>
+<th>Total Assets<br>in mil. USD$
+</th>
+<th>Price per Share<br>in USD$
+</th>
+<th>Employees
+</th></tr><tr><td>2005
+</td>
+<td>227
+</td>
+<td>94
+</td>
+<td>502
+</td>
+<td>21.24
+</td>
+<td>
+</td></tr><tr><td>2006
+</td>
+<td>373
+</td>
+<td>72
+</td>
+<td>672
+</td>
+<td>35.65
+</td>
+<td>
+</td></tr><tr><td>2007
+</td>
+<td>601
+</td>
+<td>145
+</td>
+<td>1,040
+</td>
+<td>61.82
+</td>
+<td>
+</td></tr><tr><td>2008
+</td>
+<td>875
+</td>
+<td>204
+</td>
+<td>1,475
+</td>
+<td>85.48
+</td>
+<td>
+</td></tr><tr><td>2009
+</td>
+<td>1,052
+</td>
+<td>233
+</td>
+<td>1,810
+</td>
+<td>61.58
+</td>
+<td>
+</td></tr><tr><td>2010
+</td>
+<td>1,413
+</td>
+<td>382
+</td>
+<td>2,390
+</td>
+<td>104.33
+</td>
+<td>
+</td></tr><tr><td>2011
+</td>
+<td>1,757
+</td>
+<td>495
+</td>
+<td>3,063
+</td>
+<td>122.21
+</td>
+<td>
+</td></tr><tr><td>2012
+</td>
+<td>2,179
+</td>
+<td>657
+</td>
+<td>4,059
+</td>
+<td>172.93
+</td>
+<td>
+</td></tr><tr><td>2013
+</td>
+<td>2,265
+</td>
+<td>671
+</td>
+<td>3,950
+</td>
+<td>149.97
+</td>
+<td>2,792
+</td></tr><tr><td>2014
+</td>
+<td>2,132
+</td>
+<td>419
+</td>
+<td>3,959
+</td>
+<td>147.55
+</td>
+<td>2,978
+</td></tr><tr><td>2015
+</td>
+<td>2,384
+</td>
+<td>589
+</td>
+<td>4,907
+</td>
+<td>169.00
+</td>
+<td>3,211
+</td></tr><tr><td>2016
+</td>
+<td>2,704
+</td>
+<td>736
+</td>
+<td>6,487
+</td>
+<td>212.10
+</td>
+<td>3,755
+</td></tr><tr><td>2017
+</td>
+<td>3,129
+</td>
+<td>660
+</td>
+<td>5,758
+</td>
+<td>307.18
+</td>
+<td>4,444
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="da_Vinci_Surgical_System">da Vinci Surgical System</span><span class="mw-editsection"><a href="/w/index.php?title=Intuitive_Surgical&amp;action=edit&amp;section=3" title="Edit section: da Vinci Surgical System" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Da_Vinci_Surgical_System" title="Da Vinci Surgical System">da Vinci Surgical System</a></div>
+<table class="infobox hproduct vevent" style="width:22em"><caption class="fn summary"><i>Da Vinci Surgical System</i></caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Laproscopic_Surgery_Robot.jpg" class="image"><noscript><img alt="Laproscopic Surgery Robot.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Laproscopic_Surgery_Robot.jpg/150px-Laproscopic_Surgery_Robot.jpg" decoding="async" width="150" height="218" data-file-width="891" data-file-height="1296"></noscript><span class="lazy-image-placeholder" style="width: 150px;height: 218px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Laproscopic_Surgery_Robot.jpg/150px-Laproscopic_Surgery_Robot.jpg" data-alt="Laproscopic Surgery Robot.jpg" data-width="150" data-height="218"> </span></a></td></tr><tr><th scope="row">Manufacturer</th><td>Intuitive Surgical</td></tr><tr><th scope="row">Type</th><td><a href="/wiki/Robotic_surgery" class="mw-redirect" title="Robotic surgery">Robotic surgery</a></td></tr></tbody></table><p>The <a href="/wiki/Da_Vinci_Surgical_System" title="Da Vinci Surgical System">da Vinci Surgical System</a> is a <a href="/wiki/Robotic_surgery" class="mw-redirect" title="Robotic surgery">robotic surgical</a> system. The system is controlled by a surgeon from a console. 
+It is commonly used for <a href="/wiki/Prostatectomy" title="Prostatectomy">prostatectomies</a> and increasingly for <a href="/wiki/Heart_valve" title="Heart valve">cardiac valve</a> repair and <a href="/wiki/Gynecology" class="mw-redirect" title="Gynecology">gynecologic</a> surgical procedures.<sup id="cite_ref-mw_10-0" class="reference"><a href="#cite_note-mw-10">[10]</a></sup><sup id="cite_ref-nyt_11-0" class="reference"><a href="#cite_note-nyt-11">[11]</a></sup></p><p>A <i>da Vinci</i> Surgical System costs approximately $1.5 million.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+The new da Vinci SI released in April 2009 cost about $1.75 million. In addition, there are maintenance contracts plus expenditures for instruments used during surgery. Surgical procedures performed with the robot take longer than traditional ones. Critics have pointed out that hospitals have a hard time recovering the cost and that most clinical data does not support the claim of improved patient outcomes.<sup id="cite_ref-nyt_11-1" class="reference"><a href="#cite_note-nyt-11">[11]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Efficacy">Efficacy</span><span class="mw-editsection"><a href="/w/index.php?title=Intuitive_Surgical&amp;action=edit&amp;section=4" title="Edit section: Efficacy" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>While the use of robotic surgery has become an item in the advertisement of medical services, there is a lack of studies that indicated long-term results are superior to results following laparoscopic surgery.<sup id="cite_ref-kolata_13-0" class="reference"><a href="#cite_note-kolata-13">[13]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Lawsuit">Lawsuit</span><span class="mw-editsection"><a href="/w/index.php?title=Intuitive_Surgical&amp;action=edit&amp;section=5" title="Edit section: Lawsuit" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<p>In June 2018, Intuitive Surgical settled class action lawsuits against it for a payment of $43 million.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Intuitive_Surgical&amp;action=edit&amp;section=6" title="Edit section: References" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references"><li id="cite_note-xbrlus_1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-xbrlus_1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/1035267/000103526714000009/0001035267-14-000009-index.htm">"INTUITIVE SURGICAL INC 2013 Annual Report Form (10-K)"</a> <span class="cs1-format">(XBRL)</span>. United States Securities and Exchange Commission. February 3, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=INTUITIVE+SURGICAL+INC+2013+Annual+Report+Form+%2810-K%29&amp;rft.pub=United+States+Securities+and+Exchange+Commission&amp;rft.date=2014-02-03&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F1035267%2F000103526714000009%2F0001035267-14-000009-index.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIntuitive+Surgical" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-xbrlus_2-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-xbrlus_2_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-xbrlus_2_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/1035267/000103526714000053/0001035267-14-000053-index.htm">"INTUITIVE SURGICAL INC 2014 Q1 Quarterly Report Form (10-Q)"</a> <span class="cs1-format">(XBRL)</span>. United States Securities and Exchange Commission. April 25, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=INTUITIVE+SURGICAL+INC+2014+Q1+Quarterly+Report+Form+%2810-Q%29&amp;rft.pub=United+States+Securities+and+Exchange+Commission&amp;rft.date=2014-04-25&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F1035267%2F000103526714000053%2F0001035267-14-000053-index.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIntuitive+Surgical" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/intuitive-surgical/">"Intuitive Surgical"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Intuitive+Surgical&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Fintuitive-surgical%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIntuitive+Surgical" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Dec_2019_10K-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dec_2019_10K_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Intuitive Surgical, Inc. (2017-09-30). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171027181131/http://phx.corporate-ir.net/phoenix.zhtml?c=122359&amp;p=irol-faq">"Intuitive Surgical Investor FAQ"</a>. <i>phx.corporate-ir.net</i>. Intuitive Surgical. Archived from <a rel="nofollow" class="external text" href="http://phx.corporate-ir.net/phoenix.zhtml%3Fc%3D122359%26p%3Dirol-faq">the original</a> on 2017-10-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=phx.corporate-ir.net&amp;rft.atitle=Intuitive+Surgical+Investor+FAQ&amp;rft.date=2017-09-30&amp;rft.au=Intuitive+Surgical%2C+Inc.&amp;rft_id=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%253Fc%253D122359%2526p%253Dirol-faq&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIntuitive+Surgical" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">"Intuitive Surgical." International Directory of Company Histories. The Gale Group, Inc, 2006. Answers.com 30 Jan. 2009. <a rel="nofollow" class="external free" href="http://www.answers.com/topic/intuitive-surgical-inc">http://www.answers.com/topic/intuitive-surgical-inc</a> (other facts from <i>History</i> section from same source)</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070929003839/http://www.intuitivesurgical.com/corporate/companyprofile/index.aspx">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.intuitivesurgical.com/corporate/companyprofile/index.aspx">the original</a> on 2007-09-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.intuitivesurgical.com%2Fcorporate%2Fcompanyprofile%2Findex.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIntuitive+Surgical" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-INTUITIVE-SURGICAL-INC-Mar-2003-8-K-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-INTUITIVE-SURGICAL-INC-Mar-2003-8-K_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/2339/89161803001169/filing-main.htm">"INTUITIVE SURGICAL INC, Form 8-K, Current Report, Filing Date Mar 7, 2003"</a>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">May 15,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=INTUITIVE+SURGICAL+INC%2C+Form+8-K%2C+Current+Report%2C+Filing+Date+Mar+7%2C+2003&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F2339%2F89161803001169%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIntuitive+Surgical" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Yahoo finance, Wednesday, April 1, 2015, ISRG <a rel="nofollow" class="external free" href="https://finance.yahoo.com/q?s=isrg&amp;fr=uh3_finance_web&amp;uhb=uhb2">https://finance.yahoo.com/q?s=isrg&amp;fr=uh3_finance_web&amp;uhb=uhb2</a> /</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.macrotrends.net/stocks/charts/ISRG/intuitive-surgical/revenue">"Intuitive Surgical Revenue 2006-2018 | ISRG"</a>. <i>www.macrotrends.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.macrotrends.net&amp;rft.atitle=Intuitive+Surgical+Revenue+2006-2018+%7C+ISRG&amp;rft_id=https%3A%2F%2Fwww.macrotrends.net%2Fstocks%2Fcharts%2FISRG%2Fintuitive-surgical%2Frevenue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIntuitive+Surgical" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-mw-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-mw_10-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.marketwatch.com/news/story/fascinating-visit-high-tech-operating-room/story.aspx?guid=%7B2BE812BD-BE91-492C-A0B2-65A0C8324430%7D&amp;dist=msr_2">Robots as surgical enablers</a>, <i>MarketWatch</i>, 3 February 2005</span>
+</li>
+<li id="cite_note-nyt-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-nyt_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nyt_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2008/05/04/business/04moll.html">Prepping Robots to Perform Surgery</a>, <i>The New York Times</i>, 4 May 2008</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.jyi.org/news/nb.php?id=1499">http://www.jyi.org/news/nb.php?id=1499</a></span>
+</li>
+<li id="cite_note-kolata-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-kolata_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Gina Kolata (February 13, 2010). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2010/02/14/health/14robot.html">"Results Unproven, Robotic Surgery Wins Converts"</a>. The New York Times<span class="reference-accessdate">. Retrieved <span class="nowrap">March 11,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Results+Unproven%2C+Robotic+Surgery+Wins+Converts&amp;rft.pub=The+New+York+Times&amp;rft.date=2010-02-13&amp;rft.au=Gina+Kolata&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2010%2F02%2F14%2Fhealth%2F14robot.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIntuitive+Surgical" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Densford, Fink (2018-06-13). <a rel="nofollow" class="external text" href="https://www.massdevice.com/intuitive-surgical-pays-43m-to-settle-class-actions/">"Intuitive Surgical pays $43m to settle class actions"</a>. <i>massdevice.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-10-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=massdevice.com&amp;rft.atitle=Intuitive+Surgical+pays+%2443m+to+settle+class+actions&amp;rft.date=2018-06-13&amp;rft.aulast=Densford&amp;rft.aufirst=Fink&amp;rft_id=https%3A%2F%2Fwww.massdevice.com%2Fintuitive-surgical-pays-43m-to-settle-class-actions%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIntuitive+Surgical" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.law360.com/cases/517af1ee6208d7607a0093e1">"Intuitive Investors Get $42.5M Deal With Bargain Attys' Fees"</a>. <i>law360.com</i>. 2018-10-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-10-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=law360.com&amp;rft.atitle=Intuitive+Investors+Get+%2442.5M+Deal+With+Bargain+Attys%27+Fees&amp;rft.date=2018-10-04&amp;rft_id=https%3A%2F%2Fwww.law360.com%2Fcases%2F517af1ee6208d7607a0093e1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIntuitive+Surgical" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Intuitive_Surgical&amp;action=edit&amp;section=7" title="Edit section: External links" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://www.intuitive.com/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?id=NAY">Intuitive Surgical Product Recalls by FDA</a></li>
+<li>Business data for Intuitive Surgical: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=ISRG">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=ISRG">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=ISRG">SEC filings</a></li></ul></div></li></ul><style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul><li><span><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" decoding="async" width="28" height="28" class="noviewer" data-file-width="512" data-file-height="512"></noscript><span class="lazy-image-placeholder" style="width: 28px;height: 28px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" data-alt="" data-width="28" data-height="28" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-class="noviewer"> </span></span><span><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li></ul></div>
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Intuitive_Surgical&amp;oldid=946755385">https://en.wikipedia.org/w/index.php?title=Intuitive_Surgical&amp;oldid=946755385</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Intuitive_Surgical"
+				data-user-name="23.252.60.252"
+				data-user-gender="unknown"
+				data-timestamp="1584856453">
+				<span>Last edited on 22 March 2020, at 05:54</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Intuitive_Surgical&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.424","walltime":"0.569","ppvisitednodes":{"value":2158,"limit":1000000},"postexpandincludesize":{"value":58746,"limit":2097152},"templateargumentsize":{"value":7318,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":35746,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  486.528      1 -total"," 34.63%  168.474      1 Template:Infobox_company"," 33.06%  160.859      2 Template:Infobox"," 32.54%  158.337      1 Template:Reflist"," 28.04%  136.417     10 Template:Cite_web"," 12.72%   61.895      1 Template:Br_separated_entries"," 11.93%   58.035      8 Template:Wikidata"," 11.20%   54.495      2 Template:Citation_needed","  9.87%   48.035      2 Template:Fix","  6.17%   29.997      4 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.221","limit":"10.000"},"limitreport-memusage":{"value":4658211,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20200416052333","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Intuitive Surgical","url":"https:\/\/en.wikipedia.org\/wiki\/Intuitive_Surgical","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2743863","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2743863","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-24T09:18:10Z","dateModified":"2020-03-22T05:54:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/0\/01\/Intuitive_Surgical_logo.svg","headline":"American corporation"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":251,"wgHostname":"mw1373"});});</script>		</body>
+		</html>
+		

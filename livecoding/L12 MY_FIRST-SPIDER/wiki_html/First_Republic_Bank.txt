@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>First Republic Bank - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XphIDApAMMEAAv0ZL4AAAABO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"First_Republic_Bank","wgTitle":"First Republic Bank","wgCurRevisionId":939287794,"wgRevisionId":939287794,"wgArticleId":13193913,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"First_Republic_Bank","wgRelevantArticleId":13193913,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5453752","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=First_Republic_Bank&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=First_Republic_Bank&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/First_Republic_Bank"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-First_Republic_Bank rootpage-First_Republic_Bank stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=First+Republic+Bank" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=First+Republic+Bank" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">First Republic Bank</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector disabled"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=First+Republic+Bank" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=First_Republic_Bank&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><div role="note" class="hatnote navigation-not-searchable">This article is about the bank based in San Francisco. For the defunct bank based in Dallas, see <a href="/wiki/First_Republic_Bank_Corporation" title="First Republic Bank Corporation">First Republic Bank Corporation</a>.</div>
+<p><b>First Republic Bank</b> is an <a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Bank" title="Bank">bank</a> and wealth management company offering <a href="/wiki/Personal_banking" class="mw-redirect" title="Personal banking">personal banking</a>, business banking, trust and wealth management services, catering to low-risk, high net-worth clientele.  The bank specializes in delivering personalized relationship-based service through preferred banking or trust offices in the United States, including <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a>, <a href="/wiki/Palo_Alto" class="mw-redirect" title="Palo Alto">Palo Alto</a>, <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, <a href="/wiki/Santa_Barbara,_California" title="Santa Barbara, California">Santa Barbara</a>, <a href="/wiki/Newport_Beach" class="mw-redirect" title="Newport Beach">Newport Beach</a>, <a href="/wiki/San_Diego" title="San Diego">San Diego</a>, <a href="/wiki/Portland,_Oregon" title="Portland, Oregon">Portland</a>, <a href="/wiki/Palm_Beach,_Florida" title="Palm Beach, Florida">Palm Beach</a>, <a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/Greenwich,_Connecticut" title="Greenwich, Connecticut">Greenwich</a>, <a href="/wiki/New_York_City" title="New York City">New York City</a>, <a href="/wiki/Jackson,_Wyoming" title="Jackson, Wyoming">Jackson, Wyoming</a>, and <a href="/wiki/Manhattan_Beach,_California" title="Manhattan Beach, California">Manhattan Beach</a>. <sup id="cite_ref-A_1-1" class="reference"><a href="#cite_note-A-1">[1]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">First Republic Bank</caption><tbody><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Publicly_held_company" class="mw-redirect" title="Publicly held company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:FRC">FRC</a></li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li><li><a href="/wiki/Russell_1000" class="mw-redirect" title="Russell 1000">Russell 1000</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Banking" class="mw-redirect" title="Banking">Banking</a><br><a href="/wiki/Financial_services" title="Financial services">Financial services</a><br><a href="/wiki/Investment" title="Investment">Investment services</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1985</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a>, <a href="/wiki/California" title="California">CA</a>, USA</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;"><a href="/wiki/California" title="California">California</a>, <a href="/wiki/Oregon" title="Oregon">Oregon</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, <a href="/wiki/Connecticut" title="Connecticut">Connecticut</a>, <a href="/wiki/Florida" title="Florida">Florida</a>, <a href="/wiki/Wyoming" title="Wyoming">Wyoming</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">James H. Herbert II<br><small><a href="/wiki/Chairman#Corporate_governance" class="mw-redirect" title="Chairman">Chairman</a> and <a href="/wiki/Chief_Executive_Officer" class="mw-redirect" title="Chief Executive Officer">CEO</a></small><br>Hafize Gaye Erkan<br><small><a href="/wiki/President_(corporate_title)" title="President (corporate title)">President</a></small></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a href="/wiki/Retail_banking" title="Retail banking">Consumer Banking</a><br><a href="/wiki/Commercial_bank" title="Commercial bank">Business Banking</a><br><a href="/wiki/Private_banking" title="Private banking">Wealth Management</a><br><a href="/wiki/Mortgages" class="mw-redirect" title="Mortgages">Mortgages</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;">US$111.0 billion (2019)<sup id="cite_ref-A_1-0" class="reference"><a href="#cite_note-A-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th><td style="line-height: 1.35em;">
+<ul><li>First Republic Investment Management, Inc.</li>
+<li>First Republic Securities Company, LLC</li>
+<li>First Republic Trust Company</li>
+<li>First Republic Trust Company of Delaware LLC</li></ul></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://firstrepublic.com">firstrepublic<wbr></wbr>.com</a></span></td></tr></tbody></table><p>First Republic offers wealth management services through First Republic Wealth Advisors and First Republic Investment Management.  Brokerage services are provided through First Republic Securities Company LLC and Trust services are provided through First Republic Trust Company.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Corporate_history"><span class="tocnumber">1</span> <span class="toctext">Corporate history</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Changes_in_ownership"><span class="tocnumber">1.1</span> <span class="toctext">Changes in ownership</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Gradifi_and_recent_events"><span class="tocnumber">1.2</span> <span class="toctext">Gradifi and recent events</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-4"><a href="#Subsidiaries"><span class="tocnumber">2</span> <span class="toctext">Subsidiaries</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Branch_locations"><span class="tocnumber">3</span> <span class="toctext">Branch locations</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Corporate_history">Corporate history</span><span class="mw-editsection"><a href="/w/index.php?title=First_Republic_Bank&amp;action=edit&amp;section=1" title="Edit section: Corporate history" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<h3 class="in-block"><span class="mw-headline" id="Changes_in_ownership">Changes in ownership</span><span class="mw-editsection"><a href="/w/index.php?title=First_Republic_Bank&amp;action=edit&amp;section=2" title="Edit section: Changes in ownership" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Started as a small thrift company,<sup id="cite_ref-Android_and_Ensign_in_2016_2-0" class="reference"><a href="#cite_note-Android_and_Ensign_in_2016-2">[2]</a></sup> First Republic was founded in 1985.<sup id="cite_ref-First_Republic_Release_in_2007_3-0" class="reference"><a href="#cite_note-First_Republic_Release_in_2007-3">[3]</a></sup> Since its founding, it has undergone a series of ownership changes since 2007, beginning with its announced purchase by <a href="/wiki/Merrill_Lynch" class="mw-redirect" title="Merrill Lynch">Merrill Lynch</a> on January 29, 2007 for $1.8 billion to augment their private client business. The company was to be operated as a separate business of Merrill Lynch.<sup id="cite_ref-First_Republic_Release_in_2007_3-1" class="reference"><a href="#cite_note-First_Republic_Release_in_2007-3">[3]</a></sup>  The Merrill transaction was finalized on September 21, of 2007. <a href="/wiki/Robert_J._McCann" title="Robert J. McCann">Robert J. McCann</a>, president of Merrill's Global Wealth Management group stated their purpose was to accelerate their strategy of "growing our high net worth, private banking business."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Over the same weekend that <a href="/wiki/Lehman_Brothers" title="Lehman Brothers">Lehman Brothers</a> Holdings filed for Chapter 11 <a href="/wiki/Bankruptcy_protection" class="mw-redirect" title="Bankruptcy protection">bankruptcy protection</a>, on September 15, 2008, Merrill Lynch and its subsidiaries were acquired by <a href="/wiki/Bank_of_America" title="Bank of America">Bank of America</a>.<sup id="cite_ref-in_2008_5-0" class="reference"><a href="#cite_note-in_2008-5">[5]</a></sup></p><p>In October 2009, just under 50% of First Republic was purchased by two private equity firms, <a href="/wiki/Colony_Capital" title="Colony Capital">Colony Capital</a> and <a href="/wiki/General_Atlantic" title="General Atlantic">General Atlantic</a>, and a group of other investors that included chairman James Herbert and former COO Katherine August DeWilde. The price was valued at about $1 billion. Both equity firms had prior relationships with First Republic Bank. <a href="/wiki/Thomas_J._Barrack,_Jr." class="mw-redirect" title="Thomas J. Barrack, Jr.">Thomas J. Barrack, Jr.</a>, the head of Colony, had been a board member prior to the Merrill Lynch deal and General Atlantic had been an early investor in the firm putting up about $5 million in 1987.<sup id="cite_ref-in_2009_6-0" class="reference"><a href="#cite_note-in_2009-6">[6]</a></sup> The deal was consummated on July 1, 2010. The <a href="/wiki/London" title="London">London</a>-based  news service reported that an additional $800 million was provided by the new investment consortium to meet new capital requirements established by U.S. regulators.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Gradifi_and_recent_events">Gradifi and recent events</span><span class="mw-editsection"><a href="/w/index.php?title=First_Republic_Bank&amp;action=edit&amp;section=3" title="Edit section: Gradifi and recent events" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>In the years leading up to 2016, the bank's private wealth management unit acquired advisory teams such as Constellation Wealth Partners.<sup id="cite_ref-Barthel_2016_8-0" class="reference"><a href="#cite_note-Barthel_2016-8">[8]</a></sup>  By April 2016,<sup id="cite_ref-Passy_in_2016_9-0" class="reference"><a href="#cite_note-Passy_in_2016-9">[9]</a></sup> First Republic had opened branches at the <a href="/wiki/Facebook" title="Facebook">Facebook</a> and <a href="/wiki/Twitter_Inc." class="mw-redirect" title="Twitter Inc.">Twitter Inc.</a> headquarters in <a href="/wiki/Silicon_Valley" title="Silicon Valley">Silicon Valley</a>.<sup id="cite_ref-Perlberg_and_Gopal_in_2016_10-0" class="reference"><a href="#cite_note-Perlberg_and_Gopal_in_2016-10">[10]</a></sup> It also had various high-profile customers.<sup id="cite_ref-Andriotis_and_Ensign_in_2016_11-0" class="reference"><a href="#cite_note-Andriotis_and_Ensign_in_2016-11">[11]</a></sup> <i>Barron's</i> in September 2016 decided to list First Republic Bank at 21 on its list of America's Top 40 Wealth Management Firms.<sup id="cite_ref-Barthel_2016_8-1" class="reference"><a href="#cite_note-Barthel_2016-8">[8]</a></sup> By December 2016, First Republic Bank had $68 billion in assets.<sup id="cite_ref-Kellard_in_2016_12-0" class="reference"><a href="#cite_note-Kellard_in_2016-12">[12]</a></sup></p><p>In December 2016, the bank acquired Gradifi, a startup in Boston, for an unknown cash amount.<sup id="cite_ref-Obrien_in_2016_13-0" class="reference"><a href="#cite_note-Obrien_in_2016-13">[13]</a></sup><sup id="cite_ref-Kellard_in_2016_12-1" class="reference"><a href="#cite_note-Kellard_in_2016-12">[12]</a></sup> Then two years old, Gradifi works with companies to help their employees pay off student debt,<sup id="cite_ref-Kellard_in_2016_12-2" class="reference"><a href="#cite_note-Kellard_in_2016-12">[12]</a></sup> and First Republic had become a client in August 2016.<sup id="cite_ref-Obrien_in_2016_13-1" class="reference"><a href="#cite_note-Obrien_in_2016-13">[13]</a></sup> Becoming a wholly owned subsidiary of First Republic,<sup id="cite_ref-Obrien_in_2016_13-2" class="reference"><a href="#cite_note-Obrien_in_2016-13">[13]</a></sup> Gradifi continues to operate in <a href="/wiki/Boston" title="Boston">Boston</a> under its own name.<sup id="cite_ref-Kellard_in_2016_12-3" class="reference"><a href="#cite_note-Kellard_in_2016-12">[12]</a></sup><sup id="cite_ref-Obrien_in_2016_13-3" class="reference"><a href="#cite_note-Obrien_in_2016-13">[13]</a></sup> Gradifi retained its customer base including <a href="/wiki/PricewaterhouseCoopers" title="PricewaterhouseCoopers">PricewaterhouseCoopers</a>, <a href="/wiki/Natixis_Global_Asset_Management" class="mw-redirect" title="Natixis Global Asset Management">Natixis Global Asset Management</a> and <a href="/wiki/Penguin_Random_House" title="Penguin Random House">Penguin Random House</a>.<sup id="cite_ref-Obrien_in_2016_13-4" class="reference"><a href="#cite_note-Obrien_in_2016-13">[13]</a></sup></p><p>Remaining a large American bank,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> in March 2018, the bank invested in CommonBond, a student loan financier.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> First Republic announced it would expand into <a href="/wiki/Jackson,_Wyoming" title="Jackson, Wyoming">Jackson, Wyoming</a> in May 2018 with a new branch.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Also that month, First Republic signed a deal to double its space at <a href="/wiki/Rockefeller_Center" title="Rockefeller Center">Rockefeller Center</a> in <a href="/wiki/New_York_City" title="New York City">New York City</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> In June 2018, <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i> ranked First Republic #220 on its Global 2000 list of "growth champions." <i>Forbes</i> also ranked it #268 on America's largest public companies. With 5,350 employees at the time, First Republic had a market cap of $15.8 billion<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> and wealth management assets totaling $140.2 billion.<sup id="cite_ref-A_1-2" class="reference"><a href="#cite_note-A-1">[1]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Subsidiaries">Subsidiaries</span><span class="mw-editsection"><a href="/w/index.php?title=First_Republic_Bank&amp;action=edit&amp;section=4" title="Edit section: Subsidiaries" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li>First Republic Investment Management, Inc.</li>
+<li>First Republic Securities Company, LLC</li>
+<li>First Republic Trust Company</li>
+<li>First Republic Trust Company of Delaware LLC</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Branch_locations">Branch locations</span><span class="mw-editsection"><a href="/w/index.php?title=First_Republic_Bank&amp;action=edit&amp;section=5" title="Edit section: Branch locations" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>There are currently 78 office locations of First Republic, all of which are in the United States.<sup id="cite_ref-L_19-0" class="reference"><a href="#cite_note-L-19">[19]</a></sup></p><p><b>West</b>
+</p>
+<ul><li><a href="/wiki/Northern_California" title="Northern California">Northern California</a> (37)<sup id="cite_ref-The_FR_Locations_Website_20-0" class="reference"><a href="#cite_note-The_FR_Locations_Website-20">[20]</a></sup></li>
+<li><a href="/wiki/Southern_California" title="Southern California">Southern California</a> (16)<sup id="cite_ref-The_FR_Locations_Website_20-1" class="reference"><a href="#cite_note-The_FR_Locations_Website-20">[20]</a></sup></li>
+<li><a href="/wiki/Portland,_Oregon" title="Portland, Oregon">Portland, Oregon</a> (1)<sup id="cite_ref-L_19-1" class="reference"><a href="#cite_note-L-19">[19]</a></sup></li></ul><p><b>East</b>
+</p>
+<ul><li><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston, Massachusetts</a> (4)<sup id="cite_ref-L_19-2" class="reference"><a href="#cite_note-L-19">[19]</a></sup></li>
+<li><a href="/wiki/Greenwich,_Connecticut" title="Greenwich, Connecticut">Greenwich, Connecticut</a> (1)<sup id="cite_ref-L_19-3" class="reference"><a href="#cite_note-L-19">[19]</a></sup></li>
+<li><a href="/wiki/Manhattan" title="Manhattan">Manhattan</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a> (9)<sup id="cite_ref-L_19-4" class="reference"><a href="#cite_note-L-19">[19]</a></sup></li>
+<li><a href="/wiki/Wellesley,_Massachusetts" title="Wellesley, Massachusetts">Wellesley, Massachusetts</a> (1)<sup id="cite_ref-L_19-5" class="reference"><a href="#cite_note-L-19">[19]</a></sup></li>
+<li><a href="/wiki/Palm_Beach,_Florida" title="Palm Beach, Florida">Palm Beach, Florida</a> (2)<sup id="cite_ref-L_19-6" class="reference"><a href="#cite_note-L-19">[19]</a></sup></li>
+<li><a href="/wiki/Salem,_New_Hampshire" title="Salem, New Hampshire">Salem, New Hampshire</a><sup id="cite_ref-L_19-7" class="reference"><a href="#cite_note-L-19">[19]</a></sup> (additional lending office)</li>
+<li><a href="/wiki/Jackson,_Wyoming" title="Jackson, Wyoming">Jackson, Wyoming</a> (1)<sup id="cite_ref-A_1-3" class="reference"><a href="#cite_note-A-1">[1]</a></sup></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=First_Republic_Bank&amp;action=edit&amp;section=6" title="Edit section: References" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-A-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-A_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-A_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-A_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-A_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.firstrepublic.com/who-we-are">"First Republic Bank - Who we Are Release"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=First+Republic+Bank+-+Who+we+Are+Release&amp;rft_id=https%3A%2F%2Fwww.firstrepublic.com%2Fwho-we-are&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirst+Republic+Bank" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Android_and_Ensign_in_2016-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Android_and_Ensign_in_2016_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.wsj.com/articles/first-republic-is-it-wrong-to-build-a-bank-for-wealthy-clients-only-1471388308">First Republic: Is It Wrong to Build a Bank for Wealthy Clients Only?</a> in <i>The Wall Street Journal</i> by Rachel Louise Ensign, Anna Maria Android and Robert S  August 16, 2016</span>
+</li>
+<li id="cite_note-First_Republic_Release_in_2007-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-First_Republic_Release_in_2007_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-First_Republic_Release_in_2007_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.firstrepublic.com/aboutus/press/release.asp?press_release_id=398">Merrill Lynch to Acquire First Republic Bank for $1.8 Billion, Press Release, January 29, 2007</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120309160527/http://www.firstrepublic.com/aboutus/press/release.asp?press_release_id=398">Archived</a> March 9, 2012, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.firstrepublic.com/aboutus/press/release.asp?press_release_id=436">Merrill Lynch and First Republic Bank Successfully Close Merger, Press Release, September 21, 2007</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120309160533/http://www.firstrepublic.com/aboutus/press/release.asp?press_release_id=436">Archived</a> March 9, 2012, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-in_2008-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-in_2008_5-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.washingtonpost.com/wp-dyn/content/article/2008/09/14/AR2008091401468.html">Weekend Merger Struck With Bank of America, , September 15, 2008</a></span>
+</li>
+<li id="cite_note-in_2009-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-in_2009_6-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://dealbook.nytimes.com/2009/10/21/bank-of-america-nears-sale-of-first-republic-bank/">Bank of America Sells First Republic Bank, <i>New York Times</i> by Zachery , October 21, 2009</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.altassets.com/private-equity-news/article/nz18876.html">General Atlantic, Colony Capital close First Republic Bank deal , July 21, 2010</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110812025809/http://www.altassets.com/private-equity-news/article/nz18876.html">Archived</a> August 12, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-Barthel_2016-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Barthel_2016_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Barthel_2016_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.barrons.com/articles/americas-top-40-wealth-management-firms-1474086678">America's Top 40 Wealth Management Firms</a> in <i>Barron's</i> by Matt Barthel, September 17, 2016</span>
+</li>
+<li id="cite_note-Passy_in_2016-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Passy_in_2016_9-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.americanbanker.com/news/wealth-management-lifts-first-republic-profit">Wealth Management Lifts First Republic Profit</a> in <i>American Banker</i> by Jacob Passy, April 14, 2016</span>
+</li>
+<li id="cite_note-Perlberg_and_Gopal_in_2016-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Perlberg_and_Gopal_in_2016_10-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/articles/2016-07-27/zero-down-on-a-2-million-house-is-no-problem-in-silicon-valley">Silicon Valley Elites Get Home Loans With No Money Down</a> in <i>Bloomberg News</i> by Heather Perlberg and Prashant Gopal, July 27, 2016</span>
+</li>
+<li id="cite_note-Andriotis_and_Ensign_in_2016-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Andriotis_and_Ensign_in_2016_11-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.wsj.com/articles/first-republic-is-it-wrong-to-build-a-bank-for-wealthy-clients-only-1471388308">First Republic: Is It Wrong to Build a Bank for Wealthy Clients Only?</a> in <i>The Wall Street Journal</i> by Rachel Louise Ensign, Anna Maria Andriotis and Paul Overberg, on August 16, 2016</span>
+</li>
+<li id="cite_note-Kellard_in_2016-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kellard_in_2016_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kellard_in_2016_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Kellard_in_2016_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Kellard_in_2016_12-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.americanbanker.com/news/first-republic-buys-student-debt-startup-gradifi">First Republic Buys Student-Debt Startup Gradifi in American Banker</a> by Joseph Kellard on December 12, 2016</span>
+</li>
+<li id="cite_note-Obrien_in_2016-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Obrien_in_2016_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Obrien_in_2016_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Obrien_in_2016_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Obrien_in_2016_13-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Obrien_in_2016_13-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bizjournals.com/boston/news/2016/12/12/first-republic-bank-scoops-up-boston-student-debt.html">First Republic Bank scoops up Boston student debt startup in the Boston Business Journal</a> by Kelly J. Obrien, December 12, 2016</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.forbes.com/sites/kurtbadenhausen/2018/01/10/full-list-ranking-americas-100-largest-banks-2018/#6efd8fe93109">https://www.forbes.com/sites/kurtbadenhausen/2018/01/10/full-list-ranking-americas-100-largest-banks-2018/#6efd8fe93109</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.forbes.com/sites/kristinstoller/2018/03/21/student-lender-commonbond-raises-50m-to-invest-in-technology-blockchain/#7d3540ba7479">https://www.forbes.com/sites/kristinstoller/2018/03/21/student-lender-commonbond-raises-50m-to-invest-in-technology-blockchain/#7d3540ba7479</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.bizjournals.com/sanfrancisco/news/2018/05/07/first-republic-bank-wyoming-branch-frc.html">https://www.bizjournals.com/sanfrancisco/news/2018/05/07/first-republic-bank-wyoming-branch-frc.html</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://commercialobserver.com/2018/05/first-republic-bank-renews-and-expands-to-280k-sf-in-rock-center/">https://commercialobserver.com/2018/05/first-republic-bank-renews-and-expands-to-280k-sf-in-rock-center/</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.forbes.com/companies/first-republic-bank/">https://www.forbes.com/companies/first-republic-bank/</a></span>
+</li>
+<li id="cite_note-L-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-L_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-L_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-L_19-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-L_19-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-L_19-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-L_19-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-L_19-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-L_19-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.firstrepublic.com/locations?gnav=globalheader;locations-view-all-locations">https://www.firstrepublic.com/locations?gnav=globalheader;locations-view-all-locations</a></span>
+</li>
+<li id="cite_note-The_FR_Locations_Website-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_FR_Locations_Website_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_FR_Locations_Website_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.firstrepublic.com/locations">First Republic Locations - All 68 locations in spring 2017</a></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=First_Republic_Bank&amp;action=edit&amp;section=7" title="Edit section: External links" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.firstrepublic.com">Official website</a></span></span></li>
+<li>Business data for First Republic Bank: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=FRC">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=FRC">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.bloomberg.com/quote/FRC:US">Bloomberg</a></li><li><a rel="nofollow" class="external text" href="https://www.reuters.com/finance/stocks/overview?symbol=FRC.N">Reuters</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=FRC">SEC filings</a></li></ul></div></li></ul></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=First_Republic_Bank&amp;oldid=939287794">https://en.wikipedia.org/w/index.php?title=First_Republic_Bank&amp;oldid=939287794</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/First_Republic_Bank"
+				data-user-name="71.198.43.2"
+				data-user-gender="unknown"
+				data-timestamp="1580914407">
+				<span>Last edited on 5 February 2020, at 14:53</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=First_Republic_Bank&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.268","walltime":"0.369","ppvisitednodes":{"value":1318,"limit":1000000},"postexpandincludesize":{"value":14963,"limit":2097152},"templateargumentsize":{"value":1983,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16963,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  339.055      1 -total"," 44.99%  152.553      1 Template:Infobox_company"," 41.02%  139.097      1 Template:Infobox"," 31.71%  107.516      1 Template:Reflist"," 21.16%   71.739      1 Template:Cite_web"," 16.91%   57.344     10 Template:Wikidata"," 13.59%   46.081      1 Template:Br_separated_entries"," 11.91%   40.380      1 Template:About","  5.76%   19.514      1 Template:Ubl","  5.14%   17.414      3 Template:Webarchive"]},"scribunto":{"limitreport-timeusage":{"value":"0.132","limit":"10.000"},"limitreport-memusage":{"value":3965469,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20200416052757","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"First Republic Bank","url":"https:\/\/en.wikipedia.org\/wiki\/First_Republic_Bank","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5453752","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5453752","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-09-10T05:55:31Z","dateModified":"2020-02-05T14:53:27Z"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1351"});});</script>		</body>
+		</html>
+		

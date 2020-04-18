@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Walgreens Boots Alliance - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XphyFQpAMMQAABJsmGkAAACO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Walgreens_Boots_Alliance","wgTitle":"Walgreens Boots Alliance","wgCurRevisionId":948144312,"wgRevisionId":948144312,"wgArticleId":44732533,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Walgreens_Boots_Alliance","wgRelevantArticleId":44732533,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q18712620","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},
+"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Walgreens_Boots_Alliance"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Walgreens_Boots_Alliance rootpage-Walgreens_Boots_Alliance stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Walgreens+Boots+Alliance" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Walgreens+Boots+Alliance" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Walgreens Boots Alliance</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Walgreens_Boots_Alliance" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Walgreens+Boots+Alliance" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><p class="mw-empty-elt">
+</p>
+
+<p><b>Walgreens Boots Alliance, Inc.</b> is an American <a href="/wiki/Holding_company" title="Holding company">holding company</a> headquartered in <a href="/wiki/Chicago,_Illinois" class="mw-redirect" title="Chicago, Illinois">Chicago</a>, <a href="/wiki/Illinois" title="Illinois">Illinois</a>, that owns <a href="/wiki/Walgreens" title="Walgreens">Walgreens</a>, <a href="/wiki/Boots_UK" class="mw-redirect" title="Boots UK">Boots</a>, and a number of pharmaceutical manufacturing, wholesale, and distribution companies. The company was formed on December 31, 2014, after Walgreens purchased the 55% stake in UK and Switzerland-based <a href="/wiki/Alliance_Boots" title="Alliance Boots">Alliance Boots</a> that it did not already own. The total price of the acquisition was $4.9 billion in cash and 144.3 million common shares with fair value of $10.7 billion.<sup id="cite_ref-Walgreens-Boots-Alliance-Dec-2014-8-K12B_2-0" class="reference"><a href="#cite_note-Walgreens-Boots-Alliance-Dec-2014-8-K12B-2">[2]</a></sup> Walgreens had previously purchased 45% of the company for $4.0 billion and 83.4 million common shares in August 2012 with an option to purchase the remaining shares within three years.<sup id="cite_ref-Walgreens-Boots-Alliance-Dec-2014-10-Q_3-0" class="reference"><a href="#cite_note-Walgreens-Boots-Alliance-Dec-2014-10-Q-3">[3]</a></sup> Walgreens became a subsidiary of the newly created company after the transactions were completed.<sup id="cite_ref-Walgreens-Boots-Alliance-Nov-2014-S-4/A_4-0" class="reference"><a href="#cite_note-Walgreens-Boots-Alliance-Nov-2014-S-4/A-4">[4]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">Walgreens Boots Alliance, Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Walgreens_Boots_Alliance_logo.svg" class="image"><img alt="Walgreens Boots Alliance logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c5/Walgreens_Boots_Alliance_logo.svg/250px-Walgreens_Boots_Alliance_logo.svg.png" decoding="async" width="250" height="64" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c5/Walgreens_Boots_Alliance_logo.svg/375px-Walgreens_Boots_Alliance_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c5/Walgreens_Boots_Alliance_logo.svg/500px-Walgreens_Boots_Alliance_logo.svg.png 2x" data-file-width="310" data-file-height="79"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a>: <a rel="nofollow" class="external text" href="https://www.nasdaq.com/symbol/wba">WBA</a></li><li><a href="/wiki/NASDAQ-100" title="NASDAQ-100">NASDAQ-100</a> component</li><li><a href="/wiki/DJIA" class="mw-redirect" title="DJIA">DJIA</a> component</li><li><a href="/wiki/S%26P_100" title="S&amp;P 100">S&amp;P 100</a> component</li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Pharmaceutical" class="mw-redirect" title="Pharmaceutical">Pharmaceutical</a><br><a href="/wiki/Retail" title="Retail">Retail</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Predecessor</th><td style="line-height: 1.35em;">Walgreen Co.<br> <a href="/wiki/Alliance_Boots" title="Alliance Boots">Alliance Boots</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">December 31, 2014<span style="display:none"> (<span class="bday dtstart published updated">2014-12-31</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Charles_Rudolph_Walgreen" title="Charles Rudolph Walgreen">Charles Rudolph Walgreen, Sr.</a> <a href="https://www.wikidata.org/wiki/Q18712620?uselang=en#P112" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Chicago,_Illinois" class="mw-redirect" title="Chicago, Illinois">Chicago</a>, <a href="/wiki/Illinois" title="Illinois">Illinois</a></div>, <div style="display: inline;" class="country-name">United States</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">Worldwide</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/James_A._Skinner" title="James A. Skinner">Jim Skinner</a><br><span style="font-size:85%;">(<a href="/wiki/Executive_Chairman" class="mw-redirect" title="Executive Chairman">Executive Chairman</a>)</span><br><a href="/wiki/Stefano_Pessina" title="Stefano Pessina">Stefano Pessina</a><br><span style="font-size:85%;">(<a href="/wiki/Vice_Chairman" class="mw-redirect" title="Vice Chairman">Vice Chairman</a> and <a href="/wiki/CEO" class="mw-redirect" title="CEO">CEO</a>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a href="/wiki/Drug_store" class="mw-redirect" title="Drug store">Drug store</a><br><a href="/wiki/Pharmacy" title="Pharmacy">Pharmacy</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap"><a href="/wiki/United_States_dollar" title="United States dollar">US$</a>136.9 billion</span><sup id="cite_ref-10-K_1-0" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></span> (2019)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$4.9 billion</span><sup id="cite_ref-10-K_1-1" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup> (2019)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$3.9 billion</span><sup id="cite_ref-10-K_1-2" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup> (2019)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$67.59 billion</span><sup id="cite_ref-10-K_1-3" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup> (2019)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$24.15 billion</span><sup id="cite_ref-10-K_1-4" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup> (2019)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Owner</th><td style="line-height: 1.35em;"><a href="/wiki/Stefano_Pessina" title="Stefano Pessina">Stefano Pessina</a> (16%)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">440,000<sup id="cite_ref-10-K_1-5" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup> (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Division_(business)" title="Division (business)">Divisions</a></th><td style="line-height: 1.35em;">Retail Pharmacy USA<br>Retail Pharmacy International<br>Pharmaceutical Wholesale</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th><td style="line-height: 1.35em;"><a href="/wiki/Alliance_Healthcare" title="Alliance Healthcare">Alliance Healthcare</a><br><a href="/wiki/Boots_UK" class="mw-redirect" title="Boots UK">Boots UK</a><br><a href="/wiki/Duane_Reade" title="Duane Reade">Duane Reade</a><br><a href="/wiki/Walgreens" title="Walgreens">Walgreen Company</a><br><a href="/wiki/Farmacias_Benavides" title="Farmacias Benavides">Farmacias Benavides</a><br><a href="/w/index.php?title=Farmacias_Ahumada&amp;action=edit&amp;redlink=1" class="new" title="Farmacias Ahumada (page does not exist)">Farmacias Ahumada</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="https://www.walgreensbootsalliance.com/">www<wbr></wbr>.walgreensbootsalliance<wbr></wbr>.com</a></span> <a href="https://www.wikidata.org/wiki/Q18712620#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></td></tr></tbody></table><p>The company is organized into three divisions: Retail Pharmacy USA (Walgreens and <a href="/wiki/Duane_Reade" title="Duane Reade">Duane Reade</a>),
+Retail Pharmacy International (Boots and other retail operations internationally), and Pharmaceutical Wholesale, incorporating <a href="/wiki/Alliance_Healthcare" title="Alliance Healthcare">Alliance Healthcare</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The new holding company began trading on the <a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a> on December 31, 2014.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p><p>The combined business has operations in over 25 countries.  Walgreens had formerly operated solely within the United States and its territories, while Alliance Boots operated a more international business.
+</p><p>In October 2019, Walgreens Boots Alliance published its fourth quarter earnings report. Fiscal year 2019 sales were $136.9 billion, up 5.8% from fiscal 2018, and net earnings decreased to $3.9 billion.<sup id="cite_ref-10-K_1-6" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></p><p>On June 26, 2018, Walgreens Boots Alliance replaced <a href="/wiki/General_Electric" title="General Electric">General Electric</a> on the <a href="/wiki/Dow_Jones_Industrial_Average" title="Dow Jones Industrial Average">Dow Jones Industrial Index</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Operations"><span class="tocnumber">1</span> <span class="toctext">Operations</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Retail_Pharmacy_USA"><span class="tocnumber">1.1</span> <span class="toctext">Retail Pharmacy USA</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Retail_Pharmacy_International"><span class="tocnumber">1.2</span> <span class="toctext">Retail Pharmacy International</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Pharmaceutical_Wholesale"><span class="tocnumber">1.3</span> <span class="toctext">Pharmaceutical Wholesale</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-5"><a href="#Finances"><span class="tocnumber">2</span> <span class="toctext">Finances</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Product_brands"><span class="tocnumber">3</span> <span class="toctext">Product brands</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Operations">Operations</span><span class="mw-editsection"><a href="/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit&amp;section=1" title="Edit section: Operations" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<h3 class="in-block"><span class="mw-headline" id="Retail_Pharmacy_USA">Retail Pharmacy USA</span><span class="mw-editsection"><a href="/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit&amp;section=2" title="Edit section: Retail Pharmacy USA" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Walgreens" title="Walgreens">Walgreens</a> and <a href="/wiki/Duane_Reade" title="Duane Reade">Duane Reade</a></div>
+<p>Walgreens and Duane Reade operate within the Retail Pharmacy USA division of Walgreens Boots Alliance. Both businesses sell prescription and non-prescription drugs, and a range of household items, including personal care and beauty products. Walgreens provides access to consumer goods and services, plus pharmacy, photo department, health and wellness services in the United States through its retail drugstores. The division has 9,277 drugstores as of August 31, 2019.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Walgreens runs several online stores, such as: Beauty.com, <a href="/wiki/Drugstore.com" title="Drugstore.com">Drugstore.com</a> and VisionDirect.com.
+</p><p>Walgreens has stores in all 50 US states, the District of Columbia, Puerto Rico, and the U.S. Virgin Islands.
+</p><p>On October 27, 2015, Walgreens announced the purchase of competitor <a href="/wiki/Rite_Aid" title="Rite Aid">Rite Aid</a> for $17.2 billion.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> However, that deal was later scrapped due to antitrust concerns in favor of a $5.18 billion deal, in which Walgreens only acquired half of Rite Aid locations.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p><p>On September 19, 2017, the <a href="/wiki/Federal_Trade_Commission" title="Federal Trade Commission">Federal Trade Commission</a> (FTC) approved a fourth deal agreement to purchase 1,932 Rite Aid stores for $4.38 billion total, a transaction which was completed in January 2018. <sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Retail_Pharmacy_International">Retail Pharmacy International</span><span class="mw-editsection"><a href="/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit&amp;section=3" title="Edit section: Retail Pharmacy International" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Boots_UK" class="mw-redirect" title="Boots UK">Boots UK</a> and <a href="/wiki/Farmacias_Benavides" title="Farmacias Benavides">Farmacias Benavides</a></div>
+<table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.<br><small><span class="plainlinks"><i>Find sources:</i> <a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Walgreens+Boots+Alliance%22">"Walgreens Boots Alliance"</a> – <a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Walgreens+Boots+Alliance%22+-wikipedia">news</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Walgreens+Boots+Alliance%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Walgreens+Boots+Alliance%22+-wikipedia">books</a> <b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Walgreens+Boots+Alliance%22">scholar</a> <b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Walgreens+Boots+Alliance%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">March 2016</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p>Boots forms the main part of the Retail Pharmacy International division of the company. The Boots brand has a history stretching back over 170 years<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> and is a familiar sight on Britain's high streets. Stores are located in prominent high street and city center locations as well as in local communities. Most branches include a pharmacy and focus on healthcare, personal care, and cosmetic products, with most stores selling over-the-counter medicines. Larger stores typically offer a variety of healthcare services in addition to dispensing prescriptions, and <a href="/wiki/Chlamydia_infection" class="mw-redirect" title="Chlamydia infection">chlamydia</a> testing and treatment (private service). Optician services are also offered in many larger stores, with <a href="/wiki/Boots_Opticians" title="Boots Opticians">Boots Opticians</a> providing eye tests along with the sale of spectacles and contact lenses.
+</p><p>Many stores also feature traditional <a href="/wiki/Photo_processing" class="mw-redirect" title="Photo processing">photo processing</a> and/or a HP picture kiosk where users of digital cameras and camera phones can create prints via Bluetooth, USB, or CD.  Larger stores usually offer a range of electrical equipment such as hairdryers, <a href="/wiki/Curlers" class="mw-redirect" title="Curlers">curlers</a>, and foot massagers, while selected stores offer a range of sandwiches, baguettes, wraps, salads, and beverages.
+</p><p>Since 1936, there have been Boots stores outside the UK. Stores in countries as widely spread as New Zealand, Canada (see <a href="/wiki/Pharma_Plus" class="mw-redirect" title="Pharma Plus">Pharma Plus</a>), and France were all closed in the 1980s. Today, there are Boots branded stores outside the UK and Ireland and other countries including United Arab Emirates, Bahrain, Norway, Lithuania, The Netherlands, Thailand.
+</p><p>The remainder of the division is made up of the pharmacies <a href="/wiki/Farmacias_Benavides" title="Farmacias Benavides">Benavides</a> in <a href="/wiki/Mexico" title="Mexico">Mexico</a> and Farmacias Ahumada (FASA) in <a href="/wiki/Chile" title="Chile">Chile</a>.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Pharmaceutical_Wholesale">Pharmaceutical Wholesale</span><span class="mw-editsection"><a href="/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit&amp;section=4" title="Edit section: Pharmaceutical Wholesale" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Alliance_Healthcare" title="Alliance Healthcare">Alliance Healthcare</a></div>
+<p>Alliance Healthcare forms the main part of Walgreens Boots Alliance's Pharmaceutical Wholesale division. It operates twice daily deliveries to more than 16,500 delivery points in the UK alone.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Internationally, the Pharmaceutical Wholesale Division, which mainly operates under the Alliance Healthcare brand, supplies medicines, other healthcare products and related services to more than 115,000 pharmacies, doctors, health centers and hospitals each year from 300 distribution centers in 11 countries.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> The division's Alphega Pharmacy network provides a range of services for independent pharmacies, including branding, professional training and patient care, retail support services and supply benefits together with pharmacy and IT support.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Finances">Finances</span><span class="mw-editsection"><a href="/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit&amp;section=5" title="Edit section: Finances" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>For the fiscal year 2019, Walgreens Boots Alliance reported earnings of US$3.982 billion, with an annual revenue of US$136.866 billion, an increase of 5.8% over the previous fiscal cycle. Walgreens Boots Alliance's shares traded at $60.67 per share, and its market capitalization was valued at over US$54.09 billion in November 2019. Numbers before 2014 are for Walgreens only.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> As of 2019, Walgreens Boots Alliance is ranked #17 on the <a href="/wiki/Fortune_500" title="Fortune 500">Fortune 500</a> rankings of the largest United States corporations by total revenue.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<table class="wikitable float-left" style="text-align: right;"><tbody><tr><th>Year
+</th>
+<th>Revenue<br>in mil. USD
+</th>
+<th>Net income<br>in mil. USD
+</th>
+<th>Total Assets<br>in mil. USD
+</th>
+<th>Price per Share<br>in USD
+</th>
+<th>Employees
+</th>
+<th>Stores
+</th></tr><tr><td>2005
+</td>
+<td>42,202
+</td>
+<td>1,560
+</td>
+<td>14,609
+</td>
+<td>36.34
+</td>
+<td>179,000
+</td>
+<td>4,950
+</td></tr><tr><td>2006
+</td>
+<td>47,409
+</td>
+<td>1,751
+</td>
+<td>17,131
+</td>
+<td>36.17
+</td>
+<td>195,000
+</td>
+<td>5,461
+</td></tr><tr><td>2007
+</td>
+<td>53,762
+</td>
+<td>2,041
+</td>
+<td>19,314
+</td>
+<td>35.64
+</td>
+<td>226,000
+</td>
+<td>5,997
+</td></tr><tr><td>2008
+</td>
+<td>59,034
+</td>
+<td>2,157
+</td>
+<td>22,410
+</td>
+<td>26.93
+</td>
+<td>237,000
+</td>
+<td>6,934
+</td></tr><tr><td>2009
+</td>
+<td>63,335
+</td>
+<td>2,006
+</td>
+<td>25,142
+</td>
+<td>26.59
+</td>
+<td>238,000
+</td>
+<td>7,496
+</td></tr><tr><td>2010
+</td>
+<td>67,420
+</td>
+<td>2,091
+</td>
+<td>26,275
+</td>
+<td>28.40
+</td>
+<td>244,000
+</td>
+<td>8,046
+</td></tr><tr><td>2011
+</td>
+<td>72,184
+</td>
+<td>2,714
+</td>
+<td>27,454
+</td>
+<td>33.76
+</td>
+<td>247,000
+</td>
+<td>8,210
+</td></tr><tr><td>2012
+</td>
+<td>71,633
+</td>
+<td>2,127
+</td>
+<td>33,462
+</td>
+<td>30.37
+</td>
+<td>240,000
+</td>
+<td>8,385
+</td></tr><tr><td>2013
+</td>
+<td>72,217
+</td>
+<td>2,548
+</td>
+<td>35,481
+</td>
+<td>45.76
+</td>
+<td>248,000
+</td>
+<td>8,582
+</td></tr><tr><td>2014
+</td>
+<td>76,392
+</td>
+<td>1,932
+</td>
+<td>37,250
+</td>
+<td>61.68
+</td>
+<td>251,000
+</td>
+<td>8,309
+</td></tr><tr><td>2015
+</td>
+<td>103,444
+</td>
+<td>4,220
+</td>
+<td>68,782
+</td>
+<td>80.08
+</td>
+<td>360,000
+</td>
+<td>12,755
+</td></tr><tr><td>2016
+</td>
+<td>117,351
+</td>
+<td>4,173
+</td>
+<td>72,688
+</td>
+<td>77.52
+</td>
+<td>360,000
+</td>
+<td>12,848
+</td></tr><tr><td>2017
+</td>
+<td>118,214
+</td>
+<td>4,078
+</td>
+<td>66,009
+</td>
+<td>76.94
+</td>
+<td>345,000
+</td>
+<td>12,822
+</td></tr><tr><td>2018
+</td>
+<td>131,537
+</td>
+<td>5,024
+</td>
+<td>68,124
+</td>
+<td>68.03
+</td>
+<td>354,000
+</td>
+<td>14,327
+</td></tr><tr><td>2019
+</td>
+<td>136,866
+</td>
+<td>3,982
+</td>
+<td>67,596 <sup id="cite_ref-10-K_1-7" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td>
+<td>60.08 <sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></td>
+<td>342,000 <sup id="cite_ref-10-K_1-8" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td>
+<td>13,822 <sup id="cite_ref-10-K_1-9" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Product_brands">Product brands</span><span class="mw-editsection"><a href="/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit&amp;section=6" title="Edit section: Product brands" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>Boots produces a large number of brands, including No7, Soltan and Botanics, Boots Pharmaceuticals, and Boots Laboratories, that Alliance Boots and Walgreens sought to launch internationally following the first share purchase in 2012.<sup id="cite_ref-Walgreen-Co-Oct-2012-10-K_20-0" class="reference"><a href="#cite_note-Walgreen-Co-Oct-2012-10-K-20">[20]</a></sup></p><p>Launched in 1935, No7 is best known for its anti-aging beauty serums, developed in Nottingham, that first appeared in 2007. The range comprises products designed to target the aging concerns of specific age groups. No7 became available in Walgreens and Duane Reade stores in the US from November 2012, beginning in Los Angeles.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2015)">citation needed</span></a></i>]</sup></p><p>Launched in 1939, Soltan markets its UVA 5-star protection, a standard of protection developed by Boots and now adopted as the benchmark for suncare products in the UK.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2015)">citation needed</span></a></i>]</sup> Although in both 2004 and 2015, Watchdog, a BBC consumer investigative TV program and cited on BBC News, plus the consumer WHICH? Magazine, each did an investigation finding the 5-star rating was unsubstantiated, and skincare experts declared it to be far less safe than claimed.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></p><p>First launched in 1995, the Botanics range, developed in partnership with the Royal Botanic Gardens, Kew, uses plant extracts in a variety of products and includes a range of organic products. The Botanics range is also available through third party retailers.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>]</sup></p><p>The Boots own brand range of products includes skincare, medicines, healthcare products, and many more. Boots Laboratories skincare range for independent pharmacy customers was launched in France and Portugal in 2008/09 and is also sold in Spain, Italy, and Germany.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p><p>Boots now owns Almus Pharmaceuticals, a brand of generic prescription drugs, launched in 2003.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> It is now sold in five countries and is an umbrella brand for a wide range of lower cost generic medicines. Almus placed considerable emphasis on the design of the packaging in an attempt to reduce the number of errors by the dispensing chemist and by the patient relating to incorrect dosage which can result in either a dangerous <a href="/wiki/Accidental_overdose" class="mw-redirect" title="Accidental overdose">accidental overdose</a> or an equally dangerous under dose.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>]</sup></p><p>Walgreens has a self-branded line of products, "Well at Walgreens".<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></p><p>In 2015, Walgreens Boots Alliance paid £140 million (about $250 million) for UK skincare brand Liz Earle Naturally Active, an Avon subsidiary since 2010.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> Liz Earle Beauty Co co-founder Liz Earle, 'one of the biggest names in the beauty industry'<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> stayed on as an 'ambassador'<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> after selling the company for an undisclosed sum<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> and told her own <i>Liz Earle Wellbeing</i> magazine's website that '...alongside my new digital and print publishing venture...at the moment I’m still connected to Liz Earle Beauty Co and continue to work as a consultant to the brand that carries my name. I’m involved in new product development...'<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>  In 2012, Liz Earle announced that she had left the company.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit&amp;section=7" title="Edit section: References" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references"><li id="cite_note-10-K-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-10-K_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-10-K_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-10-K_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-10-K_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-10-K_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-10-K_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-10-K_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-10-K_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-10-K_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-10-K_1-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://sec.report/Document/0001618921-19-000069/">"Walgreens Boots Alliance Annual Report (Form 10-K)"</a>. <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">U.S. Securities and Exchange Commission</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Walgreens+Boots+Alliance+Annual+Report+%28Form+10-K%29&amp;rft.pub=U.S.+Securities+and+Exchange+Commission&amp;rft_id=https%3A%2F%2Fsec.report%2FDocument%2F0001618921-19-000069%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Walgreens-Boots-Alliance-Dec-2014-8-K12B-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Walgreens-Boots-Alliance-Dec-2014-8-K12B_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/190/119312514457671/filing-main.htm">"Walgreens Boots Alliance, Form 8-K12B, Filing Date Dec 31, 2014"</a>. secdatabase.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180512112835/http://edgar.secdatabase.com/190/119312514457671/filing-main.htm">Archived</a> from the original on May 12, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">May 11,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Walgreens+Boots+Alliance%2C+Form+8-K12B%2C+Filing+Date+Dec+31%2C+2014&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F190%2F119312514457671%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Walgreens-Boots-Alliance-Dec-2014-10-Q-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Walgreens-Boots-Alliance-Dec-2014-10-Q_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/2538/114036114046619/filing-main.htm">"Walgreens Boots Alliance, Form 10-Q, Quarterly Report, Filing Date Dec 30, 2014"</a>. secdatabase.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180512112420/http://edgar.secdatabase.com/2538/114036114046619/filing-main.htm">Archived</a> from the original on May 12, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">May 11,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Walgreens+Boots+Alliance%2C+Form+10-Q%2C+Quarterly+Report%2C+Filing+Date+Dec+30%2C+2014&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F2538%2F114036114046619%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Walgreens-Boots-Alliance-Nov-2014-S-4/A-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Walgreens-Boots-Alliance-Nov-2014-S-4/A_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/646/119312514416141/filing-main.htm">"Walgreens Boots Alliance, Form S-4/A, Filing Date Nov 18, 2014"</a>. secdatabase.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180512112513/http://edgar.secdatabase.com/646/119312514416141/filing-main.htm">Archived</a> from the original on May 12, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">May 11,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Walgreens+Boots+Alliance%2C+Form+S-4%2FA%2C+Filing+Date+Nov+18%2C+2014&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F646%2F119312514416141%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://walgreensbootsalliance.com/company/our-divisions/">"Our divisions"</a>. Walgreens Boots Alliance. 2014. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150106173738/http://www.walgreensbootsalliance.com/company/our-divisions/">Archived</a> from the original on January 6, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">December 31,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Our+divisions&amp;rft.pub=Walgreens+Boots+Alliance&amp;rft.date=2014&amp;rft_id=http%3A%2F%2Fwalgreensbootsalliance.com%2Fcompany%2Four-divisions%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Linnane, Ciara (December 31, 2014). <a rel="nofollow" class="external text" href="http://www.marketwatch.com/story/walgreen-ticker-changes-to-wba-after-merger-with-boots-alliance-2014-12-31">"Walgreen ticker changes to WBA after merger with Boots Alliance"</a>. <i>Market Watch</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141231180412/http://www.marketwatch.com/story/walgreen-ticker-changes-to-wba-after-merger-with-boots-alliance-2014-12-31">Archived</a> from the original on December 31, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 31,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Market+Watch&amp;rft.atitle=Walgreen+ticker+changes+to+WBA+after+merger+with+Boots+Alliance&amp;rft.date=2014-12-31&amp;rft.aulast=Linnane&amp;rft.aufirst=Ciara&amp;rft_id=http%3A%2F%2Fwww.marketwatch.com%2Fstory%2Fwalgreen-ticker-changes-to-wba-after-merger-with-boots-alliance-2014-12-31&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.nasdaq.com/article/-ge-says-goodbye-to-the-dow-cm981193">"GE Says Goodbye to the Dow"</a>. <i>NASDAQ.com</i>. June 20, 2018. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180621093415/https://www.nasdaq.com/article/-ge-says-goodbye-to-the-dow-cm981193">Archived</a> from the original on June 21, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">June 21,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NASDAQ.com&amp;rft.atitle=GE+Says+Goodbye+to+the+Dow&amp;rft.date=2018-06-20&amp;rft_id=https%3A%2F%2Fwww.nasdaq.com%2Farticle%2F-ge-says-goodbye-to-the-dow-cm981193&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">LaVito, Angelica (June 19, 2018). <a rel="nofollow" class="external text" href="https://www.cnbc.com/2018/06/19/walgreens-replacing-ge-on-the-dow.html">"GE booted from the Dow, to be replaced by Walgreens"</a>. <i>CNBC</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20191028052518/https://www.cnbc.com/2018/06/19/walgreens-replacing-ge-on-the-dow.html">Archived</a> from the original on October 28, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">October 28,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNBC&amp;rft.atitle=GE+booted+from+the+Dow%2C+to+be+replaced+by+Walgreens&amp;rft.date=2018-06-19&amp;rft.aulast=LaVito&amp;rft.aufirst=Angelica&amp;rft_id=https%3A%2F%2Fwww.cnbc.com%2F2018%2F06%2F19%2Fwalgreens-replacing-ge-on-the-dow.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.walgreensbootsalliance.com/about/company/retail-pharmacy-usa/">"Retail Pharmacy USA"</a>. <i>wba.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20181005154144/http://www.walgreensbootsalliance.com/about/company/retail-pharmacy-usa/">Archived</a> from the original on October 5, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">October 19,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=wba.com&amp;rft.atitle=Retail+Pharmacy+USA&amp;rft_id=http%3A%2F%2Fwww.walgreensbootsalliance.com%2Fabout%2Fcompany%2Fretail-pharmacy-usa%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Wattles, Jackie (October 27, 2015). <a rel="nofollow" class="external text" href="http://money.cnn.com/2015/10/27/investing/walgreens-rite-aid-deal/index.html">"Walgreens buys Rite Aid in $17.2 billion deal"</a>. <i><a href="/wiki/CNNMoney" class="mw-redirect" title="CNNMoney">CNNMoney</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20151222074253/http://money.cnn.com/2015/10/27/investing/walgreens-rite-aid-deal/index.html">Archived</a> from the original on December 22, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 5,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNNMoney&amp;rft.atitle=Walgreens+buys+Rite+Aid+in+%2417.2+billion+deal&amp;rft.date=2015-10-27&amp;rft.aulast=Wattles&amp;rft.aufirst=Jackie&amp;rft_id=http%3A%2F%2Fmoney.cnn.com%2F2015%2F10%2F27%2Finvesting%2Fwalgreens-rite-aid-deal%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Terlep, Sharon; Kendall, Brent (June 29, 2017). <span class="cs1-lock-subscription" title="Paid subscription required"><a rel="nofollow" class="external text" href="https://www.wsj.com/articles/walgreens-rite-aid-end-9-4-billion-merger-walgreens-to-buy-half-of-rite-aid-stores-1498735324">"Walgreens, Rite Aid End $9.4 Billion Merger"</a></span>. <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171201020518/https://www.wsj.com/articles/walgreens-rite-aid-end-9-4-billion-merger-walgreens-to-buy-half-of-rite-aid-stores-1498735324">Archived</a> from the original on December 1, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 28,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=Walgreens%2C+Rite+Aid+End+%249.4+Billion+Merger&amp;rft.date=2017-06-29&amp;rft.aulast=Terlep&amp;rft.aufirst=Sharon&amp;rft.au=Kendall%2C+Brent&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fwalgreens-rite-aid-end-9-4-billion-merger-walgreens-to-buy-half-of-rite-aid-stores-1498735324&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Langreth, Robert; McLaughlin, David (September 19, 2017). <a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/articles/2017-09-19/walgreens-pact-to-buy-fewer-rite-aid-stores-wins-u-s-approval">"Walgreens Wins U.S. Approval for Rite Aid Deal on Fourth Try"</a>. <i><a href="/wiki/Bloomberg_News" title="Bloomberg News">Bloomberg News</a></i>. <a href="/wiki/New_York_City" title="New York City">New York City</a>: <a href="/wiki/Bloomberg_L.P." title="Bloomberg L.P.">Bloomberg L.P.</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170919152626/https://www.bloomberg.com/news/articles/2017-09-19/walgreens-pact-to-buy-fewer-rite-aid-stores-wins-u-s-approval">Archived</a> from the original on September 19, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">September 19,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bloomberg+News&amp;rft.atitle=Walgreens+Wins+U.S.+Approval+for+Rite+Aid+Deal+on+Fourth+Try&amp;rft.date=2017-09-19&amp;rft.aulast=Langreth&amp;rft.aufirst=Robert&amp;rft.au=McLaughlin%2C+David&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2017-09-19%2Fwalgreens-pact-to-buy-fewer-rite-aid-stores-wins-u-s-approval&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Hammet, Ellen (May 28, 2019). <a rel="nofollow" class="external text" href="https://www.marketingweek.com/boots-makeover/">"Why Boots is getting a makeover: 'Brand love alone is not enough<span class="cs1-kern-right">'</span>"</a>. <i>MarketingWeek</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MarketingWeek&amp;rft.atitle=Why+Boots+is+getting+a+makeover%3A+%27Brand+love+alone+is+not+enough%27&amp;rft.date=2019-05-28&amp;rft.aulast=Hammet&amp;rft.aufirst=Ellen&amp;rft_id=https%3A%2F%2Fwww.marketingweek.com%2Fboots-makeover%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.pharmacymagazine.co.uk/alliance-healthcare-celebrates-80th-anniversary">"Alliance Healthcare celebrates 80th anniversary"</a>. Pharmacy Magazine. November 5, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">November 26,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alliance+Healthcare+celebrates+80th+anniversary&amp;rft.pub=Pharmacy+Magazine&amp;rft.date=2018-11-05&amp;rft_id=https%3A%2F%2Fwww.pharmacymagazine.co.uk%2Falliance-healthcare-celebrates-80th-anniversary&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.walgreensbootsalliance.com/about/company/pharmaceutical-wholesale/">"Pharmaceutical Wholesale"</a>. <i>wba.com</i>. November 26, 2019. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20191104200521/https://www.walgreensbootsalliance.com/about/company/pharmaceutical-wholesale/">Archived</a> from the original on November 4, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">November 26,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=wba.com&amp;rft.atitle=Pharmaceutical+Wholesale&amp;rft.date=2019-11-26&amp;rft_id=http%3A%2F%2Fwww.walgreensbootsalliance.com%2Fabout%2Fcompany%2Fpharmaceutical-wholesale%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Holland, Tiffany (December 13, 2013). <a rel="nofollow" class="external text" href="http://www.retail-week.com/sectors/health-and-beauty/alliance-boots-targets-uk-independent-pharmacies-with-alphega-pharmacy-brand/5055728.article">"Alliance Boots targets UK independent pharmacies with Alphega Pharmacy brand | Analysis"</a>. Retail Week. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150924113547/http://www.retail-week.com/sectors/health-and-beauty/alliance-boots-targets-uk-independent-pharmacies-with-alphega-pharmacy-brand/5055728.article">Archived</a> from the original on September 24, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alliance+Boots+targets+UK+independent+pharmacies+with+Alphega+Pharmacy+brand+%26%23124%3B+Analysis&amp;rft.pub=Retail+Week&amp;rft.date=2013-12-13&amp;rft.aulast=Holland&amp;rft.aufirst=Tiffany&amp;rft_id=http%3A%2F%2Fwww.retail-week.com%2Fsectors%2Fhealth-and-beauty%2Falliance-boots-targets-uk-independent-pharmacies-with-alphega-pharmacy-brand%2F5055728.article&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.macrotrends.net/stocks/charts/WBA/walgreens/financial-statements">"Walgreens Financial Statements 2005-2019 | WBA"</a>. <i>www.macrotrends.net</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190517031831/https://www.macrotrends.net/stocks/charts/WBA/walgreens/financial-statements">Archived</a> from the original on May 17, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">November 26,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.macrotrends.net&amp;rft.atitle=Walgreens+Financial+Statements+2005-2019+%7C+WBA&amp;rft_id=https%3A%2F%2Fwww.macrotrends.net%2Fstocks%2Fcharts%2FWBA%2Fwalgreens%2Ffinancial-statements&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://fortune.com/fortune500/">"Fortune 500 Companies 2019"</a>. <i>Fortune</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20191105161328/https://fortune.com/fortune500/">Archived</a> from the original on November 5, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">November 26,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Fortune+500+Companies+2019&amp;rft_id=https%3A%2F%2Ffortune.com%2Ffortune500%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.marketwatch.com/investing/stock/wba">"Archived copy"</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20191113004249/https://www.marketwatch.com/investing/stock/wba">Archived</a> from the original on November 13, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">November 26,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=https%3A%2F%2Fwww.marketwatch.com%2Finvesting%2Fstock%2Fwba&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Walgreen-Co-Oct-2012-10-K-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Walgreen-Co-Oct-2012-10-K_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/2007/10420712000098/filing-main.htm">"Walgreen Co, Form 10-K, Annual Report, Filing Date Oct 19, 2012"</a>. secdatabase.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180512112735/http://edgar.secdatabase.com/2007/10420712000098/filing-main.htm">Archived</a> from the original on May 12, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">May 11,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Walgreen+Co%2C+Form+10-K%2C+Annual+Report%2C+Filing+Date+Oct+19%2C+2012&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F2007%2F10420712000098%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/health/3850655.stm">"Health | Tests cast doubt on sunscreens"</a>. BBC News. July 1, 2004. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160307031223/http://news.bbc.co.uk/2/hi/health/3850655.stm">Archived</a> from the original on March 7, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">March 5,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Health+%26%23124%3B+Tests+cast+doubt+on+sunscreens&amp;rft.pub=BBC+News&amp;rft.date=2004-07-01&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fhealth%2F3850655.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/business-32738241">"Sunscreen lotions failing protection tests, says Which? - BBC News"</a>. Bbc.co.uk. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160310035722/http://www.bbc.co.uk/news/business-32738241">Archived</a> from the original on March 10, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">March 5,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sunscreen+lotions+failing+protection+tests%2C+says+Which%3F+-+BBC+News&amp;rft.pub=Bbc.co.uk&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-32738241&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mumsnet.com/qanda/mike-brown">"Q+A - sun care, suncream, sunburn, UVA, UVB, skin"</a>. Mumsnet. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160312042348/http://www.mumsnet.com/qanda/mike-brown">Archived</a> from the original on March 12, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">March 5,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Q%2BA+-+sun+care%2C+suncream%2C+sunburn%2C+UVA%2C+UVB%2C+skin&amp;rft.pub=Mumsnet&amp;rft_id=http%3A%2F%2Fwww.mumsnet.com%2Fqanda%2Fmike-brown&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121007054855/http://www.allianceboots.com/our-product-brands/boots-laboratories.aspx">"Boots Laboratories"</a>. Alliance Boots. Archived from <a rel="nofollow" class="external text" href="http://www.allianceboots.com/our-product-brands/boots-laboratories.aspx">the original</a> on October 7, 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Boots+Laboratories&amp;rft.pub=Alliance+Boots&amp;rft_id=http%3A%2F%2Fwww.allianceboots.com%2Four-product-brands%2Fboots-laboratories.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability#Self-published_sources" title="Wikipedia:Verifiability"><span title="The material near this tag may rely on a self-published source. (June 2015)">self-published source</span></a></i>]</sup></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alliance-healthcare.co.uk/latest-news/news/-/asset_publisher/4JdC/content/almus-reaches-10-year-milestone-in-the-uk?redirect=http://www.alliance-healthcare.co.uk/latest-news/news?p_p_id=101_INSTANCE_4JdC&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;p_r_p_564233524_tag=walgreens+boots+alliance">"Almus reaches 10 year milestone in the UK - News | Latest news - Alliance Healthcare"</a>. <i>www.alliance-healthcare.co.uk</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170401060031/http://www.alliance-healthcare.co.uk/latest-news/news/-/asset_publisher/4JdC/content/almus-reaches-10-year-milestone-in-the-uk?redirect=http%3A%2F%2Fwww.alliance-healthcare.co.uk%2Flatest-news%2Fnews%3Fp_p_id%3D101_INSTANCE_4JdC&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;p_r_p_564233524_tag=walgreens+boots+alliance">Archived</a> from the original on April 1, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">March 31,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.alliance-healthcare.co.uk&amp;rft.atitle=Almus+reaches+10+year+milestone+in+the+UK+-+News+%7C+Latest+news+-+Alliance+Healthcare&amp;rft_id=http%3A%2F%2Fwww.alliance-healthcare.co.uk%2Flatest-news%2Fnews%2F-%2Fasset_publisher%2F4JdC%2Fcontent%2Falmus-reaches-10-year-milestone-in-the-uk%3Fredirect%3Dhttp%3A%2F%2Fwww.alliance-healthcare.co.uk%2Flatest-news%2Fnews%3Fp_p_id%3D101_INSTANCE_4JdC%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1%26p_r_p_564233524_tag%3Dwalgreens%2Bboots%2Balliance&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news">Staff (June 12, 2015). <a rel="nofollow" class="external text" href="http://www.pharmpro.com/news/2015/06/walgreens-recalls-bottles-womens-multivitamins">"Walgreens recalls bottles of women's multivitamins"</a>. <i><a href="/wiki/Pharma._Process." class="mw-redirect" title="Pharma. Process.">Pharmaceutical Processing</a></i>. Associated Press. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150614154336/http://www.pharmpro.com/news/2015/06/walgreens-recalls-bottles-womens-multivitamins">Archived</a> from the original on June 14, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">June 12,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pharmaceutical+Processing&amp;rft.atitle=Walgreens+recalls+bottles+of+women%27s+multivitamins&amp;rft.date=2015-06-12&amp;rft.au=Staff&amp;rft_id=http%3A%2F%2Fwww.pharmpro.com%2Fnews%2F2015%2F06%2Fwalgreens-recalls-bottles-womens-multivitamins&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.standard.co.uk/business/liz-earle-sells-beauty-business-to-avon-6769774.html"><i>Liz Earle sells beauty business to Avon</i>, Evening Standard, London, 25 March 2010</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180702012604/https://www.standard.co.uk/business/liz-earle-sells-beauty-business-to-avon-6769774.html">Archived</a> July 2, 2018, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.Retrieved: January 20, 2017.</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/programmes/b088b8sb,">BBC Radio 4 Woman's Hour website, 17 January 2017</a>.Retrieved: January 20, 2017.</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://uk.lizearle.com/ambassadors"><i>About us: Our ambassadors</i>,  Liz Earle Beauty Co corporate website, Undated</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170127170917/http://uk.lizearle.com/ambassadors">Archived</a> January 27, 2017, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.Retrieved: January 20, 2017.</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/avon-idUSN2521628520100325"><i>UPDATE 1-Avon buys UK's Liz Earle Beauty in all cash deal</i>, Reuters news agency, 25 March 2010</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171108204918/https://www.reuters.com/article/avon-idUSN2521628520100325">Archived</a> November 8, 2017, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.Retrieved: January 20, 2017.</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://lizearlewellbeing.com/qa-with-liz/"><i>Q&amp;A with Liz</i>, Liz Earle Wellbeing magazine website, Undated.</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170201235502/https://lizearlewellbeing.com/qa-with-liz/">Archived</a> February 1, 2017, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.Retrieved: January 20, 2017.</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.iwcp.co.uk/news/news/cofounder-leaves-liz-earle-44123.aspx">"Co-founder leaves Liz Earle"</a>. April 27, 2012. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171201032144/http://www.iwcp.co.uk/news/news/cofounder-leaves-liz-earle-44123.aspx">Archived</a> from the original on December 1, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 28,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Co-founder+leaves+Liz+Earle&amp;rft.date=2012-04-27&amp;rft_id=http%3A%2F%2Fwww.iwcp.co.uk%2Fnews%2Fnews%2Fcofounder-leaves-liz-earle-44123.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalgreens+Boots+Alliance" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit&amp;section=8" title="Edit section: External links" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://www.walgreensbootsalliance.com/">Official website</a></span></span> <a href="https://www.wikidata.org/wiki/Q18712620#P856" title="Edit this at Wikidata"><noscript><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" data-file-width="20" data-file-height="20"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" data-alt="Edit this at Wikidata" data-width="10" data-height="10" data-srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x"> </span></a></li>
+<li>Business data for Walgreens Boots Alliance: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=WBA">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=WBA">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=WBA">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Walgreens_Boots_Alliance&amp;oldid=948144312">https://en.wikipedia.org/w/index.php?title=Walgreens_Boots_Alliance&amp;oldid=948144312</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Walgreens_Boots_Alliance"
+				data-user-name="Elshad"
+				data-user-gender="unknown"
+				data-timestamp="1585567342">
+				<span>Last edited on 30 March 2020, at 11:22</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Walgreens_Boots_Alliance&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.584","walltime":"0.806","ppvisitednodes":{"value":3538,"limit":1000000},"postexpandincludesize":{"value":127714,"limit":2097152},"templateargumentsize":{"value":7976,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":93390,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  709.823      1 -total"," 39.28%  278.803      1 Template:Reflist"," 25.99%  184.458     20 Template:Cite_web"," 23.77%  168.760      1 Template:Infobox_company"," 22.13%  157.088      1 Template:Infobox","  9.71%   68.896      1 Template:Unreferenced_section","  9.18%   65.190      1 Template:Unreferenced","  8.52%   60.498      1 Template:Ambox","  6.79%   48.188      6 Template:Wikidata","  6.26%   44.467      5 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.315","limit":"10.000"},"limitreport-memusage":{"value":10103955,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20200416051359","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Walgreens Boots Alliance","url":"https:\/\/en.wikipedia.org\/wiki\/Walgreens_Boots_Alliance","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18712620","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18712620","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2014-12-15T19:43:17Z","dateModified":"2020-03-30T11:22:22Z","headline":"American holding company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":125,"wgHostname":"mw1354"});});</script>		</body>
+		</html>
+		

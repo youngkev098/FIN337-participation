@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Leggett &amp; Platt - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoG6wpAEJkAAcZRsg0AAACH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Leggett_\u0026_Platt","wgTitle":"Leggett \u0026 Platt","wgCurRevisionId":940980591,"wgRevisionId":940980591,"wgArticleId":4525000,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Leggett_\u0026_Platt","wgRelevantArticleId":4525000,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0
+,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1812555","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Leggett_%26_Platt"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Leggett_Platt rootpage-Leggett_Platt stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Leggett+%26+Platt" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Leggett+%26+Platt" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Leggett &amp; Platt</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Leggett_%26_Platt" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Leggett+%26+Platt" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Leggett_%26_Platt&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i> <a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Leggett+%26+Platt%22">"Leggett &amp; Platt"</a> – <a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Leggett+%26+Platt%22+-wikipedia">news</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Leggett+%26+Platt%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Leggett+%26+Platt%22+-wikipedia">books</a> <b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Leggett+%26+Platt%22">scholar</a> <b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Leggett+%26+Platt%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">January 2009</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p><b>Leggett &amp; Platt</b> (L&amp;P), based in <a href="/wiki/Carthage,_Missouri" title="Carthage, Missouri">Carthage, Missouri</a>, is a diversified <a href="/wiki/Manufacturer" class="mw-redirect" title="Manufacturer">manufacturer</a> (and member of the <a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> Index) that designs and produces various engineered components and products that can be found in most homes and automobiles. The firm was founded in 1883, and consists of 15 business units, 23,000 employee-partners, and 145 manufacturing facilities located in 18 countries.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">Leggett &amp; Platt, Incorporated</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Leggett_%26_Platt_logo.svg" class="image"><img alt="Leggett &amp; Platt logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Leggett_%26_Platt_logo.svg/220px-Leggett_%26_Platt_logo.svg.png" decoding="async" width="220" height="56" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Leggett_%26_Platt_logo.svg/330px-Leggett_%26_Platt_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Leggett_%26_Platt_logo.svg/440px-Leggett_%26_Platt_logo.svg.png 2x" data-file-width="512" data-file-height="130"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:LEG">LEG</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US5246601075">US5246601075 </a><a href="https://www.wikidata.org/wiki/Q1812555?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;">Residential Bedding and Furniture<br>Automotive Seating<br>Industrial Materials</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1883<span class="noprint">; 137 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1883</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Carthage,_Missouri" title="Carthage, Missouri">Carthage, Missouri</a>, United States</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Karl G. Glassman, CEO</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">$4.27 billion <a href="/wiki/United_States_dollar" title="United States dollar">USD</a> (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">$437 million <a href="/wiki/United_States_dollar" title="United States dollar">USD</a> (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">$306 million <a href="/wiki/United_States_dollar" title="United States dollar">USD</a> (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">23,000<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (2019)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.leggett.com">leggett.com</a></span></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Company_segments"><span class="tocnumber">1</span> <span class="toctext">Company segments</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Residential_Products"><span class="tocnumber">1.1</span> <span class="toctext">Residential Products</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Industrial_Products"><span class="tocnumber">1.2</span> <span class="toctext">Industrial Products</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Furniture_Products"><span class="tocnumber">1.3</span> <span class="toctext">Furniture Products</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Specialized_Products"><span class="tocnumber">1.4</span> <span class="toctext">Specialized Products</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-6"><a href="#Leggett_management"><span class="tocnumber">2</span> <span class="toctext">Leggett management</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Board_of_directors"><span class="tocnumber">3</span> <span class="toctext">Board of directors</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Company_history"><span class="tocnumber">4</span> <span class="toctext">Company history</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Timeline"><span class="tocnumber">5</span> <span class="toctext">Timeline</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Executive_leadership:_past_&amp;_present"><span class="tocnumber">6</span> <span class="toctext">Executive leadership: past &amp; present</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#LEG_stock"><span class="tocnumber">7</span> <span class="toctext">LEG stock</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Company_segments">Company segments</span><span class="mw-editsection"><a href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit&amp;section=1" title="Edit section: Company segments" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<h3 class="in-block"><span class="mw-headline" id="Residential_Products">Residential Products</span><span class="mw-editsection"><a href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit&amp;section=2" title="Edit section: Residential Products" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Leggett &amp; Platt provides a variety of components and machinery used by bedding manufacturers in the production and assembly of their finished products, as well as producing private-label finished mattresses for bedding brands. Leggett &amp; Platt also produces and distributes carpet cushion and hard-surface flooring underlayment for residential and commercial applications. In addition, they are a major distributor of geo components used in ground stabilization, drainage protection, erosion control, and weed control.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2019)">citation needed</span></a></i>]</sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Industrial_Products">Industrial Products</span><span class="mw-editsection"><a href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit&amp;section=3" title="Edit section: Industrial Products" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Leggett &amp; Platt is a producer of drawn steel wire. The company's three wire mills produce virtually all of the wire consumed by their other domestic business. Much of the steel rod used to produce this wire is manufactured in Leggett &amp; Platt's own rod mill. They also supply steel wire to trade customers that operate in a broad range of markets.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Furniture_Products">Furniture Products</span><span class="mw-editsection"><a href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit&amp;section=4" title="Edit section: Furniture Products" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Leggett &amp; Platt designs, manufactures, and distributes motion and other components for work and home furniture. In addition, they produce select lines of private-label finished furniture. They are also a major supplier of adjustable beds, which are sold primarily to bedding manufacturers and retailers.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Specialized_Products">Specialized Products</span><span class="mw-editsection"><a href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit&amp;section=5" title="Edit section: Specialized Products" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Leggett &amp; Platt is a designer and manufacturer of automotive seating support and lumbar systems and motors, actuators, and cables. They are also a supplier of titanium, nickel, and stainless steel tubing and tube assemblies to the aerospace industry. They are a supplier of hydraulic cylinders used primarily in forklifts, lift trucks, and construction equipment.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2018)">citation needed</span></a></i>]</sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Leggett_management">Leggett management</span><span class="mw-editsection"><a href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit&amp;section=6" title="Edit section: Leggett management" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>As of January 2020, senior corporate executives included:
+</p>
+<ul><li>Karl G. Glassman, CEO</li>
+<li>J. Mitchell Dolloff, President and COO; President, Bedding Products Segment</li>
+<li>Steven K. Henderson, EVP and President, Specialized Products and Furniture, Flooring, and Textile Products Segments</li>
+<li>Jeffrey L. Tate, EVP and CFO</li>
+<li>Susan R. McCoy, SVP Investor Relations</li>
+<li>Scott S. Douglas, SVP General Counsel and Secretary</li>
+<li>Russell J. Iorio, SVP Corporate Development</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Board_of_directors">Board of directors</span><span class="mw-editsection"><a href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit&amp;section=7" title="Edit section: Board of directors" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<table class="wikitable"><tbody><tr><th>Director
+</th>
+<th>Joined In
+</th>
+<th>Position
+</th>
+<th>Company
+</th></tr><tr><td>Mark A. Blinn
+</td>
+<td align="center">2019
+</td>
+<td>Retired President, CEO, Director
+</td>
+<td>Flowserve Corporation
+</td></tr><tr><td>Robert E. Brunner
+</td>
+<td align="center">2009
+</td>
+<td>Retired Executive VP
+</td>
+<td>Illinois Tool Works, Inc.
+</td></tr><tr><td>Mary Campbell
+</td>
+<td align="center">2019
+</td>
+<td>Chief Merchandising Officer
+</td>
+<td>Qurate Retail Group
+</td></tr><tr><td>J. Mitchell Dolloff
+</td>
+<td align="center">2020
+</td>
+<td>President &amp; COO
+</td>
+<td>Leggett &amp; Platt
+</td></tr><tr><td>R. Ted Enloe, III
+</td>
+<td align="center">1969
+</td>
+<td>Managing General Partner
+</td>
+<td>Balquita Partners, Ltd.
+</td></tr><tr><td>Manuel A. Fernandez
+</td>
+<td align="center">2014
+</td>
+<td>Managing Director
+</td>
+<td>SI Ventures
+</td></tr><tr><td>Karl G. Glassman
+</td>
+<td align="center">2002
+</td>
+<td>CEO
+</td>
+<td>Leggett &amp; Platt
+</td></tr><tr><td>Joseph W. McClanathan
+</td>
+<td align="center">2005
+</td>
+<td>Retired President &amp; CEO
+</td>
+<td>Energizer Household Products Division of Energizer Holdings
+</td></tr><tr><td>Judy C. Odom
+</td>
+<td align="center">2002
+</td>
+<td>Retired Chairman &amp; CEO
+</td>
+<td>Software Spectrum, Inc.
+</td></tr><tr><td>Srikanth Padmanabhan
+</td>
+<td align="center">2018
+</td>
+<td>Vice President
+</td>
+<td>Cummins Inc.
+</td></tr><tr><td>Jai Shah
+</td>
+<td align="center">2019
+</td>
+<td>Group President
+</td>
+<td>Masco Corporation
+</td></tr><tr><td>Phoebe A. Wood
+</td>
+<td align="center">2005
+</td>
+<td>Principal
+</td>
+<td>CompaniesWood
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Company_history">Company history</span><span class="mw-editsection"><a href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit&amp;section=8" title="Edit section: Company history" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="thumb tleft"><div class="thumbinner" style="width:102px;"><a href="/wiki/File:JP_Leggett.JPG" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/7/7e/JP_Leggett.JPG/100px-JP_Leggett.JPG" decoding="async" width="100" height="125" class="thumbimage" data-file-width="235" data-file-height="293"></noscript><span class="lazy-image-placeholder" style="width: 100px;height: 125px;" data-src="//upload.wikimedia.org/wikipedia/en/thumb/7/7e/JP_Leggett.JPG/100px-JP_Leggett.JPG" data-alt="" data-width="100" data-height="125" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:JP_Leggett.JPG" class="internal" title="Enlarge"></a></div>J.P. Leggett</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:102px;"><a href="/wiki/File:CB_Platt.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/81/CB_Platt.jpg/100px-CB_Platt.jpg" decoding="async" width="100" height="124" class="thumbimage" data-file-width="236" data-file-height="293"></noscript><span class="lazy-image-placeholder" style="width: 100px;height: 124px;" data-src="//upload.wikimedia.org/wikipedia/en/thumb/8/81/CB_Platt.jpg/100px-CB_Platt.jpg" data-alt="" data-width="100" data-height="124" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:CB_Platt.jpg" class="internal" title="Enlarge"></a></div>C.B. Platt</div></div></div>
+<p>In 1883 in Carthage, Missouri, J.P. Leggett developed a new type of bedspring consisting of single cone spring wire coils, formed and interlaced, then mounted on a wood slat base. The bedspring could then be used as a base for the then-popular cotton, feather, or horsehair mattresses.  Needing expertise in manufacturing and production, he recruited his soon-to-be brother-in-law, C.B. Platt, whose father owned and operated Platt Plow Works, into the partnership. Together, they produced the components of their Leggett &amp; Platt bedspring, which was patented in 1885.
+</p>
+<table style="width:40%; height:200px" border="1" cellpadding="5" align="right"><tbody><tr><th>Bedspring vs. Innerspring
+</th></tr><tr><td>At the time of their invention, <b>bedsprings</b> referred to cone-shaped wire coiled springs, attached to a wooden slat foundation, used to support then-popular mattresses. These mattresses were typically made of horse hair, corn husks, cotton, feathers, or another soft material. Early bedsprings functioned similarly to today's box springs in their support of a mattress. However, box springs are rather rigid in structure, while bedsprings provide a more flexible surface.
+</td></tr><tr><td><b><a href="/wiki/Mattress#Components_of_an_innerspring_mattress" title="Mattress">Innersprings</a></b>, by contrast, refer to the core system of wire springs that, along with various types of foam and other padding materials, comprise the insides of today's mattress. The mattress is usually coupled with a box spring to create a sleep set. Innersprings can be coiled springs laced together, continuous coil springs, or individually encased springs, that support a person sleeping on the mattress.
+</td></tr></tbody></table><p>The Carthage market for their new product was very limited. To expand the market to a wider region,  Platt and George Leggett, brother of J. P. Leggett, would load a horse-drawn wagon with bedsprings and travel to surrounding communities. Often, to conserve space, they would load the springs and slats separately into the wagon and assemble them in a store or on an adjacent sidewalk. The partnership prospered, and the business was incorporated in 1901.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Platt_Plow_Works.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Platt_Plow_Works.jpg/220px-Platt_Plow_Works.jpg" decoding="async" width="220" height="166" class="thumbimage" data-file-width="361" data-file-height="272"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 166px;" data-src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Platt_Plow_Works.jpg/220px-Platt_Plow_Works.jpg" data-alt="" data-width="220" data-height="166" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Platt_Plow_Works.jpg" class="internal" title="Enlarge"></a></div>The Platt Plow Works</div></div></div>
+<p>The company built its first factory and offices in Carthage in 1890. The workforce at that time consisted of the two partners and five employees. Soon after completion of the Carthage plant, a second factory was built in Louisville, Kentucky. During the next 50 years, three more factories were built. Demand for the company's improved bedsprings was rising, and a second plant was built in Carthage in 1925. The new, much larger plant was located next to a railroad to allow for expanded shipments of products and supplies. In 1942, an additional factory was built in Winchester, Kentucky, which was subsequently consolidated with the Louisville plant. For some time, Texas had proven to be a main market outlet, and in 1947, a major factory was built in Ennis, Texas. By 1947, Leggett &amp; Platt consisted of 4 plants and 500 employees.
+</p><p>Although available in various models and continuously improved upon, bedsprings were practically the only product Leggett &amp; Platt offered until 1933. However, in that year the company began to manufacture springs for <a href="/wiki/Mattress#Components_of_an_innerspring_mattress" title="Mattress">innerspring</a> mattresses, which were relatively new products in the industry and growing in popularity. Thereafter, the company slowly began to diversify its products within the bedding industry by producing rollaway beds and folding metal cots, along with bed frames and bed rails.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Innerspring.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/5/57/Innerspring.jpg/220px-Innerspring.jpg" decoding="async" width="220" height="147" class="thumbimage" data-file-width="1080" data-file-height="720"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 147px;" data-src="//upload.wikimedia.org/wikipedia/en/thumb/5/57/Innerspring.jpg/220px-Innerspring.jpg" data-alt="" data-width="220" data-height="147" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Innerspring.jpg" class="internal" title="Enlarge"></a></div>Innerspring mattress components</div></div></div>
+<p>In 1960, Harry M. Cornell Jr., J.P. Leggett's grandson, was elected President and CEO of the company, taking over for his father (who was Leggett's son-in-law). The company's total sales in 1960 were approximately $7 million from three states: Kentucky, Texas, and Missouri. Determining the course and future of the company became management's primary objective. Following an extensive evaluation of the company and its potential, Cornell and his management partners concluded that Leggett &amp; Platt's best opportunities for profitable growth lay in a strategy of specializing in manufacturing, marketing, and distributing a broad and growing line of components and related products, first nationally and eventually on a worldwide basis. Key drivers of future sales and earnings would include aggressive internal growth initiatives, coupled with an active and ongoing acquisition program.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Patent_Spring.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Patent_Spring.jpg/200px-Patent_Spring.jpg" decoding="async" width="200" height="155" class="thumbimage" data-file-width="774" data-file-height="600"></noscript><span class="lazy-image-placeholder" style="width: 200px;height: 155px;" data-src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Patent_Spring.jpg/200px-Patent_Spring.jpg" data-alt="" data-width="200" data-height="155" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Patent_Spring.jpg" class="internal" title="Enlarge"></a></div>J.P. Leggett's original bedspring and patent</div></div></div>
+<p>Even greater success followed, and Leggett &amp; Platt became known as “the components people.” Leggett &amp; Platt stock was first traded over the counter in 1967. Twelve years later, on June 25, 1979, top management was present in New York City to witness the stock's first day listed on the New York Stock Exchange. In 1999, the company became part of the S&amp;P 500 Index.
+</p><p>Today, Leggett &amp; Platt has 145 manufacturing facilities in 18 countries.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Timeline">Timeline</span><span class="mw-editsection"><a href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit&amp;section=9" title="Edit section: Timeline" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li>1883:  Joseph P. Leggett develops and patents the first successful spiral steel coil bedspring, then forms a business partnership with Cornelius B. Platt, a blacksmith who operates the C.D. Platt Plow Works plant in Carthage, Missouri.</li>
+<li>1885:  Leggett receives a patent for improvements on the coiled bedspring. J.P. Leggett and C.B. Platt begin manufacturing coiled bedsprings at the Platt Plow Works plant.</li>
+<li>1890:  The first factory and offices are built in Carthage, MO.  The workforce consists of the 2 partners and 5 employees.  Harry Platt, a brother of C.B. Platt, opens a franchise factory in Louisville, Kentucky.</li>
+<li>1901:  The partnership of J.P. Leggett and C.B. Platt is incorporated under the name “Leggett &amp; Platt Spring Bed &amp; Manufacturing Company.”</li>
+<li>1933:  Leggett &amp; Platt begins to manufacture <a href="/wiki/Mattress#Components_of_an_innerspring_mattress" title="Mattress">innerspring</a> units at its Carthage plant.</li>
+<li>1942:  Leggett &amp; Platt survives <a href="/wiki/World_War_II" title="World War II">World War II</a> by working on defense contracts.</li>
+<li>1960:  Harry M. Cornell, Jr., (grandson of J.P. Leggett) becomes president and CEO; he begins implementing a new corporate strategy to broaden the line of component products for the bedding and furniture industries, expand geographically, and offer compatible products directly to furniture stores.</li>
+<li>1967:  Leggett &amp; Platt's IPO (<a href="/wiki/Initial_public_offering" title="Initial public offering">initial public offering</a>) of 50,000 shares of stock (at $10 per share) and $1 million of convertible subordinated debentures occurs; the stock is listed <a href="/wiki/Over-the-counter_(finance)" title="Over-the-counter (finance)">over the counter</a>.</li>
+<li>1971:  Leggett &amp; Platt stock is listed on the <a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a>, and the company achieves more than $1 million in net earnings.</li>
+<li>1976:  Leggett &amp; Platt exceeds the $100 million sales for the first time.</li>
+<li>1977:  Construction begins on a new corporate headquarters outside Carthage.</li>
+<li>1979:  Leggett &amp; Platt is listed on the NYSE (<a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">New York Stock Exchange</a>), stock symbol "LEG."</li>
+<li>1983:  Leggett celebrates 100 years of operation.</li>
+<li>1990:  Revenues exceed $1 billion for the first time.</li>
+<li>1999:  Leggett is included in the <a href="/wiki/S%26P_500_Index" title="S&amp;P 500 Index">S&amp;P 500 Index</a>.</li>
+<li>2007:  New strategic direction announced in November.</li>
+<li>2016:  Reset to strategic direction announced in September.</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span id="Executive_leadership:_past_.26_present"></span><span class="mw-headline" id="Executive_leadership:_past_&amp;_present">Executive leadership: past &amp; present</span><span class="mw-editsection"><a href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit&amp;section=10" title="Edit section: Executive leadership: past &amp; present" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<table class="wikitable"><tbody><tr><th>Executive
+</th>
+<th>Years of Service
+</th></tr><tr><td>J.P. Leggett &amp; C.B. Platt, Partnership
+</td>
+<td align="center">1883–1901
+</td></tr><tr><td>J.P. Leggett
+</td>
+<td align="center">1901–1921
+</td></tr><tr><td>C.B. Platt
+</td>
+<td align="center">1921–1929
+</td></tr><tr><td>J.P. Leggett, Jr.
+</td>
+<td align="center">1929–1933
+</td></tr><tr><td>F.B. Williams
+</td>
+<td align="center">1933–1938
+</td></tr><tr><td>George S. Beimdiek, Sr.
+</td>
+<td align="center">1938–1953
+</td></tr><tr><td>Harry M. Cornell, Sr.
+</td>
+<td align="center">1953–1960
+</td></tr><tr><td>Harry M. Cornell, Jr.
+</td>
+<td align="center">1960–1999
+</td></tr><tr><td>Felix E. Wright
+</td>
+<td align="center">1999–2006
+</td></tr><tr><td>David S. Haffner
+</td>
+<td align="center">2006–2015
+</td></tr><tr><td>Karl G. Glassman
+</td>
+<td align="center">2016–Present
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="LEG_stock">LEG stock</span><span class="mw-editsection"><a href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit&amp;section=11" title="Edit section: LEG stock" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-7 collapsible-block" id="mf-section-7">
+<ul><li>1967 - Leggett &amp; Platt <a href="/wiki/Initial_public_offering" title="Initial public offering">IPO</a> of 50,000 shares of stock at a price of $10 per share; the stock is traded <a href="/wiki/Over-the-counter_(finance)" title="Over-the-counter (finance)">over the counter</a></li>
+<li>1971 - Leggett's stock is listed on the <a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a></li>
+<li>1979 - Leggett is listed on the <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">New York Stock Exchange</a>, trading under symbol "LEG"</li></ul><p><b> History of <a href="/wiki/Stock_split" title="Stock split">Stock Splits</a>: </b>
+</p>
+<ul><li>May 13, 1969: 5-for-3</li>
+<li>Jan. 15, 1973: 3-for-2</li>
+<li>Sept. 29, 1978: 3-for-2</li>
+<li>Aug. 26, 1983: 2-for-1</li>
+<li>Mar. 14, 1986: 3-for-2</li>
+<li>Jun. 15, 1992: 2-for-1</li>
+<li>Sept. 15, 1995: 2-for-1</li>
+<li>Jun. 15, 1998: 2-for-1</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit&amp;section=12" title="Edit section: References" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-8 collapsible-block" id="mf-section-8">
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/leggett-platt/">"Leggett &amp; Platt"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Leggett+%26+Platt&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Fleggett-platt%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeggett+%26+Platt" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"> <a rel="nofollow" class="external text" href="https://leggett.gcs-web.com/static-files/1b1a6024-bb63-4186-b980-e8cb5d5c42aa">https://leggett.gcs-web.com/static-files/1b1a6024-bb63-4186-b980-e8cb5d5c42aa</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fleggett.gcs-web.com%2Fstatic-files%2F1b1a6024-bb63-4186-b980-e8cb5d5c42aa&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeggett+%26+Platt" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Missing or empty <code class="cs1-code">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.leggett.com/residential-furnishings.htm">http://www.leggett.com/residential-furnishings.htm</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.fundinguniverse.com/company-histories/Leggett-amp;-Platt-Inc-Company-History.html">http://www.fundinguniverse.com/company-histories/Leggett-amp;-Platt-Inc-Company-History.html</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://finance.yahoo.com/q/pr?s=leg">https://finance.yahoo.com/q/pr?s=leg</a></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Leggett_%26_Platt&amp;action=edit&amp;section=13" title="Edit section: External links" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-9 collapsible-block" id="mf-section-9">
+<style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul><li><span><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" decoding="async" width="28" height="28" class="noviewer" data-file-width="512" data-file-height="512"></noscript><span class="lazy-image-placeholder" style="width: 28px;height: 28px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" data-alt="" data-width="28" data-height="28" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-class="noviewer"> </span></span><span><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li></ul></div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.leggett.com/">L&amp;P's Homepage</a></li>
+<li>Business data for Leggett &amp; Platt: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=LEG">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=LEG">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=LEG">SEC filings</a></li></ul></div></li>
+<li><a rel="nofollow" class="external text" href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=LEG&amp;script=2100">L&amp;P Corporate Overview</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.lpadjustablebeds.com/">L&amp;P's Adjustable Beds Homepage</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fashionbedgroup.com/">L&amp;P's Fashion Bed Homepage</a></li></ul>
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Leggett_%26_Platt&amp;oldid=940980591">https://en.wikipedia.org/w/index.php?title=Leggett_%26_Platt&amp;oldid=940980591</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Leggett_%26_Platt"
+				data-user-name="Daringsmith"
+				data-user-gender="unknown"
+				data-timestamp="1581802352">
+				<span>Last edited on 15 February 2020, at 21:32</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Leggett_%26_Platt&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.328","walltime":"0.478","ppvisitednodes":{"value":1529,"limit":1000000},"postexpandincludesize":{"value":36171,"limit":2097152},"templateargumentsize":{"value":3113,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7777,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  423.178      1 -total"," 37.32%  157.940      1 Template:Infobox_company"," 34.09%  144.257      1 Template:Infobox"," 22.17%   93.825      1 Template:Refimprove"," 21.36%   90.411      1 Template:Reflist"," 18.89%   79.959      2 Template:Cite_web"," 17.81%   75.384      1 Template:Ambox"," 13.79%   58.345      1 Template:Br_separated_entries"," 13.15%   55.654      9 Template:Wikidata","  7.89%   33.407      1 Template:Find_sources_mainspace"]},"scribunto":{"limitreport-timeusage":{"value":"0.173","limit":"10.000"},"limitreport-memusage":{"value":5083756,"limit":52428800}},"cachereport":{"origin":"mw1391","timestamp":"20200417060616","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Leggett & Platt","url":"https:\/\/en.wikipedia.org\/wiki\/Leggett_%26_Platt","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1812555","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1812555","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-03-26T19:54:17Z","dateModified":"2020-02-15T21:32:32Z"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1395"});});</script>		</body>
+		</html>
+		

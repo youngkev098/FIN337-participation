@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Genuine Parts Company - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoLVgpAEKIABAVDoRAAAABP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Genuine_Parts_Company","wgTitle":"Genuine Parts Company","wgCurRevisionId":943387939,"wgRevisionId":943387939,"wgArticleId":4766255,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Genuine_Parts_Company","wgRelevantArticleId":4766255,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Genuine_Parts","wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Genuine_Parts_Company","wgWikibaseItemId":"Q5533818","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,
+"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/e/e1/Genuine_Parts_Company_logo.png"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Genuine_Parts_Company&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Genuine_Parts_Company&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Genuine_Parts_Company"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Genuine_Parts_Company rootpage-Genuine_Parts_Company stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Genuine+Parts+Company" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Genuine+Parts+Company" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Genuine Parts Company</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Genuine_Parts_Company" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Genuine+Parts+Company" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Genuine_Parts_Company&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Genuine_Parts&amp;redirect=no" class="mw-redirect" title="Genuine Parts">Genuine Parts</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><table class="box-Advert plainlinks metadata ambox ambox-content ambox-Advert" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Genuine_Parts_Company&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span>  <small class="date-container"><i>(<span class="date">September 2019</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p><b>Genuine Parts Company</b> (GPC) is an American service organization engaged in the distribution of automotive replacement parts, industrial replacement parts, office products and electrical/electronic materials. GPC serves numerous customers from more than 2,600 operations around the world, and has approximately 48,000 employees.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It owns the <a href="/wiki/National_Automotive_Parts_Association" title="National Automotive Parts Association">NAPA Auto Parts</a> brand.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Genuine Parts Company</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Genuine_Parts_Company_logo.png" class="image"><img alt="Genuine Parts Company logo.png" src="//upload.wikimedia.org/wikipedia/en/e/e1/Genuine_Parts_Company_logo.png" decoding="async" width="170" height="140" data-file-width="170" data-file-height="140"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;">Public</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:GPC">GPC</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1925<span class="noprint">; 95 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1925</span>)</span><br><a href="/wiki/Atlanta" title="Atlanta">Atlanta</a>, <a href="/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a>, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;">Carlyle Fraser</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;">Atlanta, Georgia, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Thomas_C._Gallagher" title="Thomas C. Gallagher">Thomas C. Gallagher</a>, Chairman <br> Paul D. Donohue, CEO</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">48,001</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th><td style="line-height: 1.35em;"><a href="/wiki/National_Automotive_Parts_Association" title="National Automotive Parts Association">National Automotive Parts Association</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><a rel="nofollow" class="external text" href="http://www.genpt.com">GenPT.com</a></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Company_Overview"><span class="tocnumber">1</span> <span class="toctext">Company Overview</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Automotive_Parts"><span class="tocnumber">1.1</span> <span class="toctext">Automotive Parts</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Industrial_Parts"><span class="tocnumber">1.2</span> <span class="toctext">Industrial Parts</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Office_Products"><span class="tocnumber">1.3</span> <span class="toctext">Office Products</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Electrical/Electronic_Materials"><span class="tocnumber">1.4</span> <span class="toctext">Electrical/Electronic Materials</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-6"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Company_Timeline"><span class="tocnumber">3</span> <span class="toctext">Company Timeline</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Subsidiaries"><span class="tocnumber">4</span> <span class="toctext">Subsidiaries</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Company_Overview">Company Overview</span><span class="mw-editsection"><a href="/w/index.php?title=Genuine_Parts_Company&amp;action=edit&amp;section=1" title="Edit section: Company Overview" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>Founded in 1925,<sup id="cite_ref-official_2-0" class="reference"><a href="#cite_note-official-2">[2]</a></sup> GPC is headquartered in <a href="/wiki/Atlanta,_Georgia" class="mw-redirect" title="Atlanta, Georgia">Atlanta, Georgia</a> and consists of multiple subsidiaries that distribute automotive replacement parts, industrial replacement parts, office products and electrical/electronic materials. The Company has paid a cash dividend to shareholders every year since going public in 1948.<sup id="cite_ref-GPCReport2014_3-0" class="reference"><a href="#cite_note-GPCReport2014-3">[3]</a></sup> The company moved into its new headquarters building in the Wildwood area of <a href="/wiki/Cobb_County" class="mw-redirect" title="Cobb County">Cobb County</a>, Georgia in June 2016.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Automotive_Parts">Automotive Parts</span><span class="mw-editsection"><a href="/w/index.php?title=Genuine_Parts_Company&amp;action=edit&amp;section=2" title="Edit section: Automotive Parts" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The Automotive Parts Group, the largest division of GPC, distributes approximately 475,000 automotive replacement parts, accessory items and service items throughout North America, Australia and New Zealand. In North America, parts are sold primarily under the NAPA brand name. The Company’s GPC Asia Pacific business serves the Australasian markets primarily under the brand name Repco.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Industrial_Parts">Industrial Parts</span><span class="mw-editsection"><a href="/w/index.php?title=Genuine_Parts_Company&amp;action=edit&amp;section=3" title="Edit section: Industrial Parts" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The Industrial Parts Group, which operates under the name <a href="/wiki/Motion_Industries" title="Motion Industries">Motion Industries</a>, offers access to more than 6.5 million industrial replacement parts and related supplies and serves over 150,000 MRO and OEM customers throughout North America and in all types of industries. These include the food and beverage, forest products, primary metal, pulp and paper, mining, automotive, oil and gas, petrochemical and pharmaceutical industries.<sup id="cite_ref-https://genpt.com/mi.html_6-0" class="reference"><a href="#cite_note-https://genpt.com/mi.html-6">[6]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Office_Products">Office Products</span><span class="mw-editsection"><a href="/w/index.php?title=Genuine_Parts_Company&amp;action=edit&amp;section=4" title="Edit section: Office Products" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The Office Products Group, which operates under the name S. P. Richards Company, distributes more than 62,000 items to over 6,300 resellers and distributors throughout the United States and Canada from a network of 45 distribution centers. Customers include independently owned office product dealers, large contract stationers, national office supply superstores, mail order distributors, internet resellers, college bookstores, office furniture dealers, janitorial and sanitation supply distributors, safety product resellers and food service distributors.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h3 class="in-block"><span id="Electrical.2FElectronic_Materials"></span><span class="mw-headline" id="Electrical/Electronic_Materials">Electrical/Electronic Materials</span><span class="mw-editsection"><a href="/w/index.php?title=Genuine_Parts_Company&amp;action=edit&amp;section=5" title="Edit section: Electrical/Electronic Materials" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The Electrical/Electronic Materials Group, which operates under the name EIS, Inc., distributes process materials, production supplies, industrial MRO and custom-engineered value added fabricated parts to more than 20,000 customers, including original equipment manufacturers, motor repair shops and a broad variety of industrial assembly and specialty wire and cable markets in North America. Products cover over 100,000 items including wire and cable, insulating and conductive materials, assembly tools and test equipment.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Genuine_Parts_Company&amp;action=edit&amp;section=6" title="Edit section: History" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>In 1925, Carlyle Fraser founded GPC with the purchase of Motor Parts Depot in <a href="/wiki/Atlanta,_Georgia" class="mw-redirect" title="Atlanta, Georgia">Atlanta, Georgia</a> for $40,000. He renamed the parts store Genuine Parts Company. The original Genuine Parts Company store had annual sales of just $75,000, and six employees.
+</p><p>For the next 50+ years, GPC, in relationship with NAPA, the <a href="/wiki/National_Automotive_Parts_Association" title="National Automotive Parts Association">National Automotive Parts Association</a>, grew rapidly as independent garages for car repair emerged to meet the needs of the nation's growing number of motor vehicles. In the last 35+ years, GPC has continued to grow through the acquisition of other companies in the automotive industry, as well as in the industrial, office and electrical industries.
+</p><p>Today GPC is a leading parts distributor with over 3,100 operations and approximately 48,000 employees.<sup id="cite_ref-genpt.com_9-0" class="reference"><a href="#cite_note-genpt.com-9">[9]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Company_Timeline">Company Timeline</span><span class="mw-editsection"><a href="/w/index.php?title=Genuine_Parts_Company&amp;action=edit&amp;section=7" title="Edit section: Company Timeline" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li>1925    <a href="/wiki/National_Automotive_Parts_Association" title="National Automotive Parts Association">National Automotive Parts Association</a> established.</li>
+<li>1928    Genuine Parts Company established.</li>
+<li>1948    GPC Initial Public Offering.</li>
+<li>1975    Acquired S.P. Richards Company.</li>
+<li>1976    Acquired Motion Industries.</li>
+<li>1994    Joint Venture with Auto Todo.</li>
+<li>1998    Acquired EIS.</li>
+<li>2008    Acquired Altrom.</li>
+<li>2013    Acquired GPC Asia Pacific.<sup id="cite_ref-genpt.com_9-1" class="reference"><a href="#cite_note-genpt.com-9">[9]</a></sup></li>
+<li>2016    Acquired AMX Superstores</li>
+<li>2016    Acquired Auto-Camping</li>
+<li>2017    Acquired Inenco Group (Australia). <sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Subsidiaries">Subsidiaries</span><span class="mw-editsection"><a href="/w/index.php?title=Genuine_Parts_Company&amp;action=edit&amp;section=8" title="Edit section: Subsidiaries" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<p>The Automotive Parts Group  distributes automotive replacement parts, accessory items and service items throughout <a href="/wiki/North_America" title="North America">North America</a>, <a href="/wiki/Australia" title="Australia">Australia</a> and <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>.  In North America, parts are sold primarily under the NAPA (<a href="/wiki/National_Automotive_Parts_Association" title="National Automotive Parts Association">National Automotive Parts Association</a>) brand name and is widely recognized for quality parts, quality service and knowledgeable people. The Company’s GPC <a href="/wiki/Asia_Pacific" class="mw-redirect" title="Asia Pacific">Asia Pacific</a> business serves the Australasian markets primarily under the brand name <a href="/wiki/Repco" title="Repco">Repco</a>.<sup id="cite_ref-GPCReport2014_3-1" class="reference"><a href="#cite_note-GPCReport2014-3">[3]</a></sup></p><p>The Automotive Parts Group supports over 6,000 NAPA AUTO PARTS stores throughout the <a href="/wiki/United_States" title="United States">United States</a>, 700 wholesalers in <a href="/wiki/Canada" title="Canada">Canada</a> and 481 automotive locations in <a href="/wiki/Australia" title="Australia">Australia</a> and <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>. These stores sell to both the Retail (DIY) and Commercial (DIFM) automotive aftermarket customer and cover the majority of all domestic and foreign motor vehicle models.<sup id="cite_ref-GPCReport2014_3-2" class="reference"><a href="#cite_note-GPCReport2014-3">[3]</a></sup></p><p>The Industrial Parts Group, operating under the name <a href="/wiki/Motion_Industries" title="Motion Industries">Motion Industries</a>, offers more than 5.9 million industrial replacement parts and related supplies. The Group serves over 150,000 MRO and OEM customers throughout North America and in all types of industries. These include the food and beverage, forest products, primary metal, pulp and paper, mining, automotive, oil and gas, petrochemical and pharmaceutical industries. Strategically targeted specialty industries include power generation, waste-water treatment facilities, wind power generation, solar power, government projects, pipelines, railroads and ports, among others. Motion Industries is headquartered in <a href="/wiki/Birmingham,_Alabama" title="Birmingham, Alabama">Birmingham, Alabama</a> and operates 15 distribution centers, 523 branches, and 39 service centers in the <a href="/wiki/United_States" title="United States">United States</a>, Canada, <a href="/wiki/Mexico" title="Mexico">Mexico</a>, and <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a>.<sup id="cite_ref-GPCReport2014_3-3" class="reference"><a href="#cite_note-GPCReport2014-3">[3]</a></sup></p><p>The Business Products Group, operating under the name S.P. Richards, distributes more than 61,000 items to over 5,200 resellers and distributors throughout the <a href="/wiki/United_States" title="United States">United States</a> and <a href="/wiki/Canada" title="Canada">Canada</a> from a network of 60 distribution centers. Customers include independently owned office product dealers, large contract stationers, national office supply superstores, mail order distributors, internet resellers, college bookstores, office furniture dealers, janitorial and sanitation supply distributors, safety product resellers and food service distributors. S.P. Richards is headquartered in <a href="/wiki/Atlanta,_Georgia" class="mw-redirect" title="Atlanta, Georgia">Atlanta, Georgia</a> and operates 34 full-stocking distribution centers, 2 furniture only distribution centers, 5 S.P. Richards <a href="/wiki/Canada" title="Canada">Canada</a> distribution centers, 1 GCN Distribution Center, and 2 impact products distribution centers.<sup id="cite_ref-GPCReport2014_3-4" class="reference"><a href="#cite_note-GPCReport2014-3">[3]</a></sup></p><p>The Electrical/Electronic Materials Group, operating under the name EIS, Inc. is one of North America's leading distributors of process materials, production supplies, industrial MRO and value added fabricated parts. EIS, Inc. is headquartered in <a href="/wiki/Atlanta,_Georgia" class="mw-redirect" title="Atlanta, Georgia">Atlanta, Georgia</a>, and operates 49 branches and 7 fabrication facilities in the <a href="/wiki/United_States" title="United States">United States</a>, Canada, <a href="/wiki/Mexico" title="Mexico">Mexico</a>, <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a> and the <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a>.<sup id="cite_ref-GPCReport2014_3-5" class="reference"><a href="#cite_note-GPCReport2014-3">[3]</a></sup> Effective in 2018, EIS was combined into Motion Industries and will be identified as its Electrical Specialties Group.<sup id="cite_ref-https://genpt.com/mi.html_6-1" class="reference"><a href="#cite_note-https://genpt.com/mi.html-6">[6]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Genuine_Parts_Company&amp;action=edit&amp;section=9" title="Edit section: References" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<p><a rel="nofollow" class="external autonumber" href="http://genuineparts.investorroom.com/2019-07-10-Genuine-Parts-Company-Completes-Acquisition-Of-Leading-Industrial-Distributor-In-Australasia">[1]</a></p><div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/genuine-parts/">"Genuine Parts"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Genuine+Parts&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Fgenuine-parts%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGenuine+Parts+Company" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-official-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-official_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120321145359/http://www.genpt.com/portal/page/portal/GENPT.COM/about">"About Us"</a>. <i>Genuine Parts Company</i>. Archived from <a rel="nofollow" class="external text" href="http://www.genpt.com/portal/page/portal/GENPT.COM/about">the original</a> on 2012-03-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-03-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Genuine+Parts+Company&amp;rft.atitle=About+Us&amp;rft_id=http%3A%2F%2Fwww.genpt.com%2Fportal%2Fpage%2Fportal%2FGENPT.COM%2Fabout&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGenuine+Parts+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-GPCReport2014-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-GPCReport2014_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GPCReport2014_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-GPCReport2014_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-GPCReport2014_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-GPCReport2014_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-GPCReport2014_3-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.proxydocs.com/edocs/request?b=GPC&amp;paction=doc&amp;action=showdoc&amp;docid=852111&amp;se=852111">Genuine Parts Company 2014 Annual Report</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.bizjournals.com/atlanta/news/2014/11/20/genuine-parts-moving-its-home-base-to-wildwood.html">http://www.bizjournals.com/atlanta/news/2014/11/20/genuine-parts-moving-its-home-base-to-wildwood.html</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://genpt.com/napa.html">https://genpt.com/napa.html</a></span>
+</li>
+<li id="cite_note-https://genpt.com/mi.html-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-https://genpt.com/mi.html_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-https://genpt.com/mi.html_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://genpt.com/mi.html">https://genpt.com/mi.html</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://genpt.com/spr.html">https://genpt.com/spr.html</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://genpt.com/eis.html">https://genpt.com/eis.html</a></span>
+</li>
+<li id="cite_note-genpt.com-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-genpt.com_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-genpt.com_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.genpt.com/about_history.html">http://www.genpt.com/about_history.html</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://genuineparts.investorroom.com/2019-07-10-Genuine-Parts-Company-Completes-Acquisition-Of-Leading-Industrial-Distributor-In-Australasia">"Genuine Parts Company Completes Acquisition Of Leading Industrial Distributor In Australasia - Jul 10, 2019"</a>. <i>Genuine Parts Company</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-10-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Genuine+Parts+Company&amp;rft.atitle=Genuine+Parts+Company+Completes+Acquisition+Of+Leading+Industrial+Distributor+In+Australasia+-+Jul+10%2C+2019&amp;rft_id=http%3A%2F%2Fgenuineparts.investorroom.com%2F2019-07-10-Genuine-Parts-Company-Completes-Acquisition-Of-Leading-Industrial-Distributor-In-Australasia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGenuine+Parts+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Genuine_Parts_Company&amp;action=edit&amp;section=10" title="Edit section: External links" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li><a rel="nofollow" class="external text" href="http://www.genpt.com">Genuine Parts Company Official Website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.napaonline.com">NAPA AUTO PARTS Website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.motionindustries.com">Motion Industries Website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sprichards.com/">S.P. Richards Company Website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.eis-inc.com">EIS Website</a></li>
+<li>Business data for Genuine Parts Company: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=GPC">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=GPC">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=GPC">SEC filings</a></li></ul></div></li></ul></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Genuine_Parts_Company&amp;oldid=943387939">https://en.wikipedia.org/w/index.php?title=Genuine_Parts_Company&amp;oldid=943387939</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Genuine_Parts_Company"
+				data-user-name="Cyberfan195"
+				data-user-gender="unknown"
+				data-timestamp="1583081208">
+				<span>Last edited on 1 March 2020, at 16:46</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Genuine_Parts_Company&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.252","walltime":"0.354","ppvisitednodes":{"value":1281,"limit":1000000},"postexpandincludesize":{"value":17783,"limit":2097152},"templateargumentsize":{"value":1195,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13461,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  315.707      1 -total"," 45.55%  143.807      1 Template:Infobox_company"," 39.36%  124.276      1 Template:Infobox"," 28.43%   89.761      1 Template:Reflist"," 24.32%   76.787      3 Template:Cite_web"," 19.16%   60.489      1 Template:Advertising"," 16.71%   52.744      9 Template:Wikidata"," 16.50%   52.080      1 Template:Br_separated_entries"," 12.68%   40.021      1 Template:Ambox","  3.60%   11.355      1 Template:Start_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.126","limit":"10.000"},"limitreport-memusage":{"value":3630240,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20200417062333","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Genuine Parts Company","url":"https:\/\/en.wikipedia.org\/wiki\/Genuine_Parts_Company","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5533818","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5533818","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-04-16T03:59:38Z","dateModified":"2020-03-01T16:46:48Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/e\/e1\/Genuine_Parts_Company_logo.png"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1401"});});</script>		</body>
+		</html>
+		

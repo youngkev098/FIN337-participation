@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Newmont Corporation - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpiIeQpAAEAAAIU7oOUAAAAY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Newmont_Corporation","wgTitle":"Newmont Corporation","wgCurRevisionId":940681005,"wgRevisionId":940681005,"wgArticleId":1100754,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Newmont_Corporation","wgRelevantArticleId":1100754,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1785405","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Newmont_Corporation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Newmont_Corporation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Newmont_Corporation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Newmont_Corporation rootpage-Newmont_Corporation stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Newmont+Corporation" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Newmont+Corporation" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Newmont Corporation</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Newmont_Corporation" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Newmont+Corporation" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Newmont_Corporation&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<p><b>Newmont Corporation</b>, based in <a href="/wiki/Greenwood_Village,_Colorado" title="Greenwood Village, Colorado">Greenwood Village, Colorado</a>, USA, is the world's largest gold mining company.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Incorporated in 1921, it has ownership of <a href="/wiki/Gold" title="Gold">gold</a> mines in <a href="/wiki/Nevada" title="Nevada">Nevada</a>, <a href="/wiki/Colorado" title="Colorado">Colorado</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a>, <a href="/wiki/Quebec" title="Quebec">Quebec</a>, <a href="/wiki/Mexico" title="Mexico">Mexico</a>, the <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a>, <a href="/wiki/Australia" title="Australia">Australia</a>, <a href="/wiki/Ghana" title="Ghana">Ghana</a>, <a href="/wiki/Argentina" title="Argentina">Argentina</a>, <a href="/wiki/Peru" title="Peru">Peru</a>, and <a href="/wiki/Suriname" title="Suriname">Suriname</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> In addition to gold, Newmont mines <a href="/wiki/Copper" title="Copper">copper</a>, <a href="/wiki/Silver" title="Silver">silver</a>, <a href="/wiki/Zinc" title="Zinc">zinc</a> and <a href="/wiki/Lead" title="Lead">lead</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">Newmont Corporation</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Newmont-logo.png" class="image"><img alt="Newmont-logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Newmont-logo.png/220px-Newmont-logo.png" decoding="async" width="220" height="33" data-file-width="537" data-file-height="81"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Formerly</div></th><td class="nickname" style="line-height: 1.35em;">Newmont Goldcorp Corporation</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:NEM">NEM</a></li><li><a href="/wiki/Toronto_Stock_Exchange" title="Toronto Stock Exchange">TSX</a>: <a rel="nofollow" class="external text" href="https://web.tmxmoney.com/quote.php?qm_symbol=NGT:TSX">NGT</a></li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US6516391066">US6516391066 </a><a href="https://www.wikidata.org/wiki/Q1785405?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Metal" title="Metal">Metals</a> and <a href="/wiki/Mining" title="Mining">Mining</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Predecessor</th><td style="line-height: 1.35em;"><a href="/w/index.php?title=Newmont_Company&amp;action=edit&amp;redlink=1" class="new" title="Newmont Company (page does not exist)">Newmont Company</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Successor</th><td style="line-height: 1.35em;">Franco-Nevada <a href="https://www.wikidata.org/wiki/Q1785405?uselang=en#P156" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1921<span class="noprint">; 99 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1921</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/William_Boyce_Thompson" title="William Boyce Thompson">William Boyce Thompson</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Greenwood_Village,_Colorado" title="Greenwood Village, Colorado">Greenwood Village, Colorado</a>, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><a href="/w/index.php?title=Tom_Palmer_(businessman)&amp;action=edit&amp;redlink=1" class="new" title="Tom Palmer (businessman) (page does not exist)">Tom Palmer</a>, CEO</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a href="/wiki/Gold" title="Gold">Gold</a>, <a href="/wiki/Copper" title="Copper">copper</a>, <a href="/wiki/Silver" title="Silver">silver</a>, <a href="/wiki/Zinc" title="Zinc">zinc</a>, <a href="/wiki/Lead" title="Lead">lead</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">$7.253 billion <a href="/wiki/United_States_dollar" title="United States dollar">USD</a> (2018)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">24,000<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://newmont.com">newmont<wbr></wbr>.com</a></span></td></tr></tbody></table><p>Newmont has approximately 24,000<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> employees and contractors worldwide, and is the only gold company in the <a href="/wiki/List_of_S%26P_500_companies" title="List of S&amp;P 500 companies">Standard &amp; Poor's 500</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Operations"><span class="tocnumber">1</span> <span class="toctext">Operations</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul><li class="toclevel-2 tocsection-3"><a href="#Early_years"><span class="tocnumber">2.1</span> <span class="toctext">Early years</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Major_growth"><span class="tocnumber">2.2</span> <span class="toctext">Major growth</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-5"><a href="#Former_operations"><span class="tocnumber">3</span> <span class="toctext">Former operations</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Controversies"><span class="tocnumber">4</span> <span class="toctext">Controversies</span></a>
+<ul><li class="toclevel-2 tocsection-7"><a href="#Buyat_Bay,_Sulawesi,_Indonesia"><span class="tocnumber">4.1</span> <span class="toctext">Buyat Bay, Sulawesi, Indonesia</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Akyem,_Ghana"><span class="tocnumber">4.2</span> <span class="toctext">Akyem, Ghana</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Operations">Operations</span><span class="mw-editsection"><a href="/w/index.php?title=Newmont_Corporation&amp;action=edit&amp;section=1" title="Edit section: Operations" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Newmont_Gold_Quarry_mine.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Newmont_Gold_Quarry_mine.jpg/220px-Newmont_Gold_Quarry_mine.jpg" decoding="async" width="220" height="165" class="thumbimage" data-file-width="4000" data-file-height="3000"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 165px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Newmont_Gold_Quarry_mine.jpg/220px-Newmont_Gold_Quarry_mine.jpg" data-alt="" data-width="220" data-height="165" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Newmont_Gold_Quarry_mine.jpg" class="internal" title="Enlarge"></a></div>Gold Quarry mine, near <a href="/wiki/Carlin,_Nevada" title="Carlin, Nevada">Carlin, Nevada</a>, 2009.</div></div></div>
+<table class="wikitable"><tbody><tr><th>Asset
+</th>
+<th>Country
+</th>
+<th>Ownership<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></th>
+<th>Mine Type
+</th>
+<th>Metals
+</th>
+<th>Gold Production in 2018 (ounces)
+</th>
+<th>Gold Reserves as of December 31, 2018 (ounces)
+</th></tr><tr><td><a href="/wiki/Cripple_Creek_%26_Victor_Gold_Mine" title="Cripple Creek &amp; Victor Gold Mine">Cripple Creek &amp; Victor Gold Mine</a>
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" data-file-width="1235" data-file-height="650"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 12px;" data-src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" data-alt="" data-width="23" data-height="12" data-srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/United_States" title="United States">USA</a>
+</td>
+<td>100%
+</td>
+<td>Surface
+</td>
+<td>Gold, Silver
+</td>
+<td>360,000
+</td>
+<td>3.5 million
+</td></tr><tr><td>Nevada Gold Mines
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" data-file-width="1235" data-file-height="650"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 12px;" data-src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" data-alt="" data-width="23" data-height="12" data-srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/United_States" title="United States">USA</a>
+</td>
+<td>38.5%
+</td>
+<td>10 Underground, 12 Surface
+</td>
+<td>Gold, Copper, Silver
+</td></tr><tr><td>Éléonore
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" data-file-width="1200" data-file-height="600"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 12px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" data-alt="" data-width="23" data-height="12" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/Canada" title="Canada">Canada</a>
+</td>
+<td>100%
+</td>
+<td>Underground
+</td>
+<td>Gold
+</td>
+<td>342,000
+</td>
+<td>3.25 million
+</td></tr><tr><td><a href="/wiki/Musselwhite_mine" title="Musselwhite mine">Musselwhite mine</a>
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" data-file-width="1200" data-file-height="600"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 12px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" data-alt="" data-width="23" data-height="12" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/Canada" title="Canada">Canada</a>
+</td>
+<td>100%
+</td>
+<td>Underground
+</td>
+<td>Gold
+</td>
+<td>205,000
+</td>
+<td>2.28 million
+</td></tr><tr><td><a href="/wiki/Porcupine_mine" title="Porcupine mine">Porcupine mine</a>
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" data-file-width="1200" data-file-height="600"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 12px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" data-alt="" data-width="23" data-height="12" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/Canada" title="Canada">Canada</a>
+</td>
+<td>100%
+</td>
+<td>Underground, Open Pit, Stockpiles
+</td>
+<td>Gold
+</td>
+<td>259,000
+</td>
+<td>8.13 million
+</td></tr><tr><td><a href="/wiki/Red_Lake_Mine" title="Red Lake Mine">Red Lake Mine</a>
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" data-file-width="1200" data-file-height="600"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 12px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" data-alt="" data-width="23" data-height="12" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/Canada" title="Canada">Canada</a>
+</td>
+<td>100%
+</td>
+<td>Underground
+</td>
+<td>Gold
+</td>
+<td>276,000
+</td>
+<td>2.05 million
+</td></tr><tr><td><a href="/wiki/Pe%C3%B1asquito_Mine" title="Peñasquito Mine">Peñasquito Mine</a>
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" data-file-width="980" data-file-height="560"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 13px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" data-alt="" data-width="23" data-height="13" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/Mexico" title="Mexico">Mexico</a>
+</td>
+<td>100%
+</td>
+<td>Open Pit
+</td>
+<td>Gold, Silver, Lead, Zinc
+</td>
+<td>272,000
+</td>
+<td>9.12 million
+</td></tr><tr><td><a href="/wiki/Cerro_Negro_mine" title="Cerro Negro mine">Cerro Negro mine</a>
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" data-file-width="800" data-file-height="500"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 14px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" data-alt="" data-width="23" data-height="14" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/Argentina" title="Argentina">Argentina</a>
+</td>
+<td>100%
+</td>
+<td>Underground
+</td>
+<td>Gold
+</td>
+<td>489,000
+</td>
+<td>5.02 million
+</td></tr><tr><td>Merian
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" data-file-width="900" data-file-height="600"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 15px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" data-alt="" data-width="23" data-height="15" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/Suriname" title="Suriname">Suriname</a>
+</td>
+<td>75%
+</td>
+<td>Surface
+</td>
+<td>Gold
+</td>
+<td>534,000 (100% basis)
+</td>
+<td>3.7 million (75% basis)
+</td></tr><tr><td><a href="/wiki/Pueblo_Viejo_mine" title="Pueblo Viejo mine">Pueblo Viejo mine</a>
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/23px-Flag_of_the_Dominican_Republic.svg.png" decoding="async" width="23" height="15" class="thumbborder" data-file-width="900" data-file-height="600"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 15px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/23px-Flag_of_the_Dominican_Republic.svg.png" data-alt="" data-width="23" data-height="15" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/35px-Flag_of_the_Dominican_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/45px-Flag_of_the_Dominican_Republic.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a>
+</td>
+<td>40%
+</td>
+<td>Open Pit
+</td>
+<td>Gold
+</td>
+<td>388,000 (40% basis)
+</td>
+<td>4.37 million (40% basis)
+</td></tr><tr><td><a href="/wiki/Yanacocha" title="Yanacocha">Yanacocha</a>
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png" decoding="async" width="23" height="15" class="thumbborder" data-file-width="900" data-file-height="600"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 15px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png" data-alt="" data-width="23" data-height="15" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/35px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/45px-Flag_of_Peru.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/Peru" title="Peru">Peru</a>
+</td>
+<td>51.35%
+</td>
+<td>Surface
+</td>
+<td>Gold
+</td>
+<td>515,000 (100% basis)
+</td>
+<td>3.8 million (51.35% basis)
+</td></tr><tr><td><a href="/wiki/Ahafo_mine" title="Ahafo mine">Ahafo mine</a>
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png" decoding="async" width="23" height="15" class="thumbborder" data-file-width="900" data-file-height="600"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 15px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png" data-alt="" data-width="23" data-height="15" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/35px-Flag_of_Ghana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/45px-Flag_of_Ghana.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/Ghana" title="Ghana">Ghana</a>
+</td>
+<td>100%
+</td>
+<td>Surface
+</td>
+<td>Gold
+</td>
+<td>436,000
+</td>
+<td>9.7 million
+</td></tr><tr><td>Akyem
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png" decoding="async" width="23" height="15" class="thumbborder" data-file-width="900" data-file-height="600"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 15px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png" data-alt="" data-width="23" data-height="15" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/35px-Flag_of_Ghana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/45px-Flag_of_Ghana.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/Ghana" title="Ghana">Ghana</a>
+</td>
+<td>100%
+</td>
+<td>Surface
+</td>
+<td>Gold
+</td>
+<td>414,000
+</td>
+<td>2.2 million
+</td></tr><tr><td><a href="/wiki/Boddington_Gold_Mine" title="Boddington Gold Mine">Boddington Gold Mine</a>
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" data-file-width="1280" data-file-height="640"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 12px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" data-alt="" data-width="23" data-height="12" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/Australia" title="Australia">Australia</a>
+</td>
+<td>100%
+</td>
+<td>Surface
+</td>
+<td>Gold, Copper
+</td>
+<td>709,000
+</td>
+<td>12.4 million
+</td></tr><tr><td><a href="/wiki/Tanami_Mine" title="Tanami Mine">Tanami Mine</a>
+</td>
+<td><span class="flagicon"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" data-file-width="1280" data-file-height="640"></noscript><span class="lazy-image-placeholder" style="width: 23px;height: 12px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" data-alt="" data-width="23" data-height="12" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-class="thumbborder"> </span> </span><a href="/wiki/Australia" title="Australia">Australia</a>
+</td>
+<td>100%
+</td>
+<td>Underground
+</td>
+<td>Gold
+</td>
+<td>496,000
+</td>
+<td>4.7 million
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Newmont_Corporation&amp;action=edit&amp;section=2" title="Edit section: History" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<div class="thumb tright"><div class="thumbinner" style="width:208px;"><a href="/wiki/File:Boyce_Thompson.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/en/2/2a/Boyce_Thompson.jpg" decoding="async" width="206" height="288" class="thumbimage" data-file-width="206" data-file-height="288"></noscript><span class="lazy-image-placeholder" style="width: 206px;height: 288px;" data-src="//upload.wikimedia.org/wikipedia/en/2/2a/Boyce_Thompson.jpg" data-alt="" data-width="206" data-height="288" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Boyce_Thompson.jpg" class="internal" title="Enlarge"></a></div>William Boyce Thompson, founder of Newmont Mining</div></div></div>
+<h3 class="in-block"><span class="mw-headline" id="Early_years">Early years</span><span class="mw-editsection"><a href="/w/index.php?title=Newmont_Corporation&amp;action=edit&amp;section=3" title="Edit section: Early years" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The Newmont Company was founded in 1916 in New York by <a href="/wiki/Colonel_(United_States)" title="Colonel (United States)">Colonel</a> <a href="/wiki/William_Boyce_Thompson" title="William Boyce Thompson">William Boyce Thompson</a> as a holding company to invest in Worldwide <a href="/wiki/Mineral" title="Mineral">mineral</a>, <a href="/wiki/Petroleum" title="Petroleum">oil</a>, and related companies. According to company lore, the name "Newmont" is a portmanteau "New York" and "Montana", reflecting where Thompson made his fortune and where he grew up. Newmont made its first major gold investment in 1917, with a founding 25 percent in the <a href="/wiki/Anglo_American_plc" title="Anglo American plc">Anglo American Corporation</a> of South Africa. Four years later, in 1921, the Newmont Company reincorporated as the Newmont Corporation.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p><p>In 1929, Newmont became a mining company with its first gold product in by acquiring <a href="/wiki/California%27s" class="mw-redirect" title="California's">California's</a> <a href="/wiki/Empire_Mine_State_Historic_Park" title="Empire Mine State Historic Park">Empire Star Mine</a>. By 1939, Newmont was operating 12 gold mines in North America.
+</p><p>The company acquired interests overseas. For decades around the middle of the 20th century, Newmont had a controlling interest in the <a href="/wiki/Tsumeb" title="Tsumeb">Tsumeb</a> mine in <a href="/wiki/Namibia" title="Namibia">Namibia</a> and in the O'Okiep Copper Company in <a href="/wiki/Namaqualand" title="Namaqualand">Namaqualand</a>, <a href="/wiki/South_Africa" title="South Africa">South Africa</a>.
+</p><p>Beginning in 1925, Newmont acquired interests in a <a href="/wiki/Texas" title="Texas">Texas</a> <a href="/wiki/Oil_field" class="mw-redirect" title="Oil field">oil field</a>. Eventually, Newmont's oil interests included more than 70 blocks in the Louisiana, <a href="/wiki/Gulf_of_Mexico" title="Gulf of Mexico">Gulf of Mexico</a> area and oil and gas production in the <a href="/wiki/North_Sea_oil" title="North Sea oil">North Sea</a>.
+</p><p>Fred Searls became president in 1947, after serving as the company's exploration geologist.  Searls retired in 1954, and Plato Malozemoff took over as president.<sup id="cite_ref-Hecla_9-0" class="reference"><a href="#cite_note-Hecla-9">[9]</a></sup></p><p>Newmont discovered the world's first submicroscopic or "invisible" gold at <a href="/wiki/Carlin,_Nevada" title="Carlin, Nevada">Carlin</a>, <a href="/wiki/Nevada" title="Nevada">Nevada</a> in the early 1960s and began production on the first open pit gold mine in the world. The "<a href="/wiki/Carlin_Trend" class="mw-redirect" title="Carlin Trend">Carlin Trend</a>" or "Carlin Unconformity" is the largest gold discovery in North America during the 20th century. In 1971 Newmont began using the <a href="/wiki/Heap_leaching" title="Heap leaching">heap leaching</a> technology on sub-mill grade <a href="/wiki/Ores" class="mw-redirect" title="Ores">ores</a> there.
+</p><p>In the 1980s, Newmont thwarted five takeover bids – from <a href="/wiki/Consolidated_Gold_Fields" title="Consolidated Gold Fields">Consolidated Gold Fields</a> (<a href="/wiki/ConsGold" class="mw-redirect" title="ConsGold">ConsGold</a>), <a href="/wiki/T._Boone_Pickens" title="T. Boone Pickens">T. Boone Pickens</a>, <a href="/w/index.php?title=Minorco&amp;action=edit&amp;redlink=1" class="new" title="Minorco (page does not exist)">Minorco</a>, <a href="/wiki/Hanson_plc" class="mw-redirect" title="Hanson plc">Hanson Industries</a> and <a href="/wiki/Sir_James_Goldsmith" class="mw-redirect" title="Sir James Goldsmith">Sir James Goldsmith</a> – who sought to break Newmont apart and sell its assets to increase shareholder value.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Major_growth">Major growth</span><span class="mw-editsection"><a href="/w/index.php?title=Newmont_Corporation&amp;action=edit&amp;section=4" title="Edit section: Major growth" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>After 1987, the company undertook major restructuring. This included the payment of a US$33 per share <a href="/wiki/Dividend" title="Dividend">dividend</a> to all <a href="/wiki/Shareholders" class="mw-redirect" title="Shareholders">shareholders</a> for a total of US$2.2 billion, of which US$1.75 billion was borrowed. To reduce this debt the company undertook a <a href="/wiki/Divestment" title="Divestment">divestment</a> program involving all of its copper, oil, gas, and <a href="/wiki/Coal" title="Coal">coal</a> interests.
+</p><p>As a further step in the restructuring, the company moved its headquarters from New York City to <a href="/wiki/Denver" title="Denver">Denver</a> in 1988. A decade later, Newmont Mining Corporation and Newmont Gold Company combined assets to form a unified worldwide gold company. Shareholders of both companies had identical interests in the reserves, production and earnings of Newmont Gold's operations.
+</p><p>Newmont then merged with <a href="/wiki/Santa_Fe_Railroad" class="mw-redirect" title="Santa Fe Railroad">Santa Fe Pacific Corporation</a> (a former <a href="/wiki/Atchison,_Topeka_and_Santa_Fe_Railway" title="Atchison, Topeka and Santa Fe Railway">Atchison, Topeka and Santa Fe Railway</a> subsidiary, sold in preparation for the merger that produced the <a href="/wiki/BNSF_Railway" title="BNSF Railway">BNSF Railway</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>) to form North America's largest gold producer.
+</p><p>On June 21, 2000, Newmont announced a merger with Battle Mountain Gold. The merger was completed in January 2001.
+</p><p>In February 2002, Newmont completed the acquisition of <a href="/wiki/Normandy_Mining_Limited" class="mw-redirect" title="Normandy Mining Limited">Normandy Mining Limited</a> and <a href="/wiki/Franco-Nevada" title="Franco-Nevada">Franco-Nevada Mining Corporation</a> Limited. Newmont faced competition in its bid for Normandy from <a href="/wiki/AngloGold" class="mw-redirect" title="AngloGold">AngloGold</a>. By eventually outbidding the South African company, Newmont became the world's largest gold producer, with an annual production in excess of 8 million ounces.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p><p>In 2007, the company eliminated its 1.5 million ounce legacy hedge book to make Newmont the world's largest unhedged gold producer. The following year, Newmont acquired Miramar Mining Corporation and its Hope Bay deposit in the Canadian Arctic.
+</p><p>In late 2008, Newmont moved its headquarters from Denver to the suburb of <a href="/wiki/Greenwood_Village,_Colorado" title="Greenwood Village, Colorado">Greenwood Village, Colorado</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p><p>In 2009, Newmont purchased the remaining one-third interest in Boddington Gold Mine from AngloGold Ashanti, bringing its ownership to 100 percent.
+</p><p>In April 2011, the company acquired Canada's Fronteer Gold Inc. for Cdn $2.3 billion. This made the company the world's second-largest gold producer.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p><p>In 2017, Newmont produced 5.65 million ounces of <a href="/wiki/Gold" title="Gold">gold</a> at all-in sustaining costs of US$924 per ounce.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> The company reported adjusted net income of $780 million for the year,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> and further reduced net debt down to US$0.8 billion.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p><p>In 2019, it acquired Canada's <a href="/wiki/Goldcorp" title="Goldcorp">Goldcorp</a> for $10 billion.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Former_operations">Former operations</span><span class="mw-editsection"><a href="/w/index.php?title=Newmont_Corporation&amp;action=edit&amp;section=5" title="Edit section: Former operations" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>Newmont has purchased and sold a number of operations in recent years:
+</p>
+<ul><li><b><a href="/wiki/Super_Pit_gold_mine" title="Super Pit gold mine">Super Pit gold mine</a></b>: Newmont sold its 50 percent stake in Kalgoorlie Consolidated Gold Mines to Northern Star Resources for $800 million in January 2020.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></li>
+<li><b><a href="/wiki/Golden_Grove_Mine" title="Golden Grove Mine">Golden Grove Mine</a></b>: Owned by <a href="/wiki/Normandy_Mining_Limited" class="mw-redirect" title="Normandy Mining Limited">Normandy Mining Limited</a> since 1991, Golden Grove was acquired by Newmont Australia Ltd in February 2002 when Newmont took over Normandy.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Newmont sold the mine to <a href="/wiki/Oxiana_Limited" title="Oxiana Limited">Oxiana Limited</a> in June 2005 for A$265 million.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></li>
+<li><b><a href="/w/index.php?title=Pajingo&amp;action=edit&amp;redlink=1" class="new" title="Pajingo (page does not exist)">Pajingo</a></b>: <a href="/w/index.php?title=Pajingo&amp;action=edit&amp;redlink=1" class="new" title="Pajingo (page does not exist)">Pajingo</a> (100% owned) is an underground mine located approximately 93 miles (150 kilometers) southwest of <a href="/wiki/Townsville,_Queensland" class="mw-redirect" title="Townsville, Queensland">Townsville, Queensland</a> and 45 miles (72 kilometers) south of the local township of <a href="/wiki/Charters_Towers" title="Charters Towers">Charters Towers</a>. Newmont sold the mine in late 2007; it is now owned by <a href="/wiki/Conquest_Mining" title="Conquest Mining">Conquest Mining</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></li>
+<li><b><a href="/wiki/Bronzewing_Gold_Mine" title="Bronzewing Gold Mine">Bronzewing Gold Mine</a></b>: View Resources purchased the mine in July 2004 from Newmont for A$9.0 million, a package that also included the McClure mining operation, 8 km west of Bronzewing.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></li>
+<li><b><a href="/wiki/Wiluna_Gold_Mine" title="Wiluna Gold Mine">Wiluna Gold Mine</a></b>: Also part of the Normandy acquisition, Gowit Limited, later Agincourt Resources, purchased the mine on 10 December 2003 from Newmont for shares and $3.65 million in cash.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></li>
+<li><b><a href="/wiki/Zarafshan" title="Zarafshan">Zarafshan</a></b>: Newmont was part of a joint venture gold project in Uzbekistan, the first major Western investment in the region since the breakup of the Soviet Union. A difficult place to operate, Uzbekistan expropriates the company's assets in 2006.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></li>
+<li><b><a href="/w/index.php?title=Kori_Kollo&amp;action=edit&amp;redlink=1" class="new" title="Kori Kollo (page does not exist)">Kori Kollo</a></b>:  The <a href="/w/index.php?title=Kori_Kollo&amp;action=edit&amp;redlink=1" class="new" title="Kori Kollo (page does not exist)">Kori Kollo</a> open pit mine is on a high plain in northwestern <a href="/wiki/Bolivia" title="Bolivia">Bolivia</a> near <a href="/wiki/Oruro,_Bolivia" title="Oruro, Bolivia">Oruro</a>, on government mining concessions issued to a Bolivian corporation, <a href="/w/index.php?title=Empresa_Minera_Inti_Raymi_S.A.&amp;action=edit&amp;redlink=1" class="new" title="Empresa Minera Inti Raymi S.A. (page does not exist)">Empresa Minera Inti Raymi S.A.</a> (“Inti Raymi”), in which Newmont had an 88% interest. The remaining  12% was owned by <a href="/w/index.php?title=Mrs._Beatriz_Rocabado&amp;action=edit&amp;redlink=1" class="new" title="Mrs. Beatriz Rocabado (page does not exist)">Mrs. Beatriz Rocabado</a>. <a href="/wiki/Inti_Raymi" title="Inti Raymi">Inti Raymi</a> owned and operated the mine. On July 23, 2009, Newmont announced the transfer of its interest in Empresa Minera Inti Raymi S.A., which owned the Kori Kollo gold mine and Kori Chaca gold mine, to Compania Procesadora de Minerales S.A. ("CPM"), a company controlled by Newmont's long-time Bolivian partner Jose Mercado.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></li>
+<li><b><a href="/wiki/Minahasa" class="mw-redirect" title="Minahasa">Minahasa</a></b>:  Newmont owns 80% of <a href="/wiki/Minahasa" class="mw-redirect" title="Minahasa">Minahasa</a> and the remaining 20% interest is a carried interest held by <a href="/w/index.php?title=P.T._Tanjung_Serapung&amp;action=edit&amp;redlink=1" class="new" title="P.T. Tanjung Serapung (page does not exist)">P.T. Tanjung Serapung</a>, an unrelated Indonesian company. Minahasa is located on the island of <a href="/wiki/Sulawesi" title="Sulawesi">Sulawesi</a>, approximately 1,500 miles (2,414 kilometers) northeast of Jakarta. Mining was completed in late 2001 and gold production was completed in 2004.</li>
+<li><b><a href="/wiki/Golden_Giant_Mine" title="Golden Giant Mine">Golden Giant</a></b>:  Newmont's Canadian operations previously included two underground mines. <a href="/wiki/Golden_Giant_Mine" title="Golden Giant Mine">Golden Giant</a> (100% owned) was located approximately 25 miles (40 kilometers) east of <a href="/wiki/Marathon,_Ontario" title="Marathon, Ontario">Marathon, Ontario</a>, Canada, and had been in production since 1985. Mining operations at Golden Giant were completed in December 2005 with remnant mining and milling production continuing throughout most of 2006.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></li>
+<li><b><a href="/w/index.php?title=Holloway_mine&amp;action=edit&amp;redlink=1" class="new" title="Holloway mine (page does not exist)">Holloway</a></b>:  Holloway was located approximately 35 miles (56 kilometers) east of <a href="/wiki/Matheson,_Ontario" class="mw-redirect" title="Matheson, Ontario">Matheson, Ontario</a>, and about 400 miles (644 kilometers) northeast of Golden Giant. It was in production since 1996. On November 6, 2006, Newmont completed the sale of the Holloway mine to <a href="/w/index.php?title=St._Andrews_Goldfields_Ltd.&amp;action=edit&amp;redlink=1" class="new" title="St. Andrews Goldfields Ltd. (page does not exist)">St. Andrews Goldfields Ltd.</a> resulting in a $13 pre-tax gain.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></li>
+<li><b><a href="/wiki/Empire_Mine_State_Historic_Park" title="Empire Mine State Historic Park">Empire</a>-<a href="/wiki/North_Star_Mine_and_Powerhouse" title="North Star Mine and Powerhouse">Star</a></b>: Located in <a href="/wiki/Grass_Valley,_California" title="Grass Valley, California">Grass Valley, California</a>, the mine has been closed since 1957</li>
+<li><b>New Zealand</b> and <b>Indonesia:</b> Newmont completed sale of its Waihi assets in October 2015.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> Newmont completed its sale of the Batu Hijau mine to PT Amman Mineral Internasional in 2016.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Controversies">Controversies</span><span class="mw-editsection"><a href="/w/index.php?title=Newmont_Corporation&amp;action=edit&amp;section=6" title="Edit section: Controversies" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<table class="box-POV plainlinks metadata ambox ambox-content ambox-POV" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">The <b><a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutrality</a> of this section is <a href="/wiki/Wikipedia:NPOV_dispute" title="Wikipedia:NPOV dispute">disputed</a></b>.<span class="hide-when-compact"> Relevant discussion may be found on the <a href="/wiki/Talk:Newmont_Corporation##" title="Talk:Newmont Corporation">talk page</a>. Please do not remove this message until <a href="/wiki/Template:POV#When_to_remove" title="Template:POV">conditions to do so are met</a>.</span>  <small class="date-container"><i>(<span class="date">January 2014</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><h3 class="in-block"><span id="Buyat_Bay.2C_Sulawesi.2C_Indonesia"></span><span class="mw-headline" id="Buyat_Bay,_Sulawesi,_Indonesia">Buyat Bay, Sulawesi, Indonesia</span><span class="mw-editsection"><a href="/w/index.php?title=Newmont_Corporation&amp;action=edit&amp;section=7" title="Edit section: Buyat Bay, Sulawesi, Indonesia" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>In August 2004, the Indonesian Ministry of Environment filed a civil lawsuit against Newmont,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> claiming <a href="/wiki/Tailings" title="Tailings">tailings</a> from the company's Minahasa Raya mine <a href="/wiki/Water_pollution" title="Water pollution">polluted</a> <a href="/wiki/Buyat_Bay" title="Buyat Bay">Buyat Bay</a>. The company was cleared by an Indonesian court, with the judge ruling the pollution charges could not be proven.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></p>
+<h3 class="in-block"><span id="Akyem.2C_Ghana"></span><span class="mw-headline" id="Akyem,_Ghana">Akyem, Ghana</span><span class="mw-editsection"><a href="/w/index.php?title=Newmont_Corporation&amp;action=edit&amp;section=8" title="Edit section: Akyem, Ghana" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>In 2009, a group of NGOs awarded Newmont with the <a href="/wiki/Public_Eye_on_Davos" title="Public Eye on Davos">Public Eye on Davos</a> award for its Akyem project in Ghana. Newmont said the award was issued based on several paragraphs of text which “clearly were intended to distort the facts”.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></p><p>In 2010, Newmont was fined $4.9 million by the Ghanaian Environmental Protection Agency for not preventing, reporting and investigating a cyanide spill at its mine in Ghana in an “appropriate and timely manner”.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> Newmont said it would collaborate with the agency to resolve any issues.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Newmont_Corporation&amp;action=edit&amp;section=9" title="Edit section: References" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.businesswire.com/news/home/20190221005239/en/Newmont-Announces-Full-Year-Fourth-Quarter-2018">"Newmont Announces Full Year and Fourth Quarter 2018 Results"</a>. <i>Business Wire</i>. February 21, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Business+Wire&amp;rft.atitle=Newmont+Announces+Full+Year+and+Fourth+Quarter+2018+Results&amp;rft.date=2019-02-21&amp;rft_id=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20190221005239%2Fen%2FNewmont-Announces-Full-Year-Fourth-Quarter-2018&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.newmont.com/newsroom/news-details/?newsId=da57237f-7850-44a7-9640-28cf1bf8ace1">"Newmont Announces Full Year and Fourth Quarter 2018 Results"</a>. <i>Newmont Corporation</i>. February 21, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Newmont+Corporation&amp;rft.atitle=Newmont+Announces+Full+Year+and+Fourth+Quarter+2018+Results&amp;rft.date=2019-02-21&amp;rft_id=https%3A%2F%2Fwww.newmont.com%2Fnewsroom%2Fnews-details%2F%3FnewsId%3Dda57237f-7850-44a7-9640-28cf1bf8ace1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news">Sanderson, Henry (January 6, 2020). <a rel="nofollow" class="external text" href="https://www.ft.com/content/39817144-3096-11ea-a329-0bcf87a328f2">"Newmont ups dividend by 79 per cent as gold prices surge"</a>. <i>Financial Times</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Financial+Times&amp;rft.atitle=Newmont+ups+dividend+by+79+per+cent+as+gold+prices+surge&amp;rft.date=2020-01-06&amp;rft.aulast=Sanderson&amp;rft.aufirst=Henry&amp;rft_id=https%3A%2F%2Fwww.ft.com%2Fcontent%2F39817144-3096-11ea-a329-0bcf87a328f2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.newmont.com/operations-projects/">"Operations &amp; Projects"</a>. <i>Newmont Corporation</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 27,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Newmont+Corporation&amp;rft.atitle=Operations+%26+Projects&amp;rft_id=https%3A%2F%2Fwww.newmont.com%2Foperations-projects%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Chen, Jackson (December 2, 2019). <a rel="nofollow" class="external text" href="https://www.mining.com/newmont-goldcorp-provides-five-year-outlook/">"Newmont Goldcorp provides five-year outlook"</a>. <i>Mining.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mining.com&amp;rft.atitle=Newmont+Goldcorp+provides+five-year+outlook&amp;rft.date=2019-12-02&amp;rft.aulast=Chen&amp;rft.aufirst=Jackson&amp;rft_id=https%3A%2F%2Fwww.mining.com%2Fnewmont-goldcorp-provides-five-year-outlook%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.newmont.com/newsroom/news-details/?newsId=da57237f-7850-44a7-9640-28cf1bf8ace1">"Newmont Announces Full Year and Fourth Quarter 2018 Results"</a>. <i>Newmont Corporation</i>. February 21, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Newmont+Corporation&amp;rft.atitle=Newmont+Announces+Full+Year+and+Fourth+Quarter+2018+Results&amp;rft.date=2019-02-21&amp;rft_id=https%3A%2F%2Fwww.newmont.com%2Fnewsroom%2Fnews-details%2F%3FnewsId%3Dda57237f-7850-44a7-9640-28cf1bf8ace1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.newmont.com/operations-projects/">"Operations &amp; Projects"</a>. Newmont Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">January 27,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Operations+%26+Projects&amp;rft.pub=Newmont+Corporation&amp;rft_id=https%3A%2F%2Fwww.newmont.com%2Foperations-projects%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.newmont.com/about/">"Newmont History"</a>. Newmont Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">January 27,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Newmont+History&amp;rft_id=https%3A%2F%2Fwww.newmont.com%2Fabout%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Hecla-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hecla_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Fahey, John (1990). <i>Hecla: A Century of Western Mining</i>. Seattle: University of Washington Press. pp. 77, 110–111, 152. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780295970141" title="Special:BookSources/9780295970141"><bdi>9780295970141</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Hecla%3A+A+Century+of+Western+Mining&amp;rft.place=Seattle&amp;rft.pages=77%2C+110-111%2C+152&amp;rft.pub=University+of+Washington+Press&amp;rft.date=1990&amp;rft.isbn=9780295970141&amp;rft.aulast=Fahey&amp;rft.aufirst=John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Railroad News, <i><a href="/wiki/Trains_(magazine)" title="Trains (magazine)">Trains</a></i>, September 1994, pp. 14-16</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Shah, Saeed (November 28, 2001). <a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/business/analysis-and-features/anglogold-battles-for-pole-position-in-global-gold-mining-9183178.html">"AngloGold battles for pole position in global gold mining"</a>. <i>The Independent</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Independent&amp;rft.atitle=AngloGold+battles+for+pole+position+in+global+gold+mining&amp;rft.date=2001-11-28&amp;rft.aulast=Shah&amp;rft.aufirst=Saeed&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fbusiness%2Fanalysis-and-features%2Fanglogold-battles-for-pole-position-in-global-gold-mining-9183178.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bizjournals.com/denver/stories/2008/11/10/daily32.html">"Palazzo Verdi office building opens"</a>. <i>Denver Business Journal</i>. November 12, 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Denver+Business+Journal&amp;rft.atitle=Palazzo+Verdi+office+building+opens&amp;rft.date=2008-11-12&amp;rft_id=https%3A%2F%2Fwww.bizjournals.com%2Fdenver%2Fstories%2F2008%2F11%2F10%2Fdaily32.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+<cite class="citation news">Welsch, Edward (February 3, 2011). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB10001424052748703652104576122010506390054">"Newmont to Buy Gold Miner in $2.32 Billion Deal"</a>. <i>The Wall Street Journal</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=Newmont+to+Buy+Gold+Miner+in+%242.32+Billion+Deal&amp;rft.date=2011-02-03&amp;rft.aulast=Welsch&amp;rft.aufirst=Edward&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2FSB10001424052748703652104576122010506390054&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.businesswire.com/news/home/20180222005124/en/Newmont-Announces-Full-Year-Fourth-Quarter-2017">"Newmont Announces Full Year and Fourth Quarter 2017 Results"</a>. <i>Business Wire</i>. February 22, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Business+Wire&amp;rft.atitle=Newmont+Announces+Full+Year+and+Fourth+Quarter+2017+Results&amp;rft.date=2018-02-22&amp;rft_id=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20180222005124%2Fen%2FNewmont-Announces-Full-Year-Fourth-Quarter-2017&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.businesswire.com/news/home/20180222005124/en/Newmont-Announces-Full-Year-Fourth-Quarter-2017">"Newmont Announces Full Year and Fourth Quarter 2017 Results"</a>. <i>Business Wire</i>. February 22, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Business+Wire&amp;rft.atitle=Newmont+Announces+Full+Year+and+Fourth+Quarter+2017+Results&amp;rft.date=2018-02-22&amp;rft_id=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20180222005124%2Fen%2FNewmont-Announces-Full-Year-Fourth-Quarter-2017&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.businesswire.com/news/home/20180222005124/en/Newmont-Announces-Full-Year-Fourth-Quarter-2017">"Newmont Announces Full Year and Fourth Quarter 2017 Results"</a>. <i>Business Wire</i>. February 22, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Business+Wire&amp;rft.atitle=Newmont+Announces+Full+Year+and+Fourth+Quarter+2017+Results&amp;rft.date=2018-02-22&amp;rft_id=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20180222005124%2Fen%2FNewmont-Announces-Full-Year-Fourth-Quarter-2017&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">
+<cite class="citation news">Biesheuvel, Thomas; Mazneva, Elena (January 14, 2019). <a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/articles/2019-01-14/newmont-to-buy-goldcorp-in-deal-valued-at-10-billion-jqw6a4yy">"Newmont to Buy Goldcorp in $10 Billion Deal, Creating World's Largest Gold Miner"</a>. <i>Bloomberg</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bloomberg&amp;rft.atitle=Newmont+to+Buy+Goldcorp+in+%2410+Billion+Deal%2C+Creating+World%27s+Largest+Gold+Miner&amp;rft.date=2019-01-14&amp;rft.aulast=Biesheuvel&amp;rft.aufirst=Thomas&amp;rft.au=Mazneva%2C+Elena&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2019-01-14%2Fnewmont-to-buy-goldcorp-in-deal-valued-at-10-billion-jqw6a4yy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news">Chen, Jackson (January 2, 2020). <a rel="nofollow" class="external text" href="https://www.mining.com/newmont-completes-kcgm-stake-sale-updates-outlook/">"Newmont completes KCGM stake sale, updates outlook"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Newmont+completes+KCGM+stake+sale%2C+updates+outlook&amp;rft.date=2020-01-02&amp;rft.aulast=Chen&amp;rft.aufirst=Jackson&amp;rft_id=https%3A%2F%2Fwww.mining.com%2Fnewmont-completes-kcgm-stake-sale-updates-outlook%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">
+<cite class="citation news">Robinson, Allan (January 19, 2002). <a rel="nofollow" class="external text" href="https://www.theglobeandmail.com/report-on-business/newmont-wins-normandy-bidding-war/article4129928/">"Newmont wins Normandy bidding war"</a>. <i>The Globe and Mail</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Globe+and+Mail&amp;rft.atitle=Newmont+wins+Normandy+bidding+war&amp;rft.date=2002-01-19&amp;rft.aulast=Robinson&amp;rft.aufirst=Allan&amp;rft_id=https%3A%2F%2Fwww.theglobeandmail.com%2Freport-on-business%2Fnewmont-wins-normandy-bidding-war%2Farticle4129928%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.smh.com.au/business/newmont-mining-sells-wa-mine-to-oxiana-20050625-gdlknh.html">"Newmont Mining sells WA mine to Oxiana"</a>. <i>The Sydney Morning Herald</i>. June 25, 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Sydney+Morning+Herald&amp;rft.atitle=Newmont+Mining+sells+WA+mine+to+Oxiana&amp;rft.date=2005-06-25&amp;rft_id=https%3A%2F%2Fwww.smh.com.au%2Fbusiness%2Fnewmont-mining-sells-wa-mine-to-oxiana-20050625-gdlknh.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.smh.com.au/business/nq-metals-in-talks-to-buy-newmont-mine-20071207-1fk4.html">"NQ Metals in talks to buy Newmont mine"</a>. <i>The Sydney Morning Herald</i>. December 7, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Sydney+Morning+Herald&amp;rft.atitle=NQ+Metals+in+talks+to+buy+Newmont+mine&amp;rft.date=2007-12-07&amp;rft_id=https%3A%2F%2Fwww.smh.com.au%2Fbusiness%2Fnq-metals-in-talks-to-buy-newmont-mine-20071207-1fk4.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.smh.com.au/business/view-resources-adds-golden-string-to-bow-20040616-gdj4pc.html">"View Resources adds golden string to bow"</a>. <i>The Sydney Morning Herald</i>. June 16, 2004.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Sydney+Morning+Herald&amp;rft.atitle=View+Resources+adds+golden+string+to+bow&amp;rft.date=2004-06-16&amp;rft_id=https%3A%2F%2Fwww.smh.com.au%2Fbusiness%2Fview-resources-adds-golden-string-to-bow-20040616-gdj4pc.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.smh.com.au/national/newmont-eyes-500m-cast-offs-float-20020530-gdfbnt.html">"Newmont eyes $500m cast-offs float"</a>. <i>The Sydney Morning Herald</i>. May 30, 2002.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Sydney+Morning+Herald&amp;rft.atitle=Newmont+eyes+%24500m+cast-offs+float&amp;rft.date=2002-05-30&amp;rft_id=https%3A%2F%2Fwww.smh.com.au%2Fnational%2Fnewmont-eyes-500m-cast-offs-float-20020530-gdfbnt.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-newmont-uzbekistan/gold-miner-newmont-resolves-dispute-with-uzbekistan-idUSN2336630420070723">"Gold miner Newmont resolves dispute with Uzbekistan"</a>. <i>Reuters</i>. July 23, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reuters&amp;rft.atitle=Gold+miner+Newmont+resolves+dispute+with+Uzbekistan&amp;rft.date=2007-07-23&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-newmont-uzbekistan%2Fgold-miner-newmont-resolves-dispute-with-uzbekistan-idUSN2336630420070723&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bnamericas.com/en/news/mining/Newmont_weighs_up_Kori_Chaca/">"Newmont weighs up Kori Chaca"</a>. <i>BN Americas</i>. May 20, 2003.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BN+Americas&amp;rft.atitle=Newmont+weighs+up+Kori+Chaca&amp;rft.date=2003-05-20&amp;rft_id=https%3A%2F%2Fwww.bnamericas.com%2Fen%2Fnews%2Fmining%2FNewmont_weighs_up_Kori_Chaca%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">
+<cite class="citation news">Walters, Jeff (September 21, 2017). <a rel="nofollow" class="external text" href="https://www.cbc.ca/news/canada/thunder-bay/hemlo-mine-reclamation-1.4300037">"A mine was once here: reclamation underway at Hemlo in northern Ontario"</a>. <i>CBC News</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CBC+News&amp;rft.atitle=A+mine+was+once+here%3A+reclamation+underway+at+Hemlo+in+northern+Ontario&amp;rft.date=2017-09-21&amp;rft.aulast=Walters&amp;rft.aufirst=Jeff&amp;rft_id=https%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fthunder-bay%2Fhemlo-mine-reclamation-1.4300037&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">
+<cite class="citation news">Hoffman, Andy (April 24, 2018). <a rel="nofollow" class="external text" href="https://www.theglobeandmail.com/report-on-business/st-andrew-buys-timmins-mine-from-newmont/article968837/">"St Andrew buys Timmins mine from Newmont"</a>. <i>The Globe and Mail</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Globe+and+Mail&amp;rft.atitle=St+Andrew+buys+Timmins+mine+from+Newmont&amp;rft.date=2018-04-24&amp;rft.aulast=Hoffman&amp;rft.aufirst=Andy&amp;rft_id=https%3A%2F%2Fwww.theglobeandmail.com%2Freport-on-business%2Fst-andrew-buys-timmins-mine-from-newmont%2Farticle968837%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">
+<cite class="citation news">Jamasmie, Cecilia (June 5, 2015). <a rel="nofollow" class="external text" href="https://www.mining.com/newmont-sells-new-zealand-mine-to-oceanagold-for-101-million/">"Newmont sells New Zealand mine to OceanaGold for $101 million"</a>. <i>mining.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=mining.com&amp;rft.atitle=Newmont+sells+New+Zealand+mine+to+OceanaGold+for+%24101+million&amp;rft.date=2015-06-05&amp;rft.aulast=Jamasmie&amp;rft.aufirst=Cecilia&amp;rft_id=https%3A%2F%2Fwww.mining.com%2Fnewmont-sells-new-zealand-mine-to-oceanagold-for-101-million%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation news">Mordant, Nicole (September 19, 2016). <a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-mining-gold-newmont-mining/newmonts-indonesia-mine-sale-closure-may-slip-into-fourth-quarter-ceo-idUSKCN11P2GW">"Newmont's Indonesia mine sale closure may slip into fourth quarter: CEO"</a>. <i>Reuters</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reuters&amp;rft.atitle=Newmont%27s+Indonesia+mine+sale+closure+may+slip+into+fourth+quarter%3A+CEO&amp;rft.date=2016-09-19&amp;rft.aulast=Mordant&amp;rft.aufirst=Nicole&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-mining-gold-newmont-mining%2Fnewmonts-indonesia-mine-sale-closure-may-slip-into-fourth-quarter-ceo-idUSKCN11P2GW&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation news">Casey, Michael (December 23, 2004). <a rel="nofollow" class="external text" href="http://seattletimes.nwsource.com/html/nationworld/2002128357_mining23.html">"U.S. mining firm admits polluting"</a>. <a href="/wiki/Seattle_Times" class="mw-redirect" title="Seattle Times">Seattle Times</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=U.S.+mining+firm+admits+polluting&amp;rft.date=2004-12-23&amp;rft.aulast=Casey&amp;rft.aufirst=Michael&amp;rft_id=http%3A%2F%2Fseattletimes.nwsource.com%2Fhtml%2Fnationworld%2F2002128357_mining23.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation news">Wulandari, Fitri (April 23, 2007). <a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-newmont-indonesia-idUSJAK2335120070424">"Newmont cleared in Indonesian pollution case"</a>. <i>Reuters</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reuters&amp;rft.atitle=Newmont+cleared+in+Indonesian+pollution+case&amp;rft.date=2007-04-23&amp;rft.aulast=Wulandari&amp;rft.aufirst=Fitri&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-newmont-indonesia-idUSJAK2335120070424&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.business-humanrights.org/sites/default/files/reports-and-materials/Newmont-response-to-worst-company-award-6-Feb-2009.pdf">"Newmont: A Responsible Company in Ghana"</a> <span class="cs1-format">(PDF)</span>. Business &amp; Human Rights Resource Centre. February 6, 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Newmont%3A+A+Responsible+Company+in+Ghana&amp;rft.date=2009-02-06&amp;rft_id=https%3A%2F%2Fwww.business-humanrights.org%2Fsites%2Fdefault%2Ffiles%2Freports-and-materials%2FNewmont-response-to-worst-company-award-6-Feb-2009.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.mining-technology.com/uncategorised/news75229-html/">"Newmont Fined for Cyanide Spill in Ghana"</a>. <i>Mining Technology</i>. January 25, 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mining+Technology&amp;rft.atitle=Newmont+Fined+for+Cyanide+Spill+in+Ghana&amp;rft.date=2010-01-25&amp;rft_id=https%3A%2F%2Fwww.mining-technology.com%2Funcategorised%2Fnews75229-html%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.mining-technology.com/uncategorised/news75229-html/">"Newmont Fined for Cyanide Spill in Ghana"</a>. <i>Mining Technology</i>. January 25, 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mining+Technology&amp;rft.atitle=Newmont+Fined+for+Cyanide+Spill+in+Ghana&amp;rft.date=2010-01-25&amp;rft_id=https%3A%2F%2Fwww.mining-technology.com%2Funcategorised%2Fnews75229-html%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><a href="/w/index.php?title=Newmont_Corporation&amp;action=edit&amp;section=10" title="Edit section: Further reading" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li><cite class="citation book">Morris, Jack H. (2010). <i>Going for Gold. The History of Newmont Mining Corporation</i>. University of Alabama Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-8173-1677-8" title="Special:BookSources/978-0-8173-1677-8"><bdi>978-0-8173-1677-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Going+for+Gold.+The+History+of+Newmont+Mining+Corporation&amp;rft.pub=University+of+Alabama+Press&amp;rft.date=2010&amp;rft.isbn=978-0-8173-1677-8&amp;rft.aulast=Morris&amp;rft.aufirst=Jack+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANewmont+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Newmont_Corporation&amp;action=edit&amp;section=11" title="Edit section: External links" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-7 collapsible-block" id="mf-section-7">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.newmont.com">Official website</a></span></span></li></ul><dl><dd><ul><li><a rel="nofollow" class="external text" href="https://www.newmont.com/sustainability/sustainability-reporting/">Sustainability Reporting</a></li></ul></dd></dl><ul><li>Business data for Newmont Corporation: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=NEM">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=NEM">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.bloomberg.com/quote/NEM:US">Bloomberg</a></li><li><a rel="nofollow" class="external text" href="https://www.reuters.com/finance/stocks/overview?symbol=NEM.N">Reuters</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=NEM">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Newmont_Corporation&amp;oldid=940681005">https://en.wikipedia.org/w/index.php?title=Newmont_Corporation&amp;oldid=940681005</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Newmont_Corporation"
+				data-user-name="Citation bot"
+				data-user-gender="unknown"
+				data-timestamp="1581638983">
+				<span>Last edited on 14 February 2020, at 00:09</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Newmont_Corporation&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.608","walltime":"0.874","ppvisitednodes":{"value":3852,"limit":1000000},"postexpandincludesize":{"value":87197,"limit":2097152},"templateargumentsize":{"value":4149,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":101941,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  739.628      1 -total"," 35.75%  264.389      1 Template:Infobox_company"," 33.45%  247.404      1 Template:Infobox"," 31.60%  233.722      1 Template:Reflist"," 25.55%  188.991     31 Template:Cite_news"," 10.17%   75.250      4 Template:Longitem","  9.49%   70.159      9 Template:Wikidata","  8.43%   62.347      1 Template:Br_separated_entries","  7.27%   53.746     15 Template:Flag","  6.66%   49.243      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.291","limit":"10.000"},"limitreport-memusage":{"value":7474365,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20200416051620","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Newmont Corporation","url":"https:\/\/en.wikipedia.org\/wiki\/Newmont_Corporation","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1785405","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1785405","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-10-25T04:03:52Z","dateModified":"2020-02-14T00:09:43Z","headline":"American mining company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1269"});});</script>		</body>
+		</html>
+		

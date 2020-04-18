@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Waters Corporation - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpiTvgpAAL0AAOsCn5gAAABD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Waters_Corporation","wgTitle":"Waters Corporation","wgCurRevisionId":866430099,"wgRevisionId":866430099,"wgArticleId":8269644,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Waters_Corporation","wgRelevantArticleId":8269644,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1322011","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/f/f2/Waters_logo.png"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Waters_Corporation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Waters_Corporation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Waters_Corporation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Waters_Corporation rootpage-Waters_Corporation stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Waters+Corporation" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Waters+Corporation" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Waters Corporation</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Waters_Corporation" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Waters+Corporation" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Waters_Corporation&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Waters_Corporation&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i> <a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Waters+Corporation%22">"Waters Corporation"</a> – <a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Waters+Corporation%22+-wikipedia">news</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Waters+Corporation%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Waters+Corporation%22+-wikipedia">books</a> <b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Waters+Corporation%22">scholar</a> <b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Waters+Corporation%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">May 2015</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p><b>Waters Corporation</b> is a publicly traded Analytical Laboratory instrument and software company headquartered in <a href="/wiki/Milford,_Massachusetts" title="Milford, Massachusetts">Milford, Massachusetts</a>. The company employs more than 5,000 people, with manufacturing facilities located in Milford, <a href="/wiki/Taunton,_Massachusetts" title="Taunton, Massachusetts">Taunton, Massachusetts</a>; <a href="/wiki/Wexford" title="Wexford">Wexford</a>, Ireland; <a href="/wiki/Wilmslow" title="Wilmslow">Wilmslow</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> around 13 miles south of <a href="/wiki/Manchester" title="Manchester">Manchester</a>, England; and contract manufacturing in <a href="/wiki/Singapore" title="Singapore">Singapore</a>.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Waters Corporation</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Waters_logo.png" class="image" title="Waters Corporation logo"><img alt="Waters Corporation logo" src="//upload.wikimedia.org/wikipedia/en/f/f2/Waters_logo.png" decoding="async" width="150" height="76" data-file-width="150" data-file-height="76"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:WAT">WAT</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US9418481035">US9418481035 </a><a href="https://www.wikidata.org/wiki/Q1322011?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Life_Sciences" class="mw-redirect" title="Life Sciences">Life Sciences</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1958</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Milford,_Massachusetts" title="Milford, Massachusetts">Milford</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, United States</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$2,309 million</span> (2017)<sup id="cite_ref-Waters-Corporation-Feb-2018-10-K_1-0" class="reference"><a href="#cite_note-Waters-Corporation-Feb-2018-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$641.1 million</span> (2017)<sup id="cite_ref-Waters-Corporation-Feb-2018-10-K_1-1" class="reference"><a href="#cite_note-Waters-Corporation-Feb-2018-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$20.3 million</span> (2017)<sup id="cite_ref-Waters-Corporation-Feb-2018-10-K_1-2" class="reference"><a href="#cite_note-Waters-Corporation-Feb-2018-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$5,324 million</span> (2017)<sup id="cite_ref-Waters-Corporation-Feb-2018-10-K_1-3" class="reference"><a href="#cite_note-Waters-Corporation-Feb-2018-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$2,234 million</span> (2017)<sup id="cite_ref-Waters-Corporation-Feb-2018-10-K_1-4" class="reference"><a href="#cite_note-Waters-Corporation-Feb-2018-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">~7,000<sup id="cite_ref-Waters-Corporation-Feb-2018-10-K_1-5" class="reference"><a href="#cite_note-Waters-Corporation-Feb-2018-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><a rel="nofollow" class="external text" href="http://www.waters.com">www.waters.com</a></td></tr></tbody></table><p>Waters markets to the laboratory-dependent organization in these market areas: <a href="/wiki/Liquid_chromatography" class="mw-redirect" title="Liquid chromatography">liquid chromatography</a>, <a href="/wiki/Mass_spectrometry" title="Mass spectrometry">mass spectrometry</a>, supercritical fluid chromatography, <a href="/wiki/Laboratory_informatics" title="Laboratory informatics">laboratory informatics</a>, rheometry and microcalorimetry.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Products"><span class="tocnumber">2</span> <span class="toctext">Products</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Sources_of_Revenue"><span class="tocnumber">3</span> <span class="toctext">Sources of Revenue</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Waters_Corporation&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>The business was started by James (Jim) Logan Waters as Waters Associates in an office in the basement of a police station in <a href="/wiki/Framingham,_Massachusetts" title="Framingham, Massachusetts">Framingham, Massachusetts</a>, in 1958.<sup id="cite_ref-McDonald_3-0" class="reference"><a href="#cite_note-McDonald-3">[3]</a></sup><sup id="cite_ref-Ettre_4-0" class="reference"><a href="#cite_note-Ettre-4">[4]</a></sup></p><p>Waters enrolled in the <a href="/wiki/V-12_Navy_College_Training_Program" title="V-12 Navy College Training Program">V-12 Navy College Training Program</a>, an officer training program, and graduated from <a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a> as an ensign with a B.S. degree in Physics in 1946. After stints as a university math teacher, Naval officer, project engineer, and entrepreneur, Waters formed Waters Associates in 1958. The fledgling firm’s first offices were in the rented basement of the Framingham, Mass. police station.
+During these years, Waters Associates was what is now referred to as a research boutique. Companies would contract Waters and his five employees to build one-of-a-kind instruments for various purposes. Early products included a <a href="/wiki/Boiler_feedwater" title="Boiler feedwater">boiler feedwater</a> flame <a href="/wiki/Photometer" title="Photometer">photometer</a>, a balloon <a href="/wiki/Hydrometer" title="Hydrometer">hydrometer</a>, a <a href="/wiki/Nerve_gas" class="mw-redirect" title="Nerve gas">nerve gas</a> detector, a lab <a href="/wiki/Refractometer" title="Refractometer">refractometer</a> and process control refractometers. While from its start the company had been self-financed, with proceeds from an earlier business sale, Waters opened Waters Associates to external ownership in 1962.
+</p><p>The company’s first major break came when <a href="/wiki/Dow_Chemical" class="mw-redirect" title="Dow Chemical">Dow Chemical</a> bought one of Waters’ first <a href="/wiki/Gel_permeation_chromatography" title="Gel permeation chromatography">gel permeation chromatography</a> instruments, Dow Chemical made an additional investment of $400,000. By 1979, Dow Chemical had attained nearly 25 percent ownership in Waters.
+</p><p>In 1967, the ALC 100, the first Waters LC system, was brought to market. According to Leslie S. Ettre in a review about Jim Waters, the LC system was formally introduced at the 1968 Pittsburgh Conference. It was a benchtop system equipped with a Milton Roy pump, syringe injection, and two detectors: a Waters differential refractometer and a UV detector from the Laboratory Data Control (LDC) Co.
+</p><p>In 1969, Dimitri D’Arbeloff, then president of <a href="/wiki/Millipore_Corporation" class="mw-redirect" title="Millipore Corporation">Millipore Corporation</a>, joined the corporation's board of directors. Millipore’s venture capital subsidiary made a $600,000 equity investment in Waters.
+</p><p>Waters next big break came in 1972 when Dr. Helmut Hamberger, chief post-doc for Nobel Laureate Dr. Robert Woodward of Harvard University, sought Jim Waters’ help to the first synthesis of vitamin B<sub>12</sub>. Dr. Hamberger wanted to purify the positional isomers, which were needed to give him the right compound for the final stages of the synthesis.  Working with Dr. Hamberger, the pair took two days to develop a separation, five more days to obtain larger columns to scale up the separation, and three more days to prep his material. In the end, the two had isolated and purified 200 mg of the precursor compound.<sup id="cite_ref-McDonald_3-1" class="reference"><a href="#cite_note-McDonald-3">[3]</a></sup></p><p>In 1972, Waters Associates appointed Frank Zenie president. A year later, headquarters moved from Framingham to a semi-rural 26-acre (110,000 m<sup>2</sup>) site in <a href="/wiki/Milford,_Massachusetts" title="Milford, Massachusetts">Milford, Massachusetts</a>. Waters became chairman, and continued in that role until the company merged with Millipore in 1980, and was rechristened the Waters Chromatograph Division.
+</p><p>The sought-for synergies between the two companies never materialized, however. And, in 1993, Waters returned to independence under the leadership of Chairman, President, and Chief Executive Officer Douglas A. Berthiaume. In 1997 Waters entered mass spectrometry market with acquisition of Micromass for $176 million.
+On 11 June 2012, Waters India celebrated its silver jubilee anniversary in India.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><a href="/w/index.php?title=Waters_Corporation&amp;action=edit&amp;section=2" title="Edit section: Products" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>Waters’ main product brands include: ACQUITY UPLC systems, ACQUITY <a href="/wiki/Supercritical_fluid_chromatography" title="Supercritical fluid chromatography">UPC<sup>2</sup></a> Systems, Xevo mass spectrometry systems, Synapt MS systems, Synapt HDMS systems, XTerra HPLC columns, XBridge columns, ACQUITY UPLC columns, Alliance HPLC systems, <a href="/w/index.php?title=Empower_(software)&amp;action=edit&amp;redlink=1" class="new" title="Empower (software) (page does not exist)">Empower</a> <a href="/wiki/Chromatography_software" title="Chromatography software">chromatography</a> and <a href="/wiki/MassLynx" title="MassLynx">MassLynx</a> <a href="/wiki/Mass_spectrometry_software" class="mw-redirect" title="Mass spectrometry software">mass spectrometry software</a>, Oasis sample preparation products, NuGenesis lab management system (LMS).
+</p>
+<table class="wikitable sortable"><tbody><tr><th colspan="10">Mass spectrometers
+</th></tr><tr><th>Model name
+</th>
+<th>Year
+</th>
+<th>Type
+</th>
+<th>Features
+</th></tr><tr><td>Vion IMS QTof
+</td>
+<td>2016
+</td>
+<td><a href="/wiki/Hybrid_mass_spectrometer#Quadrupole_time-of-flight" title="Hybrid mass spectrometer">Quadrupole Time-of-Flight</a>
+</td>
+<td><a href="/wiki/Ion-mobility_spectrometry%E2%80%93mass_spectrometry" title="Ion-mobility spectrometry–mass spectrometry">Ion-mobility Spectrometry</a>
+</td></tr><tr><td>Xevo G2-XS QTof
+</td>
+<td>2016
+</td>
+<td><a href="/wiki/Hybrid_mass_spectrometer#Quadrupole_time-of-flight" title="Hybrid mass spectrometer">Quadrupole Time-of-Flight</a>
+</td>
+<td>
+</td></tr><tr><td>Xevo TQ-XS
+</td>
+<td>2016
+</td>
+<td><a href="/wiki/Triple_quadrupole_mass_spectrometer" title="Triple quadrupole mass spectrometer">Triple quadrupole</a>
+</td>
+<td>
+</td></tr><tr><td>Xevo TQ-S micro
+</td>
+<td>2016
+</td>
+<td><a href="/wiki/Triple_quadrupole_mass_spectrometer" title="Triple quadrupole mass spectrometer">Triple quadrupole</a>
+</td>
+<td>
+</td></tr><tr><td>Xevo TQD
+</td>
+<td>2016
+</td>
+<td><a href="/wiki/Triple_quadrupole_mass_spectrometer" title="Triple quadrupole mass spectrometer">Triple quadrupole</a>
+</td>
+<td>
+</td></tr><tr><td>Xevo TQ-S
+</td>
+<td>2014
+</td>
+<td><a href="/wiki/Triple_quadrupole_mass_spectrometer" title="Triple quadrupole mass spectrometer">Triple quadrupole</a>
+</td>
+<td>
+</td></tr><tr><td>SYNAPT G2-Si
+</td>
+<td>2013
+</td>
+<td><a href="/wiki/Hybrid_mass_spectrometer#Quadrupole_time-of-flight" title="Hybrid mass spectrometer">Quadrupole Time-of-Flight</a>
+</td>
+<td><a href="/wiki/Ion-mobility_spectrometry%E2%80%93mass_spectrometry" title="Ion-mobility spectrometry–mass spectrometry">Ion-mobility Spectrometry</a>
+</td></tr><tr><td>SYNAPT G2-S
+</td>
+<td>2011
+</td>
+<td><a href="/wiki/Hybrid_mass_spectrometer#Quadrupole_time-of-flight" title="Hybrid mass spectrometer">Quadrupole Time-of-Flight</a>
+</td>
+<td><a href="/wiki/Ion-mobility_spectrometry%E2%80%93mass_spectrometry" title="Ion-mobility spectrometry–mass spectrometry">Ion-mobility Spectrometry</a>
+</td></tr><tr><td>TQ Detector
+</td>
+<td>2010
+</td>
+<td><a href="/wiki/Triple_quadrupole_mass_spectrometer" title="Triple quadrupole mass spectrometer">Triple quadrupole</a>
+</td>
+<td>
+</td></tr><tr><td>SYNAPT G2
+</td>
+<td>2009
+</td>
+<td><a href="/wiki/Hybrid_mass_spectrometer#Quadrupole_time-of-flight" title="Hybrid mass spectrometer">Quadrupole Time-of-Flight</a>
+</td>
+<td><a href="/wiki/Ion-mobility_spectrometry%E2%80%93mass_spectrometry" title="Ion-mobility spectrometry–mass spectrometry">Ion-mobility Spectrometry</a>
+</td></tr><tr><td>Xevo TQ MS
+</td>
+<td>2008
+</td>
+<td><a href="/wiki/Triple_quadrupole_mass_spectrometer" title="Triple quadrupole mass spectrometer">Triple quadrupole</a>
+</td>
+<td>
+</td></tr><tr><td>SYNAPT HDMS
+</td>
+<td>2006
+</td>
+<td><a href="/wiki/Hybrid_mass_spectrometer#Quadrupole_time-of-flight" title="Hybrid mass spectrometer">Quadrupole Time-of-Flight</a>
+</td>
+<td><a href="/wiki/Ion-mobility_spectrometry%E2%80%93mass_spectrometry" title="Ion-mobility spectrometry–mass spectrometry">Ion-mobility Spectrometry</a>
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Sources_of_Revenue">Sources of Revenue</span><span class="mw-editsection"><a href="/w/index.php?title=Waters_Corporation&amp;action=edit&amp;section=3" title="Edit section: Sources of Revenue" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>A majority of the company's revenue is derived from the life science market, a market comprising <a href="/wiki/Drug_discovery" title="Drug discovery">drug discovery</a>, drug development, quality control, and the emerging sciences of <a href="/wiki/Genomics" title="Genomics">genomics</a>, <a href="/wiki/Proteomics" title="Proteomics">proteomics</a> and <a href="/wiki/Biopharmaceuticals" class="mw-redirect" title="Biopharmaceuticals">biopharmaceuticals</a>. Waters products are also sold into the food and beverage, <a href="/wiki/Natural_environment" title="Natural environment">environmental</a>, fine chemical, personal care product, university, government, <a href="/wiki/Semiconductor" title="Semiconductor">semiconductor</a>, clinical and plastics markets sectors.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><a href="/w/index.php?title=Waters_Corporation&amp;action=edit&amp;section=4" title="Edit section: See also" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li><a href="/wiki/Laboratory_equipment" class="mw-redirect" title="Laboratory equipment">Laboratory equipment</a></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Waters_Corporation&amp;action=edit&amp;section=5" title="Edit section: References" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-Waters-Corporation-Feb-2018-10-K-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Waters-Corporation-Feb-2018-10-K_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Waters-Corporation-Feb-2018-10-K_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Waters-Corporation-Feb-2018-10-K_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Waters-Corporation-Feb-2018-10-K_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Waters-Corporation-Feb-2018-10-K_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Waters-Corporation-Feb-2018-10-K_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/1550/119312518060830/filing-main.htm">"Waters Corporation, Form 10-K, Annual Report, Filing Date Feb 27, 2018"</a>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">May 10,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Waters+Corporation%2C+Form+10-K%2C+Annual+Report%2C+Filing+Date+Feb+27%2C+2018&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F1550%2F119312518060830%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaters+Corporation" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.waters.com/waters/en_GB/New-Mass-Spectrometry-Facility/nav.htm?cid=134653003&amp;locale=en_GB">"New Mass Spectrometry Facility"</a>. <i>Waters: The Science of What's Possible</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Waters%3A+The+Science+of+What%27s+Possible&amp;rft.atitle=New+Mass+Spectrometry+Facility&amp;rft_id=http%3A%2F%2Fwww.waters.com%2Fwaters%2Fen_GB%2FNew-Mass-Spectrometry-Facility%2Fnav.htm%3Fcid%3D134653003%26locale%3Den_GB&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaters+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-McDonald-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-McDonald_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-McDonald_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">McDonald, Patrick D. (2008). <a rel="nofollow" class="external text" href="https://www.sciencehistory.org/distillations/article/waters-corporation-fifty-years-innovation-analysis-and-purification">"Waters Corporation: Fifty Years of Innovation in Analysis and Purification"</a>. <i>Chemical Heritage Magazine</i>. <b>26</b> (2): 32–37<span class="reference-accessdate">. Retrieved <span class="nowrap">26 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Heritage+Magazine&amp;rft.atitle=Waters+Corporation%3A+Fifty+Years+of+Innovation+in+Analysis+and+Purification&amp;rft.volume=26&amp;rft.issue=2&amp;rft.pages=32-37&amp;rft.date=2008&amp;rft.aulast=McDonald&amp;rft.aufirst=Patrick+D.&amp;rft_id=https%3A%2F%2Fwww.sciencehistory.org%2Fdistillations%2Farticle%2Fwaters-corporation-fifty-years-innovation-analysis-and-purification&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaters+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Ettre-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ettre_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ettre, Leslie S. (August 1, 2005). <a rel="nofollow" class="external text" href="http://www.lcgcmag.com/lcgc/article/articleDetail.jsp?id=172945&amp;pageID=5">"Jim Waters: The Development of GPC and the First HPLC Instruments"</a>. <i>LCGC North America</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=LCGC+North+America&amp;rft.atitle=Jim+Waters%3A+The+Development+of+GPC+and+the+First+HPLC+Instruments&amp;rft.date=2005-08-01&amp;rft.aulast=Ettre&amp;rft.aufirst=Leslie+S.&amp;rft_id=http%3A%2F%2Fwww.lcgcmag.com%2Flcgc%2Farticle%2FarticleDetail.jsp%3Fid%3D172945%26pageID%3D5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaters+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.thehindubusinessline.com/companies/article3515342.ece">"Waters India celebrates silver jubilee"</a>. <i>The Hindu Business Line</i>. 11 June 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Hindu+Business+Line&amp;rft.atitle=Waters+India+celebrates+silver+jubilee&amp;rft.date=2012-06-11&amp;rft_id=http%3A%2F%2Fwww.thehindubusinessline.com%2Fcompanies%2Farticle3515342.ece&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaters+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Waters_Corporation&amp;action=edit&amp;section=6" title="Edit section: External links" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.waters.com">Official website</a></span></span></li>
+<li>Business data for Waters Corporation: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=WAT">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=WAT">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=WAT">SEC filings</a></li></ul></div></li></ul></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Waters_Corporation&amp;oldid=866430099">https://en.wikipedia.org/w/index.php?title=Waters_Corporation&amp;oldid=866430099</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Waters_Corporation"
+				data-user-name="Monster boy1"
+				data-user-gender="unknown"
+				data-timestamp="1540887537">
+				<span>Last edited on 30 October 2018, at 08:18</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Waters_Corporation&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.486","ppvisitednodes":{"value":1298,"limit":1000000},"postexpandincludesize":{"value":32607,"limit":2097152},"templateargumentsize":{"value":2883,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17233,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  440.927      1 -total"," 38.48%  169.670      1 Template:Infobox_company"," 33.03%  145.643      1 Template:Infobox"," 28.43%  125.348      1 Template:Reflist"," 21.27%   93.797      2 Template:Cite_web"," 19.81%   87.337      1 Template:More_citations_needed"," 15.36%   67.748      1 Template:Ambox"," 14.62%   64.445      1 Template:Br_separated_entries"," 14.53%   64.074      8 Template:Wikidata","  7.20%   31.752      1 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.192","limit":"10.000"},"limitreport-memusage":{"value":5499954,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20200416064054","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Waters Corporation","url":"https:\/\/en.wikipedia.org\/wiki\/Waters_Corporation","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1322011","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1322011","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-12-04T21:39:53Z","dateModified":"2018-10-30T08:18:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f2\/Waters_logo.png","headline":"company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":127,"wgHostname":"mw1385"});});</script>		</body>
+		</html>
+		

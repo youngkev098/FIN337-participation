@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>TJX Companies - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoNRApAML8AAr30n4oAAAAN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"TJX_Companies","wgTitle":"TJX Companies","wgCurRevisionId":949049559,"wgRevisionId":949049559,"wgArticleId":1734894,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"TJX_Companies","wgRelevantArticleId":1734894,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"TJX_Companies_Inc.","wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/TJX_Companies","wgWikibaseItemId":"Q1285819","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,
+"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=TJX_Companies&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=TJX_Companies&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/TJX_Companies"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-TJX_Companies rootpage-TJX_Companies stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=TJX+Companies" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=TJX+Companies" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">TJX Companies</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/TJX_Companies" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=TJX+Companies" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=TJX_Companies&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=TJX_Companies_Inc.&amp;redirect=no" class="mw-redirect" title="TJX Companies Inc.">TJX Companies Inc.</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><p class="mw-empty-elt">
+</p>
+<div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/THX" title="THX">THX</a>.</div><p><b>The TJX Companies, Inc.</b> (abbreviated <b>TJX</b>) is an American <a href="/wiki/Multinational_corporation" title="Multinational corporation">multinational</a> <a href="/wiki/Discount_store" title="Discount store">off-price</a> <a href="/wiki/Department_store" title="Department store">department store</a> corporation, headquartered in <a href="/wiki/Framingham,_Massachusetts" title="Framingham, Massachusetts">Framingham, Massachusetts</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> It was formed as a subsidiary of <a href="/wiki/Zayre" title="Zayre">Zayre Corp.</a> in 1987, and became the legal successor to Zayre Corp. following a company reorganization in 1989.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">The TJX Companies, Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:TJXLogo.svg" class="image"><img alt="TJXLogo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TJXLogo.svg/250px-TJXLogo.svg.png" decoding="async" width="250" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TJXLogo.svg/375px-TJXLogo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TJXLogo.svg/500px-TJXLogo.svg.png 2x" data-file-width="360" data-file-height="94"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Formerly</div></th><td class="nickname" style="line-height: 1.35em;">Zayre Corp.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:TJX">TJX</a></li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US8725401090">US8725401090 </a><a href="https://www.wikidata.org/wiki/Q1285819?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Retail" title="Retail">Retail</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1987<span class="noprint">; 33 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1987</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Bernard_Cammarata" class="mw-redirect" title="Bernard Cammarata">Bernard Cammarata</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Framingham,_Massachusetts" title="Framingham, Massachusetts">Framingham, Massachusetts</a></div>, <div style="display: inline;" class="country-name">U.S.</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of locations</div></th><td style="line-height: 1.35em;">4,412 (August 3, 2019)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">Worldwide</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Carol_Meyrowitz" title="Carol Meyrowitz">Carol Meyrowitz</a><br><span style="font-size:85%;">(<a href="/wiki/Executive_Chairman" class="mw-redirect" title="Executive Chairman">Executive Chairman</a>)</span><br><a href="/w/index.php?title=Ernie_Herrman&amp;action=edit&amp;redlink=1" class="new" title="Ernie Herrman (page does not exist)">Ernie Herrman</a><br><span style="font-size:85%;">(<a href="/wiki/President_(corporate_title)" title="President (corporate title)">President</a>, <a href="/wiki/Chief_executive_officer" title="Chief executive officer">CEO</a>)<br> Scott Goldenberg (<a href="/wiki/Chief_financial_officer" title="Chief financial officer">CFO</a>)<br>Raina Avalon (CLO)<br>Mark Beyerly (<a href="/wiki/Chief_information_officer" title="Chief information officer">CIO</a>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><div class="hlist">
+<ul><li>Clothing</li>
+<li>footwear</li>
+<li>bedding</li>
+<li>food</li>
+<li>furniture</li>
+<li>jewelry</li>
+<li>beauty products</li>
+<li>housewares</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"><a href="/wiki/US%24" class="mw-redirect" title="US$">US$</a>38.937 billion (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">US$4.17 billion (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">US$3.060 billion (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">US$14.326 billion (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300">US$5.05 billion (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">270,000 (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Division_(business)" title="Division (business)">Divisions</a></th><td style="line-height: 1.35em;"><div class="hlist">
+<ul><li><a href="/wiki/HomeGoods" title="HomeGoods">HomeGoods</a></li>
+<li><a href="/w/index.php?title=Marmaxx&amp;action=edit&amp;redlink=1" class="new" title="Marmaxx (page does not exist)">Marmaxx</a></li>
+<li><a href="/w/index.php?title=TJX_Canada&amp;action=edit&amp;redlink=1" class="new" title="TJX Canada (page does not exist)">TJX Canada</a></li>
+<li><a href="/w/index.php?title=TJX_International&amp;action=edit&amp;redlink=1" class="new" title="TJX International (page does not exist)">TJX International</a></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://tjx.com">tjx<wbr></wbr>.com</a></span></td></tr><tr><td colspan="2" style="text-align:center;line-height: 1.35em;"><b>Footnotes / references</b><br><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td></tr></tbody></table><p>As of 2019<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=TJX_Companies&amp;action=edit">[update]</a></sup>, TJX operates the brands <a href="/wiki/TJ_Maxx" title="TJ Maxx">TJ Maxx</a> (in the United States) and <a href="/wiki/TK_Maxx" title="TK Maxx">TK Maxx</a> (in Europe), <a href="/wiki/Marshalls" title="Marshalls">Marshalls</a>, <a href="/wiki/HomeGoods" title="HomeGoods">HomeGoods</a>, <a href="/wiki/HomeSense" title="HomeSense">HomeSense</a>, <a href="/wiki/Sierra_(retailer)" title="Sierra (retailer)">Sierra</a> in the United States, and <a href="/wiki/Winners" title="Winners">Winners</a> in Canada. There are over 3,300 discount stores in the TJX portfolio located in more than six countries.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> TJX ranked No. 85 in the 2018 <a href="/wiki/Fortune_500" title="Fortune 500">Fortune 500</a> list of the largest United States corporations by total revenue.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Computer_systems_intrusion"><span class="tocnumber">1.1</span> <span class="toctext">Computer systems intrusion</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-3"><a href="#List_of_brands"><span class="tocnumber">2</span> <span class="toctext">List of brands</span></a>
+<ul><li class="toclevel-2 tocsection-4"><a href="#Current_brands"><span class="tocnumber">2.1</span> <span class="toctext">Current brands</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Former_brands"><span class="tocnumber">2.2</span> <span class="toctext">Former brands</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Sources"><span class="tocnumber">4</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=TJX_Companies&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>Stanley Feldberg was one of the 1956 founders of Zayre Corp. He served as president of the company until 1978, and afterwards remained on the Board of Directors, until he retired in 1989.<sup id="cite_ref-2004rep_8-0" class="reference"><a href="#cite_note-2004rep-8">[8]</a></sup>  Once the company had sold off the "Zayre" name, the company consisted of its one core remaining store brand, T.J.Maxx.<sup id="cite_ref-2004rep_8-1" class="reference"><a href="#cite_note-2004rep-8">[8]</a></sup>  The next year, in 1990, TJX expanded into an additional store brand division, and at the same time it first went international, as it entered the Canadian market by acquiring the five-store Winners chain.<sup id="cite_ref-2004rep_8-2" class="reference"><a href="#cite_note-2004rep-8">[8]</a></sup> Two years later, it launched its third brand, HomeGoods, in the United States.<sup id="cite_ref-2004rep_8-3" class="reference"><a href="#cite_note-2004rep-8">[8]</a></sup>  TJX's expansion beyond North America came in 1994, when the fourth brand division, T.K. Maxx, was founded in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, and then expanded into <a href="/wiki/Ireland" title="Ireland">Ireland</a>.<sup id="cite_ref-2004rep_8-4" class="reference"><a href="#cite_note-2004rep-8">[8]</a></sup></p><p>In 1995, TJX doubled in size when it acquired Marshalls, its fifth brand. T.J.Maxx and Marshalls later became consolidated as two brands under a single division, The Marmaxx Group.<sup id="cite_ref-2004rep_8-5" class="reference"><a href="#cite_note-2004rep-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> The following year, TJX Companies Inc. was added to the <a href="/wiki/Standard_%26_Poor" class="mw-redirect" title="Standard &amp; Poor">Standard &amp; Poor</a>'s <a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> Composite Index, which consists of 500 of the largest companies in the United States.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p><p>TJX launched a sixth brand, A.J. Wright, in 1998 in the eastern U.S. The brand went national in 2004 when it opened its first stores in California on the west coast.<sup id="cite_ref-2004rep_8-6" class="reference"><a href="#cite_note-2004rep-8">[8]</a></sup> The company's seventh brand division, HomeSense, formed in 2001, was a Canadian brand modeled after the existing US brand, HomeGoods.<sup id="cite_ref-2004rep_8-7" class="reference"><a href="#cite_note-2004rep-8">[8]</a></sup></p><p>In 2002, TJX revenue reached almost $12 billion.<sup id="cite_ref-2004rep_8-8" class="reference"><a href="#cite_note-2004rep-8">[8]</a></sup> In mid-2003, TJX acquired an eighth brand division, Bob's Stores, concentrated in <a href="/wiki/New_England" title="New England">New England</a>. In Canada, TJX began to configure some Winners and HomeSense stores side-by-side as superstores. The superstores feature open passageways between them, with dual branding. TJX's revenue in 2003 reached over $13 billion.<sup id="cite_ref-2004rep_8-9" class="reference"><a href="#cite_note-2004rep-8">[8]</a></sup> TJX began to test the side-by-side superstore model in the United States in 2004, combining some of each of the two Marmaxx brand stores with HomeGoods.  The company reached 141st position in the 2004 <a href="/wiki/Fortune_500" title="Fortune 500">Fortune 500</a> rankings, with almost $15 billion in revenue. That year was also marked by the death of retired Zayre founder Stanley Feldberg.<sup id="cite_ref-2004rep_8-10" class="reference"><a href="#cite_note-2004rep-8">[8]</a></sup></p><p>In April 2008, TJX launched the <a href="/wiki/HomeSense" title="HomeSense">HomeSense</a> brand in the UK, with six stores opening throughout May. The brand is more upmarket than its Canadian namesake. Later that year, in August, TJX sold <a href="/wiki/Bob%27s_Stores" title="Bob's Stores">Bob's Stores</a> to Versa Capital Management and Crystal Capital.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p><p>In December 2010, TJX announced that the A.J. Wright stores would be closed, cutting about 4,400 jobs, and that more than half of them would reopen under other company brands.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p><p>In July 2015, TJX acquired the Trade Secret and Home Secret off-price retail businesses from Australian company Gazal Corporation Limited. The deal was completed in December.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> In October, Ernie Herrman was named CEO of the company, replacing <a href="/wiki/Carol_Meyrowitz" title="Carol Meyrowitz">Carol Meyrowitz</a>.<sup id="cite_ref-:0_14-0" class="reference"><a href="#cite_note-:0-14">[14]</a></sup> He took over in January 2016.<sup id="cite_ref-:0_14-1" class="reference"><a href="#cite_note-:0-14">[14]</a></sup></p><p>In November 2019, TJX purchased a 25% stake in Russian retailer Familia.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Computer_systems_intrusion">Computer systems intrusion</span><span class="mw-editsection"><a href="/w/index.php?title=TJX_Companies&amp;action=edit&amp;section=2" title="Edit section: Computer systems intrusion" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>On January 17, 2007, TJX announced that it was the victim of an <a href="/wiki/Hacker_(computer_security)" class="mw-redirect" title="Hacker (computer security)">unauthorized computer systems intrusion</a>. It discovered in mid-December 2006 that its computer systems were compromised and <a href="/wiki/Identity_theft" title="Identity theft">customer data was stolen</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> The hackers accessed a system that stores data on <a href="/wiki/Credit_card" title="Credit card">credit card</a>, <a href="/wiki/Debit_card" title="Debit card">debit card</a>, <a href="/wiki/Cheque" title="Cheque">check</a>, and merchandise return transactions.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> The intrusion was kept confidential as requested by law enforcement. TJX said that it is working with <a href="/wiki/General_Dynamics" title="General Dynamics">General Dynamics</a>, <a href="/wiki/IBM" title="IBM">IBM</a> and <a href="/wiki/Deloitte" title="Deloitte">Deloitte</a> to upgrade computer security.
+</p><p>By the end of March 2007, the number of affected customers had reached 45.7 million<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> and has prompted <a href="/wiki/Credit_bureau" title="Credit bureau">credit bureaus</a> to seek legislation requiring retailers to be responsible for compromised customer information saved in their systems. In addition to credit card numbers, personal information such as <a href="/wiki/Social_security_number" class="mw-redirect" title="Social security number">social security numbers</a> and <a href="/wiki/Driver%27s_license" title="Driver's license">driver's license</a> numbers from 451,000 customers were downloaded by the intruders. The breach was possible due to a non-secure <a href="/wiki/Wireless_network" title="Wireless network">wireless network</a> in one of the stores.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p><p>Eleven men have been charged in the theft, and one (Damon Patrick Toey) has pleaded guilty to numerous charges related to the breach.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> One man, <a href="/wiki/Jonathan_James" title="Jonathan James">Jonathan James</a>, professed his innocence and later committed suicide, apparently out of the belief that he was going to be indicted.<sup id="cite_ref-wired1_21-0" class="reference"><a href="#cite_note-wired1-21">[21]</a></sup></p><p>The alleged ringleader <a href="/wiki/Albert_Gonzalez" title="Albert Gonzalez">Albert Gonzalez</a> was indicted in August 2009 with attacking <a href="/wiki/Heartland_Payment_Systems" title="Heartland Payment Systems">Heartland Payment Systems</a> in which 130 million records were compromised.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="List_of_brands">List of brands</span><span class="mw-editsection"><a href="/w/index.php?title=TJX_Companies&amp;action=edit&amp;section=3" title="Edit section: List of brands" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<h3 class="in-block"><span class="mw-headline" id="Current_brands">Current brands</span><span class="mw-editsection"><a href="/w/index.php?title=TJX_Companies&amp;action=edit&amp;section=4" title="Edit section: Current brands" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<table class="wikitable sortable"><tbody><tr><th rowspan="2">Brand
+</th>
+<th rowspan="2">Year founded
+</th>
+<th rowspan="2">Year acquired by TJX
+</th>
+<th rowspan="2"><abbr title="Number">No.</abbr> of locations
+</th>
+<th colspan="9">Countries in operation<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></th></tr><tr><th>Australia
+</th>
+<th>Austria
+</th>
+<th>Canada
+</th>
+<th>Germany
+</th>
+<th>Ireland
+</th>
+<th>Netherlands
+</th>
+<th>Poland
+</th>
+<th>United Kingdom
+</th>
+<th>United States
+</th></tr><tr><td><a href="/wiki/HomeGoods" title="HomeGoods">HomeGoods</a>
+</td>
+<td>1992
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">N/A
+</td>
+<td>783
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes
+</td></tr><tr><td><a href="/wiki/HomeSense" title="HomeSense">HomeSense</a>
+</td>
+<td>2001
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">N/A
+</td>
+<td>227
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes
+</td></tr><tr><td><a href="/wiki/Marshalls" title="Marshalls">Marshalls</a>
+</td>
+<td>1956
+</td>
+<td>1995
+</td>
+<td>1,198
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes
+</td></tr><tr><td><a href="/wiki/Sierra_(retailer)" title="Sierra (retailer)">Sierra</a>
+</td>
+<td>1986
+</td>
+<td>2012
+</td>
+<td>39
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes
+</td></tr><tr><td><a href="/wiki/TJ_Maxx" title="TJ Maxx">TJ Maxx</a>
+</td>
+<td>1976
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">N/A
+</td>
+<td>1,260
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes
+</td></tr><tr><td><a href="/wiki/TK_Maxx" title="TK Maxx">TK Maxx</a>
+</td>
+<td>1994
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">N/A
+</td>
+<td>631
+</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No
+</td></tr><tr><td><a href="/wiki/Winners" title="Winners">Winners</a>
+</td>
+<td>1982
+</td>
+<td>1990
+</td>
+<td>274
+</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="Former_brands">Former brands</span><span class="mw-editsection"><a href="/w/index.php?title=TJX_Companies&amp;action=edit&amp;section=5" title="Edit section: Former brands" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<table class="wikitable sortable"><tbody><tr><th style="width:15%;">Brand
+</th>
+<th style="width:12%;">Year founded
+</th>
+<th style="width:12%;">Year defunct
+</th>
+<th style="width:12%;">Year acquired by TJX
+</th>
+<th style="width:12%;">Year divested by TJX
+</th>
+<th class="unsortable">Notes
+</th></tr><tr><td><a href="/wiki/AJWright" title="AJWright">AJWright</a>
+</td>
+<td>1998
+</td>
+<td>2011
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">N/A
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">N/A
+</td>
+<td>Stores liquidated or converted to other TJX brands
+</td></tr><tr><td><a href="/wiki/BJ%27s_Wholesale_Club" title="BJ's Wholesale Club">BJ's Wholesale Club</a>
+</td>
+<td>1984
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">N/A
+</td>
+<td>1988
+</td>
+<td>1989
+</td>
+<td>BJ's and HomeClub spun off from TJX to form Waban
+</td></tr><tr><td><a href="/wiki/Bob%27s_Stores" title="Bob's Stores">Bob's Stores</a>
+</td>
+<td>1954
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">N/A
+</td>
+<td>2003
+</td>
+<td>2008
+</td>
+<td>Sold to Versa Capital Management and Crystal Capital
+</td></tr><tr><td><a href="/wiki/HomeBase" title="HomeBase">Home Club</a>
+</td>
+<td>1983
+</td>
+<td>2002
+</td>
+<td>1985
+</td>
+<td>1989
+</td>
+<td>BJ's and HomeClub spun off from TJX to form Waban
+</td></tr><tr><td><span data-sort-value="Maxx, The !"><a href="/wiki/The_Maxx_(retail_store)" title="The Maxx (retail store)">The Maxx</a></span>
+</td>
+<td>2006
+</td>
+<td>2006
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">N/A
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">N/A
+</td>
+<td>
+</td></tr><tr><td>StyleSense
+</td>
+<td>2008
+</td>
+<td>2012
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">N/A
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">N/A
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Trade_Secret_(company)" title="Trade Secret (company)">Trade Secret</a>
+</td>
+<td>1992
+</td>
+<td>2017
+</td>
+<td>2015
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">N/A
+</td>
+<td>Stores converted to TK Maxx
+</td></tr><tr><td><a href="/wiki/Zayre" title="Zayre">Zayre</a>
+</td>
+<td>1956
+</td>
+<td>1990
+</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">N/A
+</td>
+<td>1988
+</td>
+<td>Sold to <a href="/wiki/Ames_(store)" class="mw-redirect" title="Ames (store)">Ames Department Stores</a>, which facilitated the Waban spin-off and TJX reorganization
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=TJX_Companies&amp;action=edit&amp;section=6" title="Edit section: References" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<div class="reflist columns references-column-width" style="-moz-column-width: 33em; -webkit-column-width: 33em; column-width: 33em; list-style-type: decimal;">
+<ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><i>The Wall Street Journal</i>, <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/tjx-chairman-co-founder-bernard-cammarata-to-retire-1429715862">"TJX Chairman, Founder Bernard Cammarata to Retire"</a>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Fortune 500, <a rel="nofollow" class="external text" href="http://beta.fortune.com/fortune500/tjx-89">TJX</a>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Annual Report 2018 <a rel="nofollow" class="external autonumber" href="https://www.tjx.com/docs/default-source/annual-reports/tjx-2018-annual-report.pdf">[1]</a>.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Form 10-Q (Q1 2019) <a rel="nofollow" class="external autonumber" href="https://investor.tjx.com/static-files/8ac51cd2-5bf2-4758-9652-f3f89acacccc">[2]</a>.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://investor.tjx.com/phoenix.zhtml?c=118215&amp;p=irol-newsArticle&amp;ID=903202">"The TJX Companies, Inc. Announces CEO Succession Plans; Carol Meyrowitz to Be Named CEO"</a> (Press release). TJX. <a href="/wiki/Business_Wire" title="Business Wire">Business Wire</a>. September 7, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">November 13,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+TJX+Companies%2C+Inc.+Announces+CEO+Succession+Plans%3B+Carol+Meyrowitz+to+Be+Named+CEO&amp;rft.pub=TJX&amp;rft.date=2006-09-07&amp;rft_id=http%3A%2F%2Finvestor.tjx.com%2Fphoenix.zhtml%3Fc%3D118215%26p%3Dirol-newsArticle%26ID%3D903202&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.forbes.com/profile/carol-meyrowitz/">"Carol Meyrowitz"</a>. <i>Forbes</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 10,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Forbes&amp;rft.atitle=Carol+Meyrowitz&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fprofile%2Fcarol-meyrowitz%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/list/">"Fortune 500 Companies 2018: Who Made the List"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 10,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Fortune+500+Companies+2018%3A+Who+Made+the+List&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Flist%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-2004rep-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-2004rep_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2004rep_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-2004rep_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-2004rep_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-2004rep_8-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-2004rep_8-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-2004rep_8-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-2004rep_8-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-2004rep_8-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-2004rep_8-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-2004rep_8-10"><sup><i><b>k</b></i></sup></a></span> <span class="reference-text">2004 Annual Report</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news">Gilpin, Kenneth N. (October 17, 1995). <a rel="nofollow" class="external text" href="https://www.nytimes.com/1995/10/17/business/tjx-will-buy-marshalls-chain-from-melville.html">"TJX Will Buy Marshalls Chain From Melville"</a>. <i>The New York Times</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0362-4331">0362-4331</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 8,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=TJX+Will+Buy+Marshalls+Chain+From+Melville&amp;rft.date=1995-10-17&amp;rft.issn=0362-4331&amp;rft.aulast=Gilpin&amp;rft.aufirst=Kenneth+N.&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F1995%2F10%2F17%2Fbusiness%2Ftjx-will-buy-marshalls-chain-from-melville.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Sam Stovall, <i>Sector Investing</i>, McGraw Hill, 1996, Appendix A, The S&amp;P 500 Composite Index, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-07-052239-1" title="Special:BookSources/0-07-052239-1">0-07-052239-1</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tradingmarkets.com/.site/news/Stock%20News/1836096/">"TJX Sells Bob's Stores Chain To Versa Capital, Crystal Capital, Terms Undisclosed"</a>. <i>Financial Wire</i>. Financial Wire. August 20, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">September 22,</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Financial+Wire&amp;rft.atitle=TJX+Sells+Bob%27s+Stores+Chain+To+Versa+Capital%2C+Crystal+Capital%2C+Terms+Undisclosed&amp;rft.date=2008-08-20&amp;rft_id=http%3A%2F%2Fwww.tradingmarkets.com%2F.site%2Fnews%2FStock%2520News%2F1836096%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/2010-12-10/tjx-plans-to-convert-or-shut-its-a-j-wright-stores-cut-4-400-positions.html">"TJX Plans to Close A.J. Wright Stores, Cut 4,400 Jobs"</a>. <i>Bloomberg.com</i>. US Retail News. December 10, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">December 10,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bloomberg.com&amp;rft.atitle=TJX+Plans+to+Close+A.J.+Wright+Stores%2C+Cut+4%2C400+Jobs.&amp;rft.date=2010-12-10&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2F2010-12-10%2Ftjx-plans-to-convert-or-shut-its-a-j-wright-stores-cut-4-400-positions.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bostonglobe.com/business/2015/07/29/tjx-acquires-australian-retailer-trade-secret/BwfkLcoPsr3kbHV8P7DupK/story.html">"TJX acquires Australian retailer Trade Secret - The Boston Globe"</a>. <i>BostonGlobe.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 8,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BostonGlobe.com&amp;rft.atitle=TJX+acquires+Australian+retailer+Trade+Secret+-+The+Boston+Globe&amp;rft_id=https%3A%2F%2Fwww.bostonglobe.com%2Fbusiness%2F2015%2F07%2F29%2Ftjx-acquires-australian-retailer-trade-secret%2FBwfkLcoPsr3kbHV8P7DupK%2Fstory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-:0-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Convey, Eric (October 7, 2015). <a rel="nofollow" class="external text" href="https://www.bizjournals.com/boston/news/2015/10/07/meet-ernie-hermann-the-new-ceo-of-t-j-maxx-parent.html">"Meet Ernie Herrman, the new CEO of T.J. Maxx-parent TJX Cos"</a>. <i>Boston Business Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 2,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Boston+Business+Journal&amp;rft.atitle=Meet+Ernie+Herrman%2C+the+new+CEO+of+T.J.+Maxx-parent+TJX+Cos.&amp;rft.date=2015-10-07&amp;rft.aulast=Convey&amp;rft.aufirst=Eric&amp;rft_id=https%3A%2F%2Fwww.bizjournals.com%2Fboston%2Fnews%2F2015%2F10%2F07%2Fmeet-ernie-hermann-the-new-ceo-of-t-j-maxx-parent.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Carlock, Catherine (November 20, 2019). <a rel="nofollow" class="external text" href="https://www.bizjournals.com/boston/news/2019/11/20/tjx-buys-225m-stake-in-russian-discount-retailer.html">"TJX buys $225M stake in Russian discount retailer"</a>. <i>Boston Business Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 2,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Boston+Business+Journal&amp;rft.atitle=TJX+buys+%24225M+stake+in+Russian+discount+retailer&amp;rft.date=2019-11-20&amp;rft.aulast=Carlock&amp;rft.aufirst=Catherine&amp;rft_id=https%3A%2F%2Fwww.bizjournals.com%2Fboston%2Fnews%2F2019%2F11%2F20%2Ftjx-buys-225m-stake-in-russian-discount-retailer.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.businesswire.com/news/tjx/20070117005971/en">"THE TJX COMPANIES, INC. VICTIMIZED BY COMPUTER SYSTEMS INTRUSION; PROVIDES INFORMATION TO HELP PROTECT CUSTOMERS"</a> (Press release). The TJX Companies, Inc. January 17, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">December 12,</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=THE+TJX+COMPANIES%2C+INC.+VICTIMIZED+BY+COMPUTER+SYSTEMS+INTRUSION%3B+PROVIDES+INFORMATION+TO+HELP+PROTECT+CUSTOMERS&amp;rft.pub=The+TJX+Companies%2C+Inc.&amp;rft.date=2007-01-17&amp;rft_id=http%3A%2F%2Fwww.businesswire.com%2Fnews%2Ftjx%2F20070117005971%2Fen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news">Lavoie, Denise (January 18, 2007). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070123191651/https://news.yahoo.com/s/ap/20070118/ap_on_hi_te/tjx_computer_hacker">"Credit cos. watchful after TJX breach"</a>. Archived from <a rel="nofollow" class="external text" href="https://news.yahoo.com/s/ap/20070118/ap_on_hi_te/tjx_computer_hacker">the original</a> on January 23, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">January 18,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Credit+cos.+watchful+after+TJX+breach&amp;rft.date=2007-01-18&amp;rft.aulast=Lavoie&amp;rft.aufirst=Denise&amp;rft_id=https%3A%2F%2Fnews.yahoo.com%2Fs%2Fap%2F20070118%2Fap_on_hi_te%2Ftjx_computer_hacker&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.myfoxtwincities.com/myfox/pages/Home/Detail?contentId=2804836&amp;version=3&amp;locale=EN-US&amp;layoutCode=TSTY&amp;pageId=1.1.1">Largest Customer Info Breach Grows</a>. MyFox Twin Cities, March 29, 2007.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">Pereira, Joseph (May 4, 2007). <a rel="nofollow" class="external text" href="http://online.wsj.com/article/SB117824446226991797.html">"Breaking the code: How Credit-Card Data Went Out Wireless Door"</a>. Wall Street Journal.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Breaking+the+code%3A+How+Credit-Card+Data+Went+Out+Wireless+Door&amp;rft.pub=Wall+Street+Journal&amp;rft.date=2007-05-04&amp;rft.aulast=Pereira&amp;rft.aufirst=Joseph&amp;rft_id=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB117824446226991797.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">Tomsho, Rob (September 12, 2008). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB122122769957627957">"Hacker Pleads Guilty In TJX Security Breach"</a>. <i>Wall Street Journal</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0099-9660">0099-9660</a><span class="reference-accessdate">. Retrieved <span class="nowrap">September 12,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wall+Street+Journal&amp;rft.atitle=Hacker+Pleads+Guilty+In+TJX+Security+Breach&amp;rft.date=2008-09-12&amp;rft.issn=0099-9660&amp;rft.aulast=Tomsho&amp;rft.aufirst=Rob&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2FSB122122769957627957&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-wired1-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-wired1_21-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a href="/wiki/Kevin_Poulsen" title="Kevin Poulsen">Poulsen, Kevin</a> (July 9, 2009). <a rel="nofollow" class="external text" href="https://www.wired.com/threatlevel/2009/07/hacker/">"Former Teen Hacker's Suicide Linked to TJX Probe"</a>. <a href="/wiki/Wired_(magazine)" title="Wired (magazine)">Wired</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 29,</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Former+Teen+Hacker%E2%80%99s+Suicide+Linked+to+TJX+Probe&amp;rft.date=2009-07-09&amp;rft.aulast=Poulsen&amp;rft.aufirst=Kevin&amp;rft_id=https%3A%2F%2Fwww.wired.com%2Fthreatlevel%2F2009%2F07%2Fhacker%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.wired.com/threatlevel/2009/08/tjx-hacker-charged-with-heartland/TJX">"Hacker Charged With Heartland, Hannaford Breaches - wired.com - August 17, 2009"</a>. <i>wired.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 21,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=wired.com&amp;rft.atitle=Hacker+Charged+With+Heartland%2C+Hannaford+Breaches+-+wired.com+-+August+17%2C+2009&amp;rft_id=https%3A%2F%2Fwww.wired.com%2Fthreatlevel%2F2009%2F08%2Ftjx-hacker-charged-with-heartland%2FTJX&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">Shaw, Hollie. <a rel="nofollow" class="external text" href="http://www.financialpost.com/open+Marshalls+Canada/3300522/story.html">"TJX to open Marshalls in Canada"</a>. <i>Financial Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 21,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Financial+Post&amp;rft.atitle=TJX+to+open+Marshalls+in+Canada&amp;rft.aulast=Shaw&amp;rft.aufirst=Hollie&amp;rft_id=http%3A%2F%2Fwww.financialpost.com%2Fopen%2BMarshalls%2BCanada%2F3300522%2Fstory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><a href="/w/index.php?title=TJX_Companies&amp;action=edit&amp;section=7" title="Edit section: Sources" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul><li><span><noscript><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/32px-Flag_of_Maryland.svg.png" decoding="async" width="32" height="21" class="noviewer thumbborder" data-file-width="750" data-file-height="500"></noscript><span class="lazy-image-placeholder" style="width: 32px;height: 21px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/32px-Flag_of_Maryland.svg.png" data-alt="flag" data-width="32" data-height="21" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/48px-Flag_of_Maryland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/64px-Flag_of_Maryland.svg.png 2x" data-class="noviewer thumbborder"> </span></span><span><a href="/wiki/Portal:Maryland" title="Portal:Maryland">Maryland portal</a></span></li>
+<li><span><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" decoding="async" width="28" height="28" class="noviewer" data-file-width="512" data-file-height="512"></noscript><span class="lazy-image-placeholder" style="width: 28px;height: 28px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" data-alt="" data-width="28" data-height="28" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-class="noviewer"> </span></span><span><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li></ul></div>
+<ul><li><cite class="citation news">Yahoo! Inc. (January 29, 2007). <a rel="nofollow" class="external text" href="https://finance.yahoo.com/q/pr?s=TJX">"TJX: Profile for TJX Cos Inc"</a>. Yahoo! Finance<span class="reference-accessdate">. Retrieved <span class="nowrap">January 29,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=TJX%3A+Profile+for+TJX+Cos+Inc.&amp;rft.date=2007-01-29&amp;rft.au=Yahoo%21+Inc.&amp;rft_id=https%3A%2F%2Ffinance.yahoo.com%2Fq%2Fpr%3Fs%3DTJX&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATJX+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=TJX_Companies&amp;action=edit&amp;section=8" title="Edit section: External links" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li>Business data for TJX Companies: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=TJX">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=TJX">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=TJX">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=TJX_Companies&amp;oldid=949049559">https://en.wikipedia.org/w/index.php?title=TJX_Companies&amp;oldid=949049559</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/TJX_Companies"
+				data-user-name="Followjavis129"
+				data-user-gender="unknown"
+				data-timestamp="1586001768">
+				<span>Last edited on 4 April 2020, at 12:02</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=TJX_Companies&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.468","walltime":"0.662","ppvisitednodes":{"value":2894,"limit":1000000},"postexpandincludesize":{"value":68714,"limit":2097152},"templateargumentsize":{"value":5075,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":59342,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  594.531      1 -total"," 39.62%  235.525      1 Template:Reflist"," 31.11%  184.985      1 Template:Infobox_company"," 28.86%  171.569      1 Template:Infobox"," 14.11%   83.915      2 Template:Cite_press_release","  9.77%   58.109      7 Template:Cite_news","  9.48%   56.386      7 Template:Wikidata","  9.30%   55.315      1 Template:Br_separated_entries","  6.81%   40.494      1 Template:Use_mdy_dates","  5.90%   35.082      8 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.220","limit":"10.000"},"limitreport-memusage":{"value":6864467,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20200417133431","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"TJX Companies","url":"https:\/\/en.wikipedia.org\/wiki\/TJX_Companies","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1285819","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1285819","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-13T18:59:46Z","dateModified":"2020-04-04T12:02:48Z","headline":"American multinational off-price department store corporation"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1349"});});</script>		</body>
+		</html>
+		

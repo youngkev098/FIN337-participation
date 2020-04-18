@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Allegion - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoJuQpAMMIAAkLq2EQAAACD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Allegion","wgTitle":"Allegion","wgCurRevisionId":951467835,"wgRevisionId":951467835,"wgArticleId":41198757,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Allegion","wgRelevantArticleId":41198757,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1
+,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q16738121","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":
+"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/e/e4/Allegion_logo.png"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Allegion&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Allegion&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Allegion"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Allegion rootpage-Allegion stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Allegion" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Allegion" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Allegion</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Allegion" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Allegion" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Allegion&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><p><b>Allegion plc</b> is a provider based in Dublin of security products, for homes and businesses. It comprises thirty one global brands, including <a href="/wiki/Costruzioni_Italiane_Serrature_e_Affini" title="Costruzioni Italiane Serrature e Affini">CISA</a>, Interflex, LCN, Schlage and Von Duprin. The $US2 billion company sells products in more than 130 countries across the world. David D. Petratis has been announced Chairman of the Board, Chief Executive Officer and President of the Company, in August 2013.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">Allegion plc</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Allegion_logo.png" class="image"><img alt="Allegion logo.png" src="//upload.wikimedia.org/wikipedia/en/e/e4/Allegion_logo.png" decoding="async" width="117" height="98" data-file-width="117" data-file-height="98"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:ALLE">ALLE</a></li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=IE00BFRT3W74">IE00BFRT3W74 </a><a href="https://www.wikidata.org/wiki/Q16738121?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Security" title="Security">Security</a>, <a href="/wiki/Access_control" title="Access control">Access control</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1908</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Dublin" title="Dublin">Dublin</a></div>, <div style="display: inline;" class="country-name">Ireland</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">10,000 (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://allegion.com">allegion<wbr></wbr>.com</a></span></td></tr></tbody></table><p>Allegion spun off from <a href="/wiki/Ingersoll_Rand" title="Ingersoll Rand">Ingersoll Rand</a> Plc on 1 December 2013, and became a standalone, publicly traded company. This placed Allegion on the S&amp;P 500, where it replaced <a href="/wiki/JC_Penney" class="mw-redirect" title="JC Penney">JC Penney</a>.<sup id="cite_ref-S&amp;P_2-0" class="reference"><a href="#cite_note-S&amp;P-2">[2]</a></sup></p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Mergers_and_subsidiaries"><span class="tocnumber">1</span> <span class="toctext">Mergers and subsidiaries</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Ownership"><span class="tocnumber">2</span> <span class="toctext">Ownership</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Locations"><span class="tocnumber">3</span> <span class="toctext">Locations</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Brands_and_subsidiaries"><span class="tocnumber">4</span> <span class="toctext">Brands and subsidiaries</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Ventures"><span class="tocnumber">5</span> <span class="toctext">Ventures</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Mergers_and_subsidiaries">Mergers and subsidiaries</span><span class="mw-editsection"><a href="/w/index.php?title=Allegion&amp;action=edit&amp;section=1" title="Edit section: Mergers and subsidiaries" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>On 8 January 2014, Allegion acquired certain assets of Schlage Lock de Colombia S.A., the second largest mechanical lock manufacturer in <a href="/wiki/Colombia" title="Colombia">Colombia</a>, with revenues of US$12 million. The acquisition gave Allegion a 45,000 square foot integrated plant in <a href="/wiki/Bogot%C3%A1" title="Bogotá">Bogota, Colombia</a>, and approximately 350 new employees.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Ownership">Ownership</span><span class="mw-editsection"><a href="/w/index.php?title=Allegion&amp;action=edit&amp;section=2" title="Edit section: Ownership" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>As of 2017, Allegion shares are mainly held by institutional investors (<a href="/wiki/T._Rowe_Price" title="T. Rowe Price">T. Rowe Price</a>, <a href="/wiki/Vanguard_group" class="mw-redirect" title="Vanguard group">Vanguard Group</a>, <a href="/wiki/JPMorgan_Chase" title="JPMorgan Chase">JPMorgan Chase</a> and others)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Locations">Locations</span><span class="mw-editsection"><a href="/w/index.php?title=Allegion&amp;action=edit&amp;section=3" title="Edit section: Locations" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>Allegion plc is headquartered in <a href="/wiki/Dublin" title="Dublin">Dublin</a>, <a href="/wiki/Ireland" title="Ireland">Ireland</a>. Its regional offices for the Americas is in <a href="/wiki/Carmel,_Indiana" title="Carmel, Indiana">Carmel, Indiana</a>, United States. Its European regional offices are in <a href="/wiki/Faenza" title="Faenza">Faenza</a>, <a href="/wiki/Italy" title="Italy">Italy</a>, and the company's Asia headquarters are in Tower B of City Center of Shanghai in <a href="/wiki/Shanghai" title="Shanghai">Shanghai</a>, <a href="/wiki/People%27s_Republic_of_China" class="mw-redirect" title="People's Republic of China">China</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Brands_and_subsidiaries">Brands and subsidiaries</span><span class="mw-editsection"><a href="/w/index.php?title=Allegion&amp;action=edit&amp;section=4" title="Edit section: Brands and subsidiaries" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li>AD Systems</li>
+<li>Austral Lock</li>
+<li>AXA</li>
+<li>Bricard</li>
+<li>Brio</li>
+<li>Briton</li>
+<li><a href="/wiki/Costruzioni_Italiane_Serrature_e_Affini" title="Costruzioni Italiane Serrature e Affini">CISA</a></li>
+<li>Dexter by Schlage</li>
+<li>Falcon</li>
+<li>FSH</li>
+<li>Gainsborough</li>
+<li>Glynn-Johnson</li>
+<li>Inafer</li>
+<li>Interflex</li>
+<li>ISONAS</li>
+<li>ITO Kilit</li>
+<li>Ives</li>
+<li><a href="/wiki/Kryptonite_lock" title="Kryptonite lock">Kryptonite</a></li>
+<li>Legge</li>
+<li>LCN</li>
+<li>Milre</li>
+<li>Normbau</li>
+<li>QMI</li>
+<li>Republic Doors &amp; Frames</li>
+<li>PegaSys</li>
+<li><a href="/wiki/Schlage" title="Schlage">Schlage</a></li>
+<li>Simons Voss Technologies</li>
+<li>Steelcraft</li>
+<li>Technical Glass Products (TGP)</li>
+<li>Trelock</li>
+<li><a href="/wiki/Von_Duprin" title="Von Duprin">Von Duprin</a></li>
+<li>Zero International</li></ul></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Ventures">Ventures</span><span class="mw-editsection"><a href="/w/index.php?title=Allegion&amp;action=edit&amp;section=5" title="Edit section: Ventures" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<p>In March 2018, the company launched the venture capital fund, <i>Allegion Ventures</i>. The aim is to invest in early stage companies in the sectors security and smart access. The initial funding was $50 million.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The following companies are part of the Allegion Ventures Programme:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<ul><li>Conneqtech (GPS Tracking)</li>
+<li>iDevices (Smart home devices, exited 2017)</li>
+<li>Nuki (Smart lock)</li>
+<li>Yonomi (Cloud technology)</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Allegion&amp;action=edit&amp;section=6" title="Edit section: References" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bloomberg.com/research/stocks/people/person.asp?personId=10159546&amp;privcapId=241782379">"David D. Petratis: Executive Profile &amp; Biography"</a>. <i>Bloomberg</i>. Bloomberg Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">11 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bloomberg&amp;rft.atitle=David+D.+Petratis%3A+Executive+Profile+%26+Biography&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fresearch%2Fstocks%2Fpeople%2Fperson.asp%3FpersonId%3D10159546%26privcapId%3D241782379&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllegion" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-S&amp;P-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-S&amp;P_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Taborek, Nick (22 November 2013). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131201010017/http://www.bloomberg.com/news/2013-11-22/j-c-penney-will-be-replaced-by-allegion-in-s-p-500-after-drop.html">"J.C. Penney Will Be Replaced by Allegion in S&amp;P 500 After Drop"</a>. <i>bloomberg.com</i>. Archived from <a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/2013-11-22/j-c-penney-will-be-replaced-by-allegion-in-s-p-500-after-drop.html">the original</a> on 1 December 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">19 February</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=bloomberg.com&amp;rft.atitle=J.C.+Penney+Will+Be+Replaced+by+Allegion+in+S%26P+500+After+Drop&amp;rft.date=2013-11-22&amp;rft.au=Taborek%2C+Nick&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2F2013-11-22%2Fj-c-penney-will-be-replaced-by-allegion-in-s-p-500-after-drop.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllegion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140429080211/http://investor.allegion.com/releasedetail.cfm?releaseid=817818">"Allegion acquires Schlage Lock de Colombia"</a>. Allegion.com. Archived from <a rel="nofollow" class="external text" href="http://investor.allegion.com/releasedetail.cfm?releaseid=817818">the original</a> on 2014-04-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allegion+acquires+Schlage+Lock+de+Colombia&amp;rft.pub=Allegion.com&amp;rft_id=http%3A%2F%2Finvestor.allegion.com%2Freleasedetail.cfm%3Freleaseid%3D817818&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllegion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nasdaq.com/symbol/alle/ownership-summary">Allegion plc Ownership Summary</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.allegion.com/corp/en/home/contact-us.html">"Allegion.com: Contact Us"</a>. Allegion.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Allegion.com%3A+Contact+Us&amp;rft.pub=Allegion.com&amp;rft_id=http%3A%2F%2Fwww.allegion.com%2Fcorp%2Fen%2Fhome%2Fcontact-us.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAllegion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.allegion.com/corp/en/news/2018/allegion-ventures-launch.html">https://www.allegion.com/corp/en/news/2018/allegion-ventures-launch.html</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.allegion.com/corp/en/ventures/ventures-companies.html">https://www.allegion.com/corp/en/ventures/ventures-companies.html</a></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Allegion&amp;action=edit&amp;section=7" title="Edit section: External links" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-7 collapsible-block" id="mf-section-7">
+<ul><li><a rel="nofollow" class="external text" href="http://www.allegion.com">Company Homepage</a></li>
+<li>Business data for Allegion: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=ALLE">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=ALLE">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=ALLE">SEC filings</a></li></ul></div></li></ul><p><br></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Irish_clover.jpg" class="image"><noscript><img alt="Stub icon 1" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Irish_clover.jpg/20px-Irish_clover.jpg" decoding="async" width="20" height="20" data-file-width="304" data-file-height="302"></noscript><span class="lazy-image-placeholder" style="width: 20px;height: 20px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Irish_clover.jpg/20px-Irish_clover.jpg" data-alt="Stub icon 1" data-width="20" data-height="20"> </span></a> <noscript><img alt="Stub icon 2" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Factory_EU.svg/20px-Factory_EU.svg.png" decoding="async" width="20" height="16" data-file-width="464" data-file-height="366"></noscript><span class="lazy-image-placeholder" style="width: 20px;height: 16px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Factory_EU.svg/20px-Factory_EU.svg.png" data-alt="Stub icon 2" data-width="20" data-height="16" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Factory_EU.svg/30px-Factory_EU.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Factory_EU.svg/40px-Factory_EU.svg.png 2x"> </span></td><td><i>This Irish company article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Allegion&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Ireland-company-stub" title="Template:Ireland-company-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ireland-company-stub" title="Template talk:Ireland-company-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Ireland-company-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Allegion&amp;oldid=951467835">https://en.wikipedia.org/w/index.php?title=Allegion&amp;oldid=951467835</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Allegion"
+				data-user-name="86.6.127.37"
+				data-user-gender="unknown"
+				data-timestamp="1587115108">
+				<span>Last edited on 17 April 2020, at 09:18</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Allegion&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.276","walltime":"0.393","ppvisitednodes":{"value":1154,"limit":1000000},"postexpandincludesize":{"value":20175,"limit":2097152},"templateargumentsize":{"value":1071,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13701,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  360.450      1 -total"," 53.50%  192.830      1 Template:Infobox_company"," 49.31%  177.749      1 Template:Infobox"," 35.40%  127.616      1 Template:Reflist"," 31.35%  113.008      4 Template:Cite_web"," 20.36%   73.395     12 Template:Wikidata"," 17.04%   61.434      1 Template:Br_separated_entries","  7.66%   27.611      1 Template:Ubl","  4.41%   15.886      1 Template:URL","  4.22%   15.195      1 Template:Ireland-company-stub"]},"scribunto":{"limitreport-timeusage":{"value":"0.159","limit":"10.000"},"limitreport-memusage":{"value":3337127,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20200417120204","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Allegion","url":"https:\/\/en.wikipedia.org\/wiki\/Allegion","sameAs":"http:\/\/www.wikidata.org\/entity\/Q16738121","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q16738121","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-11-26T15:56:29Z","dateModified":"2020-04-17T09:18:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/e\/e4\/Allegion_logo.png"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1352"});});</script>		</body>
+		</html>
+		

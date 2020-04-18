@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>PulteGroup - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpioRQpAIIIAAnW2uHcAAACU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"PulteGroup","wgTitle":"PulteGroup","wgCurRevisionId":942746356,"wgRevisionId":942746356,"wgArticleId":4178852,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"PulteGroup","wgRelevantArticleId":4178852,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":
+!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7259716","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready",
+"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=PulteGroup&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=PulteGroup&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/PulteGroup"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-PulteGroup rootpage-PulteGroup stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=PulteGroup" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=PulteGroup" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">PulteGroup</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/PulteGroup" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=PulteGroup" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=PulteGroup&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><p><b>PulteGroup, Inc.</b> (previously known as <b>Pulte Homes</b>) is a <a href="/wiki/Home_construction" title="Home construction">home construction</a> company based in <a href="/wiki/Atlanta,_Georgia" class="mw-redirect" title="Atlanta, Georgia">Atlanta, Georgia</a>, United States. The company is the 3rd largest home construction company in the United States based on the number of homes closed.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">PulteGroup, Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:PulteGroup_logo.svg" class="image"><img alt="PulteGroup logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PulteGroup_logo.svg/220px-PulteGroup_logo.svg.png" decoding="async" width="220" height="66" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PulteGroup_logo.svg/330px-PulteGroup_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PulteGroup_logo.svg/440px-PulteGroup_logo.svg.png 2x" data-file-width="512" data-file-height="154"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public company</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:PHM">PHM</a><br><a href="/wiki/S%26P_500_Index" title="S&amp;P 500 Index">S&amp;P 500 Index</a> component</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US7458671010">US7458671010 </a><a href="https://www.wikidata.org/wiki/Q7259716?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Home_construction" title="Home construction">Home construction</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1956<span class="noprint">; 64 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1956</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Bill_Pulte" title="Bill Pulte">Bill Pulte</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Atlanta,_Georgia" class="mw-redirect" title="Atlanta, Georgia">Atlanta, Georgia</a>, United States</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><span class="nowrap"> Ryan R. Marshall, <a href="/wiki/CEO" class="mw-redirect" title="CEO">CEO</a> &amp; <a href="/wiki/President_(corporate_title)" title="President (corporate title)">President</a><br>G. Robert T. O'Shaughnessy, <a href="/wiki/CFO" class="mw-redirect" title="CFO">CFO</a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Production output</div></th><td style="line-height: 1.35em;">23,107 new home deliveries</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $10.188 billion (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $100.463 billion (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $10.172 billion (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> 4.817 billion (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">5,086 (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://pultegroupinc.com">pultegroupinc<wbr></wbr>.com</a></span></td></tr><tr><td colspan="2" style="text-align:center;line-height: 1.35em;"><b>Footnotes / references</b><br><sup id="cite_ref-10K_1-0" class="reference"><a href="#cite_note-10K-1">[1]</a></sup></td></tr></tbody></table><p>The company operates in 44 markets in 23 states.<sup id="cite_ref-10K_1-1" class="reference"><a href="#cite_note-10K-1">[1]</a></sup> It is ranked 312th on the <a href="/wiki/Fortune_500" title="Fortune 500">Fortune 500</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Criticism"><span class="tocnumber">2</span> <span class="toctext">Criticism</span></a>
+<ul><li class="toclevel-2 tocsection-3"><a href="#Assault_of_union_workers_by_another_employee"><span class="tocnumber">2.1</span> <span class="toctext">Assault of union workers by another employee</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Construction_defects_reported_in_customer_survey"><span class="tocnumber">2.2</span> <span class="toctext">Construction defects reported in customer survey</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Dismissed_lawsuit_regarding_propping_up_sale_prices"><span class="tocnumber">2.3</span> <span class="toctext">Dismissed lawsuit regarding propping up sale prices</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=PulteGroup&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>In 1950, when he was 18 years old, <a href="/wiki/Bill_Pulte" title="Bill Pulte">Bill Pulte</a> began building and selling houses.<sup id="cite_ref-obit_4-0" class="reference"><a href="#cite_note-obit-4">[4]</a></sup> In 1956, the company was formed.<sup id="cite_ref-10K_1-2" class="reference"><a href="#cite_note-10K-1">[1]</a></sup> It was based in <a href="/wiki/Bloomfield_Hills,_Michigan" title="Bloomfield Hills, Michigan">Bloomfield Hills, Michigan</a>.<sup id="cite_ref-obit_4-1" class="reference"><a href="#cite_note-obit-4">[4]</a></sup> In 1972, the company became a <a href="/wiki/Public_company" title="Public company">public company</a> via an <a href="/wiki/Initial_public_offering" title="Initial public offering">initial public offering</a>. In 1998, PulteGroup acquired Divosta for an estimated $150 million.<sup id="cite_ref-divosta_5-0" class="reference"><a href="#cite_note-divosta-5">[5]</a></sup> The company also acquired Radnor Homes.<sup id="cite_ref-radnor_6-0" class="reference"><a href="#cite_note-radnor-6">[6]</a></sup> In 2001, the company acquired <a href="/wiki/Del_E._Webb_Construction_Company" title="Del E. Webb Construction Company">Del E. Webb Construction Company</a>, founded by <a href="/wiki/Del_Webb" title="Del Webb">Del Webb</a>, for $1.8 billion.<sup id="cite_ref-web_7-0" class="reference"><a href="#cite_note-web-7">[7]</a></sup> In 2003, the company acquired Sivage-Thomas Homes.<sup id="cite_ref-sivage_8-0" class="reference"><a href="#cite_note-sivage-8">[8]</a></sup> In 2009, Pulte Group acquired Centex for $1.3 billion in stock.<sup id="cite_ref-centex_9-0" class="reference"><a href="#cite_note-centex-9">[9]</a></sup><sup id="cite_ref-centexx_10-0" class="reference"><a href="#cite_note-centexx-10">[10]</a></sup> The company moved its headquarters to Atlanta, Georgia in 2014.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> In 2016, Ryan Marshall became president and CEO of the company.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> In April 2019, the company acquired the homebuilding operations of American West Homes for $150 million.<sup id="cite_ref-awh_13-0" class="reference"><a href="#cite_note-awh-13">[13]</a></sup></p>
+<style data-mw-deduplicate="TemplateStyles:r935768785">.mw-parser-output table.clade{border-spacing:0;margin:0;font-size:100%;line-height:100%;border-collapse:separate;width:auto}.mw-parser-output table.clade table.clade{width:100%}.mw-parser-output table.clade td.clade-label{width:0.7em;padding:0 0.15em;vertical-align:bottom;text-align:center;border-left:1px solid;border-bottom:1px solid;white-space:nowrap}.mw-parser-output table.clade td.clade-fixed-width{overflow:hidden;text-overflow:ellipsis}.mw-parser-output table.clade td.clade-fixed-width:hover{overflow:visible}.mw-parser-output table.clade td.clade-label.first{border-left:none;border-right:none}.mw-parser-output table.clade td.clade-label.reverse{border-left:none;border-right:1px solid}.mw-parser-output table.clade td.clade-slabel{padding:0 0.15em;vertical-align:top;text-align:center;border-left:1px solid;white-space:nowrap}.mw-parser-output table.clade td.clade-slabel:hover{overflow:visible}.mw-parser-output table.clade td.clade-slabel.last{border-left:none;border-right:none}.mw-parser-output table.clade td.clade-slabel.reverse{border-left:none;border-right:1px solid}.mw-parser-output table.clade td.clade-bar{vertical-align:middle;text-align:left;padding:0 0.5em;position:relative}.mw-parser-output table.clade td.clade-bar.reverse{text-align:right;position:relative}.mw-parser-output table.clade td.clade-leaf{border:0;padding:0;text-align:left}.mw-parser-output table.clade td.clade-leafR{border:0;padding:0;text-align:right}.mw-parser-output table.clade td.clade-leaf.reverse{text-align:right}.mw-parser-output table.clade:hover span.linkA{background-color:yellow}.mw-parser-output table.clade:hover span.linkB{background-color:green}</style><table class="clade" style="font-size:90%;line-height:30%"><tbody><tr><td class="clade-label first" style="border-left:none;border-right:none;border-bottom:0px solid;"><div style="display:inline;" class="nowrap"><span style="font-size:100%;border:1.5px black; border-style:solid solid solid;"> <b>PulteGroup</b> </span></div>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first">Company formed by <a href="/wiki/Bill_Pulte" title="Bill Pulte">Bill Pulte</a> <b>1956</b>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td></td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Initial public offering <br><small><b>1972</b></small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Divosta<sup id="cite_ref-divosta_5-1" class="reference"><a href="#cite_note-divosta-5">[5]</a></sup><br><small><b>1998</b></small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Radnor Homes<sup id="cite_ref-radnor_6-1" class="reference"><a href="#cite_note-radnor-6">[6]</a></sup><br><small><b>1998</b></small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Del Webb Construction Company<sup id="cite_ref-web_7-1" class="reference"><a href="#cite_note-web-7">[7]</a></sup><br><small><b>2001</b></small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Sivage-Thomas Homes<sup id="cite_ref-sivage_8-1" class="reference"><a href="#cite_note-sivage-8">[8]</a></sup><br><small><b>2003</b></small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Centex<sup id="cite_ref-centex_9-1" class="reference"><a href="#cite_note-centex-9">[9]</a></sup><sup id="cite_ref-centexx_10-1" class="reference"><a href="#cite_note-centexx-10">[10]</a></sup><br><small><b>2009</b></small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>John Wieland Homes and Neighborhoods<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><br><small><b>2016</b></small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>American West Homes<sup id="cite_ref-awh_13-1" class="reference"><a href="#cite_note-awh-13">[13]</a></sup><br><small><b>2019</b></small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last" style="border-right:none;border-left:none;"> 
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><a href="/w/index.php?title=PulteGroup&amp;action=edit&amp;section=2" title="Edit section: Criticism" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<h3 class="in-block"><span class="mw-headline" id="Assault_of_union_workers_by_another_employee">Assault of union workers by another employee</span><span class="mw-editsection"><a href="/w/index.php?title=PulteGroup&amp;action=edit&amp;section=3" title="Edit section: Assault of union workers by another employee" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>In May 2007, during a protest at a Pulte Homes construction site, an employee used a water truck owned by the company to repeatedly assault a group of union workers picketing outside a home with a high pressure water hose.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Construction_defects_reported_in_customer_survey">Construction defects reported in customer survey</span><span class="mw-editsection"><a href="/w/index.php?title=PulteGroup&amp;action=edit&amp;section=4" title="Edit section: Construction defects reported in customer survey" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>In 2008, Building Justice, a project of the <a href="/wiki/International_Union_of_Painters_and_Allied_Trades" title="International Union of Painters and Allied Trades">International Union of Painters and Allied Trades</a> and the <a href="/wiki/Sheet_Metal_Workers%27_International_Association" title="Sheet Metal Workers' International Association">Sheet Metal Workers' International Association</a>, with support from the <a href="/wiki/AFL%E2%80%93CIO" title="AFL–CIO">AFL–CIO</a>, published a survey titled "Poorly Built by Pulte, No Different at Del Webb: Homeowner Dissatisfaction in Arizona, Nevada and California", in which 63% of the 872 Pulte and Del Webb home owners in Arizona, Nevada, and California that responded to the survey reported construction defects in their homes.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Dismissed_lawsuit_regarding_propping_up_sale_prices">Dismissed lawsuit regarding propping up sale prices</span><span class="mw-editsection"><a href="/w/index.php?title=PulteGroup&amp;action=edit&amp;section=5" title="Edit section: Dismissed lawsuit regarding propping up sale prices" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>In October 2009, a <a href="/wiki/Class_action" title="Class action">class action</a> lawsuit was filed by <a href="/wiki/Steve_Berman_(lawyer)" title="Steve Berman (lawyer)">Steve Berman</a> accusing the company of artificially propping up house sales prices and contributing to the <a href="/wiki/United_States_housing_bubble" title="United States housing bubble">United States housing bubble</a>. The lawsuit was dismissed by the court.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=PulteGroup&amp;action=edit&amp;section=6" title="Edit section: References" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<div class="reflist columns references-column-width" style="list-style-type: decimal;">
+<ol class="references"><li id="cite_note-10K-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-10K_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-10K_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-10K_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/ix?doc=/Archives/edgar/data/822416/000082241619000008/a201810-k.htm">"PULTEGROUP, INC. 2018 Form 10-K Annual Report"</a>. <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">U.S. Securities and Exchange Commission</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PULTEGROUP%2C+INC.+2018+Form+10-K+Annual+Report&amp;rft.pub=U.S.+Securities+and+Exchange+Commission&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2Fix%3Fdoc%3D%2FArchives%2Fedgar%2Fdata%2F822416%2F000082241619000008%2Fa201810-k.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.builderonline.com/builder-100/builder-100-list/2019/">"The Top 100"</a>. <a href="/wiki/Hanley_Wood" title="Hanley Wood">Hanley Wood</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Top+100&amp;rft.pub=Hanley+Wood&amp;rft_id=https%3A%2F%2Fwww.builderonline.com%2Fbuilder-100%2Fbuilder-100-list%2F2019%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/pultegroup/">"Fortune 500: PulteGroup"</a>. <a href="/wiki/Fortune_(magazine)" title="Fortune (magazine)">Fortune</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fortune+500%3A+PulteGroup&amp;rft.pub=Fortune&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Fpultegroup%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-obit-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-obit_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-obit_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Szczesny, Joseph (February 16, 2010). <a rel="nofollow" class="external text" href="http://www.theoaklandpress.com/article/OP/20100216/NEWS/302169971">"Founder of Pulte Homes resigns after 60 years"</a>. <i><a href="/wiki/The_Oakland_Press" title="The Oakland Press">The Oakland Press</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Oakland+Press&amp;rft.atitle=Founder+of+Pulte+Homes+resigns+after+60+years&amp;rft.date=2010-02-16&amp;rft.aulast=Szczesny&amp;rft.aufirst=Joseph&amp;rft_id=http%3A%2F%2Fwww.theoaklandpress.com%2Farticle%2FOP%2F20100216%2FNEWS%2F302169971&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-divosta-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-divosta_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-divosta_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.nytimes.com/1998/07/02/business/company-news-pulte-expands-southeast-operations-by-buying-divosta.html">"Pulte Expands Southeast Operations By Buying Divosta"</a>. <a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a>. <a href="/wiki/Bloomberg_News" title="Bloomberg News">Bloomberg News</a>. July 2, 1998.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Pulte+Expands+Southeast+Operations+By+Buying+Divosta&amp;rft.date=1998-07-02&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F1998%2F07%2F02%2Fbusiness%2Fcompany-news-pulte-expands-southeast-operations-by-buying-divosta.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-radnor-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-radnor_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-radnor_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bizjournals.com/nashville/stories/1998/05/25/daily6.html">"Radnor Homes sold"</a>. <i><a href="/wiki/American_City_Business_Journals" title="American City Business Journals">American City Business Journals</a></i>. May 27, 1998.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+City+Business+Journals&amp;rft.atitle=Radnor+Homes+sold&amp;rft.date=1998-05-27&amp;rft_id=https%3A%2F%2Fwww.bizjournals.com%2Fnashville%2Fstories%2F1998%2F05%2F25%2Fdaily6.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-web-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-web_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-web_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Umberger, Mary (May 2, 2001). <a rel="nofollow" class="external text" href="http://articles.chicagotribune.com/2001-05-02/business/0105020188_1_del-webb-group-pulte-homes-active-adult-retirement-segment">"Pulte Homes to buy rival Del Webb for $1.8 billion"</a>. Chicago Tribune.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Pulte+Homes+to+buy+rival+Del+Webb+for+%241.8+billion&amp;rft.date=2001-05-02&amp;rft.aulast=Umberger&amp;rft.aufirst=Mary&amp;rft_id=http%3A%2F%2Farticles.chicagotribune.com%2F2001-05-02%2Fbusiness%2F0105020188_1_del-webb-group-pulte-homes-active-adult-retirement-segment&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-sivage-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-sivage_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sivage_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bizjournals.com/phoenix/stories/2003/06/30/daily34.html">"Pulte buys Sivage-Thomas Homes"</a>. <i><a href="/wiki/American_City_Business_Journals" title="American City Business Journals">American City Business Journals</a></i>. July 2, 2003.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+City+Business+Journals&amp;rft.atitle=Pulte+buys+Sivage-Thomas+Homes&amp;rft.date=2003-07-02&amp;rft_id=https%3A%2F%2Fwww.bizjournals.com%2Fphoenix%2Fstories%2F2003%2F06%2F30%2Fdaily34.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-centex-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-centex_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-centex_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.businesswire.com/news/home/20090818006090/en/Pulte-Homes-Centex-Shareholders-Overwhelmingly-Approve-Merger">"Pulte Homes and Centex Shareholders Overwhelmingly Approve Merger"</a> (Press release). <a href="/wiki/Business_Wire" title="Business Wire">Business Wire</a>. August 18, 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pulte+Homes+and+Centex+Shareholders+Overwhelmingly+Approve+Merger&amp;rft.pub=Business+Wire&amp;rft.date=2009-08-18&amp;rft_id=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20090818006090%2Fen%2FPulte-Homes-Centex-Shareholders-Overwhelmingly-Approve-Merger&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-centexx-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-centexx_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-centexx_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Clifford, Catherine (April 8, 2009). <a rel="nofollow" class="external text" href="https://money.cnn.com/2009/04/08/real_estate/pulte_centex/index.htm">"Pulte Homes in $3.1 billion merger"</a>. <i><a href="/wiki/CNN" title="CNN">CNN</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNN&amp;rft.atitle=Pulte+Homes+in+%243.1+billion+merger&amp;rft.date=2009-04-08&amp;rft.aulast=Clifford&amp;rft.aufirst=Catherine&amp;rft_id=https%3A%2F%2Fmoney.cnn.com%2F2009%2F04%2F08%2Freal_estate%2Fpulte_centex%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Whelan, Robbie (May 30, 2013). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB10001424127887324682204578515793718798314">"PulteGroup to Move Headquarters to Atlanta"</a>. <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=PulteGroup+to+Move+Headquarters+to+Atlanta&amp;rft.date=2013-05-30&amp;rft.aulast=Whelan&amp;rft.aufirst=Robbie&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2FSB10001424127887324682204578515793718798314&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Krantz, Matt (September 8, 2016). <a rel="nofollow" class="external text" href="https://www.usatoday.com/story/money/markets/2016/09/08/pultegroup-appoints-ryan-marshall-new-ceo/90002040/">"PulteGroup appoints Ryan Marshall as new CEO"</a>. <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=USA+Today&amp;rft.atitle=PulteGroup+appoints+Ryan+Marshall+as+new+CEO&amp;rft.date=2016-09-08&amp;rft.aulast=Krantz&amp;rft.aufirst=Matt&amp;rft_id=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fmoney%2Fmarkets%2F2016%2F09%2F08%2Fpultegroup-appoints-ryan-marshall-new-ceo%2F90002040%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-awh-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-awh_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-awh_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Segall, Eli (April 29, 2019). <a rel="nofollow" class="external text" href="https://www.reviewjournal.com/business/housing/las-vegas-developer-larry-canarelli-sells-homebuilding-operations-1652379/">"Las Vegas developer Larry Canarelli sells homebuilding operations"</a>. <i><a href="/wiki/Las_Vegas_Review-Journal" title="Las Vegas Review-Journal">Las Vegas Review-Journal</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Las+Vegas+Review-Journal&amp;rft.atitle=Las+Vegas+developer+Larry+Canarelli+sells+homebuilding+operations&amp;rft.date=2019-04-29&amp;rft.aulast=Segall&amp;rft.aufirst=Eli&amp;rft_id=https%3A%2F%2Fwww.reviewjournal.com%2Fbusiness%2Fhousing%2Flas-vegas-developer-larry-canarelli-sells-homebuilding-operations-1652379%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/pultegroup-completes-acquisition-of-certain-homebuilding-assets-of-john-wieland-homes-and-neighborhoods-300204957.html">"PulteGroup Completes Acquisition of Certain Homebuilding Assets of John Wieland Homes and Neighborhoods"</a> (Press release). <a href="/wiki/PRNewswire" class="mw-redirect" title="PRNewswire">PRNewswire</a>. January 15, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PulteGroup+Completes+Acquisition+of+Certain+Homebuilding+Assets+of+John+Wieland+Homes+and+Neighborhoods&amp;rft.pub=PRNewswire&amp;rft.date=2016-01-15&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fpultegroup-completes-acquisition-of-certain-homebuilding-assets-of-john-wieland-homes-and-neighborhoods-300204957.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">Taylor, Ed (June 22, 2007). <a rel="nofollow" class="external text" href="http://www.eastvalleytribune.com/news/union-says-its-picketers-get-doused-at-pulte-construction-sites/article_1f32856f-711f-56d5-80c3-bfb2ba85f732.html">"Union says its picketers get doused at Pulte construction sites"</a>. <i><a href="/wiki/East_Valley_Tribune" title="East Valley Tribune">East Valley Tribune</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=East+Valley+Tribune&amp;rft.atitle=Union+says+its+picketers+get+doused+at+Pulte+construction+sites&amp;rft.date=2007-06-22&amp;rft.aulast=Taylor&amp;rft.aufirst=Ed&amp;rft_id=http%3A%2F%2Fwww.eastvalleytribune.com%2Fnews%2Funion-says-its-picketers-get-doused-at-pulte-construction-sites%2Farticle_1f32856f-711f-56d5-80c3-bfb2ba85f732.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news">Olick, Diana (June 22, 2007). <a rel="nofollow" class="external text" href="https://www.cnbc.com/id/19375113">"YouTube Video: Pulte Soaks Workers As Tempers Flare"</a>. <i><a href="/wiki/CNBC" title="CNBC">CNBC</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNBC&amp;rft.atitle=YouTube+Video%3A+Pulte+Soaks+Workers+As+Tempers+Flare&amp;rft.date=2007-06-22&amp;rft.aulast=Olick&amp;rft.aufirst=Diana&amp;rft_id=https%3A%2F%2Fwww.cnbc.com%2Fid%2F19375113&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.kold.com/story/7773678/homeowners-survey-reports-construction-defects-in-pulte-and-del-webb-built-homes/">"Homeowners Survey Reports Construction Defects In Pulte And Del Webb Built Homes"</a>. <i><a href="/wiki/KOLD-TV" title="KOLD-TV">KOLD-TV</a></i>. January 25, 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=KOLD-TV&amp;rft.atitle=Homeowners+Survey+Reports+Construction+Defects+In+Pulte+And+Del+Webb+Built+Homes&amp;rft.date=2008-01-25&amp;rft_id=https%3A%2F%2Fwww.kold.com%2Fstory%2F7773678%2Fhomeowners-survey-reports-construction-defects-in-pulte-and-del-webb-built-homes%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news">Caulfield, John (February 23, 2010). <a rel="nofollow" class="external text" href="https://www.builderonline.com/building/regulation-policy/california-court-dismisses-class-action-lawsuit-against-pulte-homes_o">"California court dismisses class action lawsuit against Pulte Homes"</a>. <i><a href="/wiki/Hanley_Wood" title="Hanley Wood">Hanley Wood</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hanley+Wood&amp;rft.atitle=California+court+dismisses+class+action+lawsuit+against+Pulte+Homes&amp;rft.date=2010-02-23&amp;rft.aulast=Caulfield&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fwww.builderonline.com%2Fbuilding%2Fregulation-policy%2Fcalifornia-court-dismisses-class-action-lawsuit-against-pulte-homes_o&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulteGroup" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=PulteGroup&amp;action=edit&amp;section=7" title="Edit section: External links" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li>Business data for PulteGroup, Inc.: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=PHM">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=PHM">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.bloomberg.com/quote/PHM:US">Bloomberg</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=PHM">SEC filings</a></li></ul></div></li></ul></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=PulteGroup&amp;oldid=942746356">https://en.wikipedia.org/w/index.php?title=PulteGroup&amp;oldid=942746356</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/PulteGroup"
+				data-user-name="178.98.55.196"
+				data-user-gender="unknown"
+				data-timestamp="1582732691">
+				<span>Last edited on 26 February 2020, at 15:58</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=PulteGroup&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.472","walltime":"0.567","ppvisitednodes":{"value":1992,"limit":1000000},"postexpandincludesize":{"value":102864,"limit":2097152},"templateargumentsize":{"value":2345,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":91644,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["133.24%  670.720     20 Template:Clade","100.00%  503.389      1 -total"," 39.09%  196.780      1 Template:Reflist"," 38.31%  192.868      1 Template:Infobox_company"," 35.43%  178.368      1 Template:Infobox"," 21.91%  110.292      3 Template:Cite_web"," 11.14%   56.084     13 Template:Cite_news"," 10.49%   52.793      8 Template:Wikidata"," 10.19%   51.300      1 Template:Br_separated_entries","  2.80%   14.108      1 Template:URL"]},"scribunto":{"limitreport-timeusage":{"value":"0.262","limit":"10.000"},"limitreport-memusage":{"value":5854709,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20200416063950","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"PulteGroup","url":"https:\/\/en.wikipedia.org\/wiki\/PulteGroup","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7259716","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7259716","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-02-24T02:58:11Z","dateModified":"2020-02-26T15:58:11Z","headline":"homebuilding company founded in 1950"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1411"});});</script>		</body>
+		</html>
+		

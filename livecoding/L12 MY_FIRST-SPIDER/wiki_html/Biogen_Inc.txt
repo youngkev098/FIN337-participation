@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Biogen - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"Xpi8PwpAIEIAALptZuYAAAAD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Biogen","wgTitle":"Biogen","wgCurRevisionId":950765929,"wgRevisionId":950765929,"wgArticleId":380532,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Biogen","wgRelevantArticleId":380532,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Biogen_Inc.","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Biogen","wgCoordinates":{"lat":42.366194444444446,"lon":-71.08699999999999},"wgWikibaseItemId":"Q864338","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,
+"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Biogen.svg/1200px-Biogen.svg.png"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Biogen&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Biogen&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Biogen"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Biogen rootpage-Biogen stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Biogen" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Biogen" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Biogen</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Biogen" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Biogen" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Biogen&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Biogen_Inc.&amp;redirect=no" class="mw-redirect" title="Biogen Inc.">Biogen Inc.</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<p><b>Biogen Inc.</b> is an American <a href="/wiki/Multinational_corporation" title="Multinational corporation">multinational</a> <a href="/wiki/Biotechnology" title="Biotechnology">biotechnology</a> company based in <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a>, specializing in the discovery, development, and delivery of therapies for the treatment of <a href="/wiki/Neurological_diseases" class="mw-redirect" title="Neurological diseases">neurological diseases</a> to patients worldwide.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Biogen Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Biogen.svg" class="image"><img alt="Biogen.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/b/bc/Biogen.svg/220px-Biogen.svg.png" decoding="async" width="220" height="77" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/bc/Biogen.svg/330px-Biogen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/bc/Biogen.svg/440px-Biogen.svg.png 2x" data-file-width="304" data-file-height="106"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Formerly</div></th><td class="nickname" style="line-height: 1.35em;">Biogen Idec Inc. (2003–2015)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a>: <a rel="nofollow" class="external text" href="https://www.nasdaq.com/symbol/biib">BIIB</a></li><li><a href="/wiki/NASDAQ-100" title="NASDAQ-100">NASDAQ-100</a> component</li><li><a href="/wiki/S%26P_100" title="S&amp;P 100">S&amp;P 100</a> component</li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US09062X1037">US09062X1037 </a><a href="https://www.wikidata.org/wiki/Q864338?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Biotechnology" title="Biotechnology">Biotechnology</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1978 (from merger)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founders</th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Kenneth_Murray_(biologist)" title="Kenneth Murray (biologist)">Kenneth Murray</a><br><a href="/wiki/Phillip_Allen_Sharp" title="Phillip Allen Sharp">Phillip Allen Sharp</a><br><a href="/wiki/Walter_Gilbert" title="Walter Gilbert">Walter Gilbert</a><br>Heinz Schaller <br><a href="/wiki/Charles_Weissmann" title="Charles Weissmann">Charles Weissmann</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a>, U.S.</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Stelios Papadopoulos <span style="font-size:85%;">(<a href="/wiki/Chairman" class="mw-redirect" title="Chairman">Chairman</a>)</span> <br> Michel Vounatsos <span style="font-size:85%;">(<a href="/wiki/CEO" class="mw-redirect" title="CEO">CEO</a>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a href="/wiki/Interferon_beta-1a#Avonex" title="Interferon beta-1a">Avonex</a>, <a href="/wiki/4-Aminopyridine" title="4-Aminopyridine">Fampyra</a>, <a href="/wiki/Interferon_beta-1a#Plegridy" title="Interferon beta-1a">Plegridy</a>, <a href="/wiki/Dimethyl_fumarate" title="Dimethyl fumarate">Tecfidera</a>, <a href="/wiki/Natalizumab" title="Natalizumab">Tysabri</a>, <a href="/wiki/Nusinersen" title="Nusinersen">Spinraza</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap"><a href="/wiki/United_States_dollar" title="United States dollar">US$</a>12.274 billion</span> <span style="font-size:85%;">(2017)</span><sup id="cite_ref-10-K_1-0" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$5.344 billion</span> <span style="font-size:85%;">(2017)</span><sup id="cite_ref-10-K_1-1" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$2.539 billion</span> <span style="font-size:85%;">(2017)</span><sup id="cite_ref-10-K_1-2" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$23.653 billion</span> <span style="font-size:85%;">(2017)</span><sup id="cite_ref-10-K_1-3" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$12.613 billion</span> <span style="font-size:85%;">(2017)</span><sup id="cite_ref-10-K_1-4" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">~7,300 <span style="font-size:85%;">(December 2017)</span><sup id="cite_ref-10-K_1-5" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://biogen.com">biogen<wbr></wbr>.com</a></span></td></tr><tr><td colspan="2" style="text-align:center;line-height: 1.35em;"><b>Footnotes / references</b><br>*Commercialized by Genentech/Roche</td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Bioverativ"><span class="tocnumber">1.1</span> <span class="toctext">Bioverativ</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Acquisition_history"><span class="tocnumber">1.2</span> <span class="toctext">Acquisition history</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-4"><a href="#Finances"><span class="tocnumber">2</span> <span class="toctext">Finances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Products"><span class="tocnumber">3</span> <span class="toctext">Products</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Pipeline"><span class="tocnumber">4</span> <span class="toctext">Pipeline</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Biogen&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>Biogen was founded in 1978 in <a href="/wiki/Geneva" title="Geneva">Geneva</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> by several prominent biologists, including <a href="/wiki/Kenneth_Murray_(biologist)" title="Kenneth Murray (biologist)">Kenneth Murray</a> of the <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a>, <a href="/wiki/Phillip_Allen_Sharp" title="Phillip Allen Sharp">Phillip Allen Sharp</a> of the <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a>, <a href="/wiki/Walter_Gilbert" title="Walter Gilbert">Walter Gilbert</a> of <a href="/wiki/Harvard" class="mw-redirect" title="Harvard">Harvard</a> (who served as CEO during the start-up phase), Heinz Schaller, <a href="/wiki/University_of_Heidelberg" class="mw-redirect" title="University of Heidelberg">University of Heidelberg</a> and <a href="/wiki/Charles_Weissmann" title="Charles Weissmann">Charles Weissmann</a>, <a href="/wiki/University_of_Zurich" title="University of Zurich">University of Zurich</a> (who contributed the first product <a href="/wiki/Interferon_alpha" class="mw-redirect" title="Interferon alpha">interferon alpha</a>). Gilbert and Sharp were subsequently honored with <a href="/wiki/Nobel_Prize" title="Nobel Prize">Nobel Prizes</a>: Gilbert was recognized in 1980 with the <a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> for his work in understanding <a href="/wiki/DNA_sequencing" title="DNA sequencing">DNA sequencing</a>, while Sharp received the <a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> in 1993 for his discovery of <a href="/wiki/Split_gene" class="mw-redirect" title="Split gene">split genes</a>.
+</p><p>In 2003, Biogen merged with <a href="/wiki/San_Diego,_California" class="mw-redirect" title="San Diego, California">San Diego, California</a>-based IDEC Pharmaceuticals (formed in 1985 by <a href="/wiki/Ivor_Royston" title="Ivor Royston">Ivor Royston</a>, <a href="/wiki/Howard_Birndorf" title="Howard Birndorf">Howard Birndorf</a> and others) and adopted the name Biogen Idec.<sup id="cite_ref-Exhibit_3-0" class="reference"><a href="#cite_note-Exhibit-3">[3]</a></sup> After the merger, Biogen Idec became the 3rd largest Biotechnology company in the world.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p><p>Following shifts in research core areas, the company has since shortened its name, reverting to simply Biogen.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Biogen stock is a component of several stock indices such as the <a href="/wiki/S%26P_100" title="S&amp;P 100">S&amp;P 100</a>, <a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a>, <a href="/wiki/S%26P_1500" title="S&amp;P 1500">S&amp;P 1500</a>, and <a href="/wiki/NASDAQ-100" title="NASDAQ-100">NASDAQ-100</a> and the company is listed on the <a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a> stock exchange under the ticker symbol, BIIB.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p><p>In May 2006, the company announced it would acquire cancer specialist, Conforma Therapeutics for $250 million.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Later in the same month, the company announced its intention to acquire Fumapharm AG, consolidating ownership of <a href="/wiki/Fumaderm" class="mw-redirect" title="Fumaderm">Fumaderm</a> and <a href="/wiki/BG-12" class="mw-redirect" title="BG-12">BG-12</a>, an oral <a href="/wiki/Fumarate" class="mw-redirect" title="Fumarate">fumarate</a>, which is being studied for the treatment of <a href="/wiki/Multiple_sclerosis" title="Multiple sclerosis">multiple sclerosis</a> and <a href="/wiki/Psoriasis" title="Psoriasis">psoriasis</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p><p>In January 2007, the company announced it would acquire Syntonix Pharmaceuticals for up to $120 million, gaining Syntonix's lead product for hemophilia B as well as the technology for developing inhalable treatments.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p><p>In February 2013, <a href="/wiki/Bloomberg_L.P." title="Bloomberg L.P.">Bloomberg</a> broke the news that Biogen was planning to pay <a href="/wiki/%C3%89lan" title="Élan">Elan</a> $3.25 billion for the full rights to <a href="/wiki/Tysabri" class="mw-redirect" title="Tysabri">Tysabri</a>, used to treat multiple sclerosis.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p><p>In January 2015, the company announced that it would acquire Convergence Pharmaceuticals for up to $675 million, with the acquisition aiming to accelerate the development of Convergence's pipeline, in particular <a href="/wiki/Raxatrigine" class="mw-redirect" title="Raxatrigine">CNV1014802</a> – a Phase II small molecule sodium channel blocking candidate.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> In October 2015, the company announced that it would lay off 11% of its workforce, effective immediately.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p><p>In March 2019, Biogen announced it would acquire Nightstar Therapeutics for $25.50 per share ($800 million in total). Nightstar focus on adeno-associated virus based gene-therapies for inherited retinal disorders.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> With a setback in their Alzheimer's drug research, in March 2019 Biogen's shares fell sharply.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> It ended the trial of its drug <a href="/wiki/Aducanumab" title="Aducanumab">aducanumab</a>, which it was making along with <a href="/wiki/Eisai" title="Eisai">Eisai</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> In October 2019, however, they announced that they would pursue FDA approval for aducanumab together with Eisai. <sup id="cite_ref-:0_18-0" class="reference"><a href="#cite_note-:0-18">[18]</a></sup></p><p>In February 2020, Biogen and <a href="/wiki/Sangamo_Therapeutics" title="Sangamo Therapeutics">Sangamo Therapeutics</a> announced a global licensing deal to develop compounds for neuromuscular and neurological diseases.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Bioverativ">Bioverativ</span><span class="mw-editsection"><a href="/w/index.php?title=Biogen&amp;action=edit&amp;section=2" title="Edit section: Bioverativ" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>In May 2016, the company announced that it would <a href="/wiki/Corporate_spin-off" title="Corporate spin-off">spin off</a> its hemophilia drug business (Eloctate and Alprolix) into a public company.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> In August, the company announced that the spun off company would be called <a href="/wiki/Bioverativ" title="Bioverativ">Bioverativ</a>, in order to show heritage with Biogen.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> The company would trade on the <a href="/wiki/Nasdaq" title="Nasdaq">NASDAQ</a> exchange under the ticker symbol BIVV<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> and would look to be spun off in early 2017.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Acquisition_history">Acquisition history</span><span class="mw-editsection"><a href="/w/index.php?title=Biogen&amp;action=edit&amp;section=3" title="Edit section: Acquisition history" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The following is an illustration of the company's major mergers and acquisitions and historical predecessors (this is not a comprehensive list):
+</p>
+<style data-mw-deduplicate="TemplateStyles:r935768785">.mw-parser-output table.clade{border-spacing:0;margin:0;font-size:100%;line-height:100%;border-collapse:separate;width:auto}.mw-parser-output table.clade table.clade{width:100%}.mw-parser-output table.clade td.clade-label{width:0.7em;padding:0 0.15em;vertical-align:bottom;text-align:center;border-left:1px solid;border-bottom:1px solid;white-space:nowrap}.mw-parser-output table.clade td.clade-fixed-width{overflow:hidden;text-overflow:ellipsis}.mw-parser-output table.clade td.clade-fixed-width:hover{overflow:visible}.mw-parser-output table.clade td.clade-label.first{border-left:none;border-right:none}.mw-parser-output table.clade td.clade-label.reverse{border-left:none;border-right:1px solid}.mw-parser-output table.clade td.clade-slabel{padding:0 0.15em;vertical-align:top;text-align:center;border-left:1px solid;white-space:nowrap}.mw-parser-output table.clade td.clade-slabel:hover{overflow:visible}.mw-parser-output table.clade td.clade-slabel.last{border-left:none;border-right:none}.mw-parser-output table.clade td.clade-slabel.reverse{border-left:none;border-right:1px solid}.mw-parser-output table.clade td.clade-bar{vertical-align:middle;text-align:left;padding:0 0.5em;position:relative}.mw-parser-output table.clade td.clade-bar.reverse{text-align:right;position:relative}.mw-parser-output table.clade td.clade-leaf{border:0;padding:0;text-align:left}.mw-parser-output table.clade td.clade-leafR{border:0;padding:0;text-align:right}.mw-parser-output table.clade td.clade-leaf.reverse{text-align:right}.mw-parser-output table.clade:hover span.linkA{background-color:yellow}.mw-parser-output table.clade:hover span.linkB{background-color:green}</style><table class="clade" style="font-size:90%;line-height:110%"><tbody><tr><td class="clade-label first" style="border-left:none;border-right:none;border-bottom:0px solid;"><div style="display:inline;" class="nowrap"><span style="font-size:100%;">Biogen</span></div>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first">Biogen IDEC
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Biogen<br><small>(Founded 1978)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>IDEC Pharmaceuticals
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Conforma Therapeutics<br><small>(Acq 2006)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Fumapharm AG<br><small>(Acq 2006)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Syntonix Pharmaceuticals<br><small>(Acq 2007)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Convergence Pharmaceuticals<br><small>(Acq 2015)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel"> 
+</td></tr><tr><td class="clade-label"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935768785"><table class="clade"><tbody><tr><td class="clade-label first"> 
+</td>
+<td rowspan="2" class="clade-leaf">
+<p>Nightstar Therapeutics<br><small>(Acq 2019)</small>
+</p>
+</td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last"> 
+</td></tr></tbody></table></td></tr><tr><td class="clade-slabel last" style="border-right:none;border-left:none;"> 
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Finances">Finances</span><span class="mw-editsection"><a href="/w/index.php?title=Biogen&amp;action=edit&amp;section=4" title="Edit section: Finances" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>For the fiscal year 2017, Biogen reported earnings of US$2.539 billion, with an annual revenue of US$12.274 billion, an increase of 7.2% over the previous fiscal cycle. Biogen's shares traded at over $289 per share, and its market capitalization was valued at over US$63 billion in November 2018.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> The company ranked 245 on the 2018 <a href="/wiki/Fortune_500" title="Fortune 500">Fortune 500</a> list of the largest United States corporations by revenue.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></p>
+<table class="wikitable float-left" style="text-align: right;"><tbody><tr><th>Year
+</th>
+<th>Revenue<br>in mil. USD$
+</th>
+<th>Net income<br>in mil. USD$
+</th>
+<th>Total Assets<br>in mil. USD$
+</th>
+<th>Price per Share<br>in USD$
+</th>
+<th>Employees
+</th></tr><tr><td>2005
+</td>
+<td>2,423
+</td>
+<td>161
+</td>
+<td>8,382
+</td>
+<td>39.89
+</td>
+<td>
+</td></tr><tr><td>2006
+</td>
+<td>2,683
+</td>
+<td>218
+</td>
+<td>8,553
+</td>
+<td>42.39
+</td>
+<td>
+</td></tr><tr><td>2007
+</td>
+<td>3,172
+</td>
+<td>638
+</td>
+<td>8,629
+</td>
+<td>52.16
+</td>
+<td>
+</td></tr><tr><td>2008
+</td>
+<td>4,098
+</td>
+<td>783
+</td>
+<td>8,479
+</td>
+<td>51.09
+</td>
+<td>
+</td></tr><tr><td>2009
+</td>
+<td>4,377
+</td>
+<td>970
+</td>
+<td>8,552
+</td>
+<td>45.11
+</td>
+<td>
+</td></tr><tr><td>2010
+</td>
+<td>4,716
+</td>
+<td>1,005
+</td>
+<td>8,092
+</td>
+<td>51.95
+</td>
+<td>
+</td></tr><tr><td>2011
+</td>
+<td>5,049
+</td>
+<td>1,234
+</td>
+<td>9,050
+</td>
+<td>84.78
+</td>
+<td>
+</td></tr><tr><td>2012
+</td>
+<td>5,516
+</td>
+<td>1,380
+</td>
+<td>10,130
+</td>
+<td>125.83
+</td>
+<td>
+</td></tr><tr><td>2013
+</td>
+<td>6,932
+</td>
+<td>1,862
+</td>
+<td>11,863
+</td>
+<td>198.43
+</td>
+<td>6,850
+</td></tr><tr><td>2014
+</td>
+<td>9,703
+</td>
+<td>2,935
+</td>
+<td>14,315
+</td>
+<td>293.10
+</td>
+<td>7,550
+</td></tr><tr><td>2015
+</td>
+<td>10,764
+</td>
+<td>3,547
+</td>
+<td>19,505
+</td>
+<td>324.99
+</td>
+<td>7,350
+</td></tr><tr><td>2016
+</td>
+<td>11,449
+</td>
+<td>3,703
+</td>
+<td>22,877
+</td>
+<td>258.27
+</td>
+<td>7,400
+</td></tr><tr><td>2017
+</td>
+<td>12,274
+</td>
+<td>2,539
+</td>
+<td>23,653
+</td>
+<td>289.19
+</td>
+<td>7,300
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><a href="/w/index.php?title=Biogen&amp;action=edit&amp;section=5" title="Edit section: Products" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<table class="wikitable sortable"><tbody><tr><th>Therapy</th>
+<th>Indication (In United States unless otherwise noted)</th>
+<th>Year Approved (US)</th>
+<th>Year Approved (EU)</th>
+<th>Additional Information
+</th></tr><tr><td>ALPROLIX™ [Coagulation <a href="/wiki/Factor_IX" title="Factor IX">Factor IX</a> (Recombinant), Fc Fusion Protein]</td>
+<td>Control and prevention of bleeding episodes, perioperative management and routine prophylaxis in adults and children with <a href="/wiki/Hemophilia_B" class="mw-redirect" title="Hemophilia B">hemophilia B</a></td>
+<td>2014</td>
+<td>1993</td>
+<td>Also approved in Canada and Australia.
+<p>Biogen and Swedish Orphan Biovitrum (Sobi) are collaborators in the development and commercialization of ALPROLIX.
+<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+</td></tr><tr><td><a href="/wiki/Avonex" class="mw-redirect" title="Avonex">AVONEX®</a> (<a href="/wiki/Interferon_beta-1a" title="Interferon beta-1a">interferon beta-1a</a>)</td>
+<td>Relapsing forms of <a href="/wiki/Multiple_sclerosis" title="Multiple sclerosis">multiple sclerosis</a></td>
+<td>1996</td>
+<td>1997</td>
+<td>Includes the AVONEX PEN auto-injector and the AVOSTARTGRIP titration kit approved in the U.S. in 2012.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></td></tr><tr><td>ELOCTATE™ [Antihemophilic Factor (Recombinant), Fc Fusion Protein]</td>
+<td>Control and prevention of bleeding episodes, perioperative (surgical) management and routine prophylaxis in adults and children with <a href="/wiki/Hemophilia_A" class="mw-redirect" title="Hemophilia A">hemophilia A</a></td>
+<td>2014</td>
+<td>1999</td>
+<td>Biogen and Swedish Orphan Biovitrum (Sobi) are collaborators in the development and commercialization of ELOCTATE.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></td></tr><tr><td>FAMPYRA (prolonged-release <a href="/wiki/4-Aminopyridine" title="4-Aminopyridine">fampridine</a> tablets)</td>
+<td><a href="/wiki/Multiple_sclerosis" title="Multiple sclerosis">Multiple sclerosis</a> (Walking ability)</td>
+<td>2010</td>
+<td>2011</td>
+<td>Marketed by Biogen in markets outside of the United States.
+<p>Commercialized in the United States as AMPYRA (dalfampridine) Extended Release Tablets, by <a href="/wiki/Acorda_Therapeutics" title="Acorda Therapeutics">Acorda Therapeutics</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></p>
+</td></tr><tr><td>FUMADERM (fumaric acid esters)</td>
+<td><a href="/wiki/Psoriasis" title="Psoriasis">Psoriasis</a> German use</td>
+<td></td>
+<td>1994 (Germany only)</td>
+<td>Approved in Germany.
+<p>Acquired in acquisition of Fumapharm AG in 2006.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></p>
+</td></tr><tr><td>GAZYVA (<a href="/wiki/Obinutuzumab" title="Obinutuzumab">obinutuzumab</a>)</td>
+<td><a href="/wiki/Chronic_lymphocytic_leukemia" title="Chronic lymphocytic leukemia">Chronic lymphocytic leukemia</a></td>
+<td>2013</td>
+<td>2014</td>
+<td>The first medicine approved with the FDA's Breakthrough Therapy Designation and is also currently in Phase 3 trials for NHL and diffuse large B-cell lymphoma.
+<p>Currently commercialized in the United States by Genentech, a wholly owned subsidiary of Roche.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></p>
+</td></tr><tr><td>SPINRAZA (<a href="/wiki/Nusinersen" title="Nusinersen">nusinersen</a>)
+</td>
+<td><a href="/wiki/Spinal_muscular_atrophy" title="Spinal muscular atrophy">Spinal muscular atrophy</a>
+</td>
+<td>2016
+</td>
+<td>2017
+</td>
+<td>The first drug approved for the treatment of <a href="/wiki/Spinal_muscular_atrophy" title="Spinal muscular atrophy">spinal muscular atrophy</a>, developed in collaboration with <a href="/wiki/Ionis_Pharmaceuticals" title="Ionis Pharmaceuticals">Ionis Pharmaceuticals</a>.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></td></tr><tr><td><a href="/wiki/Plegridy" class="mw-redirect" title="Plegridy">PLEGRIDY</a> (peginterferon beta-1a)</td>
+<td>Relapsing forms of multiple sclerosis</td>
+<td>2014<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></td>
+<td>2014<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></td>
+<td>
+</td></tr><tr><td>RITUXAN (<a href="/wiki/Rituximab" title="Rituximab">rituximab</a>)</td>
+<td><a href="/wiki/Non-Hodgkin_lymphoma" title="Non-Hodgkin lymphoma">Non-Hodgkin lymphoma</a> (NHL)
+<p>Anti-TNF Refractory Rheumatoid Arthritis
+</p><p>ANCA-Associated Vasculitis
+</p><p><a href="/wiki/Chronic_lymphocytic_leukemia" title="Chronic lymphocytic leukemia">Chronic lymphocytic leukemia</a>
+</p>
+</td>
+<td>1997<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup><p>2006<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></p><p>2011<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></p>
+</td>
+<td>1998 (as MabThera)</td>
+<td>The first monoclonal antibody for cancer developed by IDEC, prior to merging with Biogen.
+<p>Currently commercialized by Roche and its subsidiary, Genentech.
+</p>
+</td></tr><tr><td>TECFIDERA (dimethyl fumarate)</td>
+<td>Relapsing forms of <a href="/wiki/Multiple_sclerosis" title="Multiple sclerosis">multiple sclerosis</a></td>
+<td>2013<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></td>
+<td>2014<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup></td>
+<td>
+</td></tr><tr><td>TYSABRI (<a href="/wiki/Natalizumab" title="Natalizumab">natalizumab</a>)</td>
+<td>Relapsing-remitting <a href="/wiki/Multiple_sclerosis" title="Multiple sclerosis">multiple sclerosis</a></td>
+<td>2004 Re-introduced in 2006</td>
+<td>2006</td>
+<td>Full rights purchased from partner Elan in 2013.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup></td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Pipeline">Pipeline</span><span class="mw-editsection"><a href="/w/index.php?title=Biogen&amp;action=edit&amp;section=6" title="Edit section: Pipeline" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<p>Biogen has focused its R&amp;D efforts on the discovery and development of treatments for patients with high unmet medical needs in the areas of neurology, hematology and immunology.
+</p><p>Investigational MS medicines:
+</p>
+<ul><li>Daclizumab High-Yield Process (DAC HYP): is being developed as a potential once-monthly subcutaneous injection in the treatment of relapsing-remitting multiple sclerosis (RRMS). DAC HYP is being developed in collaboration with <a href="/wiki/Abbvie" class="mw-redirect" title="Abbvie">Abbvie</a>, Inc. In June 2014, the companies announced positive top-line results from the Phase III DECIDE clinical trial, where DAC HYP demonstrated superiority over interferon beta-1a in annualized relapse rate.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup></li>
+<li>Anti-LINGO-1 (BIIB033) (<a href="/wiki/Opicinumab" title="Opicinumab">Opicinumab</a>): is the first candidate being investigated for its potential to remyelinate and repair neurons damaged by MS, currently in Phase 2 trials.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup></li></ul><p>Biogen has several candidates in Phase 1 and 2 clinical trials in neurodegenerative and immunological diseases including MS, neuropathic pain, spinal muscular atrophy and lupus nephritis:
+</p>
+<ul><li>Phase 2a: anti-LINGO-1 molecule (<a href="/wiki/Opicinumab" title="Opicinumab">Opicinumab</a>) in acute optic neuritis</li>
+<li>Phase 2b: anti-TWEAK monoclonal antibody in lupus nephritis</li>
+<li>Phase 2a: STX-100 in patients with idiopathic pulmonary fibrosis</li>
+<li>Phase 2: Neublastin for neuropathic pain in 2013</li>
+<li>Phase 1/2: BIIB067 (ISIS-SOD1<sub>Rx</sub>) for <a href="/wiki/Amyotrophic_lateral_sclerosis" title="Amyotrophic lateral sclerosis">amyotrophic lateral sclerosis</a>, in collaboration with Ionis</li></ul><p>Biogen also has several development agreements in place with Ionis Pharmaceuticals to collaborate to leverage antisense technology in advancing the treatment of neurological disorders.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup></p><p>In February 2012, Biogen formalized a joint venture with <a href="/wiki/Samsung" title="Samsung">Samsung</a>, creating Samsung Bioepis. This joint venture brings Biogen's expertise and capabilities in protein engineering, cell line development, and recombinant biologics manufacturing to position the joint venture so Biogen can participate in the emerging market for biosimilars.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup></p><p>In early 2014, Biogen entered into an agreement with Eisai, Inc., to jointly develop and commercialize two of their candidates for Alzheimer's disease, which have the potential to reduce Aβ plaques that form in the brains of patients, as well as to slow the formation of new plaques, potentially improving symptoms and suppressing disease progression.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup></p><p>Biogen also has since 2015 an agreement with AGTC for the development of gene therapy for ophthalmologic diseases such as X-linked retinoschisis (XLRS) and X-linked  Retinitis pigmentosa (XLRP), and up to three other genetic diseases. To this aim, Biogen paid AGTC $124 million, including an equity investment of $30 million, and up to 1,1 billion in future milestones.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup></p><p>In March 2019, Biogen halted Phase 3 trials of <a href="/wiki/Alzheimer%27s_disease" title="Alzheimer's disease">Alzheimer's disease</a> drug <a href="/wiki/Aducanumab" title="Aducanumab">Aducanumab</a> after "an independent group's analysis show[ed] that the trials were unlikely to 'meet their primary endpoint.'"<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup> However, in October 2019 they reversed their plans and said that they would be pursuing US FDA approval for Aducanumab. The reversal came after Biogen said a new analysis of a larger patient pool showed promising results.<sup id="cite_ref-:0_18-1" class="reference"><a href="#cite_note-:0-18">[18]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Biogen&amp;action=edit&amp;section=7" title="Edit section: References" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references"><li id="cite_note-10-K-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-10-K_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-10-K_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-10-K_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-10-K_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-10-K_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-10-K_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/875045/000087504518000005/biib-20171231x10k.htm">"Biogen Inc. 2017 Annual Report (Form 10-K)"</a>. <i>sec.gov</i>. <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">U.S. Securities and Exchange Commission</a>. January 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=sec.gov&amp;rft.atitle=Biogen+Inc.+2017+Annual+Report+%28Form+10-K%29&amp;rft.date=2018-01&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F875045%2F000087504518000005%2Fbiib-20171231x10k.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.forbes.com/sites/matthewherper/2012/12/04/biogen-idec-biotechs-comeback-kid/">"Biotech's Comeback Kid"</a>. <i>Forbes</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-12-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Forbes&amp;rft.atitle=Biotech%27s+Comeback+Kid&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmatthewherper%2F2012%2F12%2F04%2Fbiogen-idec-biotechs-comeback-kid%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Exhibit-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Exhibit_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/875045/000104746903021993/a2113458zex-99_1.htm">"Biogen and IDEC Pharmaceuticals Announce Merger To Create a New Biotechnology Industry Leader"</a>. <i>Exhibit 99.1</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 December</span> 2018</span>. <q>IDEC — Founded in 1985 to develop monoclonal antibodies. Founders include Ivor Royston, Howard Birndorf, Richard Miller and Brook Byers</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Exhibit+99.1&amp;rft.atitle=Biogen+and+IDEC+Pharmaceuticals+Announce+Merger+To+Create+a+New+Biotechnology+Industry+Leader&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F875045%2F000104746903021993%2Fa2113458zex-99_1.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2003/06/24/business/idec-to-merge-with-biogen-in-6.8-billion-deal.html">"Idec to Merge With Biogen in $6.8 Billion Deal"</a>. <i>New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2003-06-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Idec+to+Merge+With+Biogen+in+%246.8+Billion+Deal&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2003%2F06%2F24%2Fbusiness%2Fidec-to-merge-with-biogen-in-6.8-billion-deal.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.wsj.com/articles/biogen-drops-idec-from-name-1427113639">"Biogen Drops Idec From Name"</a>. Wall Street Journal<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biogen+Drops+Idec+From+Name&amp;rft.pub=Wall+Street+Journal&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fbiogen-drops-idec-from-name-1427113639&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nasdaq.com/symbol/biib">"Biogen Idec Inc. Stock Quote &amp; Summary Data"</a>. NASDAQ.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biogen+Idec+Inc.+Stock+Quote+%26+Summary+Data&amp;rft.pub=NASDAQ&amp;rft_id=http%3A%2F%2Fwww.nasdaq.com%2Fsymbol%2Fbiib&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">PharmaTimes (2006-06-01). <a rel="nofollow" class="external text" href="http://www.pharmatimes.com/news/biogen_idec_agrees_to_buy_swiss_company_fumapharm_996746">"Biogen Idec agrees to buy Swiss company Fumapharm"</a>. <i>www.pharmatimes.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.pharmatimes.com&amp;rft.atitle=Biogen+Idec+agrees+to+buy+Swiss+company+Fumapharm&amp;rft.date=2006-06-01&amp;rft.au=PharmaTimes&amp;rft_id=http%3A%2F%2Fwww.pharmatimes.com%2Fnews%2Fbiogen_idec_agrees_to_buy_swiss_company_fumapharm_996746&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.businesswire.com/news/home/20060531005276/en/Biogen-Idec-Acquire-Fumapharm-AG-Consolidates-Ownership">"Biogen Idec to Acquire Fumapharm AG; Consolidates Ownership of Oral Compound BG-12 Being Studied for Multiple Sclerosis"</a>. <i>www.businesswire.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.businesswire.com&amp;rft.atitle=Biogen+Idec+to+Acquire+Fumapharm+AG%3B+Consolidates+Ownership+of+Oral+Compound+BG-12+Being+Studied+for+Multiple+Sclerosis&amp;rft_id=http%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20060531005276%2Fen%2FBiogen-Idec-Acquire-Fumapharm-AG-Consolidates-Ownership&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fiercebiotech.com/biotech/biogen-to-buy-syntonix-120m-deal">"Biogen to buy Syntonix in $120M deal | FierceBiotech"</a>. <i>www.fiercebiotech.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.fiercebiotech.com&amp;rft.atitle=Biogen+to+buy+Syntonix+in+%24120M+deal+%7C+FierceBiotech&amp;rft_id=http%3A%2F%2Fwww.fiercebiotech.com%2Fbiotech%2Fbiogen-to-buy-syntonix-120m-deal&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.businesswire.com/news/home/20070104005533/en/Biogen-Idec-Acquire-Syntonix">"Biogen Idec to Acquire Syntonix"</a>. <i>www.businesswire.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.businesswire.com&amp;rft.atitle=Biogen+Idec+to+Acquire+Syntonix&amp;rft_id=http%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20070104005533%2Fen%2FBiogen-Idec-Acquire-Syntonix&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/articles/2013-02-06/biogen-to-pay-elan-3-25-billion-for-full-tysabri-rights">"Biogen to Pay Elan $3.25 Billion for Full Tysabri Rights"</a>. <i>Bloomberg.com</i>. 2013-02-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bloomberg.com&amp;rft.atitle=Biogen+to+Pay+Elan+%243.25+Billion+for+Full+Tysabri+Rights&amp;rft.date=2013-02-06&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2013-02-06%2Fbiogen-to-pay-elan-3-25-billion-for-full-tysabri-rights&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.genengnews.com/gen-news-highlights/biogen-idec-snaps-up-convergence-for-up-to-675m/81250789/">"Biogen Idec Snaps Up Convergence for Up-to-$675M - GEN News Highlights - GEN"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biogen+Idec+Snaps+Up+Convergence+for+Up-to-%24675M+-+GEN+News+Highlights+-+GEN&amp;rft_id=http%3A%2F%2Fwww.genengnews.com%2Fgen-news-highlights%2Fbiogen-idec-snaps-up-convergence-for-up-to-675m%2F81250789%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.businessinsider.com/biogen-layoffs-cutting-11-of-workforce-2015-10">"Biogen is cutting 11% of its workforce"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biogen+is+cutting+11%25+of+its+workforce&amp;rft_id=http%3A%2F%2Fwww.businessinsider.com%2Fbiogen-layoffs-cutting-11-of-workforce-2015-10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.biospace.com/article/biogen-announces-agreement-to-acquire-nightstar-therapeutics-to-establish-clinical-pipeline-of-gene-therapy-candidates-in-ophthalmology/">"BIOGEN ANNOUNCES AGREEMENT TO ACQUIRE NIGHTSTAR THERAPEUTICS TO ESTABLISH CLINICAL PIPELINE OF GENE THERAPY CANDIDATES IN OPHTHALMOLOGY"</a>. <i>BioSpace</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 June</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BioSpace&amp;rft.atitle=BIOGEN+ANNOUNCES+AGREEMENT+TO+ACQUIRE+NIGHTSTAR+THERAPEUTICS+TO+ESTABLISH+CLINICAL+PIPELINE+OF+GENE+THERAPY+CANDIDATES+IN+OPHTHALMOLOGY&amp;rft_id=https%3A%2F%2Fwww.biospace.com%2Farticle%2Fbiogen-announces-agreement-to-acquire-nightstar-therapeutics-to-establish-clinical-pipeline-of-gene-therapy-candidates-in-ophthalmology%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.biospace.com/article/biogen-banks-on-ophthalmology-gene-therapies-with-800-million-acquisition-of-nightstar/">"Biogen Banks on Ophthalmology Gene Therapies With $800 Million Acquisition of Nightstar"</a>. <i>BioSpace</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 June</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BioSpace&amp;rft.atitle=Biogen+Banks+on+Ophthalmology+Gene+Therapies+With+%24800+Million+Acquisition+of+Nightstar&amp;rft_id=https%3A%2F%2Fwww.biospace.com%2Farticle%2Fbiogen-banks-on-ophthalmology-gene-therapies-with-800-million-acquisition-of-nightstar%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">News, Timothy Annett Bloomberg; March 21; 2019; Comments, 8:00 a m Email to a Friend Share on Facebook Share on TwitterPrint this Article View. <a rel="nofollow" class="external text" href="https://www.bostonglobe.com/business/2019/03/21/biogen-shares-plunge-after-alzheimer-drug-setback/0MzLJWlEgmo5nHSKWl8esO/story.html">"Biogen shares plunge after Alzheimer's drug setback - The Boston Globe"</a>. <i>BostonGlobe.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 June</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BostonGlobe.com&amp;rft.atitle=Biogen+shares+plunge+after+Alzheimer%27s+drug+setback+-+The+Boston+Globe&amp;rft.aulast=News&amp;rft.aufirst=Timothy+Annett+Bloomberg&amp;rft.au=March+21&amp;rft.au=2019&amp;rft.au=Comments%2C+8%3A00+a+m+Email+to+a+Friend+Share+on+Facebook+Share+on+TwitterPrint+this+Article+View&amp;rft_id=https%3A%2F%2Fwww.bostonglobe.com%2Fbusiness%2F2019%2F03%2F21%2Fbiogen-shares-plunge-after-alzheimer-drug-setback%2F0MzLJWlEgmo5nHSKWl8esO%2Fstory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web">Li, Yun (21 March 2019). <a rel="nofollow" class="external text" href="https://www.cnbc.com/2019/03/21/biogen-shares-plunge-more-than-25percent-after-ending-trial-for-alzheimers-drug-aducanumab.html">"Biogen posts its the worst day in 14 years after ending trial for blockbuster Alzheimer's drug"</a>. <i>CNBC</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 June</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNBC&amp;rft.atitle=Biogen+posts+its+the+worst+day+in+14+years+after+ending+trial+for+blockbuster+Alzheimer%27s+drug&amp;rft.date=2019-03-21&amp;rft.aulast=Li&amp;rft.aufirst=Yun&amp;rft_id=https%3A%2F%2Fwww.cnbc.com%2F2019%2F03%2F21%2Fbiogen-shares-plunge-more-than-25percent-after-ending-trial-for-alzheimers-drug-aducanumab.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-:0-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Jacqueline Howard; Jamie Gumbrecht. <a rel="nofollow" class="external text" href="https://www.cnn.com/2019/10/22/health/biogen-alzheimers-drug-fda/index.html">"Drugmaker to seek approval for Alzheimer's treatment"</a>. <i>CNN</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-10-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNN&amp;rft.atitle=Drugmaker+to+seek+approval+for+Alzheimer%27s+treatment&amp;rft.au=Jacqueline+Howard&amp;rft.au=Jamie+Gumbrecht&amp;rft_id=https%3A%2F%2Fwww.cnn.com%2F2019%2F10%2F22%2Fhealth%2Fbiogen-alzheimers-drug-fda%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.biospace.com/article/biogen-and-sangamo-partner-on-alzheimer-s-parkinson-s-and-others/">"Biogen and Sangamo Ink $2.7 Billion+ Neurodegeneration Deal"</a>. <i>BioSpace</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-02-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BioSpace&amp;rft.atitle=Biogen+and+Sangamo+Ink+%242.7+Billion%2B+Neurodegeneration+Deal&amp;rft_id=https%3A%2F%2Fwww.biospace.com%2Farticle%2Fbiogen-and-sangamo-partner-on-alzheimer-s-parkinson-s-and-others%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">D'Souza, Savio (May 3, 2016). <a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-biogen-hemophilia-idUSKCN0XU15E">"Biogen to spin off hemophilia drug business into a public company"</a>. <i>Reuters</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 3,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reuters&amp;rft.atitle=Biogen+to+spin+off+hemophilia+drug+business+into+a+public+company&amp;rft.date=2016-05-03&amp;rft.au=D%27Souza%2C+Savio&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-biogen-hemophilia-idUSKCN0XU15E&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fiercepharma.com/pharma/biogen-introduces-spinoff-bioverativ-amid-takeover-buzz">"Amid takeover chatter, Biogen introduces hemophilia spinoff Bioverativ - FiercePharma"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Amid+takeover+chatter%2C+Biogen+introduces+hemophilia+spinoff+Bioverativ+-+FiercePharma&amp;rft_id=http%3A%2F%2Fwww.fiercepharma.com%2Fpharma%2Fbiogen-introduces-spinoff-bioverativ-amid-takeover-buzz&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.businesswire.com/news/financialpost/20160809005296/en/Biogen-Announces-Bioverativ-Hemophilia-Focused-Company">"Biogen Announces Bioverativ as Name of New Hemophilia-Focused Company | Business Wire"</a>. <i>www.businesswire.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.businesswire.com&amp;rft.atitle=Biogen+Announces+Bioverativ+as+Name+of+New+Hemophilia-Focused+Company+%7C+Business+Wire&amp;rft_id=http%3A%2F%2Fwww.businesswire.com%2Fnews%2Ffinancialpost%2F20160809005296%2Fen%2FBiogen-Announces-Bioverativ-Hemophilia-Focused-Company&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bostonglobe.com/business/2016/08/09/biogen-unveils-name-for-hemophilia-drug-spinoff-bioverativ/2EjLRgOOGpOZJECl3nO4yH/story.html">"Biogen unveils name for hemophilia drug spinoff: Bioverativ - The Boston Globe"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biogen+unveils+name+for+hemophilia+drug+spinoff%3A+Bioverativ+-+The+Boston+Globe&amp;rft_id=https%3A%2F%2Fwww.bostonglobe.com%2Fbusiness%2F2016%2F08%2F09%2Fbiogen-unveils-name-for-hemophilia-drug-spinoff-bioverativ%2F2EjLRgOOGpOZJECl3nO4yH%2Fstory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://media.biogen.com/press-release/hemophilia-spin/biogen-announces-bioverativ-name-new-hemophilia-focused-company">"Biogen Announces Bioverativ as Name of New Hemophilia-Focused Company - Biogen Media"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biogen+Announces+Bioverativ+as+Name+of+New+Hemophilia-Focused+Company+-+Biogen+Media&amp;rft_id=http%3A%2F%2Fmedia.biogen.com%2Fpress-release%2Fhemophilia-spin%2Fbiogen-announces-bioverativ-name-new-hemophilia-focused-company&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.macrotrends.net/stocks/charts/BIIB/biogen/revenue">"Biogen Revenue 2006-2018 | BIIB"</a>. <i>www.macrotrends.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.macrotrends.net&amp;rft.atitle=Biogen+Revenue+2006-2018+%7C+BIIB&amp;rft_id=https%3A%2F%2Fwww.macrotrends.net%2Fstocks%2Fcharts%2FBIIB%2Fbiogen%2Frevenue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/list/">"Fortune 500 Companies 2018: Who Made the List"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Fortune+500+Companies+2018%3A+Who+Made+the+List&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Flist%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fool.com/investing/general/2014/04/07/does-biogen-idec-inc-have-a-new-blockbuster-hemoph.aspx">"Does Biogen Idec Inc Have a New Blockbuster Hemophilia Therapy?"</a>. The Motley Fool<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-07-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Does+Biogen+Idec+Inc+Have+a+New+Blockbuster+Hemophilia+Therapy%3F&amp;rft.pub=The+Motley+Fool&amp;rft_id=http%3A%2F%2Fwww.fool.com%2Finvesting%2Fgeneral%2F2014%2F04%2F07%2Fdoes-biogen-idec-inc-have-a-new-blockbuster-hemoph.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nationalmssociety.org/Treating-MS/Medications/Avonex">"Avonex"</a>. National MS Society.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Avonex&amp;rft.pub=National+MS+Society&amp;rft_id=http%3A%2F%2Fwww.nationalmssociety.org%2FTreating-MS%2FMedications%2FAvonex&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thepharmaletter.com/article/biogen-idec-s-eloctate-gains-fda-approval">"Biogen Idec's Eloctate gains FDA approval"</a>. The Pharma Letter<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-09-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biogen+Idec%27s+Eloctate+gains+FDA+approval&amp;rft.pub=The+Pharma+Letter&amp;rft_id=http%3A%2F%2Fwww.thepharmaletter.com%2Farticle%2Fbiogen-idec-s-eloctate-gains-fda-approval&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mstrust.org.uk/atoz/fampridine.jsp">"Fampridine (Fampyra)"</a>. MS Trust.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fampridine+%28Fampyra%29&amp;rft.pub=MS+Trust&amp;rft_id=http%3A%2F%2Fwww.mstrust.org.uk%2Fatoz%2Ffampridine.jsp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.firstwordpharma.com/node/149468">"Biogen Idec enters deal to acquire Fumapharm"</a>. First Word Pharma<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-05-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biogen+Idec+enters+deal+to+acquire+Fumapharm&amp;rft.pub=First+Word+Pharma&amp;rft_id=http%3A%2F%2Fwww.firstwordpharma.com%2Fnode%2F149468&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.fda.gov/newsevents/newsroom/pressannouncements/ucm373209.htm">"FDA approves Gazyva for chronic lymphocytic leukemia"</a>. FDA.gov<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-01-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FDA+approves+Gazyva+for+chronic+lymphocytic+leukemia&amp;rft.pub=FDA.gov&amp;rft_id=https%3A%2F%2Fwww.fda.gov%2Fnewsevents%2Fnewsroom%2Fpressannouncements%2Fucm373209.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wadman, Meredith (23 December 2016). <a rel="nofollow" class="external text" href="http://www.sciencemag.org/news/2016/12/novel-drug-rescues-babies-fatal-neurodegenerative-disease">"Updated: FDA approves drug that rescues babies with fatal neurodegenerative disease"</a>. <i>Science</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1126%2Fscience.aal0476">10.1126/science.aal0476</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Updated%3A+FDA+approves+drug+that+rescues+babies+with+fatal+neurodegenerative+disease&amp;rft.date=2016-12-23&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.aal0476&amp;rft.aulast=Wadman&amp;rft.aufirst=Meredith&amp;rft_id=http%3A%2F%2Fwww.sciencemag.org%2Fnews%2F2016%2F12%2Fnovel-drug-rescues-babies-fatal-neurodegenerative-disease&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation news">Grant, Charley (2016-12-27). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/surprise-drug-approval-is-holiday-gift-for-biogen-1482856447">"Surprise Drug Approval Is Holiday Gift for Biogen"</a>. <i>Wall Street Journal</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0099-9660">0099-9660</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wall+Street+Journal&amp;rft.atitle=Surprise+Drug+Approval+Is+Holiday+Gift+for+Biogen&amp;rft.date=2016-12-27&amp;rft.issn=0099-9660&amp;rft.aulast=Grant&amp;rft.aufirst=Charley&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fsurprise-drug-approval-is-holiday-gift-for-biogen-1482856447&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/2014/08/15/ma-biogen-idec-idUSnBw155610a+100+BSW20140815">"Biogen Idec's PLEGRIDY(Peginterferon Beta-1a) Approved in the US for the Treatment of Multiple Sclerosis"</a>. Reuters.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biogen+Idec%27s+PLEGRIDY%28Peginterferon+Beta-1a%29+Approved+in+the+US+for+the+Treatment+of+Multiple+Sclerosis&amp;rft.pub=Reuters&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2F2014%2F08%2F15%2Fma-biogen-idec-idUSnBw155610a%2B100%2BBSW20140815&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thepharmaletter.com/article/biogen-idec-s-plegridy-approved-in-europe-for-relapsing-remitting-multiple-sclerosis">"Biogen Idec's Plegridy approved in Europe for relapsing-remitting multiple sclerosis"</a>. The Pharma Letter.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biogen+Idec%27s+Plegridy+approved+in+Europe+for+relapsing-remitting+multiple+sclerosis&amp;rft.pub=The+Pharma+Letter&amp;rft_id=http%3A%2F%2Fwww.thepharmaletter.com%2Farticle%2Fbiogen-idec-s-plegridy-approved-in-europe-for-relapsing-remitting-multiple-sclerosis&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cancer.gov/cancertopics/druginfo/fda-rituximab">"FDA Approval for Rituximab"</a>. National Cancer Institute.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FDA+Approval+for+Rituximab&amp;rft.pub=National+Cancer+Institute&amp;rft_id=http%3A%2F%2Fwww.cancer.gov%2Fcancertopics%2Fdruginfo%2Ffda-rituximab&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/2010/10/21/biogen-roche-idUSN2110240020101021">"UPDATE 1-Roche, Biogen end dispute over Rituxan follow-ons"</a>. Reuters<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UPDATE+1-Roche%2C+Biogen+end+dispute+over+Rituxan+follow-ons&amp;rft.pub=Reuters&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2F2010%2F10%2F21%2Fbiogen-roche-idUSN2110240020101021&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm251946.htm">"FDA approves Rituxan to treat two rare disorders"</a>. FDA.gov<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FDA+approves+Rituxan+to+treat+two+rare+disorders&amp;rft.pub=FDA.gov&amp;rft_id=https%3A%2F%2Fwww.fda.gov%2FNewsEvents%2FNewsroom%2FPressAnnouncements%2Fucm251946.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thepharmaletter.com/article/cell-therapeutics-buys-zevalin-from-biogen-idec-for-10m-with-up-to-20m-extra-plus-milestones">"Cell Therapeutics buys Zevalin from Biogen Idec for $10M, with up to $20M extra plus milestones"</a>. The Pharma Letter<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cell+Therapeutics+buys+Zevalin+from+Biogen+Idec+for+%2410M%2C+with+up+to+%2420M+extra+plus+milestones&amp;rft.pub=The+Pharma+Letter&amp;rft_id=http%3A%2F%2Fwww.thepharmaletter.com%2Farticle%2Fcell-therapeutics-buys-zevalin-from-biogen-idec-for-10m-with-up-to-20m-extra-plus-milestones&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nationalmssociety.org/Treating-MS/Medications/Tecfidera%E2%84%A2">"Tecifedra"</a>. National MS Society.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tecifedra&amp;rft.pub=National+MS+Society&amp;rft_id=http%3A%2F%2Fwww.nationalmssociety.org%2FTreating-MS%2FMedications%2FTecfidera%25E2%2584%25A2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nationalmssociety.org/Treating-MS/Medications/Tysabri-%C2%AE">"Tysabri"</a>. National MS Society.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tysabri&amp;rft.pub=National+MS+Society&amp;rft_id=http%3A%2F%2Fwww.nationalmssociety.org%2FTreating-MS%2FMedications%2FTysabri-%25C2%25AE&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fiercebiotech.com/story/once-monthly-ms-drug-biogen-idec-abbvie-clears-phase-iii-hurdle/2014-06-16">"Once-monthly MS drug from Biogen Idec, AbbVie clears Phase III hurdle"</a>. Fierce Biotech<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Once-monthly+MS+drug+from+Biogen+Idec%2C+AbbVie+clears+Phase+III+hurdle&amp;rft.pub=Fierce+Biotech&amp;rft_id=http%3A%2F%2Fwww.fiercebiotech.com%2Fstory%2Fonce-monthly-ms-drug-biogen-idec-abbvie-clears-phase-iii-hurdle%2F2014-06-16&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://multiple-sclerosis-research.blogspot.com/2013/05/lingo-promising-remyelination-target-in.html">"Lingo: a promising remyelination target in MS"</a>. Multiple Sclerosis Research<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-06-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lingo%3A+a+promising+remyelination+target+in+MS&amp;rft.pub=Multiple+Sclerosis+Research&amp;rft_id=http%3A%2F%2Fmultiple-sclerosis-research.blogspot.com%2F2013%2F05%2Flingo-promising-remyelination-target-in.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fiercebiotech.com/special-reports/top-20-biotech-licensing-deals-h1-2012/isis-pharmaceuticals-and-biogen-idec">"Isis Pharmaceuticals and Biogen Idec"</a>. Fierce Biotech.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Isis+Pharmaceuticals+and+Biogen+Idec&amp;rft.pub=Fierce+Biotech&amp;rft_id=http%3A%2F%2Fwww.fiercebiotech.com%2Fspecial-reports%2Ftop-20-biotech-licensing-deals-h1-2012%2Fisis-pharmaceuticals-and-biogen-idec&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.businessweek.com/news/2013-11-12/biogen-sees-eloctate-fda-delay-pushing-market-entry-to-mid-2014">"Biogen Sees Eloctate FDA Delay Pushing Marketing to Mid-2014"</a>. BusinessWeek<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biogen+Sees+Eloctate+FDA+Delay+Pushing+Marketing+to+Mid-2014&amp;rft.pub=BusinessWeek&amp;rft_id=http%3A%2F%2Fwww.businessweek.com%2Fnews%2F2013-11-12%2Fbiogen-sees-eloctate-fda-delay-pushing-market-entry-to-mid-2014&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fiercebiotech.com/special-reports/top-20-biotech-licensing-deals-h1-2012/isis-pharmaceuticals-and-biogen-idec">"Isis Pharmaceuticals and Biogen Idec"</a>. Fierce Biotech.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Isis+Pharmaceuticals+and+Biogen+Idec&amp;rft.pub=Fierce+Biotech&amp;rft_id=http%3A%2F%2Fwww.fiercebiotech.com%2Fspecial-reports%2Ftop-20-biotech-licensing-deals-h1-2012%2Fisis-pharmaceuticals-and-biogen-idec&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation web">David Holley (July 2, 2015). <a rel="nofollow" class="external text" href="http://www.xconomy.com/boston/2015/07/02/biogen-offers-up-to-1-billion-for-agtcs-ophthalmology-gene-therapy/">"Biogen Offers Up To $1 Billion for AGTC's Ophthalmology Gene Therapy"</a>. <i>Xconomy Boston</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Xconomy+Boston&amp;rft.atitle=Biogen+Offers+Up+To+%241+Billion+for+AGTC%27s+Ophthalmology+Gene+Therapy&amp;rft.date=2015-07-02&amp;rft.au=David+Holley&amp;rft_id=http%3A%2F%2Fwww.xconomy.com%2Fboston%2F2015%2F07%2F02%2Fbiogen-offers-up-to-1-billion-for-agtcs-ophthalmology-gene-therapy%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><cite class="citation news">Li, Yun (21 March 2019). <a rel="nofollow" class="external text" href="https://www.cnbc.com/2019/03/21/biogen-shares-plunge-more-than-25percent-after-ending-trial-for-alzheimers-drug-aducanumab.html">"Biogen shares plunge nearly 30% after ending trial for Alzheimer's drug Aducanumab"</a>. CNBC.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Biogen+shares+plunge+nearly+30%25+after+ending+trial+for+Alzheimer%27s+drug+Aducanumab&amp;rft.date=2019-03-21&amp;rft.aulast=Li&amp;rft.aufirst=Yun&amp;rft_id=https%3A%2F%2Fwww.cnbc.com%2F2019%2F03%2F21%2Fbiogen-shares-plunge-more-than-25percent-after-ending-trial-for-alzheimers-drug-aducanumab.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Biogen&amp;action=edit&amp;section=8" title="Edit section: External links" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.biogen.com">Official website</a></span></span></li>
+<li>Business data for Biogen: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=BIIB">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=BIIB">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=BIIB">SEC filings</a></li></ul></div></li></ul>
+
+
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Biogen&amp;params=42_21_58.3_N_71_5_13.2_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°21′58.3″N</span> <span class="longitude">71°5′13.2″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.366194°N 71.087000°W</span><span style="display:none">﻿ / <span class="geo">42.366194; -71.087000</span></span></span></a></span></span></span>
+</p>
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Biogen&amp;oldid=950765929">https://en.wikipedia.org/w/index.php?title=Biogen&amp;oldid=950765929</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Biogen"
+				data-user-name="UnitedStatesian"
+				data-user-gender="unknown"
+				data-timestamp="1586803000">
+				<span>Last edited on 13 April 2020, at 18:36</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Biogen&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.676","walltime":"1.055","ppvisitednodes":{"value":3221,"limit":1000000},"postexpandincludesize":{"value":163620,"limit":2097152},"templateargumentsize":{"value":4550,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":174626,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  898.398      1 -total"," 59.12%  531.129      1 Template:Reflist"," 46.54%  418.128     44 Template:Cite_web"," 34.85%  313.129     14 Template:Clade"," 18.18%  163.370      1 Template:Infobox_company"," 16.66%  149.677      1 Template:Infobox","  7.35%   65.999      7 Template:Wikidata","  7.27%   65.353      1 Template:Br_separated_entries","  5.21%   46.809      1 Template:Short_description","  4.07%   36.557      4 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.347","limit":"10.000"},"limitreport-memusage":{"value":7123030,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20200416052028","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Biogen","url":"https:\/\/en.wikipedia.org\/wiki\/Biogen","sameAs":"http:\/\/www.wikidata.org\/entity\/Q864338","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q864338","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-11-27T03:11:24Z","dateModified":"2020-04-13T18:36:40Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/b\/bc\/Biogen.svg","headline":"American multinational biotechnology company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":132,"wgHostname":"mw1329"});});</script>		</body>
+		</html>
+		

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Fortune Brands Home &amp; Security - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoLPApAAEIAAD@W1T4AAAAG","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Fortune_Brands_Home_\u0026_Security","wgTitle":"Fortune Brands Home \u0026 Security","wgCurRevisionId":916750077,"wgRevisionId":916750077,"wgArticleId":33318775,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Fortune_Brands_Home_\u0026_Security","wgRelevantArticleId":33318775,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],
+"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5472859","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,
+"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Fortune_Brands_Home_%26_Security&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Fortune_Brands_Home_%26_Security&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Fortune_Brands_Home_%26_Security"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Fortune_Brands_Home_Security rootpage-Fortune_Brands_Home_Security stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fortune+Brands+Home+%26+Security" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Fortune+Brands+Home+%26+Security" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Fortune Brands Home &amp; Security</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Fortune_Brands_Home_%26_Security" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Fortune+Brands+Home+%26+Security" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Fortune_Brands_Home_%26_Security&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<p><b>Fortune Brands</b> is an American manufacturer of home fixtures and hardware, headquartered in <a href="/wiki/Deerfield,_Illinois" title="Deerfield, Illinois">Deerfield, Illinois</a>. The company's product lines include <a href="/wiki/Master_Lock" title="Master Lock">Master Lock</a>, Sentry Safe, MasterBrand Cabinets, <a href="/wiki/Moen_(company)" title="Moen (company)">Moen faucets</a>, Therma-Tru entry door systems, and Waterloo tool storage products.<sup id="cite_ref-NowIndependent_4-0" class="reference"><a href="#cite_note-NowIndependent-4">[4]</a></sup> The company has said that it holds market leadership positions in all of its segments, and has 16,000 associates that generated $5.0 billion in net sales in 2016.<sup id="cite_ref-NowIndependent_4-1" class="reference"><a href="#cite_note-NowIndependent-4">[4]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">Fortune Brands</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Fortune_Brands_Home_%26_Security_Logo.png" class="image" title="Fortune Brands Home &amp; Security"><img alt="Fortune Brands Home &amp; Security" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fortune_Brands_Home_%26_Security_Logo.png/220px-Fortune_Brands_Home_%26_Security_Logo.png" decoding="async" width="220" height="61" data-file-width="300" data-file-height="83"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public company</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:FBHS">FBHS</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Predecessor</th><td style="line-height: 1.35em;">Fortune Brands <a href="https://www.wikidata.org/wiki/Q5472859?uselang=en#P155" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">2011<span class="noprint">; 9 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">2011</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Deerfield,_Illinois" title="Deerfield, Illinois">Deerfield, Illinois</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Christopher Klein, President &amp; CEO<sup id="cite_ref-Fortune_Brands_Home_&amp;_Security_1-0" class="reference"><a href="#cite_note-Fortune_Brands_Home_&amp;_Security-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;">Fixtures<br>hardware</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"><a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a> 5.0 billion <small>(<i>FY 2016</i>)</small><sup id="cite_ref-Yahoo!_Finance_2-0" class="reference"><a href="#cite_note-Yahoo!_Finance-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;">413 million <small> (<i>FY 2016</i>)</small><sup id="cite_ref-Yahoo!_Finance_2-1" class="reference"><a href="#cite_note-Yahoo!_Finance-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"><a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>5.1 billion<small> (<i>FY 2016</i>)</small><sup id="cite_ref-Yahoo!_Finance_2-2" class="reference"><a href="#cite_note-Yahoo!_Finance-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"><a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>2.4 billion<small> (<i>FY 2016</i>)</small><sup id="cite_ref-Yahoo!_Finance_2-3" class="reference"><a href="#cite_note-Yahoo!_Finance-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">23,870<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://fbhs.com">fbhs<wbr></wbr>.com</a></span></td></tr></tbody></table><p>Fortune Brands Home &amp; Security was created on October 3, 2011, from part of the former <a href="/wiki/Fortune_Brands" title="Fortune Brands">Fortune Brands</a> holding company.<sup id="cite_ref-NowIndependent_4-2" class="reference"><a href="#cite_note-NowIndependent-4">[4]</a></sup> The spin-off was related to the pre-announced corporate strategy of divesting unrelated product lines to focus on the <a href="/wiki/Liquor" title="Liquor">liquor</a> business.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-WSJ3_6-0" class="reference"><a href="#cite_note-WSJ3-6">[6]</a></sup> On the day after spinning off FBHS, Fortune Brands renamed itself as Beam Inc. to reflect this new strategy.<sup id="cite_ref-BeamIncBegins_7-0" class="reference"><a href="#cite_note-BeamIncBegins-7">[7]</a></sup> Beam Inc. was subsequently purchased by <a href="/wiki/Suntory" title="Suntory">Suntory</a> to become its <a href="/wiki/Beam_Suntory" title="Beam Suntory">Beam Suntory</a> subsidiary in April, 2014.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p><p>On October 18, 2011, it was announced that <a href="/wiki/Pershing_Square_Capital_Management" title="Pershing Square Capital Management">Pershing Square Capital Management</a> owned a 15% stake in the company, and considered its stock to be a very attractive investment.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Fortune_Brands_Home_%26_Security&amp;action=edit&amp;section=1" title="Edit section: References" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-Fortune_Brands_Home_&amp;_Security-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fortune_Brands_Home_&amp;_Security_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fbhs.com/leadership">"Leadership-Executive Committee"</a>. Fortune Brands Home &amp; Security.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leadership-Executive+Committee&amp;rft.pub=Fortune+Brands+Home+%26+Security&amp;rft_id=http%3A%2F%2Fwww.fbhs.com%2Fleadership&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFortune+Brands+Home+%26+Security" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Yahoo!_Finance-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Yahoo!_Finance_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Yahoo!_Finance_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Yahoo!_Finance_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Yahoo!_Finance_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q/ks?s=FBHS+Key+Statistics">"Fortune Brands Home &amp; Security(FBHS)-Key Statistics"</a>. Yahoo! Finance.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fortune+Brands+Home+%26+Security%28FBHS%29-Key+Statistics&amp;rft.pub=Yahoo%21+Finance&amp;rft_id=https%3A%2F%2Ffinance.yahoo.com%2Fq%2Fks%3Fs%3DFBHS%2BKey%2BStatistics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFortune+Brands+Home+%26+Security" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/fortune-brands-home-security/">"Fortune Brands Home &amp; Security"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Fortune+Brands+Home+%26+Security&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Ffortune-brands-home-security%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFortune+Brands+Home+%26+Security" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-NowIndependent-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-NowIndependent_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NowIndependent_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NowIndependent_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://finance.yahoo.com/news/Fortune-Brands-Home-Security-bw-1447000967.html?x=0">Fortune Brands Home &amp; Security Now Independent, Begins Trading on NYSE</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20111013171845/https://finance.yahoo.com/news/Fortune-Brands-Home-Security-bw-1447000967.html?x=0">Archived</a> October 13, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, <i>Businesswire</i>, October 4, 2011.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Smith, A., <a rel="nofollow" class="external text" href="http://money.cnn.com/2010/12/08/news/companies/jim_beam_titleist/index.htm">Jim Beam, neat, is company's new strategy</a>, <i>CNN Money</i>, December 8, 2010.</span>
+</li>
+<li id="cite_note-WSJ3-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-WSJ3_6-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.wsj.com/article/PR-CO-20101208-903042.html?mod=wsjcrmain">Fortune Brands Announces Intent to Separate Company's Three Businesses</a>, <i>The Wall Street Journal</i>, December 8, 2010.</span>
+</li>
+<li id="cite_note-BeamIncBegins-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-BeamIncBegins_7-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://finance.yahoo.com/news/Beam-Inc-Begins-Life-as-a-bw-3227214555.html?x=0&amp;.v=1">Beam Inc. Begins Life as a Pure-Play Spirits Industry Leader</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20111014041308/https://finance.yahoo.com/news/Beam-Inc-Begins-Life-as-a-bw-3227214555.html?x=0&amp;.v=1">Archived</a> October 14, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, <i>Businesswire</i>, October 4, 2011.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.suntory.com/news/2014/12050.html">Beam Suntory</a>, <a href="/wiki/Suntory" title="Suntory">Suntory</a> press release, April 30, 2014.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.wsj.com/news/articles/SB10001424052702304547704579563590503205778">Suntory Still has M&amp;A Thirst</a>, <i>The Wall Street Journal</i>, May 15, 2014.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Gammeltoft, N., and Fineman, J., <a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/2011-10-18/ackman-discloses-15-stake-in-fortune-brands-home-shares-jump.html">Ackman Says Pershing Square Owns 15% of Fortune Brands Home</a>, Bloomberg, Oct. 18, 2011.</span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Fortune_Brands_Home_%26_Security&amp;action=edit&amp;section=2" title="Edit section: External links" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.fbhs.com/">Official website</a></span></span></li>
+<li>Business data for Fortune Brands Home &amp; Security: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=FBHS">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=FBHS">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=FBHS">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fortune_Brands_Home_%26_Security&amp;oldid=916750077">https://en.wikipedia.org/w/index.php?title=Fortune_Brands_Home_%26_Security&amp;oldid=916750077</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Fortune_Brands_Home_%26_Security"
+				data-user-name="72.226.100.117"
+				data-user-gender="unknown"
+				data-timestamp="1568984504">
+				<span>Last edited on 20 September 2019, at 13:01</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Fortune_Brands_Home_%26_Security&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.447","ppvisitednodes":{"value":1338,"limit":1000000},"postexpandincludesize":{"value":22754,"limit":2097152},"templateargumentsize":{"value":3005,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13613,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  397.048      1 -total"," 44.49%  176.659      1 Template:Infobox_company"," 40.87%  162.277      1 Template:Infobox"," 28.54%  113.325      1 Template:Reflist"," 21.18%   84.097      3 Template:Cite_web"," 15.90%   63.118      5 Template:Wikidata"," 15.66%   62.175      1 Template:Br_separated_entries"," 12.41%   49.273      1 Template:Short_description","  8.61%   34.198      1 Template:Pagetype","  8.28%   32.869      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.159","limit":"10.000"},"limitreport-memusage":{"value":4412960,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20200417093252","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Fortune Brands Home & Security","url":"https:\/\/en.wikipedia.org\/wiki\/Fortune_Brands_Home_%26_Security","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5472859","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5472859","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-10-05T23:38:01Z","dateModified":"2019-09-20T13:01:44Z","headline":"American industrial company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1271"});});</script>		</body>
+		</html>
+		

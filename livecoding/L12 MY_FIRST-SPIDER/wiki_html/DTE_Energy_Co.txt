@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>DTE Energy - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoK2QpAICkAAHTR-6YAAAEI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"DTE_Energy","wgTitle":"DTE Energy","wgCurRevisionId":945361754,"wgRevisionId":945361754,"wgArticleId":2651392,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"DTE_Energy","wgRelevantArticleId":2651392,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"DTE_Energy_Co.","wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/DTE_Energy","wgWikibaseItemId":"Q5206232","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,
+"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/7f/EdisonPlazaJK.jpg"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=DTE_Energy&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=DTE_Energy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/DTE_Energy"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-DTE_Energy rootpage-DTE_Energy stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=DTE+Energy" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=DTE+Energy" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">DTE Energy</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/DTE_Energy" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=DTE+Energy" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=DTE_Energy_Co.&amp;redirect=no" class="mw-redirect" title="DTE Energy Co.">DTE Energy Co.</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><p><b>DTE Energy</b> (formerly <b>Detroit Edison</b> until 1996) is a <a href="/wiki/Detroit" title="Detroit">Detroit</a>-based diversified energy company involved in the development and management of energy-related businesses and services in the United States and Canada. Its operating units include an electric utility serving 2.2 million customers and a natural gas utility serving 1.3 million customers in <a href="/wiki/Michigan" title="Michigan">Michigan</a>.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">DTE Energy Co.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:DTE_Logo_Blue.svg" class="image"><img alt="DTE Logo Blue.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/DTE_Logo_Blue.svg/220px-DTE_Logo_Blue.svg.png" decoding="async" width="220" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/DTE_Logo_Blue.svg/330px-DTE_Logo_Blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/DTE_Logo_Blue.svg/440px-DTE_Logo_Blue.svg.png 2x" data-file-width="111" data-file-height="38"></a></td></tr><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:EdisonPlazaJK.jpg" class="image"><img alt="EdisonPlazaJK.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EdisonPlazaJK.jpg/220px-EdisonPlazaJK.jpg" decoding="async" width="220" height="165" data-file-width="819" data-file-height="614"></a><div><a href="/wiki/DTE_Energy_Headquarters" title="DTE Energy Headquarters">DTE Energy Headquarters</a> in Detroit, Michigan</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:DTE">DTE</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;">Electric and gas utilities</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Detroit,_Michigan" class="mw-redirect" title="Detroit, Michigan">Detroit, Michigan</a></div>, <div style="display: inline;" class="country-name">United States</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Gerardo Norcia <span style="font-size:85%;">(President and Chief Executive Officer)</span><sup id="cite_ref-DTE_Energy_Executive_Committee_1-0" class="reference"><a href="#cite_note-DTE_Energy_Executive_Committee-1">[1]</a></sup><br>Gerard M. Anderson<br><span style="font-size:85%;">(Executive Chairman)</span><sup id="cite_ref-DTE_Energy_Executive_Committee_1-1" class="reference"><a href="#cite_note-DTE_Energy_Executive_Committee-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 12.669 billion (2019)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></span> <span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 14.212 billion (2018)<sup id="cite_ref-xbrlus_1_3-0" class="reference"><a href="#cite_note-xbrlus_1-3">[3]</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$1.69 billion (2019)<sup id="cite_ref-201410K_4-0" class="reference"><a href="#cite_note-201410K-4">[4]</a></sup></span></li><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 1.12 billion (2018) <sup id="cite_ref-xbrlus_1_3-1" class="reference"><a href="#cite_note-xbrlus_1-3">[3]</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 41.882 billion (2019)<sup id="cite_ref-xbrlus_2_5-0" class="reference"><a href="#cite_note-xbrlus_2-5">[5]</a></sup></span></li><li><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 36.288 billion (2018)<sup id="cite_ref-xbrlus_1_3-2" class="reference"><a href="#cite_note-xbrlus_1-3">[3]</a></sup></span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">10,700 (2019)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th><td style="line-height: 1.35em;"><a href="/wiki/DTE_Electric_Company" title="DTE Electric Company">DTE Electric Company</a>, DTE Gas, DTE Midstream, DTE Power &amp; Industrial and DTE Energy Trading</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.dteenergy.com">www<wbr></wbr>.dteenergy<wbr></wbr>.com</a></span></td></tr></tbody></table><p>The DTE Energy portfolio includes non-utility energy businesses focused on power and industrial projects, <a href="/wiki/Pipeline_transport#Oil_and_natural_gas" title="Pipeline transport">natural gas pipelines</a>, gathering and storage, and energy marketing and trading.
+</p><p>In 2016, DTE announced plans to reduce <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">carbon emissions</a> by 80 percent by 2050, but moved up that goal by a decade, pledging to reduce emissions by 80 percent by 2040. DTE will reduce carbon emissions by 50 percent by 2030.
+</p><p>In 2019, <a href="/wiki/DTE_Electric_Company" title="DTE Electric Company">DTE Electric Company</a> announced a goal to achieve net-zero carbon emissions by 2050.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Early_1900s"><span class="tocnumber">1.1</span> <span class="toctext">Early 1900s</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1920s"><span class="tocnumber">1.2</span> <span class="toctext">1920s</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1930s"><span class="tocnumber">1.3</span> <span class="toctext">1930s</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#1940s"><span class="tocnumber">1.4</span> <span class="toctext">1940s</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#1950s"><span class="tocnumber">1.5</span> <span class="toctext">1950s</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#1970s"><span class="tocnumber">1.6</span> <span class="toctext">1970s</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#1980s"><span class="tocnumber">1.7</span> <span class="toctext">1980s</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#1990s"><span class="tocnumber">1.8</span> <span class="toctext">1990s</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#2000s"><span class="tocnumber">1.9</span> <span class="toctext">2000s</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-11"><a href="#Operations"><span class="tocnumber">2</span> <span class="toctext">Operations</span></a>
+<ul><li class="toclevel-2 tocsection-12"><a href="#Utility"><span class="tocnumber">2.1</span> <span class="toctext">Utility</span></a>
+<ul><li class="toclevel-3 tocsection-13"><a href="#DTE_Electric"><span class="tocnumber">2.1.1</span> <span class="toctext">DTE Electric</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#DTE_Gas"><span class="tocnumber">2.1.2</span> <span class="toctext">DTE Gas</span></a></li>
+</ul></li>
+<li class="toclevel-2 tocsection-15"><a href="#Non-Utility"><span class="tocnumber">2.2</span> <span class="toctext">Non-Utility</span></a>
+<ul><li class="toclevel-3 tocsection-16"><a href="#DTE_Power_&amp;_Industrial"><span class="tocnumber">2.2.1</span> <span class="toctext">DTE Power &amp; Industrial</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#DTE_Midstream"><span class="tocnumber">2.2.2</span> <span class="toctext">DTE Midstream</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#DTE_Energy_Trading"><span class="tocnumber">2.2.3</span> <span class="toctext">DTE Energy Trading</span></a></li>
+</ul></li>
+</ul></li>
+<li class="toclevel-1 tocsection-19"><a href="#DTE_Energy_Foundation"><span class="tocnumber">3</span> <span class="toctext">DTE Energy Foundation</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<h3 class="in-block"><span class="mw-headline" id="Early_1900s">Early 1900s</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=2" title="Edit section: Early 1900s" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>At the turn of the century, the Edison Illuminating Co. and the Peninsular Electric Light Co. (which owned the electric distribution franchise in the area) provided all commercial electric lighting and power in the city of Detroit.
+</p><p>In January 1903, Detroit Edison purchased securities of the two companies and incorporated on January 17, 1903. That same year, construction began on the Delray 1 Power Plant, and <a href="/wiki/Henry_Ford" title="Henry Ford">Henry Ford</a>, who had left Edison Illuminating four years earlier, founded <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford Motor Company</a>.
+</p><p>In 1903, the Detroit Gas Co. was renamed the Detroit City Gas Co. It secured franchises for <a href="/wiki/Highland_Park,_Michigan" title="Highland Park, Michigan">Highland Park</a> and <a href="/wiki/Hamtramck,_Michigan" title="Hamtramck, Michigan">Hamtramck</a> and increased its customer base to more than 67,000.
+</p><p>In 1904, Detroit Edison signed its first power contract with an automobile company — the Cadillac Motor Car Co.
+</p><p>In 1905, a majority of the Detroit City Gas Co. was acquired by the American Light &amp; Traction Co., a holding company that controlled utility and transportation interests stretching from Grand Rapids to Milwaukee.
+</p><p>With the added demand for electricity, the Delray 2 Power Plant was added in 1908.
+</p><p>In 1913, Detroit City Gas acquired additional service territory that included the communities of <a href="/wiki/River_Rouge,_Michigan" title="River Rouge, Michigan">River Rouge</a>, <a href="/wiki/Wyandotte,_Michigan" title="Wyandotte, Michigan">Wyandotte</a>, <a href="/wiki/Dearborn,_Michigan" title="Dearborn, Michigan">Dearborn</a>, <a href="/wiki/Ecorse,_Michigan" title="Ecorse, Michigan">Ecorse</a> and <a href="/wiki/Trenton,_Michigan" title="Trenton, Michigan">Trenton</a>.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="1920s">1920s</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=3" title="Edit section: 1920s" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Between 1924 and 1929, Detroit Edison increased its production capacity by building the <a href="/wiki/Marysville_Power_Plant" title="Marysville Power Plant">Marysville</a>, <a href="/wiki/Trenton_Channel_Power_Plant" title="Trenton Channel Power Plant">Trenton Channel</a> and Delray 3 power plants.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="1930s">1930s</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=4" title="Edit section: 1930s" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>In 1937, a plan was developed to merge the Detroit City Gas Co., the Grand Rapids Gas Light Co., the Washtenaw Gas Co. and the Ann Arbor Gas Co. The merger was approved by the Securities and Exchange Commission and the Michigan Public Service Commission, and in 1938 the new utility became known as Michigan Consolidated Gas Co., or MichCon.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="1940s">1940s</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=5" title="Edit section: 1940s" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>To meet the increasing demand for natural gas, the Michigan-Wisconsin Pipeline was completed in 1945.
+</p><p>In 1949, Michigan Consolidated Gas, the Milwaukee Gas Co., the Michigan-Wisconsin Gas Co., the Austin Field Pipeline Co. and the Milwaukee Solvay Co. became the American Natural Gas Co.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="1950s">1950s</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=6" title="Edit section: 1950s" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Detroit Edison added the <a href="/wiki/St._Clair_Power_Plant" title="St. Clair Power Plant">St. Clair Power Plant</a> in 1954 — one of the largest power plants in the world at the time.
+</p><p>In 1956, Detroit Edison broke ground for the Enrico Fermi Power Plant and also began work on the River Rouge Power Plant.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="1970s">1970s</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=7" title="Edit section: 1970s" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>This era marked another construction phase that included the start of the <a href="/wiki/Enrico_Fermi_Nuclear_Generating_Station" title="Enrico Fermi Nuclear Generating Station">Fermi 2 nuclear plant</a> in 1970 and <a href="/wiki/Monroe_Power_Plant" title="Monroe Power Plant">Monroe Power Plant</a> Units 1-4, which came online from 1971-74.
+</p><p>Construction also began in 1972 on the Greenwood Energy Center — the company's first inland plant designed for both oil - and nuclear-fueled generating units.
+</p><p>The <a href="/wiki/Ludington_Pumped_Storage_Power_Plant" title="Ludington Pumped Storage Power Plant">Ludington Pumped Storage Plant</a>, co-owned by Detroit Edison and <a href="/wiki/Consumers_Energy" title="Consumers Energy">Consumers Power Company</a>, also went into service in 1973.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="1980s">1980s</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=8" title="Edit section: 1980s" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>MichCon became a wholly owned subsidiary of Primark Corp in 1981. In 1988, Primark spun-off MichCon, and the MCN Corp. was established as the parent company of MichCon.
+</p><p>In 1983, Detroit Edison sought to sell its engineering expertise through the creation of Utility Technical Services, later called SYNDECO — Detroit Edison's first subsidiary business.
+</p><p>Supporting the new marketing push and increasing customer demand were <a href="/wiki/Belle_River_Power_Plant" title="Belle River Power Plant">Belle River Units</a> 1 and 2, which went online in 1984 and 1985.
+</p><p>In 1986, the Detroit Edison Foundation was formed to manage the company's charitable giving programs and volunteer efforts that had grown over the years.
+</p><p>The <a href="/wiki/Enrico_Fermi_Nuclear_Generating_Station" title="Enrico Fermi Nuclear Generating Station">Fermi 2 unit</a> was licensed and went online in 1988. The company also founded what is now DTE Biomass Energy to begin collecting methane gas from landfills for use in energy production.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="1990s">1990s</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=9" title="Edit section: 1990s" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>In January 1996, Detroit Edison established a holding company — DTE Energy. “DTE” was selected because it was the existing stock symbol for Detroit Edison. “Energy” was chosen to represent the company's vision to provide integrated energy (not just electric) solutions to customers.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="2000s">2000s</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=10" title="Edit section: 2000s" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>On May 31, 2001 DTE Energy and MCN Energy Group completed a merger which created Michigan's largest energy company and a premier regional energy provider.
+</p><p>In 2007, DTE Energy began acquiring wind development rights on more than 100,000 acres of land in the <a href="/wiki/The_Thumb" title="The Thumb">Thumb area</a>. The first DTE Energy-owned and constructed wind parks were commissioned (connected to the grid and generating power) in December 2012. Two of these wind parks are located in <a href="/wiki/Huron_County,_Michigan" title="Huron County, Michigan">Huron County</a> and one in <a href="/wiki/Sanilac_County,_Michigan" title="Sanilac County, Michigan">Sanilac County</a>.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Operations">Operations</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=11" title="Edit section: Operations" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<h3 class="in-block"><span class="mw-headline" id="Utility">Utility</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=12" title="Edit section: Utility" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<h4 class="in-block"><span class="mw-headline" id="DTE_Electric">DTE Electric</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=13" title="Edit section: DTE Electric" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<p><a href="/wiki/DTE_Electric_Company" title="DTE Electric Company">DTE Electric Company</a> is a state-regulated electric utility serving 2.2 million residential and business customers throughout Southeast Michigan and the thumb region.
+</p><p>DTE Electric's power generation portfolio includes <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> and <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil generation</a>.
+</p>
+<h4 class="in-block"><span class="mw-headline" id="DTE_Gas">DTE Gas</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=14" title="Edit section: DTE Gas" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<p>DTE Gas is a state-regulated natural gas provider to 1.3 million residential, commercial and industrial customers throughout Michigan.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Non-Utility">Non-Utility</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=15" title="Edit section: Non-Utility" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<h4 class="in-block"><span id="DTE_Power_.26_Industrial"></span><span class="mw-headline" id="DTE_Power_&amp;_Industrial">DTE Power &amp; Industrial</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=16" title="Edit section: DTE Power &amp; Industrial" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<p>The group began by building upon Detroit Edison's (now DTE Electric) existing capabilities and customer relationships to develop non-regulated (non-utility) projects within Michigan. Since then, the business has expanded its geographic reach and broadened its products and services to a nationwide customer base.
+</p><p>DTE Power &amp; Industrial now encompasses 74 projects in 15 states with a focus on three main business lines: Industrial Energy Services, Renewable Energy and Environmental Controls.
+</p><p>DTE Biomass Energy operates as an independent subsidiary of DTE Power &amp; Industrial.
+</p>
+<h4 class="in-block"><span class="mw-headline" id="DTE_Midstream">DTE Midstream</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=17" title="Edit section: DTE Midstream" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<p>DTE Midstream is a builder, investor and owner-operator of gathering, regulated pipelines, and gas storage assets – a strong midstream portfolio – serving producers, gas &amp; electric utilities, marketers, power plants and large industrial customers.
+</p><p>Currently, DTE Midstream owns more than 2,200 miles of pipelines with a capacity of 11.0 Bcf/d and 338,600 HP of compression across the Midwest, Northeast, and the Louisiana Midstream business. In addition, DTE Midstream owns 91 Bcf of gas storage with 1.2 Bcf per day of deliverability.
+</p>
+<h4 class="in-block"><span class="mw-headline" id="DTE_Energy_Trading">DTE Energy Trading</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=18" title="Edit section: DTE Energy Trading" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<p>DTE Energy Trading is an active physical and financial gas, power and environmental marketing company operating in <a href="/wiki/Ann_Arbor,_Michigan" title="Ann Arbor, Michigan">Ann Arbor, Michigan</a>.
+</p><p>DTE Energy Trading provides energy sourcing and management solutions for a broad range of customers such as investor-owned gas and electric utilities, municipalities, electric cooperatives, gas producers, renewable energy users and producers and independent power producers, while also managing a significant portfolio of gas transport and storage as well as power generation and transmission assets throughout the North American markets.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="DTE_Energy_Foundation">DTE Energy Foundation</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=19" title="Edit section: DTE Energy Foundation" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>Among the state's largest foundations committed to Michigan-focused giving, the DTE Energy Foundation supports initiatives focused on arts and culture, community transformation, economic progress, education and employment, environment and human needs. The DTE Energy Foundation supports events and programs that help generate more than $50 million in local economic activity in the past year.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=20" title="Edit section: See also" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul><li><span><noscript><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/32px-Flag_of_Michigan.svg.png" decoding="async" width="32" height="21" class="noviewer thumbborder" data-file-width="685" data-file-height="457"></noscript><span class="lazy-image-placeholder" style="width: 32px;height: 21px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/32px-Flag_of_Michigan.svg.png" data-alt="flag" data-width="32" data-height="21" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/48px-Flag_of_Michigan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/64px-Flag_of_Michigan.svg.png 2x" data-class="noviewer thumbborder"> </span></span><span><a href="/wiki/Portal:Michigan" title="Portal:Michigan">Michigan portal</a></span></li>
+<li><span><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" decoding="async" width="28" height="28" class="noviewer" data-file-width="512" data-file-height="512"></noscript><span class="lazy-image-placeholder" style="width: 28px;height: 28px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" data-alt="" data-width="28" data-height="28" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-class="noviewer"> </span></span><span><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Enrico_Fermi_Nuclear_Generating_Station" title="Enrico Fermi Nuclear Generating Station">Enrico Fermi Nuclear Generating Station</a></li>
+<li><a href="/wiki/Monroe_Power_Plant" title="Monroe Power Plant">Monroe Power Plant</a></li>
+<li><a href="/wiki/Marysville_Power_Plant" title="Marysville Power Plant">Marysville Power Plant</a></li>
+<li><a href="/wiki/St._Clair_Power_Plant" title="St. Clair Power Plant">St. Clair Power Plant</a></li>
+<li><a href="/wiki/Belle_River_Power_Plant" title="Belle River Power Plant">Belle River Power Plant</a></li>
+<li><a href="/wiki/American_Light_and_Traction" title="American Light and Traction">American Light and Traction</a></li>
+<li><a href="/wiki/DTE_Energy_Music_Theatre" title="DTE Energy Music Theatre">DTE Energy Music Theatre</a></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=21" title="Edit section: References" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-DTE_Energy_Executive_Committee-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-DTE_Energy_Executive_Committee_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DTE_Energy_Executive_Committee_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://newlook.dteenergy.com/wps/wcm/connect/dte-web/home/about-dte/common/about-dte/executive-committee">"DTE Energy Executive Committee"</a>. DTE. June 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">June 24,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DTE+Energy+Executive+Committee&amp;rft.pub=DTE&amp;rft.date=2019-06&amp;rft_id=https%3A%2F%2Fnewlook.dteenergy.com%2Fwps%2Fwcm%2Fconnect%2Fdte-web%2Fhome%2Fabout-dte%2Fcommon%2Fabout-dte%2Fexecutive-committee&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADTE+Energy" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://d18rn0p25nwr6d.cloudfront.net/CIK-0000936340/14648858-45b8-4ebc-a042-3b55fc6f8b1a.pdf">https://d18rn0p25nwr6d.cloudfront.net/CIK-0000936340/14648858-45b8-4ebc-a042-3b55fc6f8b1a.pdf</a></span>
+</li>
+<li id="cite_note-xbrlus_1-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-xbrlus_1_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-xbrlus_1_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-xbrlus_1_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">{{cite web|url=<a rel="nofollow" class="external free" href="https://d18rn0p25nwr6d.cloudfront.net/CIK-0000936340/14648858-45b8-4ebc-a042-3b55fc6f8b1a.pdf">https://d18rn0p25nwr6d.cloudfront.net/CIK-0000936340/14648858-45b8-4ebc-a042-3b55fc6f8b1a.pdf</a></span>
+</li>
+<li id="cite_note-201410K-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-201410K_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/936340/000093634015000014/dteenergy2014123110k.htm#sB6CE3B35D55A038BC21AAB308753C5F1">"DTE ENERGY CO 2014 Fiscal Year End Form 10K"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DTE+ENERGY+CO+2014+Fiscal+Year+End+Form+10K&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F936340%2F000093634015000014%2Fdteenergy2014123110k.htm%23sB6CE3B35D55A038BC21AAB308753C5F1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADTE+Energy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-xbrlus_2-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-xbrlus_2_5-0">^</a></b></span> <span class="reference-text">{{cite web|url=<a rel="nofollow" class="external free" href="https://d18rn0p25nwr6d.cloudfront.net/CIK-0000936340/14648858-45b8-4ebc-a042-3b55fc6f8b1a.pdf">https://d18rn0p25nwr6d.cloudfront.net/CIK-0000936340/14648858-45b8-4ebc-a042-3b55fc6f8b1a.pdf</a></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=DTE_Energy&amp;action=edit&amp;section=22" title="Edit section: External links" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li><a rel="nofollow" class="external text" href="http://www.dteenergy.com">Official DTE Energy Co. website</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110203122157/http://dteenergyservices.com/businessLines/powerAndRenewables/lobPowerAndRenewables.html?businessLinesDisplay=block&amp;aboutUsDisplay=&amp;careersDisplay=">DTE Energy Power and Renewables</a>:</li>
+<li><a rel="nofollow" class="external text" href="https://www.newlook.dteenergy.com/wps/wcm/connect/dte-web/dte-pages/dte-biomass-energy">DTE Biomass Energy</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.detnews.com/apps/pbcs.dll/article?AID=/20070111/OPINION03/701110355">Credit Reporting Article</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.semichiganstartup.com/InTheNews/dteenergycleanenergywinners030111.aspx">DTE Energy turns Clean Energy Prize into start-up opportunities</a></li>
+<li>Business data for DTE Energy: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=DTE">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=DTE">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=DTE">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=DTE_Energy&amp;oldid=945361754">https://en.wikipedia.org/w/index.php?title=DTE_Energy&amp;oldid=945361754</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/DTE_Energy"
+				data-user-name="JK Nair"
+				data-user-gender="unknown"
+				data-timestamp="1584106637">
+				<span>Last edited on 13 March 2020, at 13:37</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=DTE_Energy&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.460","ppvisitednodes":{"value":1612,"limit":1000000},"postexpandincludesize":{"value":65678,"limit":2097152},"templateargumentsize":{"value":4754,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9047,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  362.548      1 -total"," 48.26%  174.963      1 Template:Infobox_company"," 44.52%  161.408      1 Template:Infobox"," 25.98%   94.201      1 Template:Reflist"," 23.28%   84.419      2 Template:Cite_web"," 14.10%   51.134      1 Template:Br_separated_entries"," 13.54%   49.085      5 Template:Wikidata"," 12.32%   44.657      3 Template:Navbox"," 10.00%   36.245      1 Template:Portal","  9.83%   35.631      1 Template:Metro_Detroit"]},"scribunto":{"limitreport-timeusage":{"value":"0.160","limit":"10.000"},"limitreport-memusage":{"value":3766203,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20200416060701","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"DTE Energy","url":"https:\/\/en.wikipedia.org\/wiki\/DTE_Energy","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5206232","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5206232","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-10T04:03:55Z","dateModified":"2020-03-13T13:37:17Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7f\/EdisonPlazaJK.jpg"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":144,"wgHostname":"mw1320"});});</script>		</body>
+		</html>
+		

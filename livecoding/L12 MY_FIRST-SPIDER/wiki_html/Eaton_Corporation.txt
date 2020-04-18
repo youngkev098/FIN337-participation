@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Eaton Corporation - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpikPApAMM8AAfCwM5UAAACD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Eaton_Corporation","wgTitle":"Eaton Corporation","wgCurRevisionId":947855540,"wgRevisionId":947855540,"wgArticleId":290438,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Eaton_Corporation","wgRelevantArticleId":290438,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q48872","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Eaton_Corporation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Eaton_Corporation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Eaton_Corporation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Eaton_Corporation rootpage-Eaton_Corporation stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Eaton+Corporation" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Eaton+Corporation" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Eaton Corporation</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Eaton_Corporation" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Eaton+Corporation" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<div role="note" class="hatnote navigation-not-searchable">This article is about the industrial manufacturer. For other uses, see <a href="/wiki/Eaton_(disambiguation)" class="mw-redirect mw-disambig" title="Eaton (disambiguation)">Eaton (disambiguation)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Eton_Corporation" class="mw-redirect" title="Eton Corporation">Eton Corporation</a>.</div>
+<p><b>Eaton Corporation Inc</b> is an Irish-domiciled multinational power management company with 2018 sales of $21.6 billion, founded in the <a href="/wiki/United_States" title="United States">United States</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> with corporate headquarters in <a href="/wiki/Dublin,_Ireland" class="mw-redirect" title="Dublin, Ireland">Dublin, Ireland</a>, and operational headquarters in <a href="/wiki/Beachwood,_Ohio" title="Beachwood, Ohio">Beachwood, Ohio</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Eaton has approximately 99,000 employees and sells products to customers in more than 175 countries.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">Eaton Corporation Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Eaton_Corporation_logo.svg" class="image"><img alt="Eaton Corporation logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eaton_Corporation_logo.svg/220px-Eaton_Corporation_logo.svg.png" decoding="async" width="220" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eaton_Corporation_logo.svg/330px-Eaton_Corporation_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eaton_Corporation_logo.svg/440px-Eaton_Corporation_logo.svg.png 2x" data-file-width="347" data-file-height="95"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public company</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:ETN">ETN</a> <br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=IE00B8KQN827">IE00B8KQN827</a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Manufacturing" title="Manufacturing">Conglomerate</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1911<span class="noprint">; 109 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1911</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;">Joseph Oriel Eaton II<br>Viggo Torbensen</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Beachwood,_Ohio" title="Beachwood, Ohio">Beachwood, Ohio</a>, United States</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">Worldwide</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Craig Arnold (<a href="/wiki/Chairman" class="mw-redirect" title="Chairman">Chairman</a>, President &amp; <a href="/wiki/CEO" class="mw-redirect" title="CEO">CEO</a>), Richard H. Fearon (Vice Chairman, <a href="/wiki/Chief_Financial_Officer" class="mw-redirect" title="Chief Financial Officer">CFO</a>), Uday Yadav (Vice Chairman &amp; <a href="/wiki/Chief_Operating_Officer" class="mw-redirect" title="Chief Operating Officer">COO</a> Industrial Sector)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>21.4 Billion <small>(2018)</small></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>2.15 Billion <small>(2018)</small></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>31 Billion <small>(2018)</small></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>16.1 Billion <small>(2018)</small></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">101,000</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Division_(business)" title="Division (business)">Divisions</a></th><td style="line-height: 1.35em;">Electrical Sector<br>Industrial Sector<br>- Aerospace<br>- Hydraulics<br>- Filtration<br>- Golf Pride<br>- Vehicle<br>- eMobility</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://eaton.com">eaton<wbr></wbr>.com</a></span></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Current_work"><span class="tocnumber">2</span> <span class="toctext">Current work</span></a>
+<ul><li class="toclevel-2 tocsection-3"><a href="#Electrical_sector"><span class="tocnumber">2.1</span> <span class="toctext">Electrical sector</span></a>
+<ul><li class="toclevel-3 tocsection-4"><a href="#Electrical_Americas_&amp;_Electrical_Rest_of_World_Segments"><span class="tocnumber">2.1.1</span> <span class="toctext">Electrical Americas &amp; Electrical Rest of World Segments</span></a></li>
+</ul></li>
+<li class="toclevel-2 tocsection-5"><a href="#Industrial_sector"><span class="tocnumber">2.2</span> <span class="toctext">Industrial sector</span></a>
+<ul><li class="toclevel-3 tocsection-6"><a href="#Hydraulics_group"><span class="tocnumber">2.2.1</span> <span class="toctext">Hydraulics group</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Aerospace_group"><span class="tocnumber">2.2.2</span> <span class="toctext">Aerospace group</span></a></li>
+</ul></li>
+<li class="toclevel-2 tocsection-8"><a href="#Vehicle_group"><span class="tocnumber">2.3</span> <span class="toctext">Vehicle group</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-9"><a href="#Acquisitions"><span class="tocnumber">3</span> <span class="toctext">Acquisitions</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Brands"><span class="tocnumber">4</span> <span class="toctext">Brands</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Headquarters"><span class="tocnumber">5</span> <span class="toctext">Headquarters</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Environmental_record"><span class="tocnumber">6</span> <span class="toctext">Environmental record</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Corporate_recognition_and_rankings"><span class="tocnumber">7</span> <span class="toctext">Corporate recognition and rankings</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>In 1911, <a href="/wiki/Joseph_Oriel_Eaton_II" title="Joseph Oriel Eaton II">Joseph O. Eaton</a>, brother-in-law Henning O. Taube and Viggo V. Torbensen, incorporated the Torbensen Gear and Axle Co. in <a href="/wiki/Bloomfield,_New_Jersey" title="Bloomfield, New Jersey">Bloomfield, New Jersey</a>. With financial backing from Torbensen's mother, the company was set to manufacture Torbensen's patented internal-gear truck axle. In 1914, the company moved to <a href="/wiki/Cleveland,_Ohio" class="mw-redirect" title="Cleveland, Ohio">Cleveland, Ohio</a>, to be closer to its core business, the automotive industry.
+</p><p>The Torbensen Axle Company incorporated in Ohio in 1916, succeeding the New Jersey corporation. A year later, <a href="/wiki/Republic_Motor_Truck_Company" title="Republic Motor Truck Company">Republic Motor Truck Company</a>, Torbensen's largest customer bought out the company. But Eaton and Torbensen were not content and bowed out of Republic to form the Eaton Axle Company in 1919. A year later, in 1920, Eaton Axle Company merged with Standard Parts. Standard Parts went in receivership later the same year and was later liquidated. In 1923, Eaton bought the Torbensen Axle Co. back from Republic and changed the name to the Eaton Axle and Spring Company.
+</p><p>Eaton officers believed the quickest way to grow the business was through acquisitions and began buying companies in the automotive industry. By 1932, the diversified company changed its name to Eaton Manufacturing Company. In 1937, Eaton became international by opening a manufacturing plant in Canada. In 1958 Eaton Corporation acquired <a href="/w/index.php?title=Fuller_Manufacturing&amp;action=edit&amp;redlink=1" class="new" title="Fuller Manufacturing (page does not exist)">Fuller Manufacturing</a>. The company name changed once again in 1965 to Eaton Yale &amp; Towne Inc. after the acquisition of Yale &amp; Towne Manufacturing Co. in 1963. Stockholders approved the change to the company's current name in 1971. In 1978, Eaton Corporation acquired Samuel Moore &amp; Company, Kenway Systems, and Cutler-Hammer.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2014)">citation needed</span></a></i>]</sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Current_work">Current work</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=2" title="Edit section: Current work" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>Eaton has two business sectors: Electrical and Industrial
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Electrical_sector">Electrical sector</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=3" title="Edit section: Electrical sector" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<h4 class="in-block"><span id="Electrical_Americas_.26_Electrical_Rest_of_World_Segments"></span><span class="mw-headline" id="Electrical_Americas_&amp;_Electrical_Rest_of_World_Segments">Electrical Americas &amp; Electrical Rest of World Segments</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=4" title="Edit section: Electrical Americas &amp; Electrical Rest of World Segments" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<p>The electrical sector's products include circuit breakers, switchgear, busway, UPS systems, power distribution units, panel boards, load centers, motor controls, meters, sensors, relays and inverters. The main markets for the Electrical Americas and Electrical Rest of World segments are industrial, institutional, government, utility, commercial, residential, information technology and original equipment manufacturer customers.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Industrial_sector">Industrial sector</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=5" title="Edit section: Industrial sector" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<h4 class="in-block"><span class="mw-headline" id="Hydraulics_group">Hydraulics group</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=6" title="Edit section: Hydraulics group" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<p>Eaton is a manufacturer of systems and components for use in mobile and industrial applications. Markets include agriculture, construction, mining, forestry, utility, material handling, machine tools, molding, power generation, primary metals, and oil and gas. The Hydraulics group also includes Eaton's Filtration, Golf Grip and Air flex industrial clutch and brake businesses. On 21 Jan. 2020 Eaton announced the sale of its Hydraulics group to Danfoss A/S of Denmark.
+</p>
+<h4 class="in-block"><span class="mw-headline" id="Aerospace_group">Aerospace group</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=7" title="Edit section: Aerospace group" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h4>
+<p>For the aerospace industry, Eaton manufactures and markets a line of systems and components for hydraulic, fuel, motion control, pneumatic systems and engines.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Vehicle_group">Vehicle group</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=8" title="Edit section: Vehicle group" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The Vehicle Group comprises the company's truck and automotive segments Including the Roadranger division providing:<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<ul><li>Eaton Clutches</li>
+<li>Eaton Automated and Mechanical Transmissions</li>
+<li>Eaton Hybrid Power Systems: Mounted between the UltraShift automated manual transmission and clutch is an electric motor/generator, connected to a power inverter using lithium ion batteries, controlled with an electronic control module. The system has a fail-safe that reverts to conventional engine-powered operation should some fault occur.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li></ul><ul><li>Roadranger Synthetic Lubricants</li>
+<li>Eaton MD Mobile Diagnostics Solutions</li></ul><p>The truck segment is involved in the design, manufacture and marketing of powertrain systems and other components for commercial vehicle markets. Key products include manual and automated transmissions, clutches<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>, drive-line components, and hybrid power.
+</p><p>Eaton’s automotive segment produces products such as superchargers, engine valves, valve train components, cylinder heads, locking and limited-slip differentials, heavy-duty drive-line components, fuel, emissions, and safety controls, transmission and engine controls, spoilers, exterior moldings, plastic components, and fluid connectors.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Acquisitions">Acquisitions</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=9" title="Edit section: Acquisitions" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>Eaton Electrical purchased the <a href="/wiki/Westinghouse_Electric_Corporation" title="Westinghouse Electric Corporation">Westinghouse</a> Distribution and Controls Business Unit in 1994 which was one of Eaton's largest acquisitions.<sup id="cite_ref-timeline_9-0" class="reference"><a href="#cite_note-timeline-9">[9]</a></sup> The acquisition included all of the Westinghouse electrical distribution and control product business and also included stipulations that the Westinghouse name cannot be used by anyone else on these types of products for years. Today, Eaton Electrical manufactures electrical distribution and control products branded "Eaton" or "Cutler-Hammer" which can replace Westinghouse products in commercial and industrial applications.
+</p><p>Eaton spun off its <a href="/wiki/Semiconductor_device_fabrication" title="Semiconductor device fabrication">semiconductor manufacturing equipment</a> business as <a href="/wiki/Axcelis_Technologies" title="Axcelis Technologies">Axcelis Technologies</a> in 2000.
+</p><p>In 2003, Eaton's Electrical Distribution and Control business (formerly known as <a href="/wiki/Cutler-Hammer" class="mw-redirect" title="Cutler-Hammer">Cutler-Hammer</a>) acquired the electrical division of Delta plc.  This acquisition brought Delta's brands Holec, MEM, Tabula, Bill and Elek under the Eaton nameplate<sup id="cite_ref-delta_10-0" class="reference"><a href="#cite_note-delta-10">[10]</a></sup> with the previous Westinghouse divisions and gave the company manufacturing facilities to meet <a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a> standards, one of the steps to become a global company and developing a worldwide standard.
+</p><p>Soon after this acquisition, Eaton entered a <a href="/wiki/Joint_venture" title="Joint venture">joint venture</a> with <a href="/wiki/Caterpillar_Inc." title="Caterpillar Inc.">Caterpillar Inc.</a> and purchased 51% of I &amp; S operations (now known as Intelligent Switchgear Organization, LLC).<sup id="cite_ref-joint_11-0" class="reference"><a href="#cite_note-joint-11">[11]</a></sup>  This was followed in 2004 by the acquisition of <a href="/wiki/Powerware" title="Powerware">Powerware</a>.<sup id="cite_ref-powerware_12-0" class="reference"><a href="#cite_note-powerware-12">[12]</a></sup>  The Powerware brand is known for the design and production of medium to large Uninterruptible Power System (UPS) devices.  After several years of co-branding UPS products "Eaton|Powerware" the company is switching to the single brand Eaton for all UPS products including; <a href="/wiki/Eaton_BladeUPS" title="Eaton BladeUPS">BladeUPS</a>, 9355, 9390, 9395, and 9E.
+</p><p>In 2006, Eaton entered the data center power distribution market.  Initial products were internally developed PDU's and RPP's under the Powerware brand and included the PowerXpert metering system.  A Powerware brand Static Transfer Switch was added to the portfolio through a brand-label relationship with Cyberex.  To complete the power distribution portfolio Eaton released a line of rack power distribution products under its Powerware brand called ePDU. It acquired Aphel Technologies Ltd., a manufacturer of power distribution product for data centers based in <a href="/wiki/Coventry" title="Coventry">Coventry</a>, UK.<sup id="cite_ref-alphel_13-0" class="reference"><a href="#cite_note-alphel-13">[13]</a></sup>  Shortly after, it added <a href="/w/index.php?title=Pulizzi_Engineering&amp;action=edit&amp;redlink=1" class="new" title="Pulizzi Engineering (page does not exist)">Pulizzi Engineering</a> Inc., Santa Ana, CA-based manufacturer of mission critical power distribution.<sup id="cite_ref-pulizzi_14-0" class="reference"><a href="#cite_note-pulizzi-14">[14]</a></sup> In late 2007, it acquired the MGE Office Protection Systems division of <a href="/wiki/Schneider_Electric" title="Schneider Electric">Schneider Electric</a>, as a result of Schneider's acquisition of <a href="/wiki/APC_by_Schneider_Electric" title="APC by Schneider Electric">APC</a>. A Taiwanese manufacturer, Phoenixtec, was also acquired giving the company the highest share in the Chinese single-phase UPS market.<sup id="cite_ref-mge_15-0" class="reference"><a href="#cite_note-mge-15">[15]</a></sup></p><p>On May 21, 2012 Eaton announced that they had agreed to purchase <a href="/wiki/Ireland" title="Ireland">Ireland</a>-based <a href="/wiki/Cooper_Industries" title="Cooper Industries">Cooper Industries</a> in a cash-and-stock deal valued at about $11.46 billion. The new company is called Eaton Corporation plc and is incorporated in Ireland. Then-Eaton Chairman and CEO <a href="/wiki/Alexander_Cutler" class="mw-redirect" title="Alexander Cutler">Alexander Cutler</a> headed the new corporation. Cooper shareholders received $39.15 in cash and 0.77479 of a share in the newly created company for each Cooper share held. This is worth $72 per share based on Eaton’s closing share price of $42.40 on May 18, 2012, and is 29% above Cooper’s closing stock price.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Eaton Corporation plc completed its acquisition of Cooper Industries on Nov 30, 2012. The $13 billion acquisition of Cooper (USD$5.4B Sales revenue -2011), became the largest in Eaton's (USD$16B Sales Revenue-2011) 101-year history.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Brands">Brands</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=10" title="Edit section: Brands" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<table class="wikitable"><tbody><tr><td>Aphel Technologies
+</td>
+<td>Aeroquip
+</td>
+<td>Airflex
+</td>
+<td>Arrow Hart
+</td>
+<td>Babco
+</td>
+<td>Cooper Wiring Devices
+</td></tr><tr><td>Arrow Hose &amp; Tubing
+</td>
+<td>Argo-Tech
+</td>
+<td>Begerow
+</td>
+<td>Centurion
+</td>
+<td>Bill
+</td>
+<td>Golf Pride
+</td></tr><tr><td>Crouse-Hinds
+</td>
+<td>Bussmann
+</td>
+<td>Boston
+</td>
+<td>Char-Lynn
+</td>
+<td>Blinda
+</td>
+<td>Hydrokraft
+</td></tr><tr><td>Cutler-Hammer
+</td>
+<td>Moeller
+</td>
+<td>Carter
+</td>
+<td>Dynapower
+</td>
+<td>CEAG
+</td>
+<td>Hydro-Line
+</td></tr><tr><td>Eaton Detroit Differentials
+</td>
+<td>Pigozzi
+</td>
+<td>Durant
+</td>
+<td>Everflex
+</td>
+<td>Cooper
+</td>
+<td>Internormen
+</td></tr><tr><td>Ephesus Lighting
+</td>
+<td>Ephesus
+</td>
+<td>B-Line
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr><tr><td>FHF Funke + Huster Fernsig
+</td>
+<td>Pringle
+</td>
+<td>Fuller
+</td>
+<td>EverTough
+</td>
+<td>Elek
+</td>
+<td>Roadranger
+</td></tr><tr><td>Hansen and Gromelle
+</td>
+<td>Pulizzi
+</td>
+<td>Hydrowa
+</td>
+<td>Phoenixtec
+</td>
+<td>Halo
+</td>
+<td>Walterscheid
+</td></tr><tr><td>Marina Power &amp; Lighting
+</td>
+<td>Senyuan
+</td>
+<td>Martek
+</td>
+<td>Powerware
+</td>
+<td>Holec
+</td>
+<td>Weatherhead
+</td></tr><tr><td>MGE Office Protection Systems
+</td>
+<td>Synflex
+</td>
+<td>Santak
+</td>
+<td>Tractech
+</td>
+<td>MEM
+</td>
+<td>Wright Line
+</td></tr><tr><td>Ronningen-Petter
+</td>
+<td>Vickers
+</td>
+<td>Winner
+</td>
+<td>Ultronics
+</td>
+<td>SEL
+</td>
+<td>Wright-Austin
+</td></tr><tr><td>R32
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Headquarters">Headquarters</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=11" title="Edit section: Headquarters" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<p>From 1920s-1964 Eaton was based on East 140th Street in Cleveland, Ohio.  In 1964, the company moved its headquarters into the new <a href="/wiki/Erieview_Tower" title="Erieview Tower">Erieview Tower</a> where it remained until 1983. In that year, Eaton Corporation moved into a 28-story Cleveland office tower which was renamed for it.<sup id="cite_ref-emporis_18-0" class="reference"><a href="#cite_note-emporis-18">[18]</a></sup>  Eaton relocated to its new 580,000 square foot facility, named Eaton Center, in <a href="/wiki/Beachwood,_Ohio" title="Beachwood, Ohio">Beachwood, Ohio</a> in early 2013.<sup id="cite_ref-ground_19-0" class="reference"><a href="#cite_note-ground-19">[19]</a></sup> The reincorporation in Ireland as part of the Cooper merger involved establishing a registered head office in Dublin, Ireland but operational headquarters remain in Ohio.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Environmental_record">Environmental record</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=12" title="Edit section: Environmental record" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<p>Eaton was selected in 2008 as a recipient of the CALSTART Blue Sky Award with recognition for its environmentally "green" transportation investments, products and actions. The award was directed towards the company's efforts to pioneer heavy duty <a href="/wiki/Hybrid_vehicle" title="Hybrid vehicle">hybrid</a>-drive technology for trucks. The annual awards recognize outstanding marketplace contributions to <a href="/wiki/Clean_air" class="mw-redirect" title="Clean air">clean air</a>, <a href="/wiki/Efficient_energy_use" title="Efficient energy use">energy efficiency</a> and to the clean transportation industry overall by companies, organizations and individuals.<sup id="cite_ref-sky_20-0" class="reference"><a href="#cite_note-sky-20">[20]</a></sup></p><p>Operations of Eaton involve the use and disposal of certain substances regulated under environmental protection laws. Eaton continues to modify certain processes on an ongoing, regular basis to reduce the impact on the environment, including the reduction or elimination of certain chemicals used in, and wastes generated from, operations.  Eaton has set standards for itself in the category of environmental protection vowing to reduce its own greenhouse gas emissions by 18 percent by 2012.<sup id="cite_ref-climate_21-0" class="reference"><a href="#cite_note-climate-21">[21]</a></sup></p><p>In 2006, Eaton joined the Green Suppliers Network, a public-private partnership with the EPA and U.S. Department of Commerce, through which small and medium-sized suppliers are helped to develop "lean and clean" manufacturing processes.<sup id="cite_ref-green_22-0" class="reference"><a href="#cite_note-green-22">[22]</a></sup></p><p>Eaton's <a href="/wiki/Hybrid_electric_powertrain" class="mw-redirect" title="Hybrid electric powertrain">hybrid electric powertrain</a> combines a diesel engine and electric motor to drive the vehicle.<sup id="cite_ref-fedex_23-0" class="reference"><a href="#cite_note-fedex-23">[23]</a></sup></p><p>In 2013,  Eaton  has been ranked a global leader by <a href="/wiki/Carbon_Disclosure_Project" title="Carbon Disclosure Project">Carbon Disclosure Project</a> (CDP) and was named to the Climate Disclosure Leadership Index. Eaton’s position in the index ranked it first among its global competitors in the industrials sector.<sup id="cite_ref-CDP_Leadership_24-0" class="reference"><a href="#cite_note-CDP_Leadership-24">[24]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Corporate_recognition_and_rankings">Corporate recognition and rankings</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=13" title="Edit section: Corporate recognition and rankings" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-7 collapsible-block" id="mf-section-7">
+<p>Recognitions include the following:
+</p>
+<ul><li>Ranked #4 in "100 Best Corporate Citizens" of Corporate Responsibility Magazine in 2013, also ranking in Top 50 for Six Consecutive Years.<sup id="cite_ref-100_Best_Corporate_Citizens_25-0" class="reference"><a href="#cite_note-100_Best_Corporate_Citizens-25">[25]</a></sup></li>
+<li>Named to <a href="/wiki/Thomson_Reuters" title="Thomson Reuters">Thomson Reuters</a> Top 100 Innovators List, 2011 - 2012 - 2013.<sup id="cite_ref-100_Top_Innovators_26-0" class="reference"><a href="#cite_note-100_Top_Innovators-26">[26]</a></sup></li>
+<li>Ranked Among the World’s Most Ethical Companies chosen by the <a href="/wiki/Ethisphere_Institute" title="Ethisphere Institute">Ethisphere Institute</a> for 2007-2014 <sup id="cite_ref-ethisphere_institute_27-0" class="reference"><a href="#cite_note-ethisphere_institute-27">[27]</a></sup></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=14" title="Edit section: See also" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-8 collapsible-block" id="mf-section-8">
+<ul><li><a href="/wiki/Cooper_Industries" title="Cooper Industries">Cooper Industries</a></li>
+<li><a href="/wiki/Eagle_Electric" title="Eagle Electric">Eagle Electric</a></li>
+<li><a href="/wiki/Powerware" title="Powerware">Powerware</a></li>
+<li><a href="/wiki/Corporation_tax_in_the_Republic_of_Ireland#Corporate_tax_inversions" title="Corporation tax in the Republic of Ireland">Corporation tax in the Republic of Ireland#Corporate tax inversions</a></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=15" title="Edit section: References" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-9 collapsible-block" id="mf-section-9">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://www.eaton.com/us/en-us/company/about-us/our-heritage.html">[1]</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.crainscleveland.com/article/20130207/FREE/130209815/eaton-corp-to-complete-move-to-new-beachwood-campus-by-feb-18">"Eaton Corp. to complete move to new Beachwood campus by Feb. 18"</a>. <i>Crain's Cleveland Business</i>. 6 February 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">9 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Crain%27s+Cleveland+Business&amp;rft.atitle=Eaton+Corp.+to+complete+move+to+new+Beachwood+campus+by+Feb.+18&amp;rft.date=2013-02-06&amp;rft_id=https%3A%2F%2Fwww.crainscleveland.com%2Farticle%2F20130207%2FFREE%2F130209815%2Featon-corp-to-complete-move-to-new-beachwood-campus-by-feb-18&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.eaton.com/us/en-us/company/investor-relations/our-businesses.html">https://www.eaton.com/us/en-us/company/investor-relations/our-businesses.html</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.eaton.com/Eaton/ProductsServices/Electrical/Support/Brand/Cutler-Hammer/index.htm">http://www.eaton.com/Eaton/ProductsServices/Electrical/Support/Brand/Cutler-Hammer/index.htm</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.manufacturingnews.com/subscribers/users_orig.cgi?mfgnews_username=mbg&amp;flag=read_article&amp;id_title=1&amp;id_article=581&amp;id_issue=34&amp;id_sub=459&amp;id_sl=">http://www.manufacturingnews.com/subscribers/users_orig.cgi?mfgnews_username=mbg&amp;flag=read_article&amp;id_title=1&amp;id_article=581&amp;id_issue=34&amp;id_sub=459&amp;id_sl=</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since March 2018">permanent dead link</span></a></i>]</span></sup></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.roadranger.com/rr/OurCompany/AboutUs/index.htm">"Roadranger"</a>. Eaton<span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Roadranger&amp;rft.pub=Eaton&amp;rft_id=http%3A%2F%2Fwww.roadranger.com%2Frr%2FOurCompany%2FAboutUs%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.roadranger.com/Eaton/ProductsServices/Vehicle/Hybrid-Power-Systems/HybridElectricVehicleSystemsOverview/index.htm">"Hybrid Electric Vehicle Systems Overview"</a>. Eaton<span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hybrid+Electric+Vehicle+Systems+Overview&amp;rft.pub=Eaton&amp;rft_id=http%3A%2F%2Fwww.roadranger.com%2FEaton%2FProductsServices%2FVehicle%2FHybrid-Power-Systems%2FHybridElectricVehicleSystemsOverview%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.eaton.com/us/en-us/products/clutches-brakes/commercial-vehicle-clutches.html?wtredirect=www.roadranger.com/rr/ProductsServices/ProductsbyCategory/Clutches/index.htm">"Clutches for linehaul and vocational trucks"</a>. Eaton<span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Clutches+for+linehaul+and+vocational+trucks&amp;rft.pub=Eaton&amp;rft_id=https%3A%2F%2Fwww.eaton.com%2Fus%2Fen-us%2Fproducts%2Fclutches-brakes%2Fcommercial-vehicle-clutches.html%3Fwtredirect%3Dwww.roadranger.com%2Frr%2FProductsServices%2FProductsbyCategory%2FClutches%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-timeline-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-timeline_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120124210114/http://www.eaton.com/us/en-us/company/about-us/our-heritage.html">"History Timeline"</a>. Eaton Corporation. Archived from <a rel="nofollow" class="external text" href="http://www.eaton.com/Eaton/OurCompany/AboutUs/HistoryTimeline/index.htm">the original</a> on 24 January 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=History+Timeline&amp;rft.pub=Eaton+Corporation&amp;rft_id=http%3A%2F%2Fwww.eaton.com%2FEaton%2FOurCompany%2FAboutUs%2FHistoryTimeline%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-delta-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-delta_10-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Dale Funk (1 January 2003). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120214055138/http://ewweb.com/mag/electric_eaton_buys_delta/index.html">"Eaton buys Delta plc's electrical division based in United Kingdom"</a>. <i>Electrical Wholesaling</i>. Archived from <a rel="nofollow" class="external text" href="http://ewweb.com/mag/electric_eaton_buys_delta/index.html">the original</a> on 14 February 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Electrical+Wholesaling&amp;rft.atitle=Eaton+buys+Delta+plc%27s+electrical+division+based+in+United+Kingdom&amp;rft.date=2003-01-01&amp;rft.au=Dale+Funk&amp;rft_id=http%3A%2F%2Fewweb.com%2Fmag%2Felectric_eaton_buys_delta%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-joint-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-joint_11-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.bizjournals.com/milwaukee/stories/2003/08/04/daily12.html">"Cutler-Hammer in joint venture between Eaton, Caterpillar"</a>. <i>The Business Journal (Milwaukee)</i>. bizjournals.com. 5 August 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Business+Journal+%28Milwaukee%29&amp;rft.atitle=Cutler-Hammer+in+joint+venture+between+Eaton%2C+Caterpillar&amp;rft.date=2003-08-05&amp;rft_id=http%3A%2F%2Fwww.bizjournals.com%2Fmilwaukee%2Fstories%2F2003%2F08%2F04%2Fdaily12.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-powerware-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-powerware_12-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.eaton.com/Eaton/OurCompany/NewsEvents/NewsReleases/CT_065747">"Eaton Completes Purchase of Powerware"</a> (Press release). Eaton Corporation. 9 June 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eaton+Completes+Purchase+of+Powerware&amp;rft.pub=Eaton+Corporation&amp;rft.date=2004-06-09&amp;rft_id=http%3A%2F%2Fwww.eaton.com%2FEaton%2FOurCompany%2FNewsEvents%2FNewsReleases%2FCT_065747&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-alphel-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-alphel_13-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.eaton.com/Eaton/OurCompany/NewsEvents/NewsReleases/CT_123913">"Eaton Announces Acquisition Of Aphel Technologies Limited"</a> (Press release). Eaton Corporation. 5 April 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eaton+Announces+Acquisition+Of+Aphel+Technologies+Limited&amp;rft.pub=Eaton+Corporation&amp;rft.date=2007-04-05&amp;rft_id=http%3A%2F%2Fwww.eaton.com%2FEaton%2FOurCompany%2FNewsEvents%2FNewsReleases%2FCT_123913&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-pulizzi-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-pulizzi_14-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.eaton.com/Eaton/OurCompany/NewsEvents/NewsReleases/CT_126846">"Eaton Expands Power Quality Offerings With Acquisition Of Pulizzi Engineering"</a> (Press release). Eaton Corporation. 19 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eaton+Expands+Power+Quality+Offerings+With+Acquisition+Of+Pulizzi+Engineering&amp;rft.pub=Eaton+Corporation&amp;rft.date=2007-06-19&amp;rft_id=http%3A%2F%2Fwww.eaton.com%2FEaton%2FOurCompany%2FNewsEvents%2FNewsReleases%2FCT_126846&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-mge-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-mge_15-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.eaton.com/Eaton/OurCompany/NewsEvents/NewsReleases/CT_127054">"Eaton To Acquire MGE's Small Systems Business From Schneider Electric"</a> (Press release). Eaton Corporation. 21 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eaton+To+Acquire+MGE%E2%80%99s+Small+Systems+Business+From+Schneider+Electric&amp;rft.pub=Eaton+Corporation&amp;rft.date=2007-06-21&amp;rft_id=http%3A%2F%2Fwww.eaton.com%2FEaton%2FOurCompany%2FNewsEvents%2FNewsReleases%2FCT_127054&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Detroit Free Press, Tuesday, May 22. 2012, page 3C</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.businessweek.com/ap/2012-11-30/eaton-completes-11-dot-46b-deal-for-cooper-industries">Business Week</a></span>
+</li>
+<li id="cite_note-emporis-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-emporis_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.emporis.com/building/eatoncenter-cleveland-oh-usa">"Eaton Center"</a>. Emporis<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eaton+Center&amp;rft.pub=Emporis&amp;rft_id=http%3A%2F%2Fwww.emporis.com%2Fbuilding%2Featoncenter-cleveland-oh-usa&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-ground-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-ground_19-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Grant Gravagna (2 February 2013). <a rel="nofollow" class="external text" href="http://www.bcomber.org/news/2013/02/02/eaton-corporation-relocates-world-headquarters-to-beachwood-puts-city-on-map-for-future-economic-development/">"Eaton Corporation Relocated World Headquarters to Beachwood; Puts City on Map for Economic Development"</a>. bcomber.org<span class="reference-accessdate">. Retrieved <span class="nowrap">3 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Eaton+Corporation+Relocated+World+Headquarters+to+Beachwood%3B+Puts+City+on+Map+for+Economic+Development&amp;rft.date=2013-02-02&amp;rft.au=Grant+Gravagna&amp;rft_id=http%3A%2F%2Fwww.bcomber.org%2Fnews%2F2013%2F02%2F02%2Featon-corporation-relocates-world-headquarters-to-beachwood-puts-city-on-map-for-future-economic-development%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-sky-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-sky_20-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.eaton.com/Eaton/OurCompany/NewsEvents/NewsReleases/CT_153682">"CALSTART Blue Sky Award Winners Announced"</a> (Press release). Eaton Corporation. 5 May 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CALSTART+Blue+Sky+Award+Winners+Announced&amp;rft.pub=Eaton+Corporation&amp;rft.date=2008-05-05&amp;rft_id=http%3A%2F%2Fwww.eaton.com%2FEaton%2FOurCompany%2FNewsEvents%2FNewsReleases%2FCT_153682&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-climate-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-climate_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110920131549/http://www.eaton.com/Eaton/Sustainability/SustainablePractices/EnvironmentHealthSafety/ClimateChangeCommitment/index.htm">"Climate Change Commitment"</a>. Eaton Corporation. Archived from <a rel="nofollow" class="external text" href="http://www.eaton.com/Eaton/Sustainability/SustainablePractices/EnvironmentHealthSafety/ClimateChangeCommitment/index.htm">the original</a> on 20 September 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Climate+Change+Commitment&amp;rft.pub=Eaton+Corporation&amp;rft_id=http%3A%2F%2Fwww.eaton.com%2FEaton%2FSustainability%2FSustainablePractices%2FEnvironmentHealthSafety%2FClimateChangeCommitment%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-green-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-green_22-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.eaton.com/ecm/groups/public/@pub/@eaton/@corp/documents/content/98065743.pdf">"Eaton joins EPA's Green Suppliers Network"</a> <span class="cs1-format">(PDF)</span> (Press release). Eaton Corporation. 10 July 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eaton+joins+EPA%27s+Green+Suppliers+Network&amp;rft.pub=Eaton+Corporation&amp;rft.date=2006-07-10&amp;rft_id=http%3A%2F%2Fwww.eaton.com%2Fecm%2Fgroups%2Fpublic%2F%40pub%2F%40eaton%2F%40corp%2Fdocuments%2Fcontent%2F98065743.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-fedex-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-fedex_23-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.is/20130103052126/http://about.van.fedex.com/corporate_responsibility/the_environment/alternative_energy/cleaner_vehicles">"Cleaner Vehicles"</a>. FedEx. 23 September 2011. Archived from <a rel="nofollow" class="external text" href="http://about.van.fedex.com/corporate_responsibility/the_environment/alternative_energy/cleaner_vehicles">the original</a> on 3 January 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cleaner+Vehicles&amp;rft.pub=FedEx&amp;rft.date=2011-09-23&amp;rft_id=http%3A%2F%2Fabout.van.fedex.com%2Fcorporate_responsibility%2Fthe_environment%2Falternative_energy%2Fcleaner_vehicles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-CDP_Leadership-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-CDP_Leadership_24-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.eaton.com/Eaton/OurCompany/NewsEvents/NewsReleases/PCT_507061">"Eaton Achieves CDP Leadership Position"</a> (Press release). Eaton Corporation. 16 September 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eaton+Achieves+CDP+Leadership+Position&amp;rft.pub=Eaton+Corporation&amp;rft.date=2013-09-16&amp;rft_id=http%3A%2F%2Fwww.eaton.com%2FEaton%2FOurCompany%2FNewsEvents%2FNewsReleases%2FPCT_507061&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-100_Best_Corporate_Citizens-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-100_Best_Corporate_Citizens_25-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.eaton.com/Eaton/OurCompany/NewsEvents/NewsReleases/PCT_477682">"Eaton Places Fourth Among"</a> (Press release). Eaton Corporation. 16 April 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eaton+Places+Fourth+Among&amp;rft.pub=Eaton+Corporation&amp;rft.date=2013-04-16&amp;rft_id=http%3A%2F%2Fwww.eaton.com%2FEaton%2FOurCompany%2FNewsEvents%2FNewsReleases%2FPCT_477682&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-100_Top_Innovators-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-100_Top_Innovators_26-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.eaton.com/Eaton/OurCompany/NewsEvents/NewsReleases/PCT_918223">"Eaton Recognized for Leadership"</a> (Press release). Eaton Corporation. 9 October 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eaton+Recognized+for+Leadership&amp;rft.pub=Eaton+Corporation&amp;rft.date=2013-10-09&amp;rft_id=http%3A%2F%2Fwww.eaton.com%2FEaton%2FOurCompany%2FNewsEvents%2FNewsReleases%2FPCT_918223&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-ethisphere_institute-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-ethisphere_institute_27-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.eaton.com/Eaton/OurCompany/NewsEvents/NewsReleases/PCT_1038978">"Eaton Ranks Among the World's Most Ethical Companies"</a> (Press release). Eaton Corporation. 20 March 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eaton+Ranks+Among+the+World%E2%80%99s+Most+Ethical+Companies&amp;rft.pub=Eaton+Corporation&amp;rft.date=2014-03-20&amp;rft_id=http%3A%2F%2Fwww.eaton.com%2FEaton%2FOurCompany%2FNewsEvents%2FNewsReleases%2FPCT_1038978&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEaton+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+<ul><li><i>The History of Eaton Corporation 1911–1985</i></li>
+<li><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/31277/000003127703000012/etn2q2003earningsrelease.txt">Securities and Exchange Commission</a></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(10)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Eaton_Corporation&amp;action=edit&amp;section=16" title="Edit section: External links" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-10 collapsible-block" id="mf-section-10">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.eaton.com/Eaton/index.htm">Official website</a></span></span></li>
+<li>Business data for Eaton Corporation: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=ETN">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=ETN">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=ETN">SEC filings</a></li></ul></div></li>
+<li><a rel="nofollow" class="external text" href="http://www.nfpa.com">Information about Fluid Power is also available on the National Fluid Power Association web-site nfpa.com</a></li></ul><p class="mw-empty-elt">
+</p>
+
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Eaton_Corporation&amp;oldid=947855540">https://en.wikipedia.org/w/index.php?title=Eaton_Corporation&amp;oldid=947855540</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Eaton_Corporation"
+				data-user-name="Drt1245"
+				data-user-gender="unknown"
+				data-timestamp="1585432151">
+				<span>Last edited on 28 March 2020, at 21:49</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Eaton_Corporation&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.472","walltime":"0.672","ppvisitednodes":{"value":2763,"limit":1000000},"postexpandincludesize":{"value":106745,"limit":2097152},"templateargumentsize":{"value":4696,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":68480,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  565.502      1 -total"," 31.37%  177.370      1 Template:Reflist"," 29.98%  169.555      1 Template:Infobox_company"," 27.37%  154.755      1 Template:Infobox"," 15.92%   90.014      8 Template:Cite_web"," 11.22%   63.471      5 Template:Wikidata","  9.45%   53.440      1 Template:Short_description","  7.37%   41.677      2 Template:Navbox","  7.20%   40.701     10 Template:Cite_press_release","  7.11%   40.187      1 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.216","limit":"10.000"},"limitreport-memusage":{"value":7203739,"limit":52428800}},"cachereport":{"origin":"mw1399","timestamp":"20200416051303","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Eaton Corporation","url":"https:\/\/en.wikipedia.org\/wiki\/Eaton_Corporation","sameAs":"http:\/\/www.wikidata.org\/entity\/Q48872","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q48872","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-06T15:13:07Z","dateModified":"2020-03-28T21:49:11Z","headline":"multinational power management company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":193,"wgHostname":"mw1365"});});</script>		</body>
+		</html>
+		

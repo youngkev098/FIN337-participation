@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Copart - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoKoApAMMIAAwmBSF4AAACV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Copart","wgTitle":"Copart","wgCurRevisionId":941324968,"wgRevisionId":941324968,"wgArticleId":38364252,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Copart","wgRelevantArticleId":38364252,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Copart_Inc","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Copart","wgWikibaseItemId":"Q16951448","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},
+"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Copart&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Copart&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Copart"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Copart rootpage-Copart stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Copart" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Copart" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Copart</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector disabled"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Copart" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Copart&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Copart_Inc&amp;redirect=no" class="mw-redirect" title="Copart Inc">Copart Inc</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<p><b>Copart, Inc.</b>, headquartered in <a href="/wiki/Dallas" title="Dallas">Dallas</a>, <a href="/wiki/Texas" title="Texas">Texas</a>, is a provider of <a href="/wiki/Online_auction" title="Online auction">online vehicle auction</a> and remarketing services in the US, Canada, and the UK.<sup id="cite_ref-SEC_08_2-0" class="reference"><a href="#cite_note-SEC_08-2">[2]</a></sup><sup id="cite_ref-IDCH_3-0" class="reference"><a href="#cite_note-IDCH-3">[3]</a></sup> that has acquired or opened operations in Germany,<sup id="cite_ref-Business_Wire_Germany_4-0" class="reference"><a href="#cite_note-Business_Wire_Germany-4">[4]</a></sup> Ireland, Brazil,<sup id="cite_ref-Business_Wire_Brazil_5-0" class="reference"><a href="#cite_note-Business_Wire_Brazil-5">[5]</a></sup> Spain,<sup id="cite_ref-Business_Wire_Spain_6-0" class="reference"><a href="#cite_note-Business_Wire_Spain-6">[6]</a></sup> the United Arab Emirates,<sup id="cite_ref-Ride_Safe_7-0" class="reference"><a href="#cite_note-Ride_Safe-7">[7]</a></sup> and Finland.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Copart, Inc.</caption><tbody><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist nowrap"><ul><li><a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a>: <a rel="nofollow" class="external text" href="https://www.nasdaq.com/symbol/cprt">CPRT</a></li><li><a href="/wiki/NASDAQ-100" title="NASDAQ-100">NASDAQ-100</a> component</li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;">Automotive</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;"><a href="/wiki/Vallejo,_California" title="Vallejo, California">Vallejo</a>, <a href="/wiki/California" title="California">California</a> (1982)<span style="display:none"> (<span class="bday dtstart published updated">(1982)</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Willis_Johnson" title="Willis Johnson">Willis Johnson</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Dallas,_Texas" class="mw-redirect" title="Dallas, Texas">Dallas, Texas</a></div>, <div style="display: inline;" class="country-name">U.S.</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of locations</div></th><td style="line-height: 1.35em;">190+</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Willis J. Johnson (Chairman)<br> <a href="/wiki/Jay_Adair" title="Jay Adair">Jay Adair</a> (CEO)<br></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$1.45 billion (2017)<sup id="cite_ref-SA17_1-0" class="reference"><a href="#cite_note-SA17-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$461 million (2017)<sup id="cite_ref-SA17_1-1" class="reference"><a href="#cite_note-SA17-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$394 million (2017)<sup id="cite_ref-SA17_1-2" class="reference"><a href="#cite_note-SA17-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$2 billion (2017)<sup id="cite_ref-SA17_1-3" class="reference"><a href="#cite_note-SA17-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$1.1 billion (2017)<sup id="cite_ref-SA17_1-4" class="reference"><a href="#cite_note-SA17-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">5,323 (2017)<sup id="cite_ref-SA17_1-5" class="reference"><a href="#cite_note-SA17-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="https://www.copart.com/">www<wbr></wbr>.copart<wbr></wbr>.com</a></span></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Brands"><span class="tocnumber">2</span> <span class="toctext">Brands</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Corporate_information"><span class="tocnumber">3</span> <span class="toctext">Corporate information</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">4</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><a href="/w/index.php?title=Copart&amp;action=edit&amp;section=1" title="Edit section: Overview" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>Copart provides vehicle sellers with a range of services to process and sell salvage and clean title vehicles over the internet, using its patented <a href="/wiki/Online_auction" title="Online auction">virtual auction</a> technology.<sup id="cite_ref-SEC_96_8-0" class="reference"><a href="#cite_note-SEC_96-8">[8]</a></sup></p><p>Copart's buyers are principally used vehicle dealers, dismantlers, rebuilders, exporters and, at some facilities, the general public. Vehicle sellers at Copart auctions consist primarily of insurance companies but also include banks and financial institutions, charities, vehicle dealers, fleet operators, government agencies and rental car companies.<sup id="cite_ref-SEC_06_9-0" class="reference"><a href="#cite_note-SEC_06-9">[9]</a></sup><sup id="cite_ref-Yahoo_10-0" class="reference"><a href="#cite_note-Yahoo-10">[10]</a></sup></p><p>The majority of vehicles Copart sells on behalf of insurance companies are either damaged vehicles deemed a total loss or not economically repairable by the insurance companies or are recovered stolen vehicles for which an insurance settlement with the owner has already been made.<sup id="cite_ref-IDCH_3-1" class="reference"><a href="#cite_note-IDCH-3">[3]</a></sup><sup id="cite_ref-SEC_96_8-1" class="reference"><a href="#cite_note-SEC_96-8">[8]</a></sup></p><p>Copart, through its Copart Direct division, also purchases vehicles directly from the general public for resale.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Brands">Brands</span><span class="mw-editsection"><a href="/w/index.php?title=Copart&amp;action=edit&amp;section=2" title="Edit section: Brands" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li>Autovahinkokeskus (AVK)</li>
+<li>CashForCars.com</li>
+<li>Copart Direct</li>
+<li>CrashedToys</li>
+<li>Drive Auto Auctions</li>
+<li>National Powersport Auctions (NPA)</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Corporate_information">Corporate information</span><span class="mw-editsection"><a href="/w/index.php?title=Copart&amp;action=edit&amp;section=3" title="Edit section: Corporate information" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>In 2012, Copart relocated its corporate headquarters from Fairfield, California, to Dallas, Texas. Copart's Dallas headquarters building consists of approximately 53,000 square feet (4,900 m<sup>2</sup>) of leased office space.<sup id="cite_ref-SEC12_11-0" class="reference"><a href="#cite_note-SEC12-11">[11]</a></sup><sup id="cite_ref-Biz_12-0" class="reference"><a href="#cite_note-Biz-12">[12]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Copart&amp;action=edit&amp;section=4" title="Edit section: History" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<p>Copart was founded in 1982 by Willis J. Johnson in Vallejo, California.<sup id="cite_ref-Collision_Repair_13-0" class="reference"><a href="#cite_note-Collision_Repair-13">[13]</a></sup></p><p>Willis Johnson began expanding Copart in the early 1990s through private loans and equity. By the early '90s, the company had grown to four locations in northern California; and by March 1994, it had added another eight new facilities, culminating in the acquisition of the largest volume seller of salvage in the United States, North Texas Salvage Pool of Dallas, Texas.<sup id="cite_ref-IDCH_3-2" class="reference"><a href="#cite_note-IDCH-3">[3]</a></sup></p><p>Willis Johnson began developing Copart's information technology in the 1990s.<sup id="cite_ref-IDCH_3-3" class="reference"><a href="#cite_note-IDCH-3">[3]</a></sup><sup id="cite_ref-Business_Week_14-0" class="reference"><a href="#cite_note-Business_Week-14">[14]</a></sup><sup id="cite_ref-Forbes_15-0" class="reference"><a href="#cite_note-Forbes-15">[15]</a></sup>
+The first main step in this process was the creation of the Copart Auction System (CAS) in 1997, which was designed to unify and support the growing business as well as allow Copart facilities and sellers to access information, generate reports, and increase operating efficiencies.<sup id="cite_ref-Collision_Repair_13-1" class="reference"><a href="#cite_note-Collision_Repair-13">[13]</a></sup> The next step came in 1998 with Copart's introduction of internet bidding—a departure from the industry standard of local physical auctions.<sup id="cite_ref-SEC_06_9-1" class="reference"><a href="#cite_note-SEC_06-9">[9]</a></sup> As Internet bidding grew in popularity, Copart developed its online auction platform, VB<sup>2</sup>, which it implemented in 2003.<sup id="cite_ref-Collision_Repair_13-2" class="reference"><a href="#cite_note-Collision_Repair-13">[13]</a></sup> VB<sup>2</sup> technology opened the sales process to registered buyers (members) and sellers worldwide.<sup id="cite_ref-Forbes_15-1" class="reference"><a href="#cite_note-Forbes-15">[15]</a></sup><sup id="cite_ref-SEC_04_16-0" class="reference"><a href="#cite_note-SEC_04-16">[16]</a></sup> In fiscal year 2004 in North America and fiscal year 2008 in the U.K., Copart discontinued all live auctions and began remarketing vehicles through VB<sup>2</sup>.<sup id="cite_ref-SEC_07_17-0" class="reference"><a href="#cite_note-SEC_07-17">[17]</a></sup><sup id="cite_ref-Hoovers_18-0" class="reference"><a href="#cite_note-Hoovers-18">[18]</a></sup> Copart now sells more than one million vehicles each year through VB<sup>2</sup> technology.<sup id="cite_ref-SEC_06_9-2" class="reference"><a href="#cite_note-SEC_06-9">[9]</a></sup><sup id="cite_ref-About_Copart_19-0" class="reference"><a href="#cite_note-About_Copart-19">[19]</a></sup></p><p>On March 17, 1994, Copart had its initial public offering (IPO) at $12 per share and debuted on the <a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a> under the symbol "CPRT." Copart's IPO of 2.3 million shares of stock provided the company with the means to become a national company.<sup id="cite_ref-IDCH_3-4" class="reference"><a href="#cite_note-IDCH-3">[3]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><a href="/w/index.php?title=Copart&amp;action=edit&amp;section=5" title="Edit section: See also" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li><a href="/wiki/List_of_S%26P_500_companies" title="List of S&amp;P 500 companies">List of S&amp;P 500 companies</a></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Copart&amp;action=edit&amp;section=6" title="Edit section: References" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-SA17-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-SA17_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SA17_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-SA17_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-SA17_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-SA17_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-SA17_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://seekingalpha.com/filing/3708703">"Copart, Inc. (CPRT) FORM 10-K"</a>. <i>seekingalpha.com</i>. Seeking Alpha. July 31, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=seekingalpha.com&amp;rft.atitle=Copart%2C+Inc.+%28CPRT%29+FORM+10-K&amp;rft.date=2017-07-31&amp;rft_id=https%3A%2F%2Fseekingalpha.com%2Ffiling%2F3708703&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACopart" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-SEC_08-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-SEC_08_2-0">^</a></b></span> <span class="reference-text">"Copart Annual Report, Form 10-K Filing Date September 29, 2008" (<a rel="nofollow" class="external free" href="http://pdf.secdatabase.com/1876/0001047469-08-010447.pdf">http://pdf.secdatabase.com/1876/0001047469-08-010447.pdf</a>). U.S. Securities and Exchange Commission. Retrieved February 1, 2013.</span>
+</li>
+<li id="cite_note-IDCH-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-IDCH_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IDCH_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-IDCH_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-IDCH_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-IDCH_3-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">"Grant, Tina, ed. (1998). <i>International Dictionary of Company Histories.</i> Copart Inc. <b>23</b>. Detroit. St. James Press. pp. 147-149. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-55862-364-7" title="Special:BookSources/1-55862-364-7">1-55862-364-7</a>.</span>
+</li>
+<li id="cite_note-Business_Wire_Germany-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Business_Wire_Germany_4-0">^</a></b></span> <span class="reference-text">34."Copart Expands Operations into Germany" (<a rel="nofollow" class="external free" href="http://www.businesswire.com/news/home/20121112005403/en/Copart-Expands-Operations-Germany">http://www.businesswire.com/news/home/20121112005403/en/Copart-Expands-Operations-Germany</a>). Business Wire. Posted November 12, 2012. Retrieved February 21, 2013.</span>
+</li>
+<li id="cite_note-Business_Wire_Brazil-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Business_Wire_Brazil_5-0">^</a></b></span> <span class="reference-text">"Copart Expands Operations Into Brazil" (<a rel="nofollow" class="external free" href="http://www.businesswire.com/news/home/20121105005910/en/Copart-Expands-Operations-Brazil">http://www.businesswire.com/news/home/20121105005910/en/Copart-Expands-Operations-Brazil</a>). Business Wire. Posted November 5, 2012. Retrieved February 21, 2013.</span>
+</li>
+<li id="cite_note-Business_Wire_Spain-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Business_Wire_Spain_6-0">^</a></b></span> <span class="reference-text">"Copart Expands Operations into Spain" (<a rel="nofollow" class="external free" href="http://www.businesswire.com/news/home/20130611006322/en/Copart-Expands-Operations-Spain">http://www.businesswire.com/news/home/20130611006322/en/Copart-Expands-Operations-Spain</a>). Business Wire. Posted June 11, 2013. Retrieved October 10, 2013.</span>
+</li>
+<li id="cite_note-Ride_Safe-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ride_Safe_7-0">^</a></b></span> <span class="reference-text">“Copart Inc Announces Acquisition Of Ride Safely Middle East Auction, LLC” (<a rel="nofollow" class="external free" href="https://www.reuters.com/finance/stocks/CPRT.O/key-developments/article/2598192">https://www.reuters.com/finance/stocks/CPRT.O/key-developments/article/2598192</a>). Reuters.com. Posted August 28, 2012. Retrieved January 31, 2013.</span>
+</li>
+<li id="cite_note-SEC_96-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-SEC_96_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SEC_96_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"Copart Annual Report, Form 10-K Filing Date October 28, 1996" (<a rel="nofollow" class="external free" href="http://pdf.secdatabase.com/1234/0000912057-96-023870.pdf">http://pdf.secdatabase.com/1234/0000912057-96-023870.pdf</a>). U.S. Securities and Exchange Commission. Retrieved February 1, 2013.</span>
+</li>
+<li id="cite_note-SEC_06-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-SEC_06_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SEC_06_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-SEC_06_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">"Copart Annual Report, Form 10-K Filing Date October 31, 2006" (<a rel="nofollow" class="external free" href="http://pdf.secdatabase.com/752/0001104659-06-069980.pdf">http://pdf.secdatabase.com/752/0001104659-06-069980.pdf</a>). U.S. Securities and Exchange Commission. Retrieved February 1, 2013.</span>
+</li>
+<li id="cite_note-Yahoo-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Yahoo_10-0">^</a></b></span> <span class="reference-text">“Business Summary” (<a rel="nofollow" class="external free" href="https://finance.yahoo.com/q/pr?s=CPRT">https://finance.yahoo.com/q/pr?s=CPRT</a>). Retrieved January 25, 2013.</span>
+</li>
+<li id="cite_note-SEC12-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-SEC12_11-0">^</a></b></span> <span class="reference-text">"Copart Annual Report, Form 10-K Filing Date October 1, 2012" (<a rel="nofollow" class="external free" href="http://www.secdatabase.com/843/0001145443-12-001120.pdf">http://www.secdatabase.com/843/0001145443-12-001120.pdf</a>). U.S. Securities and Exchange Commission. Retrieved March 10, 2014.</span>
+</li>
+<li id="cite_note-Biz-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Biz_12-0">^</a></b></span> <span class="reference-text">“Auto reseller Copart to move HQ to Farmers Branch” (<a rel="nofollow" class="external free" href="http://www.bizjournals.com/dallas/print-edition/2012/02/17/auto-reseller-copart-to-move-hq-to.htmlAuto">http://www.bizjournals.com/dallas/print-edition/2012/02/17/auto-reseller-copart-to-move-hq-to.htmlAuto</a> reseller Copart to move HQ to Farmers Branch). Dallas Business Journal. Posted February 17, 2012. Retrieved January 24, 2013.</span>
+</li>
+<li id="cite_note-Collision_Repair-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Collision_Repair_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Collision_Repair_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Collision_Repair_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">“Copart to Celebrate 25 Years of Success” (<a rel="nofollow" class="external free" href="http://collisionrepairmag.com/component/content/article/66-profiles/10359-copart-to-celebrate-25-years-of-success">http://collisionrepairmag.com/component/content/article/66-profiles/10359-copart-to-celebrate-25-years-of-success</a>). Collision Repair Magazine. Posted July 17, 2007. Retrieved May 5, 2014.</span>
+</li>
+<li id="cite_note-Business_Week-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Business_Week_14-0">^</a></b></span> <span class="reference-text">"Turning Rust into Gold" (<a rel="nofollow" class="external free" href="http://www.businessweek.com/stories/2002-06-09/turning-rust-into-gold">http://www.businessweek.com/stories/2002-06-09/turning-rust-into-gold</a>). Business Week. Posted June 9, 2002. Retrieved January 21, 2013.</span>
+</li>
+<li id="cite_note-Forbes-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Forbes_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Forbes_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"The Sotheby's of Scrap" (<a rel="nofollow" class="external free" href="https://www.forbes.com/2005/01/11/cz_rp_0111phalon.html">https://www.forbes.com/2005/01/11/cz_rp_0111phalon.html</a>) Fortune. Posted January 11, 2005. Retrieved January 23, 2013.</span>
+</li>
+<li id="cite_note-SEC_04-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-SEC_04_16-0">^</a></b></span> <span class="reference-text">"Copart Annual Report, Form 10-K Filing Date October 14, 2004" (<a rel="nofollow" class="external free" href="http://pdf.secdatabase.com/2242/0000950134-04-015006.pdf">http://pdf.secdatabase.com/2242/0000950134-04-015006.pdf</a>). U.S. Securities and Exchange Commission. Retrieved October 22, 2014.</span>
+</li>
+<li id="cite_note-SEC_07-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-SEC_07_17-0">^</a></b></span> <span class="reference-text">“Copart, Inc. 2007 Annual Report, Form 10-K Filing Date October 1, 2007” (<a rel="nofollow" class="external free" href="http://pdf.secdatabase.com/1556/0001104659-07-072450.pdf">http://pdf.secdatabase.com/1556/0001104659-07-072450.pdf</a>) U.S. Securities and Exchange Commission. Retrieved October 22, 2014.</span>
+</li>
+<li id="cite_note-Hoovers-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hoovers_18-0">^</a></b></span> <span class="reference-text">"Copart, Inc. Company Profile" (<a rel="nofollow" class="external free" href="http://www.hoovers.com/company-information/cs/company-profile.Copart_Inc.6ac2a0902ab29b10.html">http://www.hoovers.com/company-information/cs/company-profile.Copart_Inc.6ac2a0902ab29b10.html</a>). Hoovers.com. Retrieved October 22, 2014.</span>
+</li>
+<li id="cite_note-About_Copart-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-About_Copart_19-0">^</a></b></span> <span class="reference-text">"About Copart" (<a rel="nofollow" class="external free" href="http://www.copart.com/c2/about_copart_car_salvage_auction.html">http://www.copart.com/c2/about_copart_car_salvage_auction.html</a>). Copart.com. Retrieved October 22, 2014.</span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Copart&amp;action=edit&amp;section=7" title="Edit section: External links" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-7 collapsible-block" id="mf-section-7">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://www.copart.com/">Official website</a></span></span></li>
+<li>Business data for Copart: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=CPRT">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=CPRT">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.bloomberg.com/quote/CPRT:US">Bloomberg</a></li><li><a rel="nofollow" class="external text" href="https://www.reuters.com/finance/stocks/overview?symbol=CPRT.O">Reuters</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=CPRT">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Copart&amp;oldid=941324968">https://en.wikipedia.org/w/index.php?title=Copart&amp;oldid=941324968</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Copart"
+				data-user-name="ClueBot NG"
+				data-user-gender="unknown"
+				data-timestamp="1581979487">
+				<span>Last edited on 17 February 2020, at 22:44</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Copart&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.482","ppvisitednodes":{"value":1636,"limit":1000000},"postexpandincludesize":{"value":29825,"limit":2097152},"templateargumentsize":{"value":3436,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17972,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  425.118      1 -total"," 33.74%  143.439      1 Template:Infobox_company"," 32.62%  138.665      1 Template:Reflist"," 30.62%  130.150      1 Template:Infobox"," 15.96%   67.833      1 Template:Cite_web"," 12.87%   54.713      1 Template:Br_separated_entries"," 11.90%   50.579      4 Template:Wikidata"," 11.78%   50.093      1 Template:Short_description"," 10.18%   43.267      1 Template:ISBN","  8.14%   34.607      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.135","limit":"10.000"},"limitreport-memusage":{"value":5440350,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20200416051534","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Copart","url":"https:\/\/en.wikipedia.org\/wiki\/Copart","sameAs":"http:\/\/www.wikidata.org\/entity\/Q16951448","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q16951448","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-01-29T16:15:27Z","dateModified":"2020-02-17T22:44:47Z","headline":"online vehicle auction"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1352"});});</script>		</body>
+		</html>
+		

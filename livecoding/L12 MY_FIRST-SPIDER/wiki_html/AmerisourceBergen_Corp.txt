@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>AmerisourceBergen - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoJ3QpAICoAAFTn7GoAAACS","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"AmerisourceBergen","wgTitle":"AmerisourceBergen","wgCurRevisionId":949261218,"wgRevisionId":949261218,"wgArticleId":1445945,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"AmerisourceBergen","wgRelevantArticleId":1445945,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"AmerisourceBergen_Corp","wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/AmerisourceBergen","wgWikibaseItemId":"Q470156","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,
+"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=AmerisourceBergen&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=AmerisourceBergen&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/AmerisourceBergen"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-AmerisourceBergen rootpage-AmerisourceBergen stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=AmerisourceBergen" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=AmerisourceBergen" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">AmerisourceBergen</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/AmerisourceBergen" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=AmerisourceBergen" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=AmerisourceBergen&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=AmerisourceBergen_Corp&amp;redirect=no" class="mw-redirect" title="AmerisourceBergen Corp">AmerisourceBergen Corp</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<table class="box-Cleanup-PR plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This article <b>reads like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#SOAPBOX" title="Wikipedia:What Wikipedia is not">a press release</a> or <a href="/wiki/Wikipedia:What_Wikipedia_is_not#NEWS" title="Wikipedia:What Wikipedia is not">a news article</a></b> or <b>is largely based on <a href="/wiki/Wikipedia:Notability_(events)#Routine_coverage" title="Wikipedia:Notability (events)">routine coverage</a></b> or <b><a href="/wiki/Wikipedia:Notability_(events)#Sensationalism" title="Wikipedia:Notability (events)">sensationalism</a></b>.<span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=AmerisourceBergen&amp;action=edit">expand this article</a> with <a href="/wiki/Wikipedia:Identifying_reliable_sources" class="mw-redirect" title="Wikipedia:Identifying reliable sources">properly sourced content</a> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">
+quality standards</a>, <a href="/wiki/Wikipedia:Notability_(events)" title="Wikipedia:Notability (events)">event notability guideline</a>, or <a href="/wiki/Wikipedia:What_Wikipedia_is_not" title="Wikipedia:What Wikipedia is not">encyclopedic content policy</a>.</span>  <small class="date-container"><i>(<span class="date">February 2018</span>)</i></small></div></td></tr></tbody></table><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=AmerisourceBergen&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i> <a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22AmerisourceBergen%22">"AmerisourceBergen"</a> – <a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22AmerisourceBergen%22+-wikipedia">news</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22AmerisourceBergen%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22AmerisourceBergen%22+-wikipedia">books</a> <b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22AmerisourceBergen%22">scholar</a> <b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22AmerisourceBergen%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">February 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p class="mw-empty-elt"> 
+
+</p>
+<p><b>AmerisourceBergen Corporation</b> is an American <a href="/wiki/Wholesale" class="mw-redirect" title="Wholesale">drug wholesale</a> company that was formed by the merger of Bergen Brunswig and AmeriSource in 2001.<sup id="cite_ref-AmerisourceBergen-Aug-2001-8-K_2-0" class="reference"><a href="#cite_note-AmerisourceBergen-Aug-2001-8-K-2">[2]</a></sup> They provide drug distribution and related services designed to reduce costs and improve patient outcomes, distribute a line of brand name and generic <a href="/wiki/Pharmaceuticals" class="mw-redirect" title="Pharmaceuticals">pharmaceuticals</a>, <a href="/wiki/Over-the-counter_drug" title="Over-the-counter drug">over-the-counter</a> (OTC) health care products and home health care supplies and equipment to a wide variety of health care providers located throughout the <a href="/wiki/United_States" title="United States">United States</a>, including acute care <a href="/wiki/Hospitals" class="mw-redirect" title="Hospitals">hospitals</a> and <a href="/wiki/Health_systems" class="mw-redirect" title="Health systems">health systems</a>, independent and chain retail <a href="/wiki/Pharmacies" class="mw-redirect" title="Pharmacies">pharmacies</a>, mail-order facilities, <a href="/wiki/Physicians" class="mw-redirect" title="Physicians">physicians</a>, clinics and other alternate site facilities, as well as skilled nursing and <a href="/wiki/Assisted_living" title="Assisted living">assisted living</a> centers. They also provide pharmaceuticals and pharmacy services to long-term care, workers' compensation and specialty drug patients.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">AmerisourceBergen Corporation</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:AmerisourceBergen_logo.svg" class="image" title="AmerisourceBergen Corporation"><img alt="AmerisourceBergen Corporation" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AmerisourceBergen_logo.svg/220px-AmerisourceBergen_logo.svg.png" decoding="async" width="220" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AmerisourceBergen_logo.svg/330px-AmerisourceBergen_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AmerisourceBergen_logo.svg/440px-AmerisourceBergen_logo.svg.png 2x" data-file-width="1024" data-file-height="279"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:ABC">ABC</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US03073E1055">US03073E1055 </a><a href="https://www.wikidata.org/wiki/Q470156?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Pharmaceutical" class="mw-redirect" title="Pharmaceutical">Pharmaceutical</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">Merger between AmeriSource Health and Bergen Brunswig in 2001</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Chesterbrook,_Pennsylvania" title="Chesterbrook, Pennsylvania">Chesterbrook, Pennsylvania</a>, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;"><a href="/wiki/North_America" title="North America">North America</a><br><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><a href="/w/index.php?title=Richard_C._Gozon&amp;action=edit&amp;redlink=1" class="new" title="Richard C. Gozon (page does not exist)">Richard C. Gozon</a><br>(<a href="/wiki/Chairman" class="mw-redirect" title="Chairman">Chairman</a>)<br><a href="/wiki/Steven_H._Collis" title="Steven H. Collis">Steven H. Collis</a><br><small>(<a href="/wiki/President_(corporate_title)" title="President (corporate title)">President</a>), (<a href="/wiki/CEO" class="mw-redirect" title="CEO">CEO</a>) &amp; (<a href="/wiki/Board_of_directors" title="Board of directors">Director</a>)</small></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a href="/wiki/Pharmaceutical" class="mw-redirect" title="Pharmaceutical">Pharmaceuticals</a> and <a href="/wiki/Pharmacy" title="Pharmacy">pharmacy</a> services</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap"><a href="/wiki/United_States_dollar" title="United States dollar">US$</a>167.93 billion</span> (2018)<sup id="cite_ref-xbrlus_1_1-0" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$1.44 billion</span> (2018)<sup id="cite_ref-xbrlus_1_1-1" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$1.65 billion</span> (2018)<sup id="cite_ref-xbrlus_1_1-2" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$37.66 billion</span> (2018)<sup id="cite_ref-xbrlus_1_1-3" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$2.93 billion</span> (2018)<sup id="cite_ref-xbrlus_1_1-4" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">20,000 (2018)<sup id="cite_ref-xbrlus_1_1-5" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="https://www.amerisourcebergen.com/">www<wbr></wbr>.amerisourcebergen<wbr></wbr>.com</a></span></td></tr><tr><td colspan="2" style="text-align:center;line-height: 1.35em;"><b>Footnotes / references</b><br><sup id="cite_ref-xbrlus_1_1-6" class="reference"><a href="#cite_note-xbrlus_1-1">[1]</a></sup></td></tr></tbody></table><p>AmerisourceBergen is a market leader in pharmaceutical distribution handling about 20% of all of the pharmaceuticals sold and distributed throughout the country and ranked 10th on the <a href="/wiki/Fortune_500" title="Fortune 500">Fortune 500</a> list for 2019 with over $153 billion in annual revenue.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> In terms of revenue (79.49 billion in 2012) the firm is the largest based in <a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Finances"><span class="tocnumber">2</span> <span class="toctext">Finances</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Corporate_structure"><span class="tocnumber">3</span> <span class="toctext">Corporate structure</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Good_Neighbor_Pharmacy"><span class="tocnumber">4</span> <span class="toctext">Good Neighbor Pharmacy</span></a>
+<ul><li class="toclevel-2 tocsection-5"><a href="#ThoughtSpot"><span class="tocnumber">4.1</span> <span class="toctext">ThoughtSpot</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-6"><a href="#KnowledgeDriven"><span class="tocnumber">5</span> <span class="toctext">KnowledgeDriven</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=AmerisourceBergen&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>AmerisourceBergen was formed in 2001 following the merger of AmeriSource Health Corporation and Bergen Brunswig Corporation.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>  AmeriSource and Bergen were both successful pharmaceutical distributors that served similar markets but covered somewhat different geographies.  Bringing the two together gave the company a strong national presence that was geared especially towards serving independent community pharmacies, regional retail chain pharmacies, hospitals, physician offices, clinics and other alternate care facilities.
+</p><p>AmerisourceBergen has 26 pharmaceutical distribution centers in the US, nine distribution centers in Canada, four specialty distribution centers in the US, and over 1 million square feet of packaging production capacity in the US and the UK. With the addition of World Courier<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>, the largest specialty courier company in the world, over 150 company-owned offices around the globe were added to the company.
+</p><p>AmerisourceBergen is among several distributors that have been sued by <a href="/wiki/West_Virginia" title="West Virginia">West Virginian</a> governments for contributing to the <a href="/wiki/Opioid_epidemic" title="Opioid epidemic">Opioid epidemic</a>, by shipping inordinate amounts of pain medication into the state.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-ReferenceB_10-0" class="reference"><a href="#cite_note-ReferenceB-10">[10]</a></sup></p><p>On January 3, 2018, AmerisourceBergen acquired H. D. Smith, the largest privately-held national pharmaceutical wholesaler in the U.S.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Finances">Finances</span><span class="mw-editsection"><a href="/w/index.php?title=AmerisourceBergen&amp;action=edit&amp;section=2" title="Edit section: Finances" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>For the fiscal year 2017, AmerisourceBergen reported earnings of US$364 million, with an annual revenue of US$153.144 billion, an increase of 4.3% over the previous fiscal cycle. AmerisourceBergen's shares traded at over $84 per share, and its market capitalization was valued at over US$18.9 billion in October 2018.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<table class="wikitable float-left" style="text-align: right;"><tbody><tr><th>Year
+</th>
+<th>Revenue<br>in mil. USD$
+</th>
+<th>Net income<br>in mil. USD$
+</th>
+<th>Total Assets<br>in mil. USD$
+</th>
+<th>Price per Share<br>in USD$
+</th>
+<th>Employees
+</th></tr><tr><td>2005
+</td>
+<td>54,577
+</td>
+<td>265
+</td>
+<td>11,381
+</td>
+<td>14.19
+</td>
+<td>
+</td></tr><tr><td>2006
+</td>
+<td>60,812
+</td>
+<td>468
+</td>
+<td>12,784
+</td>
+<td>18.46
+</td>
+<td>
+</td></tr><tr><td>2007
+</td>
+<td>65,672
+</td>
+<td>469
+</td>
+<td>12,310
+</td>
+<td>20.52
+</td>
+<td>
+</td></tr><tr><td>2008
+</td>
+<td>70,190
+</td>
+<td>251
+</td>
+<td>12,218
+</td>
+<td>16.87
+</td>
+<td>
+</td></tr><tr><td>2009
+</td>
+<td>71,760
+</td>
+<td>503
+</td>
+<td>13,573
+</td>
+<td>17.36
+</td>
+<td>
+</td></tr><tr><td>2010
+</td>
+<td>77,776
+</td>
+<td>637
+</td>
+<td>14,435
+</td>
+<td>26.66
+</td>
+<td>
+</td></tr><tr><td>2011
+</td>
+<td>78,696
+</td>
+<td>707
+</td>
+<td>14,983
+</td>
+<td>34.55
+</td>
+<td>
+</td></tr><tr><td>2012
+</td>
+<td>78,081
+</td>
+<td>719
+</td>
+<td>15,442
+</td>
+<td>35.15
+</td>
+<td>
+</td></tr><tr><td>2013
+</td>
+<td>87,959
+</td>
+<td>434
+</td>
+<td>18,919
+</td>
+<td>52.44
+</td>
+<td>13,000
+</td></tr><tr><td>2014
+</td>
+<td>119,569
+</td>
+<td>274
+</td>
+<td>21,532
+</td>
+<td>69.98
+</td>
+<td>14,000
+</td></tr><tr><td>2015
+</td>
+<td>135,962
+</td>
+<td>−138
+</td>
+<td>27,963
+</td>
+<td>98.73
+</td>
+<td>17,500
+</td></tr><tr><td>2016
+</td>
+<td>146,850
+</td>
+<td>1,428
+</td>
+<td>33,638
+</td>
+<td>80.03
+</td>
+<td>19,000
+</td></tr><tr><td>2017
+</td>
+<td>153,144
+</td>
+<td>364
+</td>
+<td>35,316
+</td>
+<td>84.25
+</td>
+<td>20,000
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Corporate_structure">Corporate structure</span><span class="mw-editsection"><a href="/w/index.php?title=AmerisourceBergen&amp;action=edit&amp;section=3" title="Edit section: Corporate structure" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>AmerisourceBergen operates its pharmaceutical distribution business under four primary units: AmerisourceBergen Drug Corporation (ABDC), AmerisourceBergen Specialty Group (ABSG), AmerisourceBergen Consulting Services (ABCS) and World Courier. In March 2016 Walgreens Boots Alliance Inc. announced it would exercise an option to purchase 22.7 million shares of AmerisourceBergen stock and thereby control 15% of the company.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Good_Neighbor_Pharmacy">Good Neighbor Pharmacy</span><span class="mw-editsection"><a href="/w/index.php?title=AmerisourceBergen&amp;action=edit&amp;section=4" title="Edit section: Good Neighbor Pharmacy" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<p><a href="/wiki/Good_Neighbor_Pharmacy" title="Good Neighbor Pharmacy">Good Neighbor Pharmacy</a> is an American retailers' cooperative network of more than 3,400 independently owned and operated pharmacies. It has a business affiliation with AmerisourceBergen, which sponsors the network and owns the name "Good Neighbor Pharmacy." Good Neighbor Pharmacy is the sponsor for "Thought Spot" the annual trade show held in <a href="/wiki/Las_Vegas_Valley" title="Las Vegas Valley">Las Vegas</a>.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="ThoughtSpot">ThoughtSpot</span><span class="mw-editsection"><a href="/w/index.php?title=AmerisourceBergen&amp;action=edit&amp;section=5" title="Edit section: ThoughtSpot" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>ThoughtSpot is a four-day trade show put on by Good Neighbor Pharmacy held in or around July in Las Vegas aimed for and limited to community and independent pharmacies.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p><p>Exhibitors are represented throughout the <a href="/wiki/Healthcare_industry" title="Healthcare industry">healthcare industry</a> including, brand name, generic and over the counter products.
+ThoughtSpot 2013 was hosted at the MGM Grand, Las Vegas from July 24 to July 27.  Special guest musical performance by <a href="/wiki/Bret_Michaels" title="Bret Michaels">Bret Michaels</a> capped off the week on July 27 at a special attendee-only closing event.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="KnowledgeDriven">KnowledgeDriven</span><span class="mw-editsection"><a href="/w/index.php?title=AmerisourceBergen&amp;action=edit&amp;section=6" title="Edit section: KnowledgeDriven" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<p>KnowledgeDriven is a resource site sponsored by AmerisourceBergen.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=AmerisourceBergen&amp;action=edit&amp;section=7" title="Edit section: References" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references"><li id="cite_note-xbrlus_1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-xbrlus_1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-xbrlus_1_1-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190512053855/http://investor.amerisourcebergen.com/static-files/9b5c8656-e68e-4dd0-aabe-253d6128c0c7">"US SEC: Form 10-K AmerisourceBergen"</a>. <a href="/wiki/United_States_Securities_and_Exchange_Commission" class="mw-redirect" title="United States Securities and Exchange Commission">United States Securities and Exchange Commission</a>. Archived from <a rel="nofollow" class="external text" href="http://investor.amerisourcebergen.com/static-files/9b5c8656-e68e-4dd0-aabe-253d6128c0c7">the original</a> <span class="cs1-format">(PDF)</span> on May 12, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">March 28,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=US+SEC%3A+Form+10-K+AmerisourceBergen&amp;rft.pub=United+States+Securities+and+Exchange+Commission&amp;rft_id=http%3A%2F%2Finvestor.amerisourcebergen.com%2Fstatic-files%2F9b5c8656-e68e-4dd0-aabe-253d6128c0c7&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-AmerisourceBergen-Aug-2001-8-K-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-AmerisourceBergen-Aug-2001-8-K_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/607/94787101500695/filing-main.htm">"AmerisourceBergen, Form 8-K, Current Report, Filing Date Aug 30, 2001"</a>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">January 7,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AmerisourceBergen%2C+Form+8-K%2C+Current+Report%2C+Filing+Date+Aug+30%2C+2001&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F607%2F94787101500695%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/amerisourcebergen/">"AmerisourceBergen"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 24,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=AmerisourceBergen&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Famerisourcebergen%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">AmerisourceBergen: The biggest Pennsylvania company you never heard of, by David Sell, Philadelphia Inquirer, July 15, 2012</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.bizjournals.com/philadelphia/news/2013/05/08/seven-area-companies-made-fortune-500.html">"Eight area companies make Fortune 500"</a>. <i><a href="/wiki/Philadelphia_Business_Journal" title="Philadelphia Business Journal">Philadelphia Business Journal</a></i>. May 28, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">June 24,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Philadelphia+Business+Journal&amp;rft.atitle=Eight+area+companies+make+Fortune+500&amp;rft.date=2013-05-28&amp;rft_id=http%3A%2F%2Fwww.bizjournals.com%2Fphiladelphia%2Fnews%2F2013%2F05%2F08%2Fseven-area-companies-made-fortune-500.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160322190042/http://amerisourcebergen.com/investor/phoenix.zhtml?c=61181&amp;p=irol-newsArticle&amp;ID=203110">"AmerisourceBergen Added to S&amp;P 500 index"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.amerisourcebergen.com/investor/phoenix.zhtml?c=61181&amp;p=irol-newsArticle&amp;ID=203110">the original</a> on March 22, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">July 12,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AmerisourceBergen+Added+to+S%26P+500+index&amp;rft_id=http%3A%2F%2Fwww.amerisourcebergen.com%2Finvestor%2Fphoenix.zhtml%3Fc%3D61181%26p%3Dirol-newsArticle%26ID%3D203110&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.worldcourier.com/news-and-events/press-releases/amerisourcebergen-acquires-world-courier">"AmerisourceBergen Acquires World Courier"</a>. <i>www.worldcourier.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 16,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.worldcourier.com&amp;rft.atitle=AmerisourceBergen+Acquires+World+Courier&amp;rft_id=https%3A%2F%2Fwww.worldcourier.com%2Fnews-and-events%2Fpress-releases%2Famerisourcebergen-acquires-world-courier&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">Higham, Scott; Bernstein, Lenny (March 9, 2017). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/national/health-science/lawsuits-filed-against-drug-distributors-in-west-virginia/2017/03/09/f9e3165e-0501-11e7-b1e9-a05d3c21f7cf_story.html">"Opioid distributors sued by West Virginia counties hit by drug crisis"</a>. <i>Washington Post</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0190-8286">0190-8286</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 13,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Washington+Post&amp;rft.atitle=Opioid+distributors+sued+by+West+Virginia+counties+hit+by+drug+crisis&amp;rft.date=2017-03-09&amp;rft.issn=0190-8286&amp;rft.aulast=Higham&amp;rft.aufirst=Scott&amp;rft.au=Bernstein%2C+Lenny&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fnational%2Fhealth-science%2Flawsuits-filed-against-drug-distributors-in-west-virginia%2F2017%2F03%2F09%2Ff9e3165e-0501-11e7-b1e9-a05d3c21f7cf_story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Jon Kamp (June 27, 2012). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB10001424052702304058404577492853204473294">"West Virginia Sues Drug Distributors in Pill-Abuse Fight"</a>. <i>WSJ</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=WSJ&amp;rft.atitle=West+Virginia+Sues+Drug+Distributors+in+Pill-Abuse+Fight&amp;rft.date=2012-06-27&amp;rft.au=Jon+Kamp&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2FSB10001424052702304058404577492853204473294&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-ReferenceB-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-ReferenceB_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wvgazette.com/article/20150517/GZ01/150519456/1419">"Drug firms shipped 40M pain pills a year to WV"</a>. <i>Charleston Gazette-Mail</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Charleston+Gazette-Mail&amp;rft.atitle=Drug+firms+shipped+40M+pain+pills+a+year+to+WV&amp;rft_id=http%3A%2F%2Fwww.wvgazette.com%2Farticle%2F20150517%2FGZ01%2F150519456%2F1419&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.amerisourcebergen.com/abcnew/newsroom/press-releases/amerisourcebergen-completes-acquisition-of-hd-smith">"AmerisourceBergen Completes Acquisition of HD Smith"</a>. <i>www.amerisourcebergen.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.amerisourcebergen.com&amp;rft.atitle=AmerisourceBergen+Completes+Acquisition+of+HD+Smith&amp;rft_id=https%3A%2F%2Fwww.amerisourcebergen.com%2Fabcnew%2Fnewsroom%2Fpress-releases%2Famerisourcebergen-completes-acquisition-of-hd-smith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.amerisourcebergen.com/financial-information/annual-reports">"Financial Reports | AmerisourceBergen Corporation"</a>. <i>AmerisourceBergen Corporation</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 7,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AmerisourceBergen+Corporation&amp;rft.atitle=Financial+Reports+%7C+AmerisourceBergen+Corporation&amp;rft_id=http%3A%2F%2Finvestor.amerisourcebergen.com%2Ffinancial-information%2Fannual-reports&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Leeclaire, George (March 18, 2016). <a rel="nofollow" class="external text" href="http://www.dailyherald.com/article/20160318/business/160318688/">"Walgreens Boots buys bigger stake in AmerisourceBergen"</a>. Associated Press<span class="reference-accessdate">. Retrieved <span class="nowrap">September 25,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Walgreens+Boots+buys+bigger+stake+in+AmerisourceBergen&amp;rft.date=2016-03-18&amp;rft.aulast=Leeclaire&amp;rft.aufirst=George&amp;rft_id=http%3A%2F%2Fwww.dailyherald.com%2Farticle%2F20160318%2Fbusiness%2F160318688%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160525214839/http://goodneighborpharmacyevents.com/events.php">"Events"</a>. <i>AmerisourceBergen</i>. Archived from <a rel="nofollow" class="external text" href="http://goodneighborpharmacyevents.com/events.php">the original</a> on May 25, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">May 11,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AmerisourceBergen&amp;rft.atitle=Events&amp;rft_id=http%3A%2F%2Fgoodneighborpharmacyevents.com%2Fevents.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.prweb.com/releases/retail-management-rms/thoughtspot/prweb12822943.htm">"Retail Management Solutions to Attend The AmerisourceBergen ThoughtSpot 2015 Conference and Trade Show"</a>. <i>PRWeb</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 24,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PRWeb&amp;rft.atitle=Retail+Management+Solutions+to+Attend+The+AmerisourceBergen+ThoughtSpot+2015+Conference+and+Trade+Show&amp;rft_id=http%3A%2F%2Fwww.prweb.com%2Freleases%2Fretail-management-rms%2Fthoughtspot%2Fprweb12822943.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304054045/http://thoughtspot2013.com/thoughtspot.htm">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://thoughtspot2013.com/thoughtspot.htm">the original</a> on March 4, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fthoughtspot2013.com%2Fthoughtspot.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.knowledgedriven.com/about.aspx">"About"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About&amp;rft_id=http%3A%2F%2Fwww.knowledgedriven.com%2Fabout.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerisourceBergen" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=AmerisourceBergen&amp;action=edit&amp;section=8" title="Edit section: External links" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-7 collapsible-block" id="mf-section-7">
+<style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul><li><span><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" decoding="async" width="28" height="28" class="noviewer" data-file-width="512" data-file-height="512"></noscript><span class="lazy-image-placeholder" style="width: 28px;height: 28px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" data-alt="" data-width="28" data-height="28" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-class="noviewer"> </span></span><span><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li></ul></div>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.amerisourcebergen.com/">Official website</a></span></span> <a href="https://www.wikidata.org/wiki/Q470156#P856" title="Edit this at Wikidata"><noscript><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" data-file-width="20" data-file-height="20"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" data-alt="Edit this at Wikidata" data-width="10" data-height="10" data-srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x"> </span></a></li>
+<li>Business data for AmerisourceBergen: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=ABC">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=ABC">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=ABC">SEC filings</a></li></ul></div></li></ul></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=AmerisourceBergen&amp;oldid=949261218">https://en.wikipedia.org/w/index.php?title=AmerisourceBergen&amp;oldid=949261218</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/AmerisourceBergen"
+				data-user-name="Ghosts&amp;empties"
+				data-user-gender="male"
+				data-timestamp="1586093945">
+				<span>Last edited on 5 April 2020, at 13:39</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=AmerisourceBergen&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.560","walltime":"0.754","ppvisitednodes":{"value":2067,"limit":1000000},"postexpandincludesize":{"value":61319,"limit":2097152},"templateargumentsize":{"value":4335,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":51854,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  681.211      1 -total"," 36.11%  245.982      1 Template:Reflist"," 28.26%  192.523      1 Template:Infobox_company"," 24.63%  167.793      1 Template:Infobox"," 21.74%  148.121     12 Template:Cite_web"," 10.55%   71.891      2 Template:Ambox","  9.84%   67.003      1 Template:Short_description","  9.68%   65.971      1 Template:Br_separated_entries","  9.67%   65.862      8 Template:Wikidata","  8.54%   58.188      4 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.299","limit":"10.000"},"limitreport-memusage":{"value":8343779,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20200416053237","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"AmerisourceBergen","url":"https:\/\/en.wikipedia.org\/wiki\/AmerisourceBergen","sameAs":"http:\/\/www.wikidata.org\/entity\/Q470156","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q470156","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-29T22:14:26Z","dateModified":"2020-04-05T13:39:05Z","headline":"company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw1321"});});</script>		</body>
+		</html>
+		

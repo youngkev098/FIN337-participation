@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Illinois Tool Works - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"Xpi11QpAEKIAAvwKnLwAAABE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Illinois_Tool_Works","wgTitle":"Illinois Tool Works","wgCurRevisionId":944540458,"wgRevisionId":944540458,"wgArticleId":4315143,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Illinois_Tool_Works","wgRelevantArticleId":4315143,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1510378","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/1/12/Illinois_Tool_Works_%28logo%29.png"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Illinois_Tool_Works&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Illinois_Tool_Works&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Illinois_Tool_Works"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Illinois_Tool_Works rootpage-Illinois_Tool_Works stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Illinois+Tool+Works" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Illinois+Tool+Works" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Illinois Tool Works</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Illinois_Tool_Works" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Illinois+Tool+Works" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Illinois_Tool_Works&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><p><b>Illinois Tool Works Inc.</b> or <b>ITW</b> is an American <a href="/w/index.php?title=Fortune_250&amp;action=edit&amp;redlink=1" class="new" title="Fortune 250 (page does not exist)">Fortune 250</a> <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> company that produces engineered fasteners and components, equipment and consumable systems, and specialty products.  It was founded in 1912 by Byron L. Smith.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Illinois Tool Works Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Illinois_Tool_Works_(logo).png" class="image"><img alt="Illinois Tool Works (logo).png" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Illinois_Tool_Works_%28logo%29.png/220px-Illinois_Tool_Works_%28logo%29.png" decoding="async" width="220" height="75" data-file-width="400" data-file-height="136"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;">Public company</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:ITW">ITW</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US4523081093">US4523081093 </a><a href="https://www.wikidata.org/wiki/Q1510378?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Manufacturing" title="Manufacturing">Manufacturing</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1912<span class="noprint">; 108 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1912</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;">Byron L. Smith</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Glenview,_Cook_County,_Illinois" class="mw-redirect" title="Glenview, Cook County, Illinois">Glenview, Illinois</a>, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">Worldwide</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><a href="/w/index.php?title=E._Scott_Santi&amp;action=edit&amp;redlink=1" class="new" title="E. Scott Santi (page does not exist)">E. Scott Santi</a> <span style="font-size:85%;">(CEO)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">US$13.6B <small>(2016)</small><sup id="cite_ref-2015IncomeStatement_1-0" class="reference"><a href="#cite_note-2015IncomeStatement-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">US$3.064B <small>(2016)</small><sup id="cite_ref-2015IncomeStatement_1-1" class="reference"><a href="#cite_note-2015IncomeStatement-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">US$2.035B <small>(2016)</small><sup id="cite_ref-2015IncomeStatement_1-2" class="reference"><a href="#cite_note-2015IncomeStatement-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300">US$15.201B <small>(2016)</small><sup id="cite_ref-2015IncomeStatement_1-3" class="reference"><a href="#cite_note-2015IncomeStatement-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300">US$4.254B <small>(2016)</small><sup id="cite_ref-2015IncomeStatement_1-4" class="reference"><a href="#cite_note-2015IncomeStatement-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">50,000 (2017)<sup id="cite_ref-Fortune_2-0" class="reference"><a href="#cite_note-Fortune-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><a rel="nofollow" class="external text" href="http://itw.com">ITW.com</a></td></tr></tbody></table><p>Today, it employs approximately 48,000 people<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> in hundreds of businesses across 55 countries,<sup id="cite_ref-:0_5-0" class="reference"><a href="#cite_note-:0-5">[5]</a></sup> and is based in <a href="/wiki/Glenview,_Cook_County,_Illinois" class="mw-redirect" title="Glenview, Cook County, Illinois">Glenview, Illinois</a>, a suburb of <a href="/wiki/Chicago,_Illinois" class="mw-redirect" title="Chicago, Illinois">Chicago, Illinois</a>.
+</p><p>ITW has more than 17,000 granted and <a href="/wiki/Patent_pending" title="Patent pending">pending patent</a> applications worldwide<sup id="cite_ref-:0_5-1" class="reference"><a href="#cite_note-:0-5">[5]</a></sup>. The company typically ranks in the top 100 of patent issuers in the U.S.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup> It is ranked 414 on the Forbes Global 2,000.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#ITW_subsidiaries"><span class="tocnumber">1</span> <span class="toctext">ITW subsidiaries</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Illegal_exports"><span class="tocnumber">2</span> <span class="toctext">Illegal exports</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="ITW_subsidiaries">ITW subsidiaries</span><span class="mw-editsection"><a href="/w/index.php?title=Illinois_Tool_Works&amp;action=edit&amp;section=1" title="Edit section: ITW subsidiaries" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>ITW comprises a number of subsidiaries. Notable brands include Hobart, <a href="/wiki/Miller_Electric" title="Miller Electric">Miller Electric</a>, DUO-FAST fasteners, Paslode, Foster Refrigerator,<sup id="cite_ref-fosterrefrigerator1_6-0" class="reference"><a href="#cite_note-fosterrefrigerator1-6">[6]</a></sup> and the Wolf Range Company. In August 2018, U.S. Tax Court Judge <a href="/wiki/Albert_G._Lauber" title="Albert G. Lauber">Albert G. Lauber</a> determined that ITW owed no tax on over $356 million in repatriated funds from its foreign subsidiaries because the transactions had been sufficiently structured as debt.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p><p>The following is a list of ITW subsidiaries:
+</p>
+<div class="div-col columns column-width" style="-moz-column-width: 18em; -webkit-column-width: 18em; column-width: 18em;">
+<ul><li>A V Co 1 Limited</li>
+<li>A V Co 1 Limited</li>
+<li>A V Co 2 Limited</li>
+<li>A V Co 2 Limited</li>
+<li>A V Co 3 Limited</li>
+<li>A V Co 3 Limited</li>
+<li>Accessories Marketing Holding Corp.</li>
+<li>ACCULUBE Manufacturing GmbH - Schmiermittel und -geräte -</li>
+<li>Advanced Molding Company, Inc.</li>
+<li>AIP/BI Holdings, Inc.</li>
+<li>Allen Coding GmbH</li>
+<li>Allen France SAS</li>
+<li>Alpine Automation Limited</li>
+<li>Alpine Holdings, Inc.</li>
+<li>Alpine Systems Corporation</li>
+<li>Anaerobicos S.r.l.</li>
+<li>AppliChem GmbH</li>
+<li>AppliChem, Inc.</li>
+<li>Ark-Les Components, S.A. de C.V.</li>
+<li>Arylux Hungary Elektromechanikus Alkatreszgyarto Kft</li>
+<li>Avery Berkel France</li>
+<li>Avery India Limited</li>
+<li>Avery Malaysia Sdn Bhd</li>
+<li>Avery Weigh-Tronix (Suzhou) Weighing Technology Co. Ltd.</li>
+<li>Avery Weigh-Tronix Finance Limited</li>
+<li>Avery Weigh-Tronix Holdings Limited</li>
+<li>Avery Weigh-Tronix Holdings Limited</li>
+<li>Avery Weigh-Tronix International Limited</li>
+<li>Avery Weigh-Tronix Limited</li>
+<li>Avery Weigh-Tronix Properties Limited</li>
+<li>Avery Weigh-Tronix, LLC</li>
+<li>B.C. Immo</li>
+<li>Bangalore Integrated System Solutions Private Ltd</li>
+<li>Beijing Miller Electric Manufacturing Co. Ltd.</li>
+<li>Berkel (Ireland) Limited</li>
+<li>Berrington UK</li>
+<li>Brapenta Eletronica Ltda.</li>
+<li>Brooks Instrument (Shanghai) Co. Ltd</li>
+<li>Brooks Instrument B.V.</li>
+<li>Brooks Instrument GmbH</li>
+<li>Brooks Instrument India Private Limited</li>
+<li>Brooks Instrument KFT</li>
+<li>Brooks Instrument Korea, Ltd.</li>
+<li>Brooks Instrument LLC</li>
+<li>Buell Industries, Inc.</li>
+<li>Calvia sp. z.o.o.</li>
+<li>Capital Ventures (Australasia) S.à r.l</li>
+<li>CAPMAX Logística S.A. de C.V.</li>
+<li>Capmax Logistica, S.A. de C.V.</li>
+<li>CCI Realty Company</li>
+<li>Celeste Industries Corporation</li>
+<li>Cetram Pty Limited</li>
+<li>CFC Europe GmbH</li>
+<li>Coeur (Shanghai) Medical Appliance Trading Co., Ltd</li>
+<li>Coeur Asia Limited</li>
+<li>Coeur Holding Company</li>
+<li>Coeur, Inc.</li>
+<li>Compagnie de Materiel et d'Equipements Techniques-Comet</li>
+<li>Compagnie Hobart</li>
+<li>Constructions Isothermiques Bontami C.I.B.</li>
+<li>CS (Australasia)</li>
+<li>CS (Australia) Pty Limited</li>
+<li>CS (Finance) Europe S.a.r.l.</li>
+<li>CS Mexico Holding Company S DE RL DE CV</li>
+<li>CSMTS LLC</li>
+<li>Densit Asia Pacific Sdn Bhd</li>
+<li>Despatch Industries (Shanghai) Trading Co., Ltd.</li>
+<li>Despatch Industries Limited Partnership</li>
+<li>Diagraph Corporation Sdn. Bhd</li>
+<li>Diagraph ITW Mexico, S. de R.L. De C.V.</li>
+<li>Diagraph México, S.A. DE C.V.</li>
+<li>Dongguan Ark-Les Electric Components Co., Ltd.</li>
+<li>Dongguan CK Branding Co., Ltd.</li>
+<li>Dorbyl U.K. (Holdings) Limited</li>
+<li>Duo Fast de Espana S.A.U.</li>
+<li>Duo-Fast Korea Co. Ltd.</li>
+<li>Duo-Fast LLC</li>
+<li>E.C.S. d.o.o.</li>
+<li>ECS Cable Protection Sp. Zoo</li>
+<li>Electric Light Development Ltd.</li>
+<li>Elga Skandinavian AS</li>
+<li>ELRO (Holding) AG</li>
+<li>ELRO Grosskuchen GmbH</li>
+<li>ELRO Grosskuchen GmbH</li>
+<li>ELRO-WERKE AG</li>
+<li>Eltex-Elektrostatik-Gesellschaft mit beschränkter Haftung</li>
+<li>Envases Multipac, S.A. de C.V.</li>
+<li>Epirez Australia Pty Ltd</li>
+<li>Eurotec Srl</li>
+<li>Fasver</li>
+<li>FEG Investments L.L.C.</li>
+<li>Filtertek</li>
+<li>Filtertek De Mexico Holding Inc.</li>
+<li>Filtertek De Mexico, S.A. de C.V.</li>
+<li>Gamko B.V.</li>
+<li>GC Financement SA</li>
+<li>Gold Pattern Holdings Limited</li>
+<li>GSE IP LLC</li>
+<li>Gun Hwa Platech (Taicang) Co. Ltd.</li>
+<li>Hobart (Japan) K.K.</li>
+<li>Hobart Andina S.A.S.</li>
+<li>Hobart Brothers International Chile Limitada</li>
+<li>Hobart Brothers LLC</li>
+<li>Hobart Dayton Mexicana, S. de R.L. de C.V.</li>
+<li>Hobart Food Equipment Co., Ltd.</li>
+<li>Hobart Foster Belgium B.V.B.A.</li>
+<li>HOBART Gesellschaft mit beschränkter Haftung</li>
+<li>Hobart International (Singapore) Pte. Ltd.</li>
+<li>Hobart Korea LLC</li>
+<li>Hobart LLC</li>
+<li>Hobart Nederland B.V.</li>
+<li>Hobart Sales &amp; Service, Inc.</li>
+<li>Hobart Scandinavia ApS</li>
+<li>Hobart Techniek B.V.</li>
+<li>Horis</li>
+<li>Ideal Molding Technologies LLC</li>
+<li>ILC Investments Holdings Inc.</li>
+<li>Illinois Tool Works (Chile) Limitada</li>
+<li>Illinois Tool Works (ITW) Nederland B.V.</li>
+<li>Illinois Tool Works Norway AS</li>
+<li>Impar Comercio E Representacoes Ltda.</li>
+<li>Industrie Plastic Elsässer GmbH</li>
+<li>Inmobiliaria Cit., S.A. de C.F.</li>
+<li>Innova Temperlite Servicios, S.A. de C.V.</li>
+<li>Innovación y Transformación Automotriz, S.A. de C.V.</li>
+<li>Instron (Shanghai) Ltd.</li>
+<li>Instron (Thailand) Limited</li>
+<li>Instron Brasil Equipamentos Cientificos Ltda.</li>
+<li>Instron Foreign Sales Corp. Limited</li>
+<li>Instron France</li>
+<li>Instron GmbH</li>
+<li>Instron Holdings Limited</li>
+<li>Instron International Limited</li>
+<li>Instron Japan Company, Ltd.</li>
+<li>Instron Korea LLC</li>
+<li>International Leasing Company LLC</li>
+<li>International Truss Systems Proprietary Limited</li>
+<li>Isolenge - ITW Sistemas de Isolamento Termico Ltda.</li>
+<li>ITW (China) Investment Company Limited</li>
+<li>ITW (Deutschland) GmbH</li>
+<li>ITW (EU) Holdings Ltd.</li>
+<li>ITW (Ningbo) Components &amp; Fastenings Systems Co., Ltd.</li>
+<li>ITW AAM Comércio e Distribuição de Produtos Automotivos Ltda.</li>
+<li>ITW AEP LLC</li>
+<li>ITW Aircraft Investments Inc.</li>
+<li>ITW Airport Ground Equipment (Beijing) Co. Ltd.</li>
+<li>ITW Alpha Sárl</li>
+<li>ITW Ampang Industries Philippines, Inc.</li>
+<li>ITW AOC, LLC</li>
+<li>ITW Appliance Components d.o.o.</li>
+<li>ITW Appliance Components EOOD</li>
+<li>ITW Ark-Les LLC</li>
+<li>ITW Australia Holdings Pty Ltd</li>
+<li>ITW Australia Property Holdings Pty Ltd.</li>
+<li>ITW Australia Pty Ltd</li>
+<li>ITW Austria Vertriebs GmbH</li>
+<li>ITW Automotive Components (Chongqing) Co. Ltd.</li>
+<li>ITW Automotive Components (Langfang) Co., Ltd.</li>
+<li>ITW Automotive Japan K.K.</li>
+<li>ITW Automotive Korea, LLC</li>
+<li>ITW Automotive Parts (Shanghai) Co. Ltd</li>
+<li>ITW Automotive Products GmbH</li>
+<li>ITW Automotive Products México, S. de R.L. de C.V.</li>
+<li>ITW Bailly Comte</li>
+<li>ITW Befestigungssysteme GmbH</li>
+<li>ITW Belgium</li>
+<li>ITW Brazilian Nominee L.L.C.</li>
+<li>ITW Building Components Group Inc.</li>
+<li>ITW Business Development S.à r.l.</li>
+<li>ITW California Industrial Products</li>
+<li>ITW Canada Inc.</li>
+<li>ITW Celeste Inc.</li>
+<li>ITW CER</li>
+<li>ITW Chemical Products Ltda</li>
+<li>ITW Chemical Products Scandinavia ApS</li>
+<li>ITW Colombia S.A.S.</li>
+<li>ITW Construction Products (Shanghai) Co. Ltd.</li>
+<li>ITW Construction Products (Singapore) Pte. Ltd.</li>
+<li>ITW Construction Products AB</li>
+<li>ITW Construction Products ApS</li>
+<li>ITW Construction Products AS</li>
+<li>ITW Construction Products CZ s.r.o.</li>
+<li>ITW Construction Products Italy Srl</li>
+<li>ITW Construction Products OU</li>
+<li>ITW Construction Products Europe</li>
+<li>ITW Contamination Control (Wujiang) Co., Ltd.</li>
+<li>ITW Contamination Control B.V.</li>
+<li>ITW Covid Security Group Inc.</li>
+<li>ITW CP Distribution Center Holland BV</li>
+<li>ITW CS (UK) Ltd.</li>
+<li>ITW de France</li>
+<li>ITW DelFast do Brasil Ltda.</li>
+<li>ITW Delta Sárl</li>
+<li>ITW Deltar</li>
+<li>ITW Denmark ApS</li>
+<li>ITW do Brasil Industrial e Comercial Ltda.</li>
+<li>ITW DS Investments Inc.</li>
+<li>ITW Dynatec Adhesive Equipment (Suzhou) Co. Ltd.</li>
+<li>ITW Dynatec GmbH</li>
+<li>ITW Dynatec Kabushiki Kaisha</li>
+<li>ITW EF&amp;C France SAS</li>
+<li>ITW EF&amp;C Selb GmbH</li>
+<li>ITW Electronic Business Asia Co., Limited</li>
+<li>ITW Electronic Components/Products (Shanghai) Co., Ltd.</li>
+<li>ITW Electronics (Suzhou) Co., Ltd.</li>
+<li>ITW Epsilon Sárl</li>
+<li>ITW Espana S.A.</li>
+<li>ITW Fastener Products GmbH</li>
+<li>ITW FEG do Brasil Industria e Comercio Ltda.</li>
+<li>ITW FEG Hong Kong Limited</li>
+<li>ITW Finance Designated Activity Company</li>
+<li>ITW Finance Europe S.A.</li>
+<li>ITW Finance Europe S.A.</li>
+<li>ITW Fluids and Hygiene Solutions Ltda.</li>
+<li>ITW Foils B.V.</li>
+<li>ITW Food Equipment Group LLC</li>
+<li>ITW Formex</li>
+<li>ITW Gamma Sárl</li>
+<li>ITW German Management LLC</li>
+<li>ITW GH LLC</li>
+<li>ITW Global Investments Holdings LLC</li>
+<li>ITW Global Investments Holdings Y Compañia, Sociedad en Comandita por Acciones</li>
+<li>ITW Global Investments II Inc.</li>
+<li>ITW Global Investments LLC</li>
+<li>ITW Global Tire Repair Europe GmbH</li>
+<li>ITW Global Tire Repair Inc.</li>
+<li>ITW Global Tire Repair Japan K.K.</li>
+<li>ITW Graphics (Thailand) Ltd.</li>
+<li>ITW Graphics Asia Limited</li>
+<li>ITW Graphics Italy S.R.L. in liquidazione</li>
+<li>ITW Great Britain Investment &amp; Licensing Holding Company</li>
+<li>ITW Group France (Luxembourg) S.àr.l.</li>
+<li>ITW GSE ApS</li>
+<li>ITW GSE Inc.</li>
+<li>ITW haubold Paslode GmbH</li>
+<li>ITW HLP Thailand Co. Ltd.</li>
+<li>ITW Holding Quimica B.C., S.L., Sole Shareholder Company</li>
+<li>ITW Holdings Australia L.P.</li>
+<li>ITW Holdings I Limited</li>
+<li>ITW Holdings II Limited</li>
+<li>ITW Holdings III Limited</li>
+<li>ITW Holdings Inc.</li>
+<li>ITW Holdings IV Limited</li>
+<li>ITW Holdings LP</li>
+<li>ITW Holdings UK</li>
+<li>ITW Holdings V Limited</li>
+<li>ITW Holdings VI Limited</li>
+<li>ITW Holdings VII Limited</li>
+<li>ITW Holdings VIII Limited</li>
+<li>ITW Hungary Finance Beta Kft</li>
+<li>ITW ILC Holdings I Inc.</li>
+<li>ITW Imaden Industria e Comercio Ltda.</li>
+<li>ITW India Private Limited</li>
+<li>ITW Industrial Components SrL</li>
+<li>ITW Industry B.V.</li>
+<li>ITW Insulation Systems FZE</li>
+<li>ITW International Holdings LLC</li>
+<li>ITW International Intellectual Property LLC</li>
+<li>ITW Invest Holding GmbH</li>
+<li>ITW IPG Investments LLC</li>
+<li>ITW Ireland Holdings</li>
+<li>ITW Ireland Unlimited Company</li>
+<li>ITW Italy Finance Srl</li>
+<li>ITW Italy Holding Srl</li>
+<li>ITW Japan Ltd.</li>
+<li>ITW Korea LLC</li>
+<li>ITW Limited</li>
+<li>ITW LLC &amp; Co. KG</li>
+<li>ITW Lombard Holdings Inc.</li>
+<li>ITW Lys Fusion S.r.l.</li>
+<li>ITW M FILMS II LLC</li>
+<li>ITW Marking &amp; Coding (Shanghai) Co., Ltd.</li>
+<li>ITW Medical Group de Mexico S. de R.L. de C.V.</li>
+<li>ITW Meritex Sdn. Bhd.</li>
+<li>ITW Metal Fasteners, S.L.</li>
+<li>ITW Mexico Holding Company S. De R.L. de C.V.</li>
+<li>ITW Mexico Holdings LLC</li>
+<li>ITW MH LLC</li>
+<li>ITW Morlock GmbH</li>
+<li>ITW Mortgage Investments II, Inc.</li>
+<li>ITW Mortgage Investments III, Inc.</li>
+<li>ITW Mortgage Investments IV, Inc.</li>
+<li>ITW Netherlands Beta B.V.</li>
+<li>ITW Netherlands Finance Alpha BV</li>
+<li>ITW New Universal LLC</li>
+<li>ITW New Zealand</li>
+<li>ITW Novadan Sp. Z.o.o.</li>
+<li>ITW Packaging Technology (China) Co. Ltd.</li>
+<li>ITW Participations S.à r.l.</li>
+<li>ITW Pension Funds Trustee Company</li>
+<li>ITW Performance Plastic (Shanghai) Co. Ltd.</li>
+<li>ITW Performance Polymers &amp; Fluids Japan Co. Ltd.</li>
+<li>ITW Performance Polymers &amp; Fluids Korea Limited</li>
+<li>ITW Performance Polymers &amp; Fluids OOO</li>
+<li>ITW Performance Polymers (Wujiang) Co., Ltd.</li>
+<li>ITW Performance Polymers and Fluids Group FZE</li>
+<li>ITW Performance Polymers ApS</li>
+<li>ITW Peru S.A.C.</li>
+<li>ITW Philippines Holdings LLC</li>
+<li>ITW Poly Mex, S. de R.L. de C.V.</li>
+<li>ITW Polymers Sealants North America Inc.</li>
+<li>ITW PPF Brasil Adesivos Ltda.</li>
+<li>ITW Pronovia s.r.o.</li>
+<li>ITW Pte. Ltd.</li>
+<li>ITW Qufu Automotive Cooling Systems Co. Ltd.</li>
+<li>ITW Quimica Sustentável Ltda.</li>
+<li>ITW Real Estate Germany GmbH</li>
+<li>ITW Residuals III L.L.C.</li>
+<li>ITW Residuals IV L.L.C.</li>
+<li>ITW Rivex</li>
+<li>ITW Simco-Ion (Shenzhen) Co. Ltd.</li>
+<li>ITW Slovakia s.r.o.</li>
+<li>ITW SMPI</li>
+<li>ITW Spain Holdings, S.L.</li>
+<li>ITW Specialty Film, LLC</li>
+<li>ITW Specialty Films France</li>
+<li>ITW Specialty Materials (Suzhou) Co., Ltd.</li>
+<li>ITW Speedline Equipment (Suzhou) Co. Ltd.</li>
+<li>ITW SPG México, S. de R.L. de C.V.</li>
+<li>ITW Spraytec</li>
+<li>ITW Sverige AB</li>
+<li>ITW Sweden Holding AB</li>
+<li>ITW Test &amp; Measurement Equipment (Shanghai) Co., Ltd</li>
+<li>ITW Test &amp; Measurement GmbH</li>
+<li>ITW Test and Measurement Italia Srl</li>
+<li>ITW Test and Measurement Services Industry and Trade  Ltd.</li>
+<li>ITW Texwipe Philippines, Inc.</li>
+<li>ITW Thermal Films (Shanghai) Co., Ltd.</li>
+<li>ITW UK</li>
+<li>ITW UK Finance Beta Limited</li>
+<li>ITW UK Finance Delta Limited</li>
+<li>ITW UK Finance Gamma Limited</li>
+<li>ITW UK Finance Limited</li>
+<li>ITW UK II Limited</li>
+<li>ITW Universal II LLC</li>
+<li>ITW Welding</li>
+<li>ITW Welding AB</li>
+<li>ITW Welding Colombia S.A.S.</li>
+<li>ITW Welding GmbH</li>
+<li>ITW Welding Products B.V.</li>
+<li>ITW Welding Products Group FZE</li>
+<li>ITW Welding Products Group, S. DE R.L. De C.V.</li>
+<li>ITW Welding Products Italy Srl</li>
+<li>ITW Welding Products Limited Liability Company</li>
+<li>ITW Welding Produtos Para Solgdagem Ltda.</li>
+<li>ITW Welding Servicios Mexico, S. de R.L. de C.V.</li>
+<li>ITW Welding Singapore Pte. Ltd.</li>
+<li>KCPL Mauritius Holdings</li>
+<li>Kleinmann GmbH</li>
+<li>Krafft Argentina, S.A.</li>
+<li>Krafft, S.L.</li>
+<li>Lock Inspection Systemes France Sarl</li>
+<li>Loma Systems (Canada) Inc.</li>
+<li>Loma Systems BV</li>
+<li>Loma Systems sro</li>
+<li>Lombard Pressings Limited</li>
+<li>Lumex, Inc.</li>
+<li>Luvex - Industria De Equipamentos De Protecao Ltda.</li>
+<li>Lys Fusion Poland Sp. z.o.o.</li>
+<li>M&amp;C Specialties (Shenzhen) Co. Ltd.</li>
+<li>M&amp;C Specialties Co.</li>
+<li>Magna Industrial Co. Limited</li>
+<li>MAGNAFLUX GmbH</li>
+<li>Manufacturing Avancee S.A.</li>
+<li>MEHB Holdings Limited</li>
+<li>Meritex Technology (Suzhou) Co. Ltd.</li>
+<li>Meurer Verpackungssysteme GmbH</li>
+<li>MGHG Property LLC</li>
+<li>Miller Electric Mfg. LLC</li>
+<li>Miller Insurance Ltd.</li>
+<li>NDT Holding LLC</li>
+<li>Norden Olje AB</li>
+<li>North Star Imaging Europe</li>
+<li>North Star Imaging, Inc.</li>
+<li>Nova Chimica, S.r.l.</li>
+<li>Novadan ApS</li>
+<li>NSC Europe Limited</li>
+<li>Odesign, Inc.</li>
+<li>Orbitalum Tools GmbH</li>
+<li>Pacific Concept Industries Limited (Enping)</li>
+<li>Packaging Leasing Systems Inc.</li>
+<li>Panreac Quimica, S.L.</li>
+<li>Paslode Fasteners (Shanghai) Co., Ltd.</li>
+<li>Penta Dnepr LLC</li>
+<li>Penta Don OOO</li>
+<li>Penta Sever OOO</li>
+<li>Penta Ural OOO</li>
+<li>Penta Volga OOO</li>
+<li>PENTA-91 OOO</li>
+<li>PR. A. I. Srl</li>
+<li>Premark FEG L.L.C.</li>
+<li>Premark HII Holdings LLC</li>
+<li>Premark International, LLC</li>
+<li>Prolex, Sociedad Anónima</li>
+<li>Prolim Comercio de Higiene e Limpeza Ltda.</li>
+<li>Pryda</li>
+<li>PT ITW Construction Products Indonesia</li>
+<li>QSA Global, Inc.</li>
+<li>Quimica Industrial Mediterranea, S.L.</li>
+<li>Ramset Fasteners (Hong Kong) Ltd.</li>
+<li>Rapid Cook LLC</li>
+<li>Refrigeration France</li>
+<li>ROCOL</li>
+<li>S.E.E. Sistemas Industria E Comercio Ltda.</li>
+<li>Salter India Limited</li>
+<li>Sealant Systems International, Inc.</li>
+<li>Sentinel Asia Yuhan Hoesa</li>
+<li>Shanghai ITW Plastic &amp; Metal Co. Ltd</li>
+<li>Simco (Nederland) B.V.</li>
+<li>Simco Japan, Inc.</li>
+<li>Société de Prospection et d’Inventions Techniques – SPIT</li>
+<li>Speedline Holdings I, Inc.</li>
+<li>Speedline Holdings I, LLC</li>
+<li>Speedline Technologies GmbH</li>
+<li>Speedline Technologies Mexico Services, S. de R.L. de C.V.</li>
+<li>Speedline Technologies Mexico, S. de R.L. de C.V.</li>
+<li>ST Mexico Holdings LLC</li>
+<li>Stokvis Celix Portugal Unipessoal LDA</li>
+<li>Stokvis Danmark ApS</li>
+<li>Stokvis Promi Czech s.r.o.</li>
+<li>Stokvis Tape Group B.V.</li>
+<li>Stokvis Tapes (Hong Kong) Co. Limited</li>
+<li>Stokvis Tapes (Shanghai) Co. Ltd.</li>
+<li>Stokvis Tapes (Shenzhen) Co. Ltd.</li>
+<li>Stokvis Tapes (Taiwan) Co. Ltd.</li>
+<li>Stokvis Tapes (Tianjin) Co. Ltd.</li>
+<li>Stokvis Tapes Benelux B.V.</li>
+<li>Stokvis Tapes BVBA</li>
+<li>Stokvis Tapes Deutschland GmbH</li>
+<li>Stokvis Tapes France</li>
+<li>Stokvis Tapes Italia s.r.l.</li>
+<li>Stokvis Tapes Limited Liability Company</li>
+<li>Stokvis Tapes Norge AS</li>
+<li>Stokvis Tapes Oy</li>
+<li>Stokvis Tapes Polska Sp Z.O.O.</li>
+<li>Stokvis Tapes Sverige AB</li>
+<li>Sweldx AB</li>
+<li>Tarutin Kester Co., Ltd.</li>
+<li>Technopack Industria, Comercio, Consultoria e Representacoes Ltda.</li>
+<li>Teknek (China) Limited</li>
+<li>Teknek (Japan) Limited</li>
+<li>Teksaleco Ltd.</li>
+<li>Ten Plus</li>
+<li>The Three Russells, Sociedad Anónima</li>
+<li>Thirode Grandes Cuisines Poligny</li>
+<li>Tien Tai Electrode (Kunshan) Co., Ltd.</li>
+<li>Tien Tai Electrode (Qingdao) Co., Ltd.</li>
+<li>Tien Tai Electrode Co., Ltd.</li>
+<li>Unichemicals Industria e Comercio Ltda.</li>
+<li>US Finance Gamma LLC</li>
+<li>Valeron Strength Films B.V.B.A.</li>
+<li>Veneta Decalcogomme S.r.l.</li>
+<li>Versachem Chile S.A.</li>
+<li>Vesta (Guangzhou) Catering Equipment Co. Ltd</li>
+<li>Vesta Global Limited</li>
+<li>Vitronics Soltec B.V.</li>
+<li>VR-Leasing Sarita GmbH &amp; Co. Immobilien KG</li>
+<li>VS Acquisition Holding Co.</li>
+<li>VS European Holdco BV</li>
+<li>VS Holding Co.</li>
+<li>Wachs Canada Ltd.</li>
+<li>Wachs Subsea LLC</li>
+<li>Weigh-Tronix Canada, ULC</li>
+<li>Weigh-Tronix UK Limited</li>
+<li>Wilsonart International Holdings LLC</li>
+<li>Wynn Oil (South Africa) (Pty) Ltd.</li>
+<li>Wynn's Automotive France</li>
+<li>Wynn's Belgium BVBA</li>
+<li>Wynn's Italia Srl</li>
+<li>Wynn's Mekuba India Pvt Ltd</li>
+<li>Zip-Pak International B.V.</li></ul></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Illegal_exports">Illegal exports</span><span class="mw-editsection"><a href="/w/index.php?title=Illinois_Tool_Works&amp;action=edit&amp;section=2" title="Edit section: Illegal exports" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>The <a href="/wiki/United_States_Department_of_Commerce" title="United States Department of Commerce">United States Department of Commerce</a> imposed a $142,000 <a href="/wiki/Civil_penalty" title="Civil penalty">civil penalty</a> on Illinois Tool Works in 2000, to settle allegations that the company illegally exported chemicals to Brazil on seven occasions between March 1994 and October 1997 without the required licenses and making false or misleading statements on Shipper's Export Declarations. Illinois Tool Works agreed to pay the penalty. $37,000 was suspended as part of the settlement. The chemicals exported can be used for commercial purposes and in the making of <a href="/wiki/Chemical_weapons" class="mw-redirect" title="Chemical weapons">chemical weapons</a> as well.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Illinois_Tool_Works&amp;action=edit&amp;section=3" title="Edit section: References" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references"><li id="cite_note-2015IncomeStatement-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-2015IncomeStatement_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2015IncomeStatement_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-2015IncomeStatement_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-2015IncomeStatement_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-2015IncomeStatement_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=NYSE:ITW&amp;fstype=ii">"Financial Statements for Illinois Tool Works, Inc. - Google Finance"</a>. Google.com<span class="reference-accessdate">. Retrieved <span class="nowrap">October 25,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Financial+Statements+for+Illinois+Tool+Works%2C+Inc.+-+Google+Finance&amp;rft.pub=Google.com&amp;rft_id=https%3A%2F%2Fwww.google.com%2Ffinance%3Fq%3DNYSE%3AITW%26fstype%3Dii&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIllinois+Tool+Works" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Fortune-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fortune_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://fortune.com/fortune500/illinois-tool-works/">http://fortune.com/fortune500/illinois-tool-works/</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://fortune.com/fortune500/2019/illinois-tool-works/">https://fortune.com/fortune500/2019/illinois-tool-works/</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.itw.com/about-itw/">"Illinois Tool Works"</a>. <i>ITW.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ITW.com&amp;rft.atitle=Illinois+Tool+Works&amp;rft_id=https%3A%2F%2Fwww.itw.com%2Fabout-itw%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIllinois+Tool+Works" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-:0-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.itw.com/about-itw/">"ITW website"</a>. ITW<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ITW+website&amp;rft.pub=ITW&amp;rft_id=http%3A%2F%2Fwww.itw.com%2Fabout-itw%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIllinois+Tool+Works" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-fosterrefrigerator1-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-fosterrefrigerator1_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fosterrefrigerator.co.uk">"Commercial Refrigeration Equipment | Commercial Fridges and Freezers"</a>. Foster Refrigerator<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-09-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Commercial+Refrigeration+Equipment+%26%23124%3B+Commercial+Fridges+and+Freezers&amp;rft.pub=Foster+Refrigerator&amp;rft_id=http%3A%2F%2Fwww.fosterrefrigerator.co.uk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIllinois+Tool+Works" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"> Note, <i><a rel="nofollow" class="external text" href="http://harvardlawreview.org/wp-content/uploads/2019/06/2378_2385_Online.pdf">Recent Case: Tax Court Holds in Favor of Taxpayer on Loan Between Foreign Subsidiaries</a></i>, 132 <span style="font-variant: small-caps;"><a href="/wiki/Harvard_Law_Review" title="Harvard Law Review">Harv. L. Rev.</a></span> 2378 (2019).</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120320125303/http://www.bis.doc.gov/news/archive2000/illinoistoolworks.htm">"U. S. Bureau of Industry and Security - Illinois Company Settles Charges of Unlawful Exports of Chemicals"</a>. Bis.doc.gov. 2000-05-02. Archived from <a rel="nofollow" class="external text" href="http://www.bis.doc.gov/news/archive2000/illinoistoolworks.htm">the original</a> on March 20, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-09-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=U.+S.+Bureau+of+Industry+and+Security+-+Illinois+Company+Settles+Charges+of+Unlawful+Exports+of+Chemicals&amp;rft.pub=Bis.doc.gov&amp;rft.date=2000-05-02&amp;rft_id=http%3A%2F%2Fwww.bis.doc.gov%2Fnews%2Farchive2000%2Fillinoistoolworks.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIllinois+Tool+Works" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Illinois_Tool_Works&amp;action=edit&amp;section=4" title="Edit section: External links" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.itw.com/">Official website</a></span></span></li>
+<li>Business data for Illinois Tool Works: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=ITW">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=ITW">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=ITW">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Illinois_Tool_Works&amp;oldid=944540458">https://en.wikipedia.org/w/index.php?title=Illinois_Tool_Works&amp;oldid=944540458</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Illinois_Tool_Works"
+				data-user-name="68.41.156.141"
+				data-user-gender="unknown"
+				data-timestamp="1583673657">
+				<span>Last edited on 8 March 2020, at 13:20</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Illinois_Tool_Works&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.396","walltime":"0.547","ppvisitednodes":{"value":1625,"limit":1000000},"postexpandincludesize":{"value":76272,"limit":2097152},"templateargumentsize":{"value":31979,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17436,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  459.756      1 -total"," 46.62%  214.361      1 Template:Infobox_company"," 41.90%  192.642      1 Template:Infobox"," 26.81%  123.254      1 Template:Reflist"," 22.79%  104.779      5 Template:Cite_web"," 16.77%   77.121      1 Template:Br_separated_entries"," 15.70%   72.163      7 Template:Wikidata"," 12.29%   56.513      1 Template:Citation_needed"," 10.66%   49.031      1 Template:Fix","  7.17%   32.949      2 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.184","limit":"10.000"},"limitreport-memusage":{"value":3905573,"limit":52428800}},"cachereport":{"origin":"mw1366","timestamp":"20200416065952","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Illinois Tool Works","url":"https:\/\/en.wikipedia.org\/wiki\/Illinois_Tool_Works","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1510378","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1510378","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-03-08T02:46:19Z","dateModified":"2020-03-08T13:20:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/12\/Illinois_Tool_Works_%28logo%29.png","headline":"company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1401"});});</script>		</body>
+		</html>
+		

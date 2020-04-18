@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Union Pacific Corporation - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoNXgpAIC0AAC9o2KMAAADD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Union_Pacific_Corporation","wgTitle":"Union Pacific Corporation","wgCurRevisionId":939999213,"wgRevisionId":939999213,"wgArticleId":914925,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Union_Pacific_Corporation","wgRelevantArticleId":914925,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Union_Pacific_Corp",
+"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Union_Pacific_Corporation","wgWikibaseItemId":"Q20183163","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,
+"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init",
+"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Union_pacific_railroad_logo.svg/1200px-Union_pacific_railroad_logo.svg.png"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Union_Pacific_Corporation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Union_Pacific_Corporation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Union_Pacific_Corporation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Union_Pacific_Corporation rootpage-Union_Pacific_Corporation stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Union+Pacific+Corporation" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Union+Pacific+Corporation" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Union Pacific Corporation</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Union_Pacific_Corporation" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Union+Pacific+Corporation" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Union_Pacific_Corporation&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Union_Pacific_Corp&amp;redirect=no" class="mw-redirect" title="Union Pacific Corp">Union Pacific Corp</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Union_Pacific_Corporation&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Union_Pacific_Corporation" title="Talk:Union Pacific Corporation">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Union_Pacific_Corporation&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i> <a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Union+Pacific+Corporation%22">"Union Pacific Corporation"</a> – <a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Union+Pacific+Corporation%22+-wikipedia">news</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Union+Pacific+Corporation%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Union+Pacific+Corporation%22+-wikipedia">books</a> <b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Union+Pacific+Corporation%22">scholar</a> <b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Union+Pacific+Corporation%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">September 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><table class="box-Cleanup plainlinks metadata ambox ambox-style ambox-Cleanup" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This article may <b>require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a></b> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>. The specific problem is: <b>Specifically, the headings (under the history section) are not right</b><span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Union_Pacific_Corporation&amp;action=edit">improve this article</a> if you can.</span>  <small class="date-container"><i>(<span class="date">September 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p>The <b>Union Pacific Corporation</b> (<b>Union Pacific</b>) is a <a href="/wiki/Public_company" title="Public company">publicly traded</a> railroad <a href="/wiki/Holding_company" title="Holding company">holding company</a>. It was established in 1969<sup id="cite_ref-10K2010_2-2" class="reference"><a href="#cite_note-10K2010-2">[2]</a></sup> and is headquartered in <a href="/wiki/Omaha,_Nebraska" title="Omaha, Nebraska">Omaha, Nebraska</a>. It is the parent company of the current form of the <a href="/wiki/Union_Pacific_Railroad" title="Union Pacific Railroad">Union Pacific Railroad</a>.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Union Pacific Corporation</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Union_pacific_railroad_logo.svg" class="image" title="Union Pacific"><img alt="Union Pacific" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Union_pacific_railroad_logo.svg/150px-Union_pacific_railroad_logo.svg.png" decoding="async" width="150" height="173" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Union_pacific_railroad_logo.svg/225px-Union_pacific_railroad_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Union_pacific_railroad_logo.svg/300px-Union_pacific_railroad_logo.svg.png 2x" data-file-width="487" data-file-height="561"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:UNP">UNP</a></li><li><a href="/wiki/DJTA" class="mw-redirect" title="DJTA">DJTA</a> component</li><li><a href="/wiki/S%26P_100" title="S&amp;P 100">S&amp;P 100</a> component</li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US9078181081">US9078181081 </a><a href="https://www.wikidata.org/wiki/Q20183163?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;">Transportation</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1862<span style="display:none"> (<span class="bday dtstart published updated">1862</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Omaha,_Nebraska" title="Omaha, Nebraska">Omaha, Nebraska</a>, United States</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">Western and Mid-Western United States</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><div class="plainlist"><ul><li>Lance M. Fritz <span style="font-size:85%;">(<a href="/wiki/Chairman" class="mw-redirect" title="Chairman">Chairman</a>, <a href="/wiki/President_(corporate_title)" title="President (corporate title)">President</a>, and <a href="/wiki/CEO" class="mw-redirect" title="CEO">CEO</a>)</span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap"><a href="/wiki/United_States_dollar" title="United States dollar">US$</a>22.832 billion</span> <span style="font-size:85%;">(2018)</span><sup id="cite_ref-10-K_1-0" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$8.517 billion</span> <span style="font-size:85%;">(2018)</span><sup id="cite_ref-10-K_1-1" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$5.966 billion</span> <span style="font-size:85%;">(2018)</span><sup id="cite_ref-10-K_1-2" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$59.147 billion</span> <span style="font-size:85%;">(2018)</span><sup id="cite_ref-10-K_1-3" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$20.423 billion</span> <span style="font-size:85%;">(2018)</span><sup id="cite_ref-10-K_1-4" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">41,967 <span style="font-size:85%;">(2018)</span><sup id="cite_ref-10-K_1-5" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/Union_Pacific_Railroad" title="Union Pacific Railroad">Union Pacific Railroad (Company)</a></li></ul></div><sup id="cite_ref-10K2010_2-0" class="reference"><a href="#cite_note-10K2010-2">[2]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>at Exhibit 21</span></sup> <div class="plainlist"><ul><li><a href="/wiki/Alton_and_Southern_Railway" title="Alton and Southern Railway">Alton and Southern Railway</a></li><li>Loup Logistics</li><li>PS Technology (PST)</li><li>Transentric</li></ul></div><sup id="cite_ref-up_family_3-0" class="reference"><a href="#cite_note-up_family-3">[3]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.up.com">www<wbr></wbr>.up<wbr></wbr>.com</a></span></td></tr><tr><td colspan="2" style="text-align:center;line-height: 1.35em;"><b>Footnotes / references</b><br><sup id="cite_ref-10K2010_2-1" class="reference"><a href="#cite_note-10K2010-2">[2]</a></sup></td></tr></tbody></table><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Union_pacific_center.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Union_pacific_center.jpg/220px-Union_pacific_center.jpg" decoding="async" width="220" height="165" class="thumbimage" data-file-width="640" data-file-height="480"></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Union_pacific_center.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Union_Pacific_Center" title="Union Pacific Center">Union Pacific Center</a> in <a href="/wiki/Omaha,_Nebraska" title="Omaha, Nebraska">Omaha, Nebraska</a></div></div></div>
+<p>Union Pacific was located in <a href="/wiki/New_York_City" title="New York City">New York City</a> from the company's re-founding in 1969 until Drew Lewis became CEO in the mid-1980s. He relocated the corporate headquarters to <a href="/wiki/Bethlehem,_Pennsylvania" title="Bethlehem, Pennsylvania">Bethlehem, Pennsylvania</a>. Later the headquarters was shifted to <a href="/wiki/Dallas,_Texas" class="mw-redirect" title="Dallas, Texas">Dallas, Texas</a>, before relocating the corporate headquarters to Omaha to join the Union Pacific Railroad headquarters.<sup id="cite_ref-history_4-0" class="reference"><a href="#cite_note-history-4">[4]</a></sup> <a href="/w/index.php?title=Lance_M._Fritz&amp;action=edit&amp;redlink=1" class="new" title="Lance M. Fritz (page does not exist)">Lance M. Fritz</a> is the current chairman, president and chief executive officer.
+</p><p>The Union Pacific Corporation has a portfolio of acquiring the <a href="/wiki/Missouri_Pacific_Railroad" title="Missouri Pacific Railroad">Missouri Pacific Railroad</a> which included the <a href="/wiki/Missouri%E2%80%93Kansas%E2%80%93Texas_Railroad" title="Missouri–Kansas–Texas Railroad">Missouri–Kansas–Texas Railroad</a>, the <a href="/wiki/Chicago_and_North_Western_Transportation_Company" title="Chicago and North Western Transportation Company">Chicago and North Western Transportation Company</a>, the <a href="/wiki/Western_Pacific_Railroad" title="Western Pacific Railroad">Western Pacific Railroad</a>, the <a href="/wiki/Denver_and_Rio_Grande_Western_Railroad" title="Denver and Rio Grande Western Railroad">Denver and Rio Grande Western Railroad</a>, the <a href="/wiki/St._Louis_Southwestern_Railway" title="St. Louis Southwestern Railway">St. Louis Southwestern Railway</a>, the <a href="/wiki/SPCSL_Corporation" class="mw-redirect" title="SPCSL Corporation">SPCSL Corporation</a>, and the <a href="/wiki/Southern_Pacific_Transportation_Company" title="Southern Pacific Transportation Company">Southern Pacific Transportation Company</a>. All railroads not including the Southern Pacific Transportation Company were merged into the previous form of the Union Pacific Railroad. As part of the UP-SP merger which included the merging of the Denver and Rio Grande Western Railroad, the St. Louis Southwestern Railway and the SPCSL Corporation into the previous form of the Union Pacific Railroad, the Union Pacific Corporation merged the previous form of the Union Pacific Railroad into the Southern Pacific Transportation Company and renamed the Southern Pacific Transportation Company to the current form of the Union Pacific Railroad.
+</p><p>The Union Pacific Corporation's main competitor is <a href="/wiki/Burlington_Northern_Santa_Fe,_LLC" title="Burlington Northern Santa Fe, LLC">Burlington Northern Santa Fe, LLC</a>, the parent company of <a href="/wiki/BNSF_Railway" title="BNSF Railway">BNSF Railway</a>. BNSF is the nation's second largest freight rail network and primarily services the same territory as Union Pacific, west of the <a href="/wiki/Mississippi_River" title="Mississippi River">Mississippi River</a>. Together, Union Pacific and BNSF have a <a href="/wiki/Duopoly" title="Duopoly">duopoly</a><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Accuracy_dispute#Disputed_statement" title="Wikipedia:Accuracy dispute"><span title="The material near this tag is possibly inaccurate or nonfactual. (January 2019)">dubious</span></a> <span class="metadata"> – <a href="/wiki/Talk:Union_Pacific_Corporation#Dubious" title="Talk:Union Pacific Corporation">discuss</a></span></i>]</sup> on all long-haul freight rail service in the <a href="/wiki/Western_United_States" title="Western United States">Western United States</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Origins"><span class="tocnumber">1.1</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Establishment_and_current_ownership_of_the_current_Union_Pacific_Railroad"><span class="tocnumber">1.2</span> <span class="toctext">Establishment and current ownership of the current Union Pacific Railroad</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Subsidiary_history"><span class="tocnumber">1.3</span> <span class="toctext">Subsidiary history</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Merger_history_and_subsidiary_involvement_during_the_merger_history"><span class="tocnumber">1.4</span> <span class="toctext">Merger history and subsidiary involvement during the merger history</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-6"><a href="#Finances"><span class="tocnumber">2</span> <span class="toctext">Finances</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Union_Pacific_Corporation&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<h3 class="in-block"><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><a href="/w/index.php?title=Union_Pacific_Corporation&amp;action=edit&amp;section=2" title="Edit section: Origins" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The first Union Pacific Railroad, pronounced "<a href="/wiki/Union_Pacific_Rail_Road" class="mw-redirect" title="Union Pacific Rail Road">Union Pacific Rail Road</a>" was incorporated on July 1, 1862, under an act of Congress entitled <a href="/wiki/Pacific_Railway_Acts" class="mw-redirect" title="Pacific Railway Acts">Pacific Railroad Act of 1862</a>. The act was approved by President <a href="/wiki/Abraham_Lincoln" title="Abraham Lincoln">Abraham Lincoln</a>, and it provided for the construction of railroads from the <a href="/wiki/Missouri_River" title="Missouri River">Missouri River</a> to the Pacific as a war measure for the preservation of the Union.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> It was constructed westward from <a href="/wiki/Council_Bluffs,_Iowa" title="Council Bluffs, Iowa">Council Bluffs, Iowa</a> to meet the <a href="/wiki/Central_Pacific_Railroad" title="Central Pacific Railroad">Central Pacific Railroad</a> line, which was constructed eastward from <a href="/wiki/San_Francisco_Bay" title="San Francisco Bay">San Francisco Bay</a>. The combined Union Pacific-Central Pacific line became known as the <a href="/wiki/First_Transcontinental_Railroad" title="First Transcontinental Railroad">First Transcontinental Railroad</a> and <a href="/wiki/Overland_Route_(Union_Pacific_Railroad)" title="Overland Route (Union Pacific Railroad)">Overland Route</a>. The original UP was entangled in the <a href="/wiki/Cr%C3%A9dit_Mobilier_of_America_scandal" class="mw-redirect" title="Crédit Mobilier of America scandal">Crédit Mobilier scandal</a>, exposed in 1872. Later, the original UP was in financial troubles because of the <a href="/wiki/Panic_of_1873" title="Panic of 1873">financial crisis of 1873</a> but did not go into bankruptcy.
+</p><p>The original company was taken over by the new <a href="/wiki/Union_Pacific_Railway" class="mw-redirect" title="Union Pacific Railway">Union Pacific Railway</a> on January 24, 1880 and the original company was merged into the Union Pacific Railway. The Union Pacific Railway declared bankruptcy during the <a href="/wiki/Panic_of_1893" title="Panic of 1893">Panic of 1893</a>.
+</p><p>In 1897 a new "<a href="/wiki/Union_Pacific_Railroad" title="Union Pacific Railroad">Union Pacific Railroad</a>" (pronounced "Railroad") was formed and the Union Pacific Railway was merged into the new Union Pacific Railroad.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> This Union Pacific Railroad is the third incarnation, and the third incarnation makes up the bulk of the Union Pacific history. The third Union Pacific Railroad lasted until 1998 when it was replaced by the fourth incarnation, formerly the <a href="/wiki/Southern_Pacific_Transportation_Company" title="Southern Pacific Transportation Company">Southern Pacific Transportation Company</a>, the last incarnation of the <a href="/wiki/Southern_Pacific" class="mw-redirect" title="Southern Pacific">Southern Pacific</a> railroad. The Union Pacific Corporation was established during the tenure of the third Union Pacific Railroad.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Establishment_and_current_ownership_of_the_current_Union_Pacific_Railroad">Establishment and current ownership of the current Union Pacific Railroad</span><span class="mw-editsection"><a href="/w/index.php?title=Union_Pacific_Corporation&amp;action=edit&amp;section=3" title="Edit section: Establishment and current ownership of the current Union Pacific Railroad" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The Union Pacific Corporation was established in 1969 with its incorporation in <a href="/wiki/Utah" title="Utah">Utah</a> and it was established to take control of the then third incarnation of the <a href="/wiki/Union_Pacific_Railroad" title="Union Pacific Railroad">Union Pacific Railroad</a> later referred to as Mark I and its non-railroad subsidiaries.
+</p><p>The Union Pacific Corporation was established the same year the current Union Pacific railroad began. The current Union Pacific Railroad is the fourth incarnation and it is referred to as Mark II; the current incarnation of the Union Pacific Railroad is formerly known as the <a href="/wiki/Southern_Pacific_Transportation_Company" title="Southern Pacific Transportation Company">Southern Pacific Transportation Company</a>, the last incarnation of the Southern Pacific railroad. The Union Pacific Corporation merged the third Union Pacific Railroad into the Southern Pacific Transportation Company and then renamed the Southern Pacific Transportation Company to the current Union Pacific Railroad.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Subsidiary_history">Subsidiary history</span><span class="mw-editsection"><a href="/w/index.php?title=Union_Pacific_Corporation&amp;action=edit&amp;section=4" title="Edit section: Subsidiary history" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The Union Pacific Corporation is the parent company of all UP subsidiaries and operating companies besides the current <a href="/wiki/Union_Pacific_Railroad" title="Union Pacific Railroad">Union Pacific Railroad</a> (the largest operating company). The Union Pacific Corporation, under the current Union Pacific Railroad, owns the <a href="/wiki/Alton_and_Southern_Railway" title="Alton and Southern Railway">Alton and Southern Railway</a>, a <a href="/wiki/Switching_railroad" class="mw-redirect" title="Switching railroad">switching railroad</a>.
+</p><p>The Union Pacific Corporation operated the <a href="/wiki/Southern_Pacific_Rail_Corporation" class="mw-redirect" title="Southern Pacific Rail Corporation">Southern Pacific Rail Corporation</a> (formerly the second <a href="/wiki/Rio_Grande_Industries" title="Rio Grande Industries">Rio Grande Industries</a> and former parent company for the current Union Pacific railroad) until 2015 when it was merged into the current primary railroad subsidiary.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-auto_8-0" class="reference"><a href="#cite_note-auto-8">[8]</a></sup></p><p>Union Pacific Corporation used to have short lived subsidiaries: 
+</p>
+<ul><li><b>UP Leasing Corporation</b></li>
+<li><b>UP Rail</b> (or <b>UP Rail, Inc.</b>)</li>
+<li><b>UP Holdings</b> (or <b>UP Holdings, Inc.</b>), originally known as <b>Union Pacific Holdings</b> (or <b>Union Pacific Holdings, Inc.</b>)</li>
+<li><b>UP Holding Company</b> (or <b>UP Holding Company, Inc.</b> and <b>UP Holding</b>)</li>
+<li><b>Union Pacific Merger Company</b> (<b>Union Pacific Merger Co.</b>, or <b>UP Merger</b> and <b>UP Mergerco</b>)</li>
+<li><b>UP Acquisition Corporation</b> (or <b>UP Acquisition</b>)</li>
+<li><b>Union Pacific Resources Group</b> (<b>Union Pacific Resources Group, Inc.</b> or simply <b>Resources</b> and <b>Union Pacific Resources</b>) <sup id="cite_ref-getfilings.com_9-0" class="reference"><a href="#cite_note-getfilings.com-9">[9]</a></sup></li>
+<li><b><a href="/wiki/Overnite_Transportation_Company" class="mw-redirect" title="Overnite Transportation Company">Overnite Transportation Company</a></b> (or "Overnite Transportation"),<sup id="cite_ref-getfilings.com_9-1" class="reference"><a href="#cite_note-getfilings.com-9">[9]</a></sup> includes Overnite subsidiary <b><a href="/wiki/Motor_Cargo" class="mw-redirect" title="Motor Cargo">Motor Cargo</a></b>.</li></ul><p>The Union Pacific Corporation operated the Overnite Transportation Company, a trucking company, until it was sold to <a href="/wiki/United_Parcel_Service" title="United Parcel Service">United Parcel Service</a> (UPS) and renamed <a href="/wiki/UPS_Freight" title="UPS Freight">UPS Freight</a>.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Merger_history_and_subsidiary_involvement_during_the_merger_history">Merger history and subsidiary involvement during the merger history</span><span class="mw-editsection"><a href="/w/index.php?title=Union_Pacific_Corporation&amp;action=edit&amp;section=5" title="Edit section: Merger history and subsidiary involvement during the merger history" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The Union Pacific merger history began with the Union Pacific Corporation acquiring the <a href="/wiki/Missouri_Pacific_Railroad" title="Missouri Pacific Railroad">Missouri Pacific Railroad</a> (which included the <a href="/wiki/Missouri%E2%80%93Kansas%E2%80%93Texas_Railroad" title="Missouri–Kansas–Texas Railroad">Missouri–Kansas–Texas Railroad</a>, and the <a href="/wiki/Western_Pacific_Railroad" title="Western Pacific Railroad">Western Pacific Railroad</a>. The Union Pacific Corporation merged the Western Pacific Railroad into the third Union Pacific Railroad and then merged the Missouri–Kansas–Texas Railroad into the Missouri Pacific Railroad and transferred direct ownership of the Missouri Pacific Railroad to the third Union Pacific Railroad. The Missouri Pacific Railroad continued operations until January 1, 1997 when it was merged into the third Union Pacific Railroad by the Union Pacific Corporation.<sup id="cite_ref-sec.gov_10-0" class="reference"><a href="#cite_note-sec.gov-10">[10]</a></sup></p><p>The subsidiaries UP Leasing Corporation, UP Rail and UP Holdings were part of the Union Pacific take over of the <a href="/wiki/Chicago_and_North_Western_Transportation_Company" title="Chicago and North Western Transportation Company">Chicago and North Western Transportation Company</a> which was renamed to its original name <a href="/wiki/Chicago_and_North_Western_Railway" class="mw-redirect" title="Chicago and North Western Railway">Chicago and North Western Railway</a>, and its holding company, the <a href="/wiki/Chicago_and_North_Western_Holdings_Corporation" class="mw-redirect" title="Chicago and North Western Holdings Corporation">Chicago and North Western Holdings Corporation</a> which was renamed to the second Chicago and North Western Transportation Company.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p><p>In April 1995, the former Chicago and North Western Holdings Corporation (the second Chicago and North Western Transportation Company), along with the Chicago and North Western Railway (formerly the first Chicago and North Western Transportation Company), was acquired by the Union Pacific Corporation.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p><p>UP Holdings was merged into UP Rail.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> The Union Pacific Corporation merged UP Rail into the third Union Pacific Railroad. Finally, the Union Pacific Corporation merged the second Chicago and North Western Transportation Company (formerly Chicago and North Western Holdings Corporation) and the Chicago and North Western Railway (formerly the first Chicago and North Western Transportation Company) into the third Union Pacific Railroad, the Chicago and North Western system is now part of the Union Pacific Railroad system.<sup id="cite_ref-sec.gov_10-1" class="reference"><a href="#cite_note-sec.gov-10">[10]</a></sup> A joint UP-CNW subsidiary, <a href="/wiki/Western_Railroad_Properties" class="mw-redirect" title="Western Railroad Properties">Western Railroad Properties</a> (or "Western Railroad Properties, Inc."), was also merged into the Union Pacific system.
+</p><p>The subsidiaries UP Holding Company, Union Pacific Merger Company and UP Acquisition Corporation were part of the Union Pacific take over of the Southern Pacific Rail Corporation (formerly the second Rio Grande Industries) and the Southern Pacific Transportation Company, the current Union Pacific Railroad.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Southern Pacific had financial problems and its mileage was dropped to 13,715 miles (22,072 km) by 1996.
+</p><p>The Union Pacific Corporation purchased the Southern Pacific Rail Corporation which included the Southern Pacific Transportation Company, the <a href="/wiki/Denver_and_Rio_Grande_Western_Railroad" title="Denver and Rio Grande Western Railroad">Denver and Rio Grande Western Railroad</a>, the <a href="/wiki/St._Louis_Southwestern_Railway" title="St. Louis Southwestern Railway">St. Louis Southwestern Railway</a> and the <a href="/wiki/SPCSL_Corporation" class="mw-redirect" title="SPCSL Corporation">SPCSL Corporation</a>. The Union Pacific Corporation originally purchased a portion of the Southern Pacific Rail Corporation under the UP Acquisition Corporation subsidiary; the UP Acquisition Corporation subsidiary originally acquired 25 percent of SP's outstanding common shares for $25 per share cash. In June 1996, the UP Acquisition Corporation was merged into the Union Pacific Corporation, the 25 percent of SP's outstanding common shares is now controlled by the Union Pacific Corporation, leaving only 75 percent of SP common shares not owned by the Union Pacific Corporation that was originally going to the UP Acquisition Corporation subsidiary. In September 1996, the Union Pacific Corporation acquired the remaining 75 percent of SP common shares not previously owned by the Union Pacific Corporation. On September 10, 1996, the Union Pacific Merger Company was merged into the Union Pacific Corporation.<sup id="cite_ref-sec.gov_10-2" class="reference"><a href="#cite_note-sec.gov-10">[10]</a></sup></p><p>The Union Pacific Corporation merged the Denver and Rio Grande Western Railroad, the St. Louis Southwestern Railway and the SPCSL Corporation into the third Union Pacific Railroad.
+</p><p>The Union Pacific Corporation merged the third Union Pacific Railroad into the Southern Pacific Transportation Company in 1998; the Southern Pacific Transportation Company becomes the surviving railroad and at the same time the Union Pacific Corporation renamed the Southern Pacific Transportation Company to fourth incarnation of the Union Pacific Railroad. The former Southern Pacific Transportation Company is now operating as the current incarnation of the Union Pacific Railroad. The Southern Pacific Rail Corporation remained a subsidiary of the Union Pacific Corporation until 2015 when it was merged into the former Southern Pacific Transportation Company, the current Union Pacific Railroad.
+</p><p>According to the Utah corporation database, it has been suggested that the Southern Pacific Rail Corporation was merged into UP Holding Company<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> and UP Holding Company was renamed Southern Pacific Rail Corporation, becoming a second incarnation of the Southern Pacific Rail Corporation. It has also been suggested that UP Holding Company was originally known as "CNW Holdings" (or "CNW Holdings, Inc.").<sup id="cite_ref-auto_8-1" class="reference"><a href="#cite_note-auto-8">[8]</a></sup> CNW Holdings could be mistaken for the Chicago and North Western Holdings Corporation, the former parent company of the Chicago and North Western.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Finances">Finances</span><span class="mw-editsection"><a href="/w/index.php?title=Union_Pacific_Corporation&amp;action=edit&amp;section=6" title="Edit section: Finances" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>For the fiscal year 2017, Union Pacific reported earnings of US$3.388 billion, with an annual revenue of US$244.582 billion, an increase of 6.5% over the previous fiscal cycle. Union Pacific's shares traded at over $31 per share, and its market capitalization was valued at US$105.2 billion in October 2018.
+</p>
+<table class="wikitable float-left" style="text-align: right;"><tbody><tr><th>Year
+</th>
+<th>Revenue<br>in mil. USD$
+</th>
+<th>Net income<br>in mil. USD$
+</th>
+<th>Total Assets<br>in mil. USD$
+</th>
+<th>Price per Share<br>in USD$
+</th>
+<th>Employees
+</th></tr><tr><td>2000<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></td>
+<td>10,765
+</td>
+<td>842
+</td>
+<td>30,917
+</td>
+<td>7.56
+</td>
+<td>
+</td></tr><tr><td>2001<sup id="cite_ref-:0_20-0" class="reference"><a href="#cite_note-:0-20">[20]</a></sup></td>
+<td>10,830
+</td>
+<td>966
+</td>
+<td>31,552
+</td>
+<td>9.80
+</td>
+<td>
+</td></tr><tr><td>2002<sup id="cite_ref-:0_20-1" class="reference"><a href="#cite_note-:0-20">[20]</a></sup></td>
+<td>11,159
+</td>
+<td>1,341
+</td>
+<td>32,772
+</td>
+<td>11.09
+</td>
+<td>
+</td></tr><tr><td>2003<sup id="cite_ref-:0_20-2" class="reference"><a href="#cite_note-:0-20">[20]</a></sup></td>
+<td>11,551
+</td>
+<td>1,585
+</td>
+<td>33,496
+</td>
+<td>11.23
+</td>
+<td>
+</td></tr><tr><td>2004<sup id="cite_ref-:0_20-3" class="reference"><a href="#cite_note-:0-20">[20]</a></sup></td>
+<td>12,215
+</td>
+<td>604
+</td>
+<td>34,596
+</td>
+<td>11.58
+</td>
+<td>
+</td></tr><tr><td>2005<sup id="cite_ref-:0_20-4" class="reference"><a href="#cite_note-:0-20">[20]</a></sup></td>
+<td>13,578
+</td>
+<td>1,026
+</td>
+<td>35,620
+</td>
+<td>13.17
+</td>
+<td>
+</td></tr><tr><td>2006<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></td>
+<td>15,578
+</td>
+<td>1,606
+</td>
+<td>36,515
+</td>
+<td>17.52
+</td>
+<td>
+</td></tr><tr><td>2007<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></td>
+<td>16,283
+</td>
+<td>1,855
+</td>
+<td>38,033
+</td>
+<td>22.78
+</td>
+<td>
+</td></tr><tr><td>2008<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></td>
+<td>17,970
+</td>
+<td>2,335
+</td>
+<td>39,722
+</td>
+<td>26.95
+</td>
+<td>
+</td></tr><tr><td>2009<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></td>
+<td>14,143
+</td>
+<td>1,890
+</td>
+<td>42,184
+</td>
+<td>22.10
+</td>
+<td>
+</td></tr><tr><td>2010<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></td>
+<td>16,965
+</td>
+<td>2,780
+</td>
+<td>43,088
+</td>
+<td>32.35
+</td>
+<td>
+</td></tr><tr><td>2011<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></td>
+<td>19,557
+</td>
+<td>3,292
+</td>
+<td>45,096
+</td>
+<td>41.68
+</td>
+<td>
+</td></tr><tr><td>2012<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></td>
+<td>20,926
+</td>
+<td>3,943
+</td>
+<td>47,153
+</td>
+<td>51.26
+</td>
+<td>
+</td></tr><tr><td>2013<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></td>
+<td>21,963
+</td>
+<td>4,388
+</td>
+<td>49,731
+</td>
+<td>67.61
+</td>
+<td>46,445
+</td></tr><tr><td>2014<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></td>
+<td>23,988
+</td>
+<td>5,180
+</td>
+<td>52,372
+</td>
+<td>92.50
+</td>
+<td>47,201
+</td></tr><tr><td>2015<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></td>
+<td>21,813
+</td>
+<td>4,772
+</td>
+<td>54,600
+</td>
+<td>92.58
+</td>
+<td>47,457
+</td></tr><tr><td>2016<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></td>
+<td>19,941
+</td>
+<td>4,233
+</td>
+<td>55,718
+</td>
+<td>84.65
+</td>
+<td>42,919
+</td></tr><tr><td>2017<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></td>
+<td>21,240
+</td>
+<td>10,712
+</td>
+<td>57,806
+</td>
+<td>108.51
+</td>
+<td>41,992
+</td></tr><tr><td>2018<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></td>
+<td>22,832
+</td>
+<td>5,966
+</td>
+<td>59,147
+</td>
+<td>138.23
+</td>
+<td>41,967
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><a href="/w/index.php?title=Union_Pacific_Corporation&amp;action=edit&amp;section=7" title="Edit section: See also" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li><a href="/wiki/Union_Pacific_Railroad" title="Union Pacific Railroad">Union Pacific Railroad</a></li>
+<li><a href="/wiki/Southern_Pacific_Transportation_Company" title="Southern Pacific Transportation Company">Southern Pacific Transportation Company</a></li>
+<li><a href="/wiki/Rio_Grande_Industries" title="Rio Grande Industries">Rio Grande Industries</a></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Union_Pacific_Corporation&amp;action=edit&amp;section=8" title="Edit section: References" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-10-K-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-10-K_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-10-K_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-10-K_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-10-K_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-10-K_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-10-K_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/100885/000010088519000060/unp-20181231x10k.htm">"Union Pacific Corporation 2018 Annual Report (Form 10-K)"</a>. <i>sec.gov</i>. <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">U.S. Securities and Exchange Commission</a>. February 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=sec.gov&amp;rft.atitle=Union+Pacific+Corporation+2018+Annual+Report+%28Form+10-K%29&amp;rft.date=2019-02&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F100885%2F000010088519000060%2Funp-20181231x10k.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-10K2010-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-10K2010_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-10K2010_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-10K2010_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/100885/000119312511024531/d10k.htm">"Form 10-K Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 for the Fiscal Year Ended December 31, 2010 Union Pacific Corporation"</a>. <i>SEC.gov</i>. <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">U.S. Securities and Exchange Commission</a>. 2011-02-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=SEC.gov&amp;rft.atitle=Form+10-K+Annual+Report+Pursuant+to+Section+13+or+15%28d%29+of+the+Securities+Exchange+Act+of+1934+for+the+Fiscal+Year+Ended+December+31%2C+2010+Union+Pacific+Corporation&amp;rft.date=2011-02-04&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F100885%2F000119312511024531%2Fd10k.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-up_family-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-up_family_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://up.jobs/up-family.html">"UP Family (Subsidiaries)"</a>. Union Pacific Railroad.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UP+Family+%28Subsidiaries%29&amp;rft.pub=Union+Pacific+Railroad&amp;rft_id=https%3A%2F%2Fup.jobs%2Fup-family.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-history-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-history_4-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.uprr.com/aboutup/history/uprr-chr.shtml">UP:Chronological History</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060810170628/http://www.uprr.com/aboutup/history/uprr-chr.shtml">Archived</a> August 10, 2006, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, Union Pacific Railroad</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cprr.org/Museum/Pacific_Railroad_Acts.html">"An Act to aid in the construction of a railroad and telegraph line from the Missouri river to the Pacific ocean, and to secure to the government the use of the same for postal, military, and other purposes</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160527113235/http://www.cprr.org/Museum/Pacific_Railroad_Acts.html">Archived</a> May 27, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> 12 Stat. 489, July 1, 1862</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Brian Solomon (2000). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=d-KLEjzWUq8C&amp;pg=PA35"><i>Union Pacific Railroad</i></a>. Voyageur Press. pp. 35–43.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Union+Pacific+Railroad&amp;rft.pages=35-43&amp;rft.pub=Voyageur+Press&amp;rft.date=2000&amp;rft.au=Brian+Solomon&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dd-KLEjzWUq8C%26pg%3DPA35&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.up.com/cs/groups/public/@uprr/@investor/documents/investordocuments/pdf_upc_10k_02062015.pdf">"Commission File Number 1-6075 : UNION PACIFIC CORPORATION"</a> <span class="cs1-format">(PDF)</span>. <i>Up.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Up.com&amp;rft.atitle=Commission+File+Number+1-6075+%3A+UNION+PACIFIC+CORPORATION&amp;rft_id=https%3A%2F%2Fwww.up.com%2Fcs%2Fgroups%2Fpublic%2F%40uprr%2F%40investor%2Fdocuments%2Finvestordocuments%2Fpdf_upc_10k_02062015.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-auto-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://secure.utah.gov/bes/details.html?entity=1261146-0142">"Entity Details: SOUTHERN PACIFIC RAIL CORPORATION - Utah Business Search - Utah.gov"</a>. <i>secure.utah.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=secure.utah.gov&amp;rft.atitle=Entity+Details%3A+SOUTHERN+PACIFIC+RAIL+CORPORATION+-+Utah+Business+Search+-+Utah.gov&amp;rft_id=https%3A%2F%2Fsecure.utah.gov%2Fbes%2Fdetails.html%3Fentity%3D1261146-0142&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-getfilings.com-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-getfilings.com_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-getfilings.com_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://getfilings.com/o0000100885-97-000002.html">http://getfilings.com/o0000100885-97-000002.html</a></span>
+</li>
+<li id="cite_note-sec.gov-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-sec.gov_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sec.gov_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-sec.gov_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.sec.gov/Archives/edgar/data/100889/0000100889-97-000002.txt">https://www.sec.gov/Archives/edgar/data/100889/0000100889-97-000002.txt</a> UNITED STATES SECURITIES AND EXCHANGE COMMISSION Union Pacific Railroad 1997</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.secinfo.com/dq2rb.ae.htm">"SEC Info - Chicago &amp; North Western Transportation Co/DE - '10-K' for 12/31/94"</a>. <i>Secinfo.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Secinfo.com&amp;rft.atitle=SEC+Info+-+Chicago+%26+North+Western+Transportation+Co%2FDE+-+%E2%80%9810-K%E2%80%99+for+12%2F31%2F94&amp;rft_id=http%3A%2F%2Fwww.secinfo.com%2Fdq2rb.ae.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edgar.secdatabase.com/741/95017295000077/filing-main.htm">"CHICAGO &amp; NORTH WESTERN TRANSPORTATION CO /DE/ (Form Type: SC 13D/A, Filing Date: 03/10/1995)"</a>. <i>edgar.secdatabase.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=edgar.secdatabase.com&amp;rft.atitle=CHICAGO+%26+NORTH+WESTERN+TRANSPORTATION+CO+%2FDE%2F+%28Form+Type%3A+SC+13D%2FA%2C+Filing+Date%3A+03%2F10%2F1995%29&amp;rft_id=http%3A%2F%2Fedgar.secdatabase.com%2F741%2F95017295000077%2Ffiling-main.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Feder, Barnaby J. (1995-03-11). <a rel="nofollow" class="external text" href="https://www.nytimes.com/1995/03/11/business/company-news-union-pacific-to-buy-chicago-and-north-western.html">"COMPANY NEWS; Union Pacific to Buy Chicago and North Western"</a>. <i>The New York Times</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0362-4331">0362-4331</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-04-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=COMPANY+NEWS%3B+Union+Pacific+to+Buy+Chicago+and+North+Western&amp;rft.date=1995-03-11&amp;rft.issn=0362-4331&amp;rft.aulast=Feder&amp;rft.aufirst=Barnaby+J.&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F1995%2F03%2F11%2Fbusiness%2Fcompany-news-union-pacific-to-buy-chicago-and-north-western.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.secinfo.com/dq2rb.ae.htm">http://www.secinfo.com/dq2rb.ae.htm</a> Chicago &amp; North Western Transportation Co/DE – ‘10-K’ for 12/31/94</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://secure.utah.gov/bes/details.html?entity=1225867-0142">"Entity Details: UP RAIL, INC. - Utah Business Search - Utah.gov"</a>. <i>secure.utah.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=secure.utah.gov&amp;rft.atitle=Entity+Details%3A+UP+RAIL%2C+INC.+-+Utah+Business+Search+-+Utah.gov&amp;rft_id=https%3A%2F%2Fsecure.utah.gov%2Fbes%2Fdetails.html%3Fentity%3D1225867-0142&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/310183/0000310183-96-000004.txt">"MISSOURI PACIFIC RAILROAD COMPANY AND SUBSIDIARY COMPANIES, NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited)"</a> <span class="cs1-format">(TXT)</span>. <i>Sec.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sec.gov&amp;rft.atitle=MISSOURI+PACIFIC+RAILROAD+COMPANY+AND+SUBSIDIARY+COMPANIES%2C+NOTES+TO+CONDENSED+CONSOLIDATED+FINANCIAL+STATEMENTS+%28Unaudited%29&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F310183%2F0000310183-96-000004.txt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.stb.gov/decisions/ReadingRoom.nsf/83fd59cf17adc80785256559007ba132/2a3c0c973ffabb448525654800794163?OpenDocument">"21103 - Decision"</a>. <i>Stb.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Stb.gov&amp;rft.atitle=21103+-+Decision&amp;rft_id=https%3A%2F%2Fwww.stb.gov%2Fdecisions%2FReadingRoom.nsf%2F83fd59cf17adc80785256559007ba132%2F2a3c0c973ffabb448525654800794163%3FOpenDocument&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.crunchbase.com/organization/southern-pacific-rail-corporation#/entity">"Southern Pacific Rail Corporation - crunchbase"</a>. <i>Crunchbase.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Crunchbase.com&amp;rft.atitle=Southern+Pacific+Rail+Corporation+-+crunchbase&amp;rft_id=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Fsouthern-pacific-rail-corporation%23%2Fentity&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.annualreports.com/HostedData/AnnualReportArchive/u/NYSE_UNP_2004.pdf">"Annual Report 2004"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Annual+Report+2004&amp;rft_id=http%3A%2F%2Fwww.annualreports.com%2FHostedData%2FAnnualReportArchive%2Fu%2FNYSE_UNP_2004.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-:0-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_20-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_20-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:0_20-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.annualreports.com/HostedData/AnnualReportArchive/u/NYSE_UNP_2005.pdf">"2005 Annual Report"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2005+Annual+Report&amp;rft_id=http%3A%2F%2Fwww.annualreports.com%2FHostedData%2FAnnualReportArchive%2Fu%2FNYSE_UNP_2005.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.annualreports.com/HostedData/AnnualReportArchive/u/NYSE_UNP_2006.pdf">"2006 Annual Report"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2006+Annual+Report&amp;rft_id=http%3A%2F%2Fwww.annualreports.com%2FHostedData%2FAnnualReportArchive%2Fu%2FNYSE_UNP_2006.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.annualreports.com/HostedData/AnnualReportArchive/u/NYSE_UNP_2007.pdf">"2007 Annual Report"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2007+Annual+Report&amp;rft_id=http%3A%2F%2Fwww.annualreports.com%2FHostedData%2FAnnualReportArchive%2Fu%2FNYSE_UNP_2007.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.annualreports.com/HostedData/AnnualReportArchive/u/NYSE_UNP_2008.pdf">"2008 Annual Report"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2008+Annual+Report&amp;rft_id=http%3A%2F%2Fwww.annualreports.com%2FHostedData%2FAnnualReportArchive%2Fu%2FNYSE_UNP_2008.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.annualreports.com/HostedData/AnnualReportArchive/u/NYSE_UNP_2009.pdf">"2009 Annual Report"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2009+Annual+Report&amp;rft_id=http%3A%2F%2Fwww.annualreports.com%2FHostedData%2FAnnualReportArchive%2Fu%2FNYSE_UNP_2009.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.annualreports.com/HostedData/AnnualReportArchive/u/NYSE_UNP_2010.pdf">"2010 Annual Report"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2010+Annual+Report&amp;rft_id=http%3A%2F%2Fwww.annualreports.com%2FHostedData%2FAnnualReportArchive%2Fu%2FNYSE_UNP_2010.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.annualreports.com/HostedData/AnnualReportArchive/u/NYSE_UNP_2011.pdf">"2011 Annual Report"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2011+Annual+Report&amp;rft_id=http%3A%2F%2Fwww.annualreports.com%2FHostedData%2FAnnualReportArchive%2Fu%2FNYSE_UNP_2011.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.annualreports.com/HostedData/AnnualReportArchive/u/NYSE_UNP_2012.pdf">"2012 Annual Report"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2012+Annual+Report&amp;rft_id=http%3A%2F%2Fwww.annualreports.com%2FHostedData%2FAnnualReportArchive%2Fu%2FNYSE_UNP_2012.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.annualreports.com/HostedData/AnnualReportArchive/u/NYSE_UNP_2013.pdf">"2013 Annual Report"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2013+Annual+Report&amp;rft_id=http%3A%2F%2Fwww.annualreports.com%2FHostedData%2FAnnualReportArchive%2Fu%2FNYSE_UNP_2013.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.annualreports.com/HostedData/AnnualReportArchive/u/NYSE_UNP_2014.pdf">"2014 Annual Report"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2014+Annual+Report&amp;rft_id=http%3A%2F%2Fwww.annualreports.com%2FHostedData%2FAnnualReportArchive%2Fu%2FNYSE_UNP_2014.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.annualreports.com/HostedData/AnnualReportArchive/u/NYSE_UNP_2015.pdf">"2015 Annual Report"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2015+Annual+Report&amp;rft_id=http%3A%2F%2Fwww.annualreports.com%2FHostedData%2FAnnualReportArchive%2Fu%2FNYSE_UNP_2015.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.annualreports.com/HostedData/AnnualReportArchive/u/NYSE_UNP_2016.pdf">"2016 Annual Report"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2016+Annual+Report&amp;rft_id=http%3A%2F%2Fwww.annualreports.com%2FHostedData%2FAnnualReportArchive%2Fu%2FNYSE_UNP_2016.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/100885/000010088518000048/unp-20171231x10k.htm">"20171231 10K"</a>. <i>www.sec.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.sec.gov&amp;rft.atitle=20171231+10K&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F100885%2F000010088518000048%2Funp-20171231x10k.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/100885/000010088519000060/unp-20181231x10k.htm">"20181231 10K"</a>. <i>www.sec.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-04-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.sec.gov&amp;rft.atitle=20181231+10K&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F100885%2F000010088519000060%2Funp-20181231x10k.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnion+Pacific+Corporation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Union_Pacific_Corporation&amp;action=edit&amp;section=9" title="Edit section: External links" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"><tbody><tr>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Union_Pacific_Railroad" class="extiw" title="commons:Category:Union Pacific Railroad"><span style="">Union Pacific Railroad</span></a></b></i>.</td></tr></tbody></table><ul><li><a rel="nofollow" class="external text" href="http://www.up.com">Official Union Pacific company website</a></li>
+<li>Business data for Union Pacific: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=UNP">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=UNP">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=UNP">SEC filings</a></li></ul></div></li>
+<li><a rel="nofollow" class="external text" href="http://www.uprr.com/aboutup/maps/sysmap.shtml">System map</a></li>
+<li><a rel="nofollow" class="external text" href="http://beinecke.library.yale.edu/digitallibrary/russell.html">Photographs of the Construction of the Union Pacific Railroad, 1868–69</a> at the <a rel="nofollow" class="external text" href="http://www.library.yale.edu/beinecke/index.html">Beinecke Rare Book and Manuscript Library at Yale University</a></li></ul>
+<p><a href="/wiki/Economy_of_Omaha,_Nebraska" title="Economy of Omaha, Nebraska">Economy of Omaha, Nebraska</a>
+</p>
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Union_Pacific_Corporation&amp;oldid=939999213">https://en.wikipedia.org/w/index.php?title=Union_Pacific_Corporation&amp;oldid=939999213</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Union_Pacific_Corporation"
+				data-user-name="Magnolia677"
+				data-user-gender="unknown"
+				data-timestamp="1581291954">
+				<span>Last edited on 9 February 2020, at 23:45</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Union_Pacific_Corporation&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.568","walltime":"0.845","ppvisitednodes":{"value":3079,"limit":1000000},"postexpandincludesize":{"value":111927,"limit":2097152},"templateargumentsize":{"value":16174,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":88544,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  769.697      1 -total"," 30.88%  237.681      3 Template:Ambox"," 28.80%  221.676      1 Template:Reflist"," 26.08%  200.751      1 Template:Multiple_issues"," 24.78%  190.700      1 Template:Infobox_company"," 22.35%  172.003      1 Template:Infobox"," 19.57%  150.593     26 Template:Cite_web","  9.72%   74.839      1 Template:More_citations_needed","  7.12%   54.836      8 Template:Wikidata","  7.01%   53.957      1 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.291","limit":"10.000"},"limitreport-memusage":{"value":10556042,"limit":52428800}},"cachereport":{"origin":"mw1391","timestamp":"20200416073305","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Union Pacific Corporation","url":"https:\/\/en.wikipedia.org\/wiki\/Union_Pacific_Corporation","sameAs":"http:\/\/www.wikidata.org\/entity\/Q20183163","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q20183163","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-20T13:23:23Z","dateModified":"2020-02-09T23:45:54Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/de\/Union_pacific_railroad_logo.svg"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":139,"wgHostname":"mw1324"});});</script>		</body>
+		</html>
+		

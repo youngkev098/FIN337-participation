@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>American Airlines Group - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpiJDApAEJcAAKHqADwAAAAL","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"American_Airlines_Group","wgTitle":"American Airlines Group","wgCurRevisionId":946085453,"wgRevisionId":946085453,"wgArticleId":38521579,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"American_Airlines_Group","wgRelevantArticleId":38521579,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4742937","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},
+"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=American_Airlines_Group&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=American_Airlines_Group&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/American_Airlines_Group"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-American_Airlines_Group rootpage-American_Airlines_Group stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=American+Airlines+Group" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=American+Airlines+Group" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">American Airlines Group</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/American_Airlines_Group" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=American+Airlines+Group" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=American_Airlines_Group&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<p class="mw-empty-elt">
+</p>
+<p><b>American Airlines Group Inc.</b> is an American publicly traded <a href="/wiki/Airline" title="Airline">airline</a> <a href="/wiki/Holding_company" title="Holding company">holding company</a> headquartered in <a href="/wiki/Fort_Worth,_Texas" title="Fort Worth, Texas">Fort Worth</a>, <a href="/wiki/Texas" title="Texas">Texas</a>. It was formed on December 9, 2013, in the merger of <a href="/wiki/AMR_Corporation" title="AMR Corporation">AMR Corporation</a>, the parent company of <a href="/wiki/American_Airlines" title="American Airlines">American Airlines</a>, and <a href="/wiki/US_Airways_Group" title="US Airways Group">US Airways Group</a>, the parent company of <a href="/wiki/US_Airways" title="US Airways">US Airways</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The airline groups together form the <a href="/wiki/World%27s_largest_airlines" class="mw-redirect" title="World's largest airlines">largest airline in the world</a>, with more than 6,700 daily flights to 350 locations in 56 countries worldwide, about $40 billion in operating revenue, over 100,000 employees, and plans to take delivery of 607 new aircraft, including 517 narrowbody aircraft and 90 widebody international aircraft.<sup id="cite_ref-:0_7-0" class="reference"><a href="#cite_note-:0-7">[7]</a></sup> The integration of American Airlines and US Airways was completed when the <a href="/wiki/Federal_Aviation_Administration" title="Federal Aviation Administration">Federal Aviation Administration</a> granted a single operating certificate for both carriers on April 8, 2015.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The company ranked No. 71 in the 2018 <a href="/wiki/Fortune_500" title="Fortune 500">Fortune 500</a> list of the largest United States corporations by total revenue.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">American Airlines Group Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:AA_Group_logo.jpg" class="image"><img alt="AA Group logo.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8b/AA_Group_logo.jpg/250px-AA_Group_logo.jpg" decoding="async" width="250" height="73" data-file-width="583" data-file-height="171"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a>: <a rel="nofollow" class="external text" href="https://www.nasdaq.com/symbol/aal">AAL</a></li><li><a href="/wiki/NASDAQ-100" title="NASDAQ-100">NASDAQ-100</a> component</li><li><a href="/wiki/DJTA" class="mw-redirect" title="DJTA">DJTA</a> component</li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US02376R1023">US02376R1023 </a><a href="https://www.wikidata.org/wiki/Q4742937?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Aviation" title="Aviation">Aviation</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Predecessors</th><td style="line-height: 1.35em;"><a href="/wiki/AMR_Corporation" title="AMR Corporation">AMR Corporation</a><br><a href="/wiki/US_Airways_Group" title="US Airways Group">US Airways Group</a><sup id="cite_ref-about_1-0" class="reference"><a href="#cite_note-about-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">December 9, 2013 (6 years ago)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;">CentrePort, <div style="display: inline;" class="locality"><a href="/wiki/Fort_Worth,_Texas" title="Fort Worth, Texas">Fort Worth</a>, <a href="/wiki/Texas" title="Texas">Texas</a></div>, <div style="display: inline;" class="country-name">United States<sup id="cite_ref-about_1-1" class="reference"><a href="#cite_note-about-1">[1]</a></sup></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of locations</div></th><td style="line-height: 1.35em;">350 destinations*</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">Worldwide<sup id="cite_ref-smh_2-0" class="reference"><a href="#cite_note-smh-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/Doug_Parker" title="Doug Parker">Doug Parker</a> (<a href="/wiki/Chairman" class="mw-redirect" title="Chairman">Chairman</a> and <a href="/wiki/Chief_executive_officer" title="Chief executive officer">CEO</a>)<sup id="cite_ref-leadership_3-0" class="reference"><a href="#cite_note-leadership-3">[3]</a></sup></li><li>Robert Isom (<a href="/wiki/President_(corporate_title)" title="President (corporate title)">President</a>)</li><li>Derek Kerr (<a href="/wiki/Chief_financial_officer" title="Chief financial officer">CFO</a>)</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Production output</div></th><td style="line-height: 1.35em;">6,700 daily flights<sup id="cite_ref-smh_2-1" class="reference"><a href="#cite_note-smh-2">[2]</a></sup> (2013)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Services</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Aviation" title="Aviation">Air transportation</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_dollar" title="United States dollar">$</a>45.768 billion <span style="font-size:85%;">(2019)</span><sup id="cite_ref-10-K_4-0" class="reference"><a href="#cite_note-10-K-4">[4]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_dollar" title="United States dollar">$</a>3.065 billion <span style="font-size:85%;">(2019)</span><sup id="cite_ref-10-K_4-1" class="reference"><a href="#cite_note-10-K-4">[4]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_dollar" title="United States dollar">$</a>1.686 billion <span style="font-size:85%;">(2019)</span><sup id="cite_ref-10-K_4-2" class="reference"><a href="#cite_note-10-K-4">[4]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_dollar" title="United States dollar">$</a>59.995 billion <span style="font-size:85%;">(2019)</span><sup id="cite_ref-10-K_4-3" class="reference"><a href="#cite_note-10-K-4">[4]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_dollar" title="United States dollar">$</a>-118 million <span style="font-size:85%;">(2019)</span><sup id="cite_ref-10-K_4-4" class="reference"><a href="#cite_note-10-K-4">[4]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">~133,700 <span style="font-size:85%;">(December 2019)</span><sup id="cite_ref-10-K_4-5" class="reference"><a href="#cite_note-10-K-4">[4]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Division_(business)" title="Division (business)">Divisions</a></th><td style="line-height: 1.35em;">American Airlines Cargo<br><a href="/wiki/American_Eagle_(airline_brand)" title="American Eagle (airline brand)">American Eagle</a><br><a href="/wiki/American_Airlines_Shuttle" title="American Airlines Shuttle">American Airlines Shuttle</a><sup id="cite_ref-about_1-2" class="reference"><a href="#cite_note-about-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th><td style="line-height: 1.35em;"><a href="/wiki/American_Airlines" title="American Airlines">American Airlines, Inc.</a><br><a href="/wiki/Envoy_Air" title="Envoy Air">Envoy Air Inc.</a><br><a href="/wiki/Piedmont_Airlines" title="Piedmont Airlines">Piedmont Airlines, Inc.</a><br><a href="/wiki/PSA_Airlines" title="PSA Airlines">PSA Airlines, Inc.</a><sup id="cite_ref-about_1-3" class="reference"><a href="#cite_note-about-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://aa.com">aa<wbr></wbr>.com</a></span></td></tr><tr><td colspan="2" style="text-align:center;line-height: 1.35em;"><b>Footnotes / references</b><br>* Hubs in <a href="/wiki/Charlotte_Douglas_International_Airport" title="Charlotte Douglas International Airport">Charlotte</a>, <a href="/wiki/O%27Hare_International_Airport" title="O'Hare International Airport">Chicago</a>, <a href="/wiki/Dallas/Fort_Worth_International_Airport" title="Dallas/Fort Worth International Airport">Dallas-Fort Worth</a>, <a href="/wiki/Los_Angeles_International_Airport" title="Los Angeles International Airport">Los Angeles</a>, <a href="/wiki/Miami_International_Airport" title="Miami International Airport">Miami</a>, <a href="/wiki/John_F._Kennedy_International_Airport" title="John F. Kennedy International Airport">New</a> <a href="/wiki/LaGuardia_Airport" title="LaGuardia Airport">York</a>, <a href="/wiki/Philadelphia_International_Airport" title="Philadelphia International Airport">Philadelphia</a>, <a href="/wiki/Phoenix_Sky_Harbor_International_Airport" title="Phoenix Sky Harbor International Airport">Phoenix</a>, and <a href="/wiki/Ronald_Reagan_Washington_National_Airport" title="Ronald Reagan Washington National Airport">Washington</a><sup id="cite_ref-hubs_5-0" class="reference"><a href="#cite_note-hubs-5">[5]</a></sup></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Merger_between_AMR_Corporation_and_US_Airways_Group"><span class="tocnumber">1.1</span> <span class="toctext">Merger between AMR Corporation and US Airways Group</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-3"><a href="#Finances"><span class="tocnumber">2</span> <span class="toctext">Finances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=American_Airlines_Group&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<h3 class="in-block"><span class="mw-headline" id="Merger_between_AMR_Corporation_and_US_Airways_Group">Merger between AMR Corporation and US Airways Group</span><span class="mw-editsection"><a href="/w/index.php?title=American_Airlines_Group&amp;action=edit&amp;section=2" title="Edit section: Merger between AMR Corporation and US Airways Group" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>In January 2012, <a href="/wiki/US_Airways_Group" title="US Airways Group">US Airways Group</a>, the parent company of <a href="/wiki/US_Airways" title="US Airways">US Airways</a>, expressed interest in taking over <a href="/wiki/AMR_Corporation" title="AMR Corporation">AMR Corporation</a>, the parent company of <a href="/wiki/American_Airlines" title="American Airlines">American Airlines</a>.<sup id="cite_ref-:0_7-1" class="reference"><a href="#cite_note-:0-7">[7]</a></sup> In March, AMR's CEO Tom Horton said that the company was open to a merger.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> US Airways (US) told some American Airlines (AA) creditors that merging the two carriers could yield more than $1.5 billion a year in added revenue and cost savings.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> On April 20, American Airlines' three unions said they supported a proposed merger between the two airlines.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> With AMR under <a href="/wiki/Chapter_11,_Title_11,_United_States_Code" title="Chapter 11, Title 11, United States Code">Chapter 11 bankruptcy protection</a>, American Airlines had been looking to merge with another airline. Earlier in July, a bankruptcy court filing stated that US Airways was an American Airlines creditor and "prospective merger partner"; on August 31, US Airways CEO Doug Parker announced that American Airlines and US Airways had signed a nondisclosure agreement, in which they would discuss the possibility of a merger.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p><p>In February 2013, American Airlines and US Airways announced plans to merge, creating the largest airline in the world by some measurements. In the deal, which was expected to close in the third quarter of 2013, stakeholders of AMR would own 72% of the company and US Airways shareholders would own the remaining 28%. <a href="/wiki/Rothschild_%26_Co" title="Rothschild &amp; Co">Rothschild &amp; Co</a> served as the investment bank for the transaction.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> The combined airline carries the American Airlines name and branding. The holding company was renamed American Airlines Group Inc.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> The US Airways' management team, including CEO <a href="/wiki/Doug_Parker" title="Doug Parker">Doug Parker</a>, retained most operational management positions. The combination was considered a "merger of equals" between US Airways and American Airlines, retaining the more well-established "American" name going forward.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> The headquarters for the new airline was also consolidated at American's current headquarters in <a href="/wiki/Fort_Worth,_Texas" title="Fort Worth, Texas">Fort Worth, Texas</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> US Airways exited <a href="/wiki/Star_Alliance" title="Star Alliance">Star Alliance</a> upon completion of the merger, and American retained its <a href="/wiki/Oneworld" title="Oneworld">Oneworld</a> alliance. Judge Sean Lane approved the merger on March 27, 2013, but declined to approve a proposed $20 million <a href="/wiki/Severance_package" title="Severance package">severance package</a> to AA executive <a href="/wiki/Thomas_W._Horton" title="Thomas W. Horton">Thomas W. Horton</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> On July 12, US Airways shareholders approved the proposed merger.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p><p>On August 13, 2013, the <a href="/wiki/United_States_Department_of_Justice" title="United States Department of Justice">United States Department of Justice</a> along with attorneys general from the District of Columbia, Arizona (headquarters of US Airways), Florida, Pennsylvania, Tennessee, Texas (headquarters of American Airlines),<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> and Virginia filed a lawsuit seeking to block the merger, arguing that it would mean less competition and higher prices. American Airlines and US Airways both said that they would fight against the lawsuit and defend their merger.<sup id="cite_ref-justicedept_23-0" class="reference"><a href="#cite_note-justicedept-23">[23]</a></sup> In early October 2013, the Attorney General of Texas quit the anti-trust lawsuit.
+</p><p>The Department of Justice reached a settlement of its lawsuit on November 12, 2013. The settlement will require the merged airline to give up <a href="/wiki/Landing_slot" title="Landing slot">landing slots</a> or gates in 7 major airports.<sup id="cite_ref-Settlement_confirmation_24-0" class="reference"><a href="#cite_note-Settlement_confirmation-24">[24]</a></sup> Under the deal, the new American is required to sell 104 slots at <a href="/wiki/Ronald_Reagan_Washington_National_Airport" title="Ronald Reagan Washington National Airport">Ronald Reagan Washington National Airport</a> and 34 slots at <a href="/wiki/LaGuardia_Airport" title="LaGuardia Airport">LaGuardia Airport</a>. An additional requirement is that American sell two gates at <a href="/wiki/O%27Hare_International_Airport" title="O'Hare International Airport">O'Hare International Airport</a>, <a href="/wiki/Los_Angeles_International_Airport" title="Los Angeles International Airport">Los Angeles International Airport</a>, <a href="/wiki/Logan_International_Airport" title="Logan International Airport">Logan International Airport</a>, <a href="/wiki/Dallas_Love_Field" title="Dallas Love Field">Dallas Love Field</a> and <a href="/wiki/Miami_International_Airport" title="Miami International Airport">Miami International Airport</a>.<sup id="cite_ref-mergerallowed_25-0" class="reference"><a href="#cite_note-mergerallowed-25">[25]</a></sup> Some of the slots will be sold to low-cost carriers such as <a href="/wiki/JetBlue" title="JetBlue">JetBlue</a> and <a href="/wiki/Southwest_Airlines" title="Southwest Airlines">Southwest Airlines</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></p><p>A private antitrust suit, filed by a group of 40 passengers and travel agents, also sought to block the merger.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> American's bankruptcy court judge refused to enjoin the two airlines from merging, saying that the group did not demonstrate that the merger would irreparably harm them.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> The plaintiffs' lawyer appealed and was turned down at the U.S. District Court level and was further rebuffed at the Supreme Court after Justice Ruth Bader Ginsburg denied a stay request filed by him.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></p><p>Following the Department of Justice approval, the merged company traded on the <a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a> stock exchange under the symbol AAL.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></p><p>On July 13, 2015, American announced that it planned to discontinue the US Airways brand name on October 17, 2015. On October 16, US Airways flew its final flight, <a href="/wiki/US_Airways_Flight_1939" class="mw-redirect" title="US Airways Flight 1939">US Airways Flight 1939</a>, which was a flight from Philadelphia-Charlotte-Phoenix-San Francisco-Philadelphia.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Finances">Finances</span><span class="mw-editsection"><a href="/w/index.php?title=American_Airlines_Group&amp;action=edit&amp;section=3" title="Edit section: Finances" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>For the fiscal year 2017, American Airlines Group reported earnings of US$1.919 billion, with an annual revenue of US$42.207 billion, an increase of 5.0% over the previous fiscal cycle. American Airlines Group's shares traded at over $46 per share, and its market capitalization was valued at  US$15 billion in October 2018. Data before 2014 are for American Airlines only.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></p>
+<table class="wikitable float-left" style="text-align: right;"><tbody><tr><th>Year
+</th>
+<th>Revenue<br>in mil. USD$
+</th>
+<th>Net income<br>in mil. USD$
+</th>
+<th>Total Assets<br>in mil. USD$
+</th>
+<th>Price per Share<br>in USD$
+</th>
+<th>Employees
+</th></tr><tr><td>2005
+</td>
+<td>20,712
+</td>
+<td>−857
+</td>
+<td>29,495
+</td>
+<td>
+</td>
+<td>
+</td></tr><tr><td>2006
+</td>
+<td>22,563
+</td>
+<td>231
+</td>
+<td>29,145
+</td>
+<td>42.57
+</td>
+<td>
+</td></tr><tr><td>2007
+</td>
+<td>22,935
+</td>
+<td>456
+</td>
+<td>28,571
+</td>
+<td>34.26
+</td>
+<td>
+</td></tr><tr><td>2008
+</td>
+<td>23,766
+</td>
+<td>−2,118
+</td>
+<td>25,175
+</td>
+<td>7.43
+</td>
+<td>
+</td></tr><tr><td>2009
+</td>
+<td>19,917
+</td>
+<td>−1,468
+</td>
+<td>25,438
+</td>
+<td>3.68
+</td>
+<td>
+</td></tr><tr><td>2010
+</td>
+<td>22,170
+</td>
+<td>−471
+</td>
+<td>25,088
+</td>
+<td>8.29
+</td>
+<td>
+</td></tr><tr><td>2011
+</td>
+<td>23,979
+</td>
+<td>−1,979
+</td>
+<td>23,848
+</td>
+<td>7.16
+</td>
+<td>
+</td></tr><tr><td>2012
+</td>
+<td>24,855
+</td>
+<td>−1,876
+</td>
+<td>23,510
+</td>
+<td>10.08
+</td>
+<td>
+</td></tr><tr><td>2013
+</td>
+<td>26,743
+</td>
+<td>−1,834
+</td>
+<td>42,278
+</td>
+<td>17.46
+</td>
+<td>110,400
+</td></tr><tr><td>2014
+</td>
+<td>42,650
+</td>
+<td>2,882
+</td>
+<td>43,225
+</td>
+<td>37.44
+</td>
+<td>113,300
+</td></tr><tr><td>2015
+</td>
+<td>40,990
+</td>
+<td>7,610
+</td>
+<td>48,415
+</td>
+<td>43.74
+</td>
+<td>118,500
+</td></tr><tr><td>2016
+</td>
+<td>40,180
+</td>
+<td>2,676
+</td>
+<td>51,274
+</td>
+<td>37.41
+</td>
+<td>122,300
+</td></tr><tr><td>2017
+</td>
+<td>42,207
+</td>
+<td>1,919
+</td>
+<td>51,396
+</td>
+<td>46.97
+</td>
+<td>126,600
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=American_Airlines_Group&amp;action=edit&amp;section=4" title="Edit section: References" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<div class="reflist columns references-column-width" style="-moz-column-width: 33em; -webkit-column-width: 33em; column-width: 33em; list-style-type: decimal;">
+<ol class="references"><li id="cite_note-about-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-about_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-about_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-about_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-about_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.aa.com/i18n/aboutUs/corporateInformation/facts/americanairlinesgroup.jsp">"American Airlines Group Overview"</a>. <a href="/wiki/American_Airlines,_Inc" class="mw-redirect" title="American Airlines, Inc">American Airlines, Inc</a>. October 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">December 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Airlines+Group+Overview&amp;rft.pub=American+Airlines%2C+Inc&amp;rft.date=2015-10&amp;rft_id=http%3A%2F%2Fwww.aa.com%2Fi18n%2FaboutUs%2FcorporateInformation%2Ffacts%2Famericanairlinesgroup.jsp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-smh-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-smh_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-smh_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.smh.com.au/travel/travel-news/worlds-largest-airline-formed-as-american-airlines-and-us-airways-merge-20131210-2z2mp.html">"World's largest airline formed as American Airlines and US Airways merge"</a>. <i><a href="/wiki/The_Sydney_Morning_Herald" title="The Sydney Morning Herald">The Sydney Morning Herald</a></i>. <a href="/wiki/Fairfax_Media" title="Fairfax Media">Fairfax Media</a>. December 10, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">December 10,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Sydney+Morning+Herald&amp;rft.atitle=World%27s+largest+airline+formed+as+American+Airlines+and+US+Airways+merge&amp;rft.date=2013-12-10&amp;rft_id=http%3A%2F%2Fwww.smh.com.au%2Ftravel%2Ftravel-news%2Fworlds-largest-airline-formed-as-american-airlines-and-us-airways-merge-20131210-2z2mp.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-leadership-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-leadership_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.is/20160316201741/http://www.aa.com/i18n/aboutUs/corporateInformation/bios/main.jsp">"American Airlines Group Executive Leadership Team"</a>. <a href="/wiki/American_Airlines,_Inc." class="mw-redirect" title="American Airlines, Inc.">American Airlines, Inc.</a> 2015. Archived from <a rel="nofollow" class="external text" href="http://www.aa.com/i18n/aboutUs/corporateInformation/bios/main.jsp">the original</a> on March 16, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">December 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Airlines+Group+Executive+Leadership+Team&amp;rft.pub=American+Airlines%2C+Inc.&amp;rft.date=2015&amp;rft_id=http%3A%2F%2Fwww.aa.com%2Fi18n%2FaboutUs%2FcorporateInformation%2Fbios%2Fmain.jsp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10-K-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-10-K_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-10-K_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-10-K_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-10-K_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-10-K_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-10-K_4-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://last10k.com/sec-filings/report/6201/000000620120000023/a10k123119.htm">"American Airlines Group Inc. 2019 Annual Report (Form 10-K)"</a>. <i>sec.gov</i>. <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">U.S. Securities and Exchange Commission</a>. January 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">March 17,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=sec.gov&amp;rft.atitle=American+Airlines+Group+Inc.+2019+Annual+Report+%28Form+10-K%29&amp;rft.date=2020-01&amp;rft_id=https%3A%2F%2Flast10k.com%2Fsec-filings%2Freport%2F6201%2F000000620120000023%2Fa10k123119.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-hubs-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-hubs_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hub.aa.com/en/nr/press-kit/hub-state-factsheets">"Hub and State Fact Sheets"</a>. American Airlines, Inc. 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 28,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hub+and+State+Fact+Sheets&amp;rft.pub=American+Airlines%2C+Inc.&amp;rft.date=2014&amp;rft_id=http%3A%2F%2Fhub.aa.com%2Fen%2Fnr%2Fpress-kit%2Fhub-state-factsheets&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://archive.is/20131209063150/http://www.chicagotribune.com/news/opinion/editorials/ct-american-usair-merger-edit-1209-20131208,0,3921410.story">"The new American Airlines"</a>. <i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i>. <a href="/wiki/Tribune_Publishing" title="Tribune Publishing">Tribune Publishing</a>. December 8, 2013. Archived from <a rel="nofollow" class="external text" href="http://www.chicagotribune.com/news/opinion/editorials/ct-american-usair-merger-edit-1209-20131208,0,3921410.story">the original</a> on December 9, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">December 8,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chicago+Tribune&amp;rft.atitle=The+new+American+Airlines&amp;rft.date=2013-12-08&amp;rft_id=http%3A%2F%2Fwww.chicagotribune.com%2Fnews%2Fopinion%2Feditorials%2Fct-american-usair-merger-edit-1209-20131208%2C0%2C3921410.story&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-:0-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Matt Joyce, Staff Writer (January 26, 2012). <a rel="nofollow" class="external text" href="http://www.bizjournals.com/charlotte/news/2012/01/26/us-airways-ceo-confirms-interest-in.html">"US Airways CEO confirms interest in American Airlines"</a>. <i>Charlotte Business Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 24,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Charlotte+Business+Journal&amp;rft.atitle=US+Airways+CEO+confirms+interest+in+American+Airlines&amp;rft.date=2012-01-26&amp;rft.au=Matt+Joyce%2C+Staff+Writer&amp;rft_id=http%3A%2F%2Fwww.bizjournals.com%2Fcharlotte%2Fnews%2F2012%2F01%2F26%2Fus-airways-ceo-confirms-interest-in.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">Karp, Gregory (April 8, 2015). <a rel="nofollow" class="external text" href="http://www.chicagotribune.com/business/breaking/ct-american-airlines-certificate-0409-biz-20150407-story.html">"American Airlines, US Airways get FAA approval to fly as one carrier"</a>. <i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i>. <a href="/wiki/Tribune_Publishing" title="Tribune Publishing">Tribune Publishing</a><span class="reference-accessdate">. Retrieved <span class="nowrap">April 8,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chicago+Tribune&amp;rft.atitle=American+Airlines%2C+US+Airways+get+FAA+approval+to+fly+as+one+carrier&amp;rft.date=2015-04-08&amp;rft.aulast=Karp&amp;rft.aufirst=Gregory&amp;rft_id=http%3A%2F%2Fwww.chicagotribune.com%2Fbusiness%2Fbreaking%2Fct-american-airlines-certificate-0409-biz-20150407-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/list/">"Fortune 500 Companies 2018: Who Made the List"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 10,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Fortune+500+Companies+2018%3A+Who+Made+the+List&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Flist%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.bizjournals.com/stlouis/morning_call/2012/03/american-airlines-open-to-merger-ceo.html">"American Airlines open to merger, CEO hints"</a>. <i>Charlotte Business Journal</i>. March 19, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">March 24,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Charlotte+Business+Journal&amp;rft.atitle=American+Airlines+open+to+merger%2C+CEO+hints&amp;rft.date=2012-03-19&amp;rft_id=http%3A%2F%2Fwww.bizjournals.com%2Fstlouis%2Fmorning_call%2F2012%2F03%2Famerican-airlines-open-to-merger-ceo.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.newson6.com/story/17330525/wsj-us-airways-considers-merger-with-american-airlines">"WSJ: US Airways Considers Merger With American Airlines"</a>. NewsOn6.com<span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=WSJ%3A+US+Airways+Considers+Merger+With+American+Airlines&amp;rft.pub=NewsOn6.com&amp;rft_id=http%3A%2F%2Fwww.newson6.com%2Fstory%2F17330525%2Fwsj-us-airways-considers-merger-with-american-airlines&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120421105224/http://www.chicagotribune.com/business/breaking/chi-3-american-air-unions-would-back-us-airways-merger-20120420,0,5907805.story">"3 unions push American Air toward US Airways merger talks"</a>. <i>Chicago Tribune</i>. April 22, 2012. Archived from <a rel="nofollow" class="external text" href="http://www.chicagotribune.com/business/breaking/chi-3-american-air-unions-would-back-us-airways-merger-20120420,0,5907805.story">the original</a> on April 21, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">April 20,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chicago+Tribune&amp;rft.atitle=3+unions+push+American+Air+toward+US+Airways+merger+talks&amp;rft.date=2012-04-22&amp;rft_id=http%3A%2F%2Fwww.chicagotribune.com%2Fbusiness%2Fbreaking%2Fchi-3-american-air-unions-would-back-us-airways-merger-20120420%2C0%2C5907805.story&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.leveragedloan.com/creditor-prospective-merger-partner-us-airways-gives-support-to-american-exclusivity-extension/">"Creditor, 'prospective merger partner' US Airways gives support to American exclusivity extension"</a>. LeveragedLoan.com. July 15, 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Creditor%2C+%27prospective+merger+partner%27+US+Airways+gives+support+to+American+exclusivity+extension&amp;rft.pub=LeveragedLoan.com&amp;rft.date=2012-07-15&amp;rft_id=http%3A%2F%2Fwww.leveragedloan.com%2Fcreditor-prospective-merger-partner-us-airways-gives-support-to-american-exclusivity-extension%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/uk-americanairlines-merger-idUSLNE91D02020130214">"American Airlines, US Airways unveil $11 billion merger"</a>. <i>Reuters</i>. February 14, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">May 22,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reuters&amp;rft.atitle=American+Airlines%2C+US+Airways+unveil+%2411+billion+merger&amp;rft.date=2013-02-14&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fuk-americanairlines-merger-idUSLNE91D02020130214&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Kennedy, Gary (Gary F.) (February 6, 2018). <i>Twelve years of turbulence : the inside story of American Airlines' battle for survival</i>. Maxon, Terry,, Staubach, Roger, 1942-. New York. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781682614884" title="Special:BookSources/9781682614884"><bdi>9781682614884</bdi></a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/1030744604">1030744604</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Twelve+years+of+turbulence+%3A+the+inside+story+of+American+Airlines%27+battle+for+survival&amp;rft.place=New+York&amp;rft.date=2018-02-06&amp;rft_id=info%3Aoclcnum%2F1030744604&amp;rft.isbn=9781682614884&amp;rft.au=Kennedy%2C+Gary+%28Gary+F.%29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news">Koenig, David (February 19, 2013). <a rel="nofollow" class="external text" href="https://www.usatoday.com/story/todayinthesky/2013/02/19/american-airlines-ceo-in-line-for-20-million-severance/1929953/">"American Airlines' CEO to get $20 million severance"</a>. <i>USA Today</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 21,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=USA+Today&amp;rft.atitle=American+Airlines%27+CEO+to+get+%2420+million+severance&amp;rft.date=2013-02-19&amp;rft.aulast=Koenig&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Ftodayinthesky%2F2013%2F02%2F19%2Famerican-airlines-ceo-in-line-for-20-million-severance%2F1929953%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news">Harlan, Chico (September 25, 2015). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/business/the-last-days-of-us-airways/2015/09/25/f5530686-60a6-11e5-8e9e-dce8a2a2a679_story.html">"Landing a mega-merger: The last days of US Airways"</a>. <i>The Washington Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Washington+Post&amp;rft.atitle=Landing+a+mega-merger%3A+The+last+days+of+US+Airways&amp;rft.date=2015-09-25&amp;rft.aulast=Harlan&amp;rft.aufirst=Chico&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2Fthe-last-days-of-us-airways%2F2015%2F09%2F25%2Ff5530686-60a6-11e5-8e9e-dce8a2a2a679_story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/2013/02/14/us-americanairlines-merger-idUSBRE91D0MF20130214">"American Airlines, US Airways unveil $11 billion merger"</a>. Reuters. February 14, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">February 14,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=American+Airlines%2C+US+Airways+unveil+%2411+billion+merger&amp;rft.date=2013-02-14&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2F2013%2F02%2F14%2Fus-americanairlines-merger-idUSBRE91D0MF20130214&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130216235338/http://hub.aa.com/en/nr/pressrelease/american-airlines-us-airways-merger">"American Airlines and US Airways to Create a Premier Global Carrier—The New American Airlines"</a> (Press release). Fort Worth, TX &amp; Tempe, AZ: AMR &amp; US Airways Group. February 14, 2013. Archived from <a rel="nofollow" class="external text" href="http://hub.aa.com/en/nr/pressrelease/american-airlines-us-airways-merger">the original</a> on February 16, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">February 14,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Airlines+and+US+Airways+to+Create+a+Premier+Global+Carrier%E2%80%94The+New+American+Airlines&amp;rft.place=Fort+Worth%2C+TX+%26+Tempe%2C+AZ&amp;rft.pub=AMR+%26+US+Airways+Group&amp;rft.date=2013-02-14&amp;rft_id=http%3A%2F%2Fhub.aa.com%2Fen%2Fnr%2Fpressrelease%2Famerican-airlines-us-airways-merger&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nbcdfw.com/news/business/AA-Merger-Focus-of-Bankruptcy-Hearing-200163021.html">"AA-US Airways Merger Approved, Not CEO Severance"</a>. KXAS-TV (NBC DFW)<span class="reference-accessdate">. Retrieved <span class="nowrap">March 27,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AA-US+Airways+Merger+Approved%2C+Not+CEO+Severance&amp;rft.pub=KXAS-TV+%28NBC+DFW%29&amp;rft_id=http%3A%2F%2Fwww.nbcdfw.com%2Fnews%2Fbusiness%2FAA-Merger-Focus-of-Bankruptcy-Hearing-200163021.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news">Jones, Charisse (July 12, 2013). <a rel="nofollow" class="external text" href="https://www.usatoday.com/story/travel/flights/2013/07/12/us-airways-shareholders-ok-merger-with-american-airlines/2511675/">"US Airways shareholders OK American Airlines merger"</a>. <i>USA Today</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=USA+Today&amp;rft.atitle=US+Airways+shareholders+OK+American+Airlines+merger&amp;rft.date=2013-07-12&amp;rft.aulast=Jones&amp;rft.aufirst=Charisse&amp;rft_id=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Ftravel%2Fflights%2F2013%2F07%2F12%2Fus-airways-shareholders-ok-merger-with-american-airlines%2F2511675%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.dallasnews.com/business/airline-industry/20130820-american-airlines-has-no-plan-b-will-take-antitrust-fight-to-court.ece">"American Airlines has no Plan B, will take antitrust fight to court"</a>. <i>The Dallas Morning News</i>. August 20, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">February 16,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Dallas+Morning+News&amp;rft.atitle=American+Airlines+has+no+Plan+B%2C+will+take+antitrust+fight+to+court&amp;rft.date=2013-08-20&amp;rft_id=http%3A%2F%2Fwww.dallasnews.com%2Fbusiness%2Fairline-industry%2F20130820-american-airlines-has-no-plan-b-will-take-antitrust-fight-to-court.ece&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-justicedept-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-justicedept_23-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Evan Perez (August 13, 2013). <a rel="nofollow" class="external text" href="http://www.cnn.com/2013/08/13/us/airline-merger-antitrust-lawsuit/index.html?hpt=hp_t2">"US government seeks to block American-US Airways merger"</a>. CNN.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=US+government+seeks+to+block+American-US+Airways+merger&amp;rft.date=2013-08-13&amp;rft.au=Evan+Perez&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2F2013%2F08%2F13%2Fus%2Fairline-merger-antitrust-lawsuit%2Findex.html%3Fhpt%3Dhp_t2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Settlement_confirmation-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Settlement_confirmation_24-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Maxon, Terry (December 11, 2013). <a rel="nofollow" class="external text" href="http://aviationblog.dallasnews.com/2013/11/is-a-settlement-announcement-imminent-in-the-american-airlines-us-airways-case.html/">"Confirmed: Settlement reached in the American Airlines-US Airways case"</a>. <i>Dallas News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 12,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dallas+News&amp;rft.atitle=Confirmed%3A+Settlement+reached+in+the+American+Airlines-US+Airways+case&amp;rft.date=2013-12-11&amp;rft.au=Maxon%2C+Terry&amp;rft_id=http%3A%2F%2Faviationblog.dallasnews.com%2F2013%2F11%2Fis-a-settlement-announcement-imminent-in-the-american-airlines-us-airways-case.html%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-mergerallowed-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-mergerallowed_25-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Had Mouawad; Christopher Drew (November 12, 2013). <a rel="nofollow" class="external text" href="https://dealbook.nytimes.com/2013/11/12/u-s-said-to-be-near-settling-american-us-airways-merger-lawsuit/">"Justice Dept. Clears Merger of 2 Airlines"</a>. <i>The New York Times</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Justice+Dept.+Clears+Merger+of+2+Airlines&amp;rft.date=2013-11-12&amp;rft.au=Had+Mouawad%3B+Christopher+Drew&amp;rft_id=https%3A%2F%2Fdealbook.nytimes.com%2F2013%2F11%2F12%2Fu-s-said-to-be-near-settling-american-us-airways-merger-lawsuit%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news">Isidore, Chris; Perez, Evan (November 12, 2013). <a rel="nofollow" class="external text" href="http://money.cnn.com/2013/11/12/news/companies/us-airways-american-airlines-antitrust/index.html">"The Justice Department has reached a settlement with American Airlines and US Airways that requires the airlines to sell facilities at seven airports in order to complete their planned merger"</a>. <i>CNN Money</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 12,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNN+Money&amp;rft.atitle=The+Justice+Department+has+reached+a+settlement+with+American+Airlines+and+US+Airways+that+requires+the+airlines+to+sell+facilities+at+seven+airports+in+order+to+complete+their+planned+merger&amp;rft.date=2013-11-12&amp;rft.aulast=Isidore&amp;rft.aufirst=Chris&amp;rft.au=Perez%2C+Evan&amp;rft_id=http%3A%2F%2Fmoney.cnn.com%2F2013%2F11%2F12%2Fnews%2Fcompanies%2Fus-airways-american-airlines-antitrust%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.frequentbusinesstraveler.com/2013/11/american-us-merger-still-faces-private-antitrust-lawsuit/">American-US Merger Still Faces Private Antitrust Lawsuit</a>. Frequent Business Traveler  (November 18, 2013). Retrieved December 8, 2013.</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.frequentbusinesstraveler.com/2013/11/judge-gives-green-light-for-american-air-exit-from-bankruptcy-and-merger-with-us-airways/Judge">Gives Green Light for American Air Exit from Bankruptcy and Merger with US Airways</a>. Frequent Business Traveler  (November 27, 2013). Retrieved December 8, 2013.</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.frequentbusinesstraveler.com/2013/12/supreme-court-declines-to-block-american-us-air-merger/">Supreme Court Declines to Block American, US Air Merger</a>. Frequent Business Traveler  (December 8, 2013). Retrieved December 8, 2013.</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web">Ausick, Paul (November 15, 2013). <a rel="nofollow" class="external text" href="https://finance.yahoo.com/news/merged-u-airways-american-airlines-152531870.html">"Merged U.S. Airways, American Airlines Will List with Nasdaq"</a>. 24/7 Wall St. via Yahoo! Finance<span class="reference-accessdate">. Retrieved <span class="nowrap">November 15,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Merged+U.S.+Airways%2C+American+Airlines+Will+List+with+Nasdaq&amp;rft.pub=24%2F7+Wall+St.+via+Yahoo%21+Finance&amp;rft.date=2013-11-15&amp;rft.aulast=Ausick&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fmerged-u-airways-american-airlines-152531870.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">US Airways fact sheet</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.npr.org/sections/thetwo-way/2015/10/16/449157409/as-airline-mega-mergers-wrap-up-us-airways-flies-into-history">"As Airline Megamergers Wrap Up, US Airways Flies Into History"</a>. <i>NPR.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 17,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NPR.org&amp;rft.atitle=As+Airline+Megamergers+Wrap+Up%2C+US+Airways+Flies+Into+History&amp;rft_id=https%3A%2F%2Fwww.npr.org%2Fsections%2Fthetwo-way%2F2015%2F10%2F16%2F449157409%2Fas-airline-mega-mergers-wrap-up-us-airways-flies-into-history&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.macrotrends.net/stocks/charts/FDX/fedex/revenue">"FedEx Revenue 2006-2018 | FDX"</a>. <i>www.macrotrends.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 31,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.macrotrends.net&amp;rft.atitle=FedEx+Revenue+2006-2018+%7C+FDX&amp;rft_id=https%3A%2F%2Fwww.macrotrends.net%2Fstocks%2Fcharts%2FFDX%2Ffedex%2Frevenue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Airlines+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=American_Airlines_Group&amp;action=edit&amp;section=5" title="Edit section: External links" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.aa.com">Official website</a></span></span></li>
+<li>Business data for American Airlines Group: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=AAL">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=AAL">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=AAL">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=American_Airlines_Group&amp;oldid=946085453">https://en.wikipedia.org/w/index.php?title=American_Airlines_Group&amp;oldid=946085453</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/American_Airlines_Group"
+				data-user-name="Mdbergi"
+				data-user-gender="unknown"
+				data-timestamp="1584489321">
+				<span>Last edited on 17 March 2020, at 23:55</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=American_Airlines_Group&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.560","walltime":"0.717","ppvisitednodes":{"value":2617,"limit":1000000},"postexpandincludesize":{"value":116585,"limit":2097152},"templateargumentsize":{"value":6405,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":95881,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  627.304      1 -total"," 47.35%  297.020      1 Template:Reflist"," 29.18%  183.036      1 Template:Infobox_company"," 27.03%  169.591      1 Template:Infobox"," 20.58%  129.097     11 Template:Cite_web"," 11.60%   72.778     16 Template:Cite_news","  9.35%   58.650      1 Template:Br_separated_entries","  9.29%   58.264      7 Template:Wikidata","  8.45%   53.010      1 Template:Cite_book","  7.87%   49.359      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.305","limit":"10.000"},"limitreport-memusage":{"value":6848747,"limit":52428800}},"cachereport":{"origin":"mw1391","timestamp":"20200416051211","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"American Airlines Group","url":"https:\/\/en.wikipedia.org\/wiki\/American_Airlines_Group","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4742937","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4742937","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-02-14T19:52:55Z","dateModified":"2020-03-17T23:55:21Z","headline":"American airline holding company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":182,"wgHostname":"mw1393"});});</script>		</body>
+		</html>
+		

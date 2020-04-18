@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Quanta Services - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoM0QpAAEEAAJxxCL4AAADJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Quanta_Services","wgTitle":"Quanta Services","wgCurRevisionId":941403270,"wgRevisionId":941403270,"wgArticleId":14560627,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Quanta_Services","wgRelevantArticleId":14560627,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Quanta_Services_Inc.","wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Quanta_Services","wgWikibaseItemId":"Q7268886","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,
+"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Quanta_Services&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Quanta_Services&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Quanta_Services"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Quanta_Services rootpage-Quanta_Services stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Quanta+Services" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Quanta+Services" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Quanta Services</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector disabled"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Quanta+Services" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Quanta_Services&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Quanta_Services_Inc.&amp;redirect=no" class="mw-redirect" title="Quanta Services Inc.">Quanta Services Inc.</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Quanta_Services&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Quanta_Services" title="Talk:Quanta Services">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="box-Advert plainlinks metadata ambox ambox-content ambox-Advert" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Quanta_Services&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span>  <small class="date-container"><i>(<span class="date">September 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><table class="box-Undisclosed_paid plainlinks metadata ambox ambox-delete" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This article <b>may have been created or edited in return for undisclosed payments</b>, a violation of Wikipedia's <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use" class="extiw" title="wmf:Terms of Use">terms of use</a>.<span class="hide-when-compact"> It may require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">clean-up</a> to comply with Wikipedia's <a href="/wiki/Wikipedia:List_of_policies#Content" title="Wikipedia:List of policies">content policies</a>.</span>  <small class="date-container"><i>(<span class="date">February 2020</span>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p><b>Quanta Services</b> is an American <a href="/wiki/Corporation" title="Corporation">corporation</a> that provides infrastructure services for electric power, pipeline, industrial and communications industries. Capabilities include the planning, design, installation, program management, maintenance and repair of most types of network <a href="/wiki/Infrastructure" title="Infrastructure">infrastructure</a>. In June 2009, Quanta Services was added to the <a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> index, replacing <a href="/wiki/Ingersoll-Rand" class="mw-redirect" title="Ingersoll-Rand">Ingersoll-Rand</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">Quanta Services, Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Quanta_Services_inc_logo.png" class="image"><img alt="Quanta Services inc logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6f/Quanta_Services_inc_logo.png/220px-Quanta_Services_inc_logo.png" decoding="async" width="220" height="59" data-file-width="513" data-file-height="138"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:PWR">PWR</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1997</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Williams_Tower" title="Williams Tower">Williams Tower</a><br><a href="/wiki/Houston" title="Houston">Houston</a>, <a href="/wiki/Texas" title="Texas">Texas</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">$9.466 billion <a href="/wiki/United_States_dollar" title="United States dollar">USD</a> (2017)<sup id="cite_ref-QuantaReport2017_1-0" class="reference"><a href="#cite_note-QuantaReport2017-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">40,000</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><a rel="nofollow" class="external text" href="http://www.quantaservices.com/">quantaservices.com</a></td></tr></tbody></table><p>Quanta Services employs about 40,000 people. Its operating companies achieved combined revenues of about $11 billion in 2018. It is headquartered in <a href="/wiki/Houston" title="Houston">Houston</a>, <a href="/wiki/Texas" title="Texas">Texas</a>. In 1998, Quanta went public on the New York Stock Exchange under the ticker symbol, PWR.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Current_leadership"><span class="tocnumber">1</span> <span class="toctext">Current leadership</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Colson_and_PAR"><span class="tocnumber">2</span> <span class="toctext">Colson and PAR</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Initial_formation"><span class="tocnumber">3</span> <span class="toctext">Initial formation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Initial_public_offering"><span class="tocnumber">4</span> <span class="toctext">Initial public offering</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Fended_takeover_bid"><span class="tocnumber">5</span> <span class="toctext">Fended takeover bid</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Sale_of_telecommunication_and_fiber-optic_licensing_divisions"><span class="tocnumber">6</span> <span class="toctext">Sale of telecommunication and fiber-optic licensing divisions</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Large_acquisitions"><span class="tocnumber">7</span> <span class="toctext">Large acquisitions</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Awards"><span class="tocnumber">8</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Lower_Rio_Grande_Valley_Energized_Reconductor_Project"><span class="tocnumber">9</span> <span class="toctext">Lower Rio Grande Valley Energized Reconductor Project</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Operating_Units"><span class="tocnumber">10</span> <span class="toctext">Operating Units</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Current_leadership">Current leadership</span><span class="mw-editsection"><a href="/w/index.php?title=Quanta_Services&amp;action=edit&amp;section=1" title="Edit section: Current leadership" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>On March 14, 2016, Earl C. “Duke” Austin succeed former chief executive officer, Jim O’Neil. Austin is currently president, chief executive officer and chief operating officer. He is a graduate of Sam Houston State University in Huntsville, Texas and is the former president of Quanta's Operating Unit, North Houston Pole Line.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p><p>On April 2, 2012, Derrick A. Jensen succeed former chief financial officer, James H. Haddox. Jensen is a graduate of Oklahoma State University. 
+<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Colson_and_PAR">Colson and PAR</span><span class="mw-editsection"><a href="/w/index.php?title=Quanta_Services&amp;action=edit&amp;section=2" title="Edit section: Colson and PAR" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>The man behind the creation of Quanta Services is former executive chairman, John R. Colson.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> After earning a degree in geology from the University of Missouri at Kansas City, Colson entered the military and served one year in Vietnam. He was discharged from the Army in 1971 and returned to Kansas City, taking temporary employment at PAR Electrical Contractors, Inc., which built high-voltage transmission lines, distribution lines, and substations, and provided other electric utility infrastructure services.
+</p><p>Colson's initial job was to carry stakes for a survey team. Within three years he was named manager of engineering services, and after six he had worked his way up to vice-president of operations. After becoming executive vice-president and general manager in the early 1980s, he began buying the company, became president in 1991, and ultimately emerged as its owner.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Initial_formation">Initial formation</span><span class="mw-editsection"><a href="/w/index.php?title=Quanta_Services&amp;action=edit&amp;section=3" title="Edit section: Initial formation" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>In the 1990s, the electrical contracting business was highly fragmented, populated by more than 50,000 companies, the vast majority of which were small, owner-operated enterprises. Deregulation in the electric utility industries in a number of states prompted utilities to become more cost-competitive, leading to the outsourcing of infrastructure work to contractors who could do the job more efficiently. Moreover, much of the transmission and distribution infrastructure in the United States was aging and in need of repair or replacement. In 1997, Colson spearheaded the combination of four contractors to form Quanta Services, Inc., which then established its headquarters in Houston with Colson as its head.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> In addition to PAR, Quanta consisted of Union Power Construction Co., Trans Tech Electric Inc., and Potelco, Inc.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Initial_public_offering">Initial public offering</span><span class="mw-editsection"><a href="/w/index.php?title=Quanta_Services&amp;action=edit&amp;section=4" title="Edit section: Initial public offering" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<p>With BT Alex Brown Incorporated, BancAmerica Robertson Stephens, and Sanders Morris Mundy Inc. serving as underwriters, Quanta completed its IPO in February 1998, raising $45 million. Of that amount, $21 million was used to pay the cash portion of the buyouts of the four founding companies. Much of the balance, along with a $175 million line of credit arranged with a consortium of nine banks, was used on over a dozen acquisitions completed in 1998. Acquired telecom companies included Manuel Brothers; Smith Contracting; Telecom Network Specialists; North Pacific Construction Company; NorAm Telecommunications; Spalj Construction Company; and Golden State Utility Company. Acquired electric contractors included Harker &amp; Harker; Sumter Builders; and Environmental Professional Associates. Hybrid acquisitions included Wilson Roadbores and Underground Construction Company.
+</p><p>A secondary offering was completed in late January 1999. The company had planned to sell 3.5 million shares at $21 per share, but interest was so strong that in the end 4.6 million shares were sold at $23.25 per share. All told, Quanta realized $101.1 million, money used to fund the acquisition of 40 additional companies, which in total cost $323.6 million in cash and notes and 15 million shares of stock. Many of these additions were made to expand Quanta's business in gas transmission and cable television.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Fended_takeover_bid">Fended takeover bid</span><span class="mw-editsection"><a href="/w/index.php?title=Quanta_Services&amp;action=edit&amp;section=5" title="Edit section: Fended takeover bid" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<p>In 2001 UtiliCorp United Inc. (now <a href="/wiki/Aquila,_Inc." title="Aquila, Inc.">Aquila, Inc.</a>), an energy company with whom PAR had been doing business since the 1950s, began taking steps to gain control of Quanta.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> UtiliCorp owned about 36 percent of Quanta, an investment that was originally part of a strategic alliance when UtiliCorp outsourced all of its maintenance needs to Quanta. Quanta resisted, and in October 2001 the two parties signed a standstill agreement. A month later Quanta adopted a "<a href="/wiki/Shareholder_rights_plan" title="Shareholder rights plan">poison pill</a>" plan to prevent a takeover, prompting UtiliCorp to sue. A <a href="/wiki/Proxy_fight" title="Proxy fight">proxy fight</a> ensued in the spring of 2002. Quanta maintained that UtiliCorp, which was enduring difficult times, wanted to gain controlling interest in order to consolidate Quanta's earnings with its own balance sheet. The fight came to an end in May 2002, as Quanta fended off the takeover bid.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Sale_of_telecommunication_and_fiber-optic_licensing_divisions">Sale of telecommunication and fiber-optic licensing divisions</span><span class="mw-editsection"><a href="/w/index.php?title=Quanta_Services&amp;action=edit&amp;section=6" title="Edit section: Sale of telecommunication and fiber-optic licensing divisions" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<p>On November 20, 2012, Quanta Services sold its telecommunications subsidiaries for $275 million in cash to Dycom.
+On August 4, 2015, Quanta Services sold its fiber optic licensing operations (Sunesys) to Crown Castle International Corp. (NYSE: CCI) for approximately $1 billion in cash.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Large_acquisitions">Large acquisitions</span><span class="mw-editsection"><a href="/w/index.php?title=Quanta_Services&amp;action=edit&amp;section=7" title="Edit section: Large acquisitions" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-7 collapsible-block" id="mf-section-7">
+<p>On August 30, 2007, Quanta Services acquired InfraSource Services through an all-stock deal. Before the merger, Engineering News-Record ranked Quanta Services as the second-largest specialty contractor in the <a href="/wiki/United_States" title="United States">United States</a> and InfraSource Services as No. 8.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> This acquisition received popular attention after being given positive coverage on <a href="/wiki/Jim_Cramer" title="Jim Cramer">Jim Cramer</a>'s <a href="/wiki/Mad_Money" title="Mad Money">Mad Money</a> show,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> in Smart Money,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> and in TheStreet.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p><p>In September 2009, Quanta Services announced that a deal had been struck to acquire <a href="/w/index.php?title=Price_Gregory&amp;action=edit&amp;redlink=1" class="new" title="Price Gregory (page does not exist)">Price Gregory</a>, the largest U.S. gas pipeline construction company, for $350 million.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> With this acquisition, Quanta Services is expected to have consolidated 2009 revenue of $4.4 billion.
+</p><p>On October 22, 2010, Quanta Services announced agreement to acquire Canada's largest electric power line contractors <a href="/w/index.php?title=Valard_Construction&amp;action=edit&amp;redlink=1" class="new" title="Valard Construction (page does not exist)">Valard Construction</a> for approximately US$219 million.<sup id="cite_ref-htanna_14-0" class="reference"><a href="#cite_note-htanna-14">[14]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><a href="/w/index.php?title=Quanta_Services&amp;action=edit&amp;section=8" title="Edit section: Awards" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-8 collapsible-block" id="mf-section-8">
+<ul><li>#283 2019 Fortune 500 List</li>
+<li>#1 2016 Engineering News Record Specialty Contractor</li>
+<li>#1 2016 Largest Transmission and Distribution Contractor in North America</li>
+<li>#1 2016 Largest Pipeline Contractor in North America</li>
+<li>#4 2015 Forbes Most Trustworthy Large Cap Companies</li>
+<li>#7 2016 Fleet Owners Top Truck Fleets in the U.S.</li>
+<li>#32 2015 Solar Power World Contractor Ranking</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Lower_Rio_Grande_Valley_Energized_Reconductor_Project">Lower Rio Grande Valley Energized Reconductor Project</span><span class="mw-editsection"><a href="/w/index.php?title=Quanta_Services&amp;action=edit&amp;section=9" title="Edit section: Lower Rio Grande Valley Energized Reconductor Project" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-9 collapsible-block" id="mf-section-9">
+<p>On June 13, 2016 American Electric Power (AEP) received the 89th annual Edison Electric Institute's (EEI's) 2016 Edison Award, the electric power industry's most prestigious honor, for its Energized Reconductor Project in the Lower Rio Grande Valley (LRGV) of Texas. The 240 mile project was possible because of Quanta Energized Services (QES) live-line planning capabilities and North Houston Pole Line's construction expertise.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(10)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Operating_Units">Operating Units</span><span class="mw-editsection"><a href="/w/index.php?title=Quanta_Services&amp;action=edit&amp;section=10" title="Edit section: Operating Units" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-10 collapsible-block" id="mf-section-10">
+<p>Quanta Services has a large number of Operating Units that can broadly be classified into Electric &amp; Gas  Services. Each typically operates independently. A list of current Quanta Services operating companies is provided below.
+</p><p><b>Quanta's North America Electric Power Operating Units</b>
+</p>
+<ul><li>Allteck Line Contractors</li>
+<li>Brent Woodward, Inc.</li>
+<li>Brink Constructors</li>
+<li>Can-Fer</li>
+<li>Computapole</li>
+<li>Crux Subsurface, Inc.</li>
+<li>Dacon</li>
+<li>Dashiell Corporation</li>
+<li>DNR Pressure Welding Ltd.</li>
+<li>EHV Power</li>
+<li>Hargrave Power</li>
+<li>Intermountain Electric</li>
+<li>InfraSource</li>
+<li>Irby Construction</li>
+<li>JCR Construction Company</li>
+<li>Longfellow Drilling Services</li>
+<li>M.J. Electric</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160111002510/http://mearsintegrity.com/">Mears Group</a></li>
+<li>North Houston Pole Line</li>
+<li>Northern Powerline Constructors, Inc.</li>
+<li>Northstar</li>
+<li>NOVA</li>
+<li>PAR Electrical Contractors</li>
+<li>Phasor Engineering, Inc.</li>
+<li>Phoenix Power Group</li>
+<li>Potelco</li>
+<li>Probst Electric</li>
+<li>Quanta Energized Services</li>
+<li>Quanta Technology</li>
+<li>Quanta Telecommunication Services</li>
+<li>Quanta Utility Engineering Services</li>
+<li>Realtime Utility Engineers</li>
+<li>Ryan Company</li>
+<li>Service Electric Company</li>
+<li>Summit Line Construction</li>
+<li>Sumter Utilities</li>
+<li>TC Infrastructure Services</li>
+<li>The Aspen Utility Company</li>
+<li>The ComTran Group</li>
+<li>Underground Construction Company</li>
+<li>Utilimap Corporation</li>
+<li>Valard Construction</li>
+<li>Winco Powerline Services</li></ul><p><b> Quanta's North America Natural Gas Operating Units</b>
+</p>
+<ul><li>1 Diamond</li>
+<li>Arnett &amp; Burgess Pipelines Ltd.</li>
+<li>Banister</li>
+<li>Canadian Utility Construction</li>
+<li>Can-Fer</li>
+<li>Hallen Construction Company</li>
+<li>H.L. Chapman</li>
+<li>InfraSource</li>
+<li>Jet Tank Services</li>
+<li>Mears Group</li>
+<li>M.G. Dyess</li>
+<li>Microline</li>
+<li>North Houston Pole Line</li>
+<li>NorthStar Energy Services (Formerly Bradford Brothers, Inc. and Flint Construction Company)</li>
+<li>O.J. Pipelines</li>
+<li>PAR Electrical Contractors</li>
+<li>Performance Energy Services</li>
+<li>Price Gregory</li>
+<li>Quanta Marine Services LLC</li>
+<li>Q-Inline</li>
+<li>QPS Engineering</li>
+<li>RMS Welding Systems</li>
+<li>SpreadBoss</li>
+<li>T.G. Mercer</li>
+<li>Underground Construction Company</li></ul><p><b> Quanta's International Operating Units</b>
+</p>
+<ul><li>Quanta Power Solutions, Inda</li>
+<li>Quanta Services, Africa</li>
+<li>Quanta Services, Australia</li>
+<li>COE Drilling (AU)</li>
+<li>Consolidated Power Projects (AU)</li>
+<li>Enscope (AU)</li>
+<li>Mears Integrity (AU)</li>
+<li>Nacap (AU)</li>
+<li>NJ Construction (AU)</li>
+<li>Quanta Services, Latin America</li>
+<li>Quanta Services Philippines, Philippines</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(11)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Quanta_Services&amp;action=edit&amp;section=11" title="Edit section: References" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-11 collapsible-block" id="mf-section-11">
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references"><li id="cite_note-QuantaReport2017-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-QuantaReport2017_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.quantaservices.com/2017annualreport/downloads/QuantaServices_AR17_Spreads.pdf">"Quanta Services 2016 Annual Report"</a> <span class="cs1-format">(PDF)</span>. December 31, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Quanta+Services+2016+Annual+Report&amp;rft.date=2017-12-31&amp;rft_id=http%3A%2F%2Fwww.quantaservices.com%2F2017annualreport%2Fdownloads%2FQuantaServices_AR17_Spreads.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuanta+Services" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUSWEN008920090604">Reuters, "S&amp;P 500 adds Quanta Services, drops Ingersoll-Rand," June 4, 2009.</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://investors.quantaservices.com/2016-03-14-Quanta-Services-Announces-CEO-Transition-Chief-Operating-Officer-Earl-Duke-Austin-Named-Chief-Executive-Officer">http://investors.quantaservices.com/2016-03-14-Quanta-Services-Announces-CEO-Transition-Chief-Operating-Officer-Earl-Duke-Austin-Named-Chief-Executive-Officer</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://investors.quantaservices.com/2012-04-02-James-H-Haddox-CFO-of-Quanta-Services-to-Assume-Role-as-Executive-Vice-President-in-May-2012-SVP-Derrick-A-Jensen-to-Become-CFO">http://investors.quantaservices.com/2012-04-02-James-H-Haddox-CFO-of-Quanta-Services-to-Assume-Role-as-Executive-Vice-President-in-May-2012-SVP-Derrick-A-Jensen-to-Become-CFO</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.quantaservices.com/aboutus/Pages/OurLeadership.aspx">Leadership</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Shinkle, Kirk, "Quanta Services' John Colson--His Hard-Wired Dedication Helped Build Up Contractor," Investor's Business Daily, May 11, 2000, p. A04.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Korman, Richard, "Big Investor Fights Contractor for Control of the Company," ENR, February 18, 2002, p. 17.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">"Aquila, Quanta Agree to End Proxy Fight for Board Control," Wall Street Journal, May 21, 2002, p. B6.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.forbes.com/2007/03/19/quanta-infrasource-telecom-markets-equity-cx_af_0319markets39.html?partner=yahootix">Forbes, "Quanta Bids $1.3B For Rival Contractor InfraSource," March 19, 2007.</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.cnbc.com/id/21820414">Mad Money, "Quanta Power," November 15, 2007.</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.smartmoney.com/mag/index.cfm?story=december2007-grid&amp;afl=yahoo">Smart Money, "Fixing the Power Grid," November 16, 2007.</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thestreet.com/story/10402366/1/should-you-buy-it-quantifying-quanta-services.html">TheStreet.com, "Should you buy it? Quantifying Quanta Services," Feb. 7, 2008.</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB125197405032482843">WSJ.com, "Quanta to Acquire Price Gregory," September 3, 2009.</a></span>
+</li>
+<li id="cite_note-htanna-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-htanna_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://in.advfn.com/news_Quanta-Services-Acquires-Valard-Construction_44915781.html">"Quanta Services Acquires Valard Construction"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">26 October</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Quanta+Services+Acquires+Valard+Construction&amp;rft_id=http%3A%2F%2Fin.advfn.com%2Fnews_Quanta-Services-Acquires-Valard-Construction_44915781.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQuanta+Services" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://tdworld.com/overhead-transmission/energized-rebuild">[1]</a></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(12)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Quanta_Services&amp;action=edit&amp;section=12" title="Edit section: External links" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-12 collapsible-block" id="mf-section-12">
+<ul><li>Business data for Quanta Services: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=PWR">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=PWR">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=PWR">SEC filings</a></li></ul></div></li></ul></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Quanta_Services&amp;oldid=941403270">https://en.wikipedia.org/w/index.php?title=Quanta_Services&amp;oldid=941403270</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Quanta_Services"
+				data-user-name="Yunshui"
+				data-user-gender="male"
+				data-timestamp="1582023924">
+				<span>Last edited on 18 February 2020, at 11:05</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Quanta_Services&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.394","ppvisitednodes":{"value":1223,"limit":1000000},"postexpandincludesize":{"value":33603,"limit":2097152},"templateargumentsize":{"value":7000,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11436,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  352.937      1 -total"," 41.06%  144.903      1 Template:Infobox_company"," 37.14%  131.082      1 Template:Infobox"," 27.61%   97.430      1 Template:Reflist"," 26.10%   92.114      1 Template:Multiple_issues"," 23.98%   84.637      3 Template:Ambox"," 23.16%   81.749      2 Template:Cite_web"," 14.52%   51.232     10 Template:Wikidata"," 12.91%   45.577      1 Template:Br_separated_entries","  7.25%   25.592      1 Template:Advert"]},"scribunto":{"limitreport-timeusage":{"value":"0.143","limit":"10.000"},"limitreport-memusage":{"value":3805420,"limit":52428800}},"cachereport":{"origin":"mw1373","timestamp":"20200416060332","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Quanta Services","url":"https:\/\/en.wikipedia.org\/wiki\/Quanta_Services","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7268886","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7268886","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-12-04T21:24:32Z","dateModified":"2020-02-18T11:05:24Z","headline":"American Corporation"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":118,"wgHostname":"mw1270"});});</script>		</body>
+		</html>
+		

@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>The J.M. Smucker Company - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoLxgpAAEYAAHv8PDwAAAEW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"The_J.M._Smucker_Company","wgTitle":"The J.M. Smucker Company","wgCurRevisionId":949534307,"wgRevisionId":949534307,"wgArticleId":571691,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"The_J.M._Smucker_Company","wgRelevantArticleId":571691,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"JM_Smucker","wgMediaViewerOnClick"
+:!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/The_J.M._Smucker_Company","wgWikibaseItemId":"Q7742790","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,
+"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_J.M._Smucker_Company&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_J.M._Smucker_Company&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/The_J.M._Smucker_Company"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-The_J_M_Smucker_Company rootpage-The_J_M_Smucker_Company stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+J.M.+Smucker+Company" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=The+J.M.+Smucker+Company" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">The J.M. Smucker Company</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/The_J.M._Smucker_Company" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=The+J.M.+Smucker+Company" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=The_J.M._Smucker_Company&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=JM_Smucker&amp;redirect=no" class="mw-redirect" title="JM Smucker">JM Smucker</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<table class="box-Update plainlinks metadata ambox ambox-content ambox-Update" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This article needs to be <b>updated</b>. In particular: Article needs update regarding sales of baking assets to <a href="/wiki/Brynwood_Partners" title="Brynwood Partners">Brynwood Partners</a>.<span class="hide-when-compact"> Please update this article to reflect recent events or newly available information.</span>  <small class="date-container"><i>(<span class="date">July 2018</span>)</i></small></div></td></tr></tbody></table><p><b>The J. M. Smucker Company</b>, also known as <b>Smucker</b> and <b>Smucker's</b>, is an American manufacturer of jam, peanut butter, beverages, shortening, ice cream toppings, oils, and other products in <a href="/wiki/North_America" title="North America">North America</a>. Smucker's headquarters are located in <a href="/wiki/Orrville,_Ohio" title="Orrville, Ohio">Orrville, Ohio</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It was founded in 1897.<sup id="cite_ref-company-history_3-0" class="reference"><a href="#cite_note-company-history-3">[3]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">The J. M. Smucker Company</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Smuckers_logo.svg" class="image"><img alt="Smuckers logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Smuckers_logo.svg/250px-Smuckers_logo.svg.png" decoding="async" width="250" height="77" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Smuckers_logo.svg/375px-Smuckers_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Smuckers_logo.svg/500px-Smuckers_logo.svg.png 2x" data-file-width="188" data-file-height="58"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:SJM">SJM</a></li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> Component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1897<span class="noprint">; 123 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1897</span>)</span><br><a href="/wiki/Orrville,_Ohio" title="Orrville, Ohio">Orrville, Ohio</a>, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Jerome_Monroe_Smucker" title="Jerome Monroe Smucker">Jerome Monroe Smucker</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Orrville,_Ohio" title="Orrville, Ohio">Orrville, Ohio</a></div>, <div style="display: inline;" class="country-name">U.S.</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Richard K. Smucker, <br><i>Chairman</i> <br> Mark T. Smucker, <br><i>CEO</i></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $7.3 billion (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">7,140<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th><td style="line-height: 1.35em;"><a href="/wiki/Big_Heart_Pet_Brands" title="Big Heart Pet Brands">Big Heart Pet Brands</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://jmsmucker.com">jmsmucker<wbr></wbr>.com</a></span></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Founding"><span class="tocnumber">1.1</span> <span class="toctext">Founding</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Recent"><span class="tocnumber">1.2</span> <span class="toctext">Recent</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-4"><a href="#Current_products"><span class="tocnumber">2</span> <span class="toctext">Current products</span></a>
+<ul><li class="toclevel-2 tocsection-5"><a href="#Product_types_and_brands"><span class="tocnumber">2.1</span> <span class="toctext">Product types and brands</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-6"><a href="#Past_and_present_slogans"><span class="tocnumber">3</span> <span class="toctext">Past and present slogans</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Company_acquisitions"><span class="tocnumber">4</span> <span class="toctext">Company acquisitions</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=The_J.M._Smucker_Company&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<h3 class="in-block"><span class="mw-headline" id="Founding">Founding</span><span class="mw-editsection"><a href="/w/index.php?title=The_J.M._Smucker_Company&amp;action=edit&amp;section=2" title="Edit section: Founding" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The J.M. Smucker Company was founded in 1897 by <a href="/wiki/Jerome_Monroe_Smucker" title="Jerome Monroe Smucker">Jerome Monroe Smucker</a>. The company produces many types of jellies, jams, and other food items. Jerome was born on December 5, 1858 in Orrville, Ohio. Much of his life was spent as a farmer in Orrville. In 1897 Jerome built a cider mill that was located in Orrville. Fruit that was used was from trees that <a href="/wiki/Johnny_Appleseed" title="Johnny Appleseed">Johnny Appleseed</a> had planted in the early nineteenth century.<sup id="cite_ref-company-history_3-1" class="reference"><a href="#cite_note-company-history-3">[3]</a></sup> Later, he prepared <a href="/wiki/Apple_butter" title="Apple butter">apple butter</a> and sold it from the back of a horse-drawn wagon.<sup id="cite_ref-company-history_3-2" class="reference"><a href="#cite_note-company-history-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The company was incorporated in 1921.<sup id="cite_ref-timeline_5-0" class="reference"><a href="#cite_note-timeline-5">[5]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Recent">Recent</span><span class="mw-editsection"><a href="/w/index.php?title=The_J.M._Smucker_Company&amp;action=edit&amp;section=3" title="Edit section: Recent" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The J. M. Smucker Company has been headquartered in Orrville, Ohio, since its founding, and has been family-run for four generations. Since 1998, the company has appeared on <a href="/wiki/Fortune_(magazine)" title="Fortune (magazine)"><i>Fortune</i> magazine</a>'s annual listing of the 100 Best Companies to Work For in the United States, ranking number one in 2004.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p><p>In May 2008, Smucker's announced it had bought the food division of <a href="/wiki/Knott%27s_Berry_Farm" title="Knott's Berry Farm">Knott's Berry Farm</a> from <a href="/wiki/ConAgra_Foods" class="mw-redirect" title="ConAgra Foods">ConAgra Foods</a>, while <a href="/wiki/Cedar_Fair" title="Cedar Fair">Cedar Fair</a> continues to own the theme park itself.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> On June 4, 2008, Smucker's announced it would purchase the <a href="/wiki/Folgers" title="Folgers">Folgers</a> coffee brand division from <a href="/wiki/Procter_%26_Gamble" title="Procter &amp; Gamble">Procter &amp; Gamble</a> for $3.3 billion.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Completion of the sale was announced on November 6, 2008.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:SmuckerFoodsOfCanada.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SmuckerFoodsOfCanada.jpg/220px-SmuckerFoodsOfCanada.jpg" decoding="async" width="220" height="146" class="thumbimage" data-file-width="4928" data-file-height="3264"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 146px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SmuckerFoodsOfCanada.jpg/220px-SmuckerFoodsOfCanada.jpg" data-alt="" data-width="220" data-height="146" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:SmuckerFoodsOfCanada.jpg" class="internal" title="Enlarge"></a></div>Smucker's Canada, Markham, Ontario</div></div></div>
+<p>After an antitrust lawsuit filed by the <a href="/wiki/Federal_Trade_Commission" title="Federal Trade Commission">Federal Trade Commission</a> (FTC) in early March 2018, ConAgra Brands Inc. and J. M. Smucker Co. cancelled a deal for Smucker to purchase the <a href="/wiki/Wesson_cooking_oil" title="Wesson cooking oil">Wesson cooking oil</a> brand. The FTC claimed that Smucker would have controlled at least 70 percent of the market for branded canola and vegetable oils.<sup id="cite_ref-smucker_11-0" class="reference"><a href="#cite_note-smucker-11">[11]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Current_products">Current products</span><span class="mw-editsection"><a href="/w/index.php?title=The_J.M._Smucker_Company&amp;action=edit&amp;section=4" title="Edit section: Current products" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>The J. M. Smucker Company is a marketer and manufacturer of fruit spreads, peanut butter, shortening and oils, ice cream toppings, sweetened condensed milk, and health and natural foods and beverages. J.M. Smucker Company brands include:<sup id="cite_ref-dividend_12-0" class="reference"><a href="#cite_note-dividend-12">[12]</a></sup></p>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li>Smucker's</li>
+<li>Santa Cruz Organic</li>
+<li><a href="/wiki/Jif_(peanut_butter)" title="Jif (peanut butter)">Jif</a></li>
+<li>Laura Scudder's</li>
+<li><a href="/wiki/Crisco" title="Crisco">Crisco</a></li>
+<li><a href="/wiki/R.W._Knudsen_Family" title="R.W. Knudsen Family">R.W. Knudsen Family</a></li>
+<li>Hungry Jack</li>
+<li><a href="/wiki/Dunkin%27_Donuts" title="Dunkin' Donuts">Dunkin' Donuts</a></li>
+<li><a href="/wiki/Meow_Mix" title="Meow Mix">Meow Mix</a></li>
+<li><a href="/wiki/Milk-Bone" title="Milk-Bone">Milk-Bone</a></li>
+<li><a href="/wiki/Kibbles_%27n_Bits" title="Kibbles 'n Bits">Kibbles 'n Bits</a></li>
+<li><a href="/wiki/9Lives" title="9Lives">9Lives</a></li>
+<li>Martha White</li>
+<li><a href="/wiki/Folgers" title="Folgers">Folgers</a></li>
+<li>Bick's</li>
+<li>Five Roses</li>
+<li>truRoots</li>
+<li>Sahale Snacks</li>
+<li>Robin Hood</li>
+<li><a href="/wiki/Shirriff" title="Shirriff">Shirriff</a> (in Canada)</li></ul></div>
+<h3 class="in-block"><span class="mw-headline" id="Product_types_and_brands">Product types and brands</span><span class="mw-editsection"><a href="/w/index.php?title=The_J.M._Smucker_Company&amp;action=edit&amp;section=5" title="Edit section: Product types and brands" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<ul><li><a href="/wiki/Jam" class="mw-redirect" title="Jam">Jam</a>, <a href="/wiki/Jelly_(fruit_preserves)" class="mw-redirect" title="Jelly (fruit preserves)">jelly</a>, and <a href="/wiki/Preserves" class="mw-redirect" title="Preserves">preserves</a>
+<ul><li>Dickinson's Gourmet Preserves</li>
+<li>King Kelly Orange Marmalade</li>
+<li>Shirriff marmalade (Canada)</li>
+<li>Zest Sweet Mustard Pickles</li>
+<li>Fruit Butter</li>
+<li>Jam</li>
+<li>Double Fruit</li>
+<li>Low Sugar</li>
+<li>Preserves</li>
+<li>Simply Fruit</li>
+<li>Sugar Free</li>
+<li>Organic</li></ul></li>
+<li><a href="/wiki/Peanut_butter" title="Peanut butter">Peanut butter</a>
+<ul><li><a href="/wiki/Jif_(peanut_butter)" title="Jif (peanut butter)">Jif</a></li>
+<li>Jif to Go</li>
+<li><a href="/wiki/Goober_(brand)" title="Goober (brand)">Goober PB&amp;J</a></li>
+<li>Smucker's Natural</li>
+<li>Smucker's Natural with Honey</li>
+<li>Adams Natural</li>
+<li>Laura Scudder Natural</li>
+<li>Organic</li></ul></li>
+<li><a href="/wiki/Sandwich" title="Sandwich">Sandwiches</a>
+<ul><li><a href="/wiki/Grape" title="Grape">Grape</a> PB&amp;J</li>
+<li><a href="/wiki/Strawberry" title="Strawberry">Strawberry</a> PB&amp;J</li>
+<li>Grilled <a href="/wiki/Cheese" title="Cheese">cheese</a></li>
+<li>Peanut butter and honey on wheat</li>
+<li>Peanut butter</li>
+<li><a href="/wiki/Sealed_crustless_sandwich" title="Sealed crustless sandwich">Uncrustables</a></li></ul></li>
+<li><a href="/wiki/Ice_cream" title="Ice cream">Ice cream</a> toppings
+<ul><li><a href="/wiki/Magic_Shell" title="Magic Shell">Magic Shell</a></li>
+<li><a href="/wiki/Microwave_oven" title="Microwave oven">Microwaveable</a> ice cream topping</li>
+<li>Specialty ice cream topping</li>
+<li>Spoonable ice cream topping</li>
+<li>Sugar-free ice cream topping</li>
+<li><a href="/wiki/Sundae" title="Sundae">Sundae</a> <a href="/wiki/Syrup" title="Syrup">syrups</a></li>
+<li>Marshmallow spoonable ice cream topping</li></ul></li>
+<li>Specialty items
+<ul><li><a href="/wiki/Crosse_%26_Blackwell" title="Crosse &amp; Blackwell">Crosse &amp; Blackwell</a>, traditional English foods</li>
+<li>Fruit syrup</li>
+<li>Habitant (Canada, vegetable items only; jams, fruit spreads and syrup is made by E.D. Smith)</li>
+<li>Bicks</li>
+<li><a href="/wiki/Milnot" class="mw-redirect" title="Milnot">Milnot</a></li>
+<li>Plate Scapers dessert topping</li>
+<li>Specialty items</li></ul></li>
+<li>Oils and shortening
+<ul><li><a href="/wiki/Crisco" title="Crisco">Crisco</a></li></ul></li>
+<li>Flour and baking mixes
+<ul><li><a href="/wiki/Robin_Hood_Flour" title="Robin Hood Flour">Robin Hood Flour</a> (in Canada)</li>
+<li><a href="/wiki/Five_Roses_Flour" title="Five Roses Flour">Five Roses Flour</a> (in Canada)</li>
+<li><a href="/w/index.php?title=Swad_Gluten_Free_Chappati_Flour&amp;action=edit&amp;redlink=1" class="new" title="Swad Gluten Free Chappati Flour (page does not exist)">Swad Gluten Free Chappati Flour</a> Ardent Mills, Saskatoon, Canada</li></ul></li>
+<li>Juices, beverages, and sauces (natural and organic)
+<ul><li>After the Fall</li>
+<li>Natural Brew (Real Brew in Canada)</li>
+<li><a href="/wiki/R.W._Knudsen_Family" title="R.W. Knudsen Family">R.W. Knudsen Family</a> (also apple butter and cranberry sauce)</li>
+<li>Santa Cruz Organic (also peanut butter, chocolate and caramel sauce, and applesauces)</li>
+<li>Tenderleaf Tea (from the makers of Folgers)</li></ul></li>
+<li>Coffee products
+<ul><li><a href="/wiki/Folgers" title="Folgers">Folgers</a></li>
+<li><a href="/wiki/Millstone_Coffee" title="Millstone Coffee">Millstone</a></li>
+<li><a href="/wiki/Dunkin%27_Donuts" title="Dunkin' Donuts">Dunkin' Donuts</a> (licensed to manufacture in retail grocery market)</li>
+<li>Kava</li>
+<li><a href="/wiki/Caf%C3%A9_Bustelo" title="Café Bustelo">Café Bustelo</a>/Café Pilon</li></ul></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Past_and_present_slogans">Past and present slogans</span><span class="mw-editsection"><a href="/w/index.php?title=The_J.M._Smucker_Company&amp;action=edit&amp;section=6" title="Edit section: Past and present slogans" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li><i>"With a name like Smucker's, it has to be good!"</i></li>
+<li><i>"Smucker will make you pucker!"</i></li>
+<li><i>"If you find a better jelly, you buy it!"</i></li>
+<li><i>"Smucker Company, the brand you can trust.”</i></li>
+<li><i>"There ain't no place like Smucker's!"</i></li>
+<li><i>"The only brand of jams that can make a piece of bread lively!"</i></li>
+<li><i>"If you're hungry, Smucker's is the way to go!"</i></li>
+<li><i>"Smuckers may be yummy, your tummy may be too, but your grocer's freezer, is not far from you!</i>"</li>
+<li><i>"Bread, jam and jelly, in your belly, lick your spoon and cut your bread, then you will be Smucker's well fed"</i></li></ul><p><a href="/wiki/Johnny_Carson" title="Johnny Carson">Johnny Carson</a>, former host of <i><a href="/wiki/The_Tonight_Show_Starring_Johnny_Carson" title="The Tonight Show Starring Johnny Carson">The Tonight Show</a></i>, once introduced his sponsor on air as "With a name like Smucker's, it had better be good!"
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Company_acquisitions">Company acquisitions</span><span class="mw-editsection"><a href="/w/index.php?title=The_J.M._Smucker_Company&amp;action=edit&amp;section=7" title="Edit section: Company acquisitions" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<p><small><i>Source</i>:<sup id="cite_ref-timeline_5-1" class="reference"><a href="#cite_note-timeline-5">[5]</a></sup></small>
+</p>
+<ul><li>1963
+<ul><li>Mary Ellen (jams and jellies)</li></ul></li>
+<li>1979
+<ul><li>Dickinson's (gourmet preserves and jellies)</li></ul></li>
+<li>1984
+<ul><li>Knudsen &amp; Sons (fruit and vegetable juices)</li></ul></li>
+<li>1988
+<ul><li><a href="/wiki/Shirriff" title="Shirriff">Shirriff</a> (dessert toppings and marmalades including Good Morning Marmalade) (Canada)</li></ul></li>
+<li>1989
+<ul><li><a href="/wiki/Henry_Jones_IXL" title="Henry Jones IXL">Henry Jones Foods</a> (jams and jellies) (Australia) sold in 2004 to <a href="/wiki/SPC_Ardmona" title="SPC Ardmona">SPC Ardmona</a>.(Australia)<sup id="cite_ref-SPC-acq-IXL_13-0" class="reference"><a href="#cite_note-SPC-acq-IXL-13">[13]</a></sup></li></ul></li>
+<li>1994
+<ul><li>Laura Scudder (peanut butter)</li>
+<li>After the Fall (juices)</li></ul></li>
+<li>1998
+<ul><li>Adams (peanut butter)</li></ul></li>
+<li>2002
+<ul><li>Jif (peanut butter)</li>
+<li>Crisco (oils)</li></ul></li>
+<li>2004
+<ul><li>International Multifoods Corporation<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><ul><li>Pillsbury (flour products and frosting)</li>
+<li>Hungry Jack (pancake mixes, syrup, and potato side dishes)</li>
+<li>Pet (milk products)</li>
+<li>Martha White (baking mixes and ingredients)</li>
+<li><a href="/wiki/Robin_Hood_Flour" title="Robin Hood Flour">Robin Hood Flour</a> (Canada)</li>
+<li><a href="/wiki/Red_River_Cereal" title="Red River Cereal">Red River Cereal</a> (Canada)</li>
+<li><a href="/wiki/Bick%27s_Pickle" title="Bick's Pickle">Bick's</a> (pickles and condiments) (Canada)</li>
+<li>Golden Temple (Indian foods) (Canada)</li></ul></li></ul></li>
+<li>2006
+<ul><li>White Lily Brand (flour products)</li></ul></li>
+<li>2007
+<ul><li>Eagle Family Foods<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><ul><li>Eagle Brand/Borden (milk products)</li>
+<li>None Such (mincemeat)</li>
+<li>Kava (acid-neutralized coffee)</li></ul></li>
+<li>King Kelly Orange Marmalade<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li>
+<li>Five Roses Flour (Canada)<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li></ul></li>
+<li>2008
+<ul><li>Knott's Berry Farm (jams, jellies, and preserves)<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></li>
+<li>Europe's Best (frozen fruit and vegetables) (Canada)<sup id="cite_ref-EBFF_19-0" class="reference"><a href="#cite_note-EBFF-19">[19]</a></sup></li>
+<li>Carnation - Canadian brand (milk products) (Canada)<sup id="cite_ref-EBFF_19-1" class="reference"><a href="#cite_note-EBFF-19">[19]</a></sup></li>
+<li>Folgers Coffee Company (coffee products)</li></ul></li>
+<li>2010
+<ul><li>Millstone Coffee Company (coffee products)<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></li>
+<li>Rowland Coffee Roasters (coffee products)<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></li></ul></li>
+<li>2011
+<ul><li>Sara Lee North American foodservice coffee and tea operations (coffee products)<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></li></ul></li>
+<li>2015
+<ul><li><a href="/wiki/Big_Heart_Pet_Brands" title="Big Heart Pet Brands">Big Heart Pet Brands</a><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></li></ul></li>
+<li>2018
+<ul><li>Ainsworth Pet Nutrition<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><ul><li>Nutrish</li>
+<li>Better Than! Treats</li>
+<li>Dad's Pet Care</li></ul></li></ul></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><a href="/w/index.php?title=The_J.M._Smucker_Company&amp;action=edit&amp;section=8" title="Edit section: See also" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul><li><span><noscript><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/32px-Flag_of_Ohio.svg.png" decoding="async" width="32" height="20" class="noviewer" data-file-width="520" data-file-height="320"></noscript><span class="lazy-image-placeholder" style="width: 32px;height: 20px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/32px-Flag_of_Ohio.svg.png" data-alt="flag" data-width="32" data-height="20" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/48px-Flag_of_Ohio.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/64px-Flag_of_Ohio.svg.png 2x" data-class="noviewer"> </span></span><span><a href="/wiki/Portal:Ohio" title="Portal:Ohio">Ohio portal</a></span></li>
+<li><span><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" decoding="async" width="28" height="28" class="noviewer" data-file-width="512" data-file-height="512"></noscript><span class="lazy-image-placeholder" style="width: 28px;height: 28px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" data-alt="" data-width="28" data-height="28" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-class="noviewer"> </span></span><span><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li>
+<li><span><a href="/wiki/File:Foodlogo2.svg" class="image"><noscript><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Foodlogo2.svg/32px-Foodlogo2.svg.png" decoding="async" width="32" height="23" class="noviewer" data-file-width="146" data-file-height="106"></noscript><span class="lazy-image-placeholder" style="width: 32px;height: 23px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Foodlogo2.svg/32px-Foodlogo2.svg.png" data-alt="icon" data-width="32" data-height="23" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Foodlogo2.svg/48px-Foodlogo2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Foodlogo2.svg/64px-Foodlogo2.svg.png 2x" data-class="noviewer"> </span></a></span><span><a href="/wiki/Portal:Food" title="Portal:Food">Food portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Sealed_crustless_sandwich" title="Sealed crustless sandwich">Sealed crustless sandwich</a>, a patented Smucker product</li>
+<li><a href="/wiki/Reverse_Morris_trust" class="mw-redirect" title="Reverse Morris trust">Reverse Morris trust</a>, an acquisition method favored by Smucker.</li></ul><div style="clear:both;"></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=The_J.M._Smucker_Company&amp;action=edit&amp;section=9" title="Edit section: References" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/j-m-smucker/">"J.M. Smucker"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=J.M.+Smucker&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Fj-m-smucker%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://money.cnn.com/magazines/fortune/bestcompanies/2008/snapshots/47.html">"100 Best Companies to Work For 2008: J. M. Smucker"</a>. <i>CNN.com</i>. 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNN.com&amp;rft.atitle=100+Best+Companies+to+Work+For+2008%3A+J.+M.+Smucker&amp;rft.date=2008&amp;rft_id=http%3A%2F%2Fmoney.cnn.com%2Fmagazines%2Ffortune%2Fbestcompanies%2F2008%2Fsnapshots%2F47.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-company-history-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-company-history_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-company-history_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-company-history_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.jmsmucker.com/smuckers-corporate/smuckers-history">"Smucker's History"</a>. <i>JMSmucker.com</i>. The J.M. Smucker Company.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=JMSmucker.com&amp;rft.atitle=Smucker%27s+History&amp;rft_id=http%3A%2F%2Fwww.jmsmucker.com%2Fsmuckers-corporate%2Fsmuckers-history&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ohiohistorycentral.org/w/Jerome_M._Smucker">"Jerome M. Smucker"</a>. <i>ohiohistorycentral.org</i>. Ohio History Connection.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ohiohistorycentral.org&amp;rft.atitle=Jerome+M.+Smucker&amp;rft_id=http%3A%2F%2Fwww.ohiohistorycentral.org%2Fw%2FJerome_M._Smucker&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-timeline-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-timeline_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-timeline_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.smuckers.com/family%5Fcompany/history/time_line.aspx?">"Smucker Company Timeline"</a>. <i>Smuckers.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Smuckers.com&amp;rft.atitle=Smucker+Company+Timeline&amp;rft_id=http%3A%2F%2Fwww.smuckers.com%2Ffamily%255Fcompany%2Fhistory%2Ftime_line.aspx%3F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://money.cnn.com/magazines/fortune/fortune_archive/2004/01/12/357945/index.htm">"100 Best Companies to Work For in the United States"</a>. <i>Fortune</i>. January 12, 2004.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=100+Best+Companies+to+Work+For+in+the+United+States&amp;rft.date=2004-01-12&amp;rft_id=http%3A%2F%2Fmoney.cnn.com%2Fmagazines%2Ffortune%2Ffortune_archive%2F2004%2F01%2F12%2F357945%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Eades, Mark (May 27, 2016). <a rel="nofollow" class="external text" href="https://www.ocregister.com/2016/05/27/knotts-berry-farm-gets-new-boss-a-former-disneyland-executive/amp/">"Knott's Berry Farm gets new boss, a former Disneyland executive"</a>. <i>Orange County Register</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 22,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Orange+County+Register&amp;rft.atitle=Knott%E2%80%99s+Berry+Farm+gets+new+boss%2C+a+former+Disneyland+executive&amp;rft.date=2016-05-27&amp;rft.aulast=Eades&amp;rft.aufirst=Mark&amp;rft_id=https%3A%2F%2Fwww.ocregister.com%2F2016%2F05%2F27%2Fknotts-berry-farm-gets-new-boss-a-former-disneyland-executive%2Famp%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160303174810/http://www.cleveland.com/business/plaindealer/index.ssf?%2Fbase%2Fbusiness-6%2F1212654813175770.xml&amp;coll=2">"Smucker's to buy Folgers coffee"</a>. <i><a href="/wiki/Plain_Dealer" class="mw-redirect" title="Plain Dealer">Plain Dealer</a></i>. June 4, 2008. Archived from <a rel="nofollow" class="external text" href="http://www.cleveland.com/business/plaindealer/index.ssf?/base/business-6/1212654813175770.xml&amp;coll=2">the original</a> on March 3, 2016 – via Cleveland.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Plain+Dealer&amp;rft.atitle=Smucker%27s+to+buy+Folgers+coffee&amp;rft.date=2008-06-04&amp;rft_id=http%3A%2F%2Fwww.cleveland.com%2Fbusiness%2Fplaindealer%2Findex.ssf%3F%2Fbase%2Fbusiness-6%2F1212654813175770.xml%26coll%3D2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131029191044/http://blog.marketingdoctor.tv/2008/06/06/tantillos-branding-bite.aspx">"The Marketing Doctor Says: Smuckers Buys Folgers"</a>. <i>Marketing Doctor</i>. June 6, 2008. Archived from <a rel="nofollow" class="external text" href="http://blog.marketingdoctor.tv/2008/06/06/tantillos-branding-bite.aspx">the original</a> <span class="cs1-format">(blog)</span> on October 29, 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Marketing+Doctor&amp;rft.atitle=The+Marketing+Doctor+Says%3A+Smuckers+Buys+Folgers&amp;rft.date=2008-06-06&amp;rft_id=http%3A%2F%2Fblog.marketingdoctor.tv%2F2008%2F06%2F06%2Ftantillos-branding-bite.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090207005810/http://www.folgers.com/pressroom/press_release_06112008.shtml">"The J. M. Smucker Company Announces Completion of Folgers Merger"</a>. <i>Folgers.com</i> (Press release). June 11, 2008. Archived from <a rel="nofollow" class="external text" href="http://www.folgers.com/pressroom/press_release_06112008.shtml">the original</a> on February 7, 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+J.+M.+Smucker+Company+Announces+Completion+of+Folgers+Merger&amp;rft.date=2008-06-11&amp;rft_id=http%3A%2F%2Fwww.folgers.com%2Fpressroom%2Fpress_release_06112008.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-smucker-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-smucker_11-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Armental, Maria (March 6, 2018). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/smucker-conagra-call-off-wesson-oil-deal-after-ftc-challenge-1520376297?mod=WSJ_Markets_LEFTTopStories&amp;tesla=y">"Smucker, Conagra Call Off Wesson Oil Deal After FTC Challenge"</a>. <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i>. The New York Times, New York City, United States<span class="reference-accessdate">. Retrieved <span class="nowrap">March 9,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=Smucker%2C+Conagra+Call+Off+Wesson+Oil+Deal+After+FTC+Challenge&amp;rft.date=2018-03-06&amp;rft.aulast=Armental&amp;rft.aufirst=Maria&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fsmucker-conagra-call-off-wesson-oil-deal-after-ftc-challenge-1520376297%3Fmod%3DWSJ_Markets_LEFTTopStories%26tesla%3Dy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-dividend-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-dividend_12-0">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/the-j-m-smucker-company-declares-dividend-300540476.html">"The J. M. Smucker Company Declares Dividend"</a> (Press release). The J. M. Smucker Company. October 20, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 14,</span> 2017</span> – via PRNewswire.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+J.+M.+Smucker+Company+Declares+Dividend&amp;rft.pub=The+J.+M.+Smucker+Company&amp;rft.date=2017-10-20&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fthe-j-m-smucker-company-declares-dividend-300540476.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-SPC-acq-IXL-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-SPC-acq-IXL_13-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.theage.com.au/articles/2004/05/12/1084289727079.html">"SPC to acquire IXL for $51 m"</a>. <i>The Age</i>. 2004-05-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-11</span></span> – via theage.com.au.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Age&amp;rft.atitle=SPC+to+acquire+IXL+for+%2451+m&amp;rft.date=2004-05-12&amp;rft_id=http%3A%2F%2Fwww.theage.com.au%2Farticles%2F2004%2F05%2F12%2F1084289727079.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.allbusiness.com/food-beverage/food-industry-food-mfg-miscellaneous/5198303-1.html">"International Multifoods Shareholders Approve Merger With The J.M. Smucker Company"</a>. <i>allbusiness.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=allbusiness.com&amp;rft.atitle=International+Multifoods+Shareholders+Approve+Merger+With+The+J.M.+Smucker+Company&amp;rft_id=http%3A%2F%2Fwww.allbusiness.com%2Ffood-beverage%2Ffood-industry-food-mfg-miscellaneous%2F5198303-1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eaglefamilyfoods.com/aboutUs.asp">"About Us"</a>. Eagle Family Foods.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Us&amp;rft.pub=Eagle+Family+Foods&amp;rft_id=http%3A%2F%2Fwww.eaglefamilyfoods.com%2FaboutUs.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news">Townsend, Adam; Staff Writers (November 22, 2008). <a rel="nofollow" class="external text" href="http://jan.ocregister.com/2010/06/01/why-did-food-maker-leave-california/38669/">"Why Did Food Maker Leave California?"</a>. <i><a href="/wiki/Orange_County_Register" title="Orange County Register">Orange County Register</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 14,</span> 2017</span> – via OCRegister.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Orange+County+Register&amp;rft.atitle=Why+Did+Food+Maker+Leave+California%3F&amp;rft.date=2008-11-22&amp;rft.aulast=Townsend&amp;rft.aufirst=Adam&amp;rft.au=Staff+Writers&amp;rft_id=http%3A%2F%2Fjan.ocregister.com%2F2010%2F06%2F01%2Fwhy-did-food-maker-leave-california%2F38669%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fiveroses.ca/FiveRoses/History">"History"</a>. <i>fiveroses.ca</i>. Five Roses<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=fiveroses.ca&amp;rft.atitle=History&amp;rft_id=http%3A%2F%2Ffiveroses.ca%2FFiveRoses%2FHistory&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.conagrabrands.com/news-room/news-the-j-m-smucker-company-acquires-knotts-berry-farmr-food-brand-from-conagra-foods-inc-1145008">"J. M. Smucker Company Acquires Knott's Berry Farm(R) Food Brand From ConAgra"</a> (Press release). May 13, 2008 – via Reuters.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=J.+M.+Smucker+Company+Acquires+Knott%27s+Berry+Farm%28R%29+Food+Brand+From+ConAgra&amp;rft.date=2008-05-13&amp;rft_id=https%3A%2F%2Fwww.conagrabrands.com%2Fnews-room%2Fnews-the-j-m-smucker-company-acquires-knotts-berry-farmr-food-brand-from-conagra-foods-inc-1145008&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-EBFF-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-EBFF_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EBFF_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110720032755/http://www.freshplaza.com/news_detail.asp?id=17651">"J.M. Smucker acquires Montreal-based Europe's Best frozen fruit"</a>. <i>freshplaza.com</i>. Canadian Press. March 5, 2008. Archived from <a rel="nofollow" class="external text" href="http://www.freshplaza.com/news_detail.asp?id=17651">the original</a> on July 20, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">November 14,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=freshplaza.com&amp;rft.atitle=J.M.+Smucker+acquires+Montreal-based+Europe%27s+Best+frozen+fruit&amp;rft.date=2008-03-05&amp;rft_id=http%3A%2F%2Fwww.freshplaza.com%2Fnews_detail.asp%3Fid%3D17651&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.millstone.com/legal/">"Sitemap - Millstone Coffee"</a>. <i>Millstone.com</i>. 2011-03-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Millstone.com&amp;rft.atitle=Sitemap+-+Millstone+Coffee&amp;rft.date=2011-03-22&amp;rft_id=http%3A%2F%2Fwww.millstone.com%2Flegal%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.npr.org/2011/06/14/137152633/cuban-coffee-brand-may-pour-into-mainstream?sc=fb&amp;cc=fp">"Cuban Coffee Brand May Pour Into Mainstream"</a>. <i>npr.org</i>. NPR. June 14, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=npr.org&amp;rft.atitle=Cuban+Coffee+Brand+May+Pour+Into+Mainstream&amp;rft.date=2011-06-14&amp;rft_id=https%3A%2F%2Fwww.npr.org%2F2011%2F06%2F14%2F137152633%2Fcuban-coffee-brand-may-pour-into-mainstream%3Fsc%3Dfb%26cc%3Dfp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://archive.is/20120909032113/http://www.saralee.com/en/NewsAndMedia/News/2011/SaraLeeCorpAnnouncesSaleofMajorityofNorthAmericanFoodserviceCoffeeOperationstoTheJMSmuckerCompany.aspx?p=1">"Sara Lee Corp. Announces Sale of Majority of North American Foodservice Coffee Operations to The J.M. Smucker Company"</a>. <i>SaraLee.com</i> (Press release). Downers Grove, Illinois: Sara Lee Corp. October 24, 2011. Archived from <a rel="nofollow" class="external text" href="http://www.saralee.com/en/NewsAndMedia/News/2011/SaraLeeCorpAnnouncesSaleofMajorityofNorthAmericanFoodserviceCoffeeOperationstoTheJMSmuckerCompany.aspx?p=1">the original</a> on September 9, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">November 14,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sara+Lee+Corp.+Announces+Sale+of+Majority+of+North+American+Foodservice+Coffee+Operations+to+The+J.M.+Smucker+Company&amp;rft.place=Downers+Grove%2C+Illinois&amp;rft.pub=Sara+Lee+Corp.&amp;rft.date=2011-10-24&amp;rft_id=http%3A%2F%2Fwww.saralee.com%2Fen%2FNewsAndMedia%2FNews%2F2011%2FSaraLeeCorpAnnouncesSaleofMajorityofNorthAmericanFoodserviceCoffeeOperationstoTheJMSmuckerCompany.aspx%3Fp%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news">Mackinnon, Jim (2015-02-03). <a rel="nofollow" class="external text" href="http://www.ohio.com/news/break-news/j-m-smucker-adds-major-pet-food-brands-in-transformational-5-8-billion-purchase-1.564057">"J.M. Smucker adds major pet food brands in 'transformational' $5.8 billion purchase"</a>. <i><a href="/wiki/Akron_Beacon_Journal" title="Akron Beacon Journal">Akron Beacon Journal</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Akron+Beacon+Journal&amp;rft.atitle=J.M.+Smucker+adds+major+pet+food+brands+in+%27transformational%27+%245.8+billion+purchase&amp;rft.date=2015-02-03&amp;rft.aulast=Mackinnon&amp;rft.aufirst=Jim&amp;rft_id=http%3A%2F%2Fwww.ohio.com%2Fnews%2Fbreak-news%2Fj-m-smucker-adds-major-pet-food-brands-in-transformational-5-8-billion-purchase-1.564057&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180405032937/https://www.washingtonpost.com/business/smucker-to-buy-company-behind-rachael-ray-dog-food/2018/04/04/bca9e3f0-3857-11e8-af3c-2123715f78df_story.html?utm_term=.3f96ebeae4c2">"Smucker to buy company behind Rachael Ray dog food"</a>. <i>The Washington Post</i>. April 4, 2018. Archived from <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/business/smucker-to-buy-company-behind-rachael-ray-dog-food/2018/04/04/bca9e3f0-3857-11e8-af3c-2123715f78df_story.html">the original</a> on April 5, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Washington+Post&amp;rft.atitle=Smucker+to+buy+company+behind+Rachael+Ray+dog+food&amp;rft.date=2018-04-04&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2Fsmucker-to-buy-company-behind-rachael-ray-dog-food%2F2018%2F04%2F04%2Fbca9e3f0-3857-11e8-af3c-2123715f78df_story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+J.M.+Smucker+Company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=The_J.M._Smucker_Company&amp;action=edit&amp;section=10" title="Edit section: External links" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-7 collapsible-block" id="mf-section-7">
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"><tbody><tr>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:The_J.M._Smucker_Company" class="extiw" title="commons:Category:The J.M. Smucker Company"><span style="">The J.M. Smucker Company</span></a></b></i>.</td></tr></tbody></table><ul><li><a rel="nofollow" class="external text" href="http://www.jmsmucker.com">J.M. Smucker Co.</a> Corporate website</li>
+<li>Business data for The J.M. Smucker Company: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=SJM">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=SJM">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=SJM">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_J.M._Smucker_Company&amp;oldid=949534307">https://en.wikipedia.org/w/index.php?title=The_J.M._Smucker_Company&amp;oldid=949534307</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/The_J.M._Smucker_Company"
+				data-user-name="HMSLavender"
+				data-user-gender="male"
+				data-timestamp="1586222705">
+				<span>Last edited on 7 April 2020, at 01:25</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=The_J.M._Smucker_Company&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.488","walltime":"0.676","ppvisitednodes":{"value":2376,"limit":1000000},"postexpandincludesize":{"value":63996,"limit":2097152},"templateargumentsize":{"value":3197,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":76287,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  600.123      1 -total"," 31.83%  190.994      1 Template:Reflist"," 28.57%  171.472      1 Template:Infobox_company"," 26.25%  157.555      1 Template:Infobox"," 19.88%  119.293     13 Template:Cite_web"," 10.81%   64.852      9 Template:Wikidata"," 10.13%   60.788      1 Template:Short_description","  9.34%   56.041      1 Template:Br_separated_entries","  7.85%   47.128      1 Template:Commonscat","  7.54%   45.248      1 Template:Update"]},"scribunto":{"limitreport-timeusage":{"value":"0.255","limit":"10.000"},"limitreport-memusage":{"value":7615270,"limit":52428800}},"cachereport":{"origin":"mw1371","timestamp":"20200417060211","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"The J.M. Smucker Company","url":"https:\/\/en.wikipedia.org\/wiki\/The_J.M._Smucker_Company","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7742790","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7742790","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-02T15:14:37Z","dateModified":"2020-04-07T01:25:05Z","headline":"American manufacturer of fruit spreads, ice cream toppings, beverages, shortening, peanut butter, oils, and other products"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":128,"wgHostname":"mw1275"});});</script>		</body>
+		</html>
+		

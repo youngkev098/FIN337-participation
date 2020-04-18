@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Qorvo - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpjwNwpAAMMAA7vLHusAAABF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Qorvo","wgTitle":"Qorvo","wgCurRevisionId":933160441,"wgRevisionId":933160441,"wgArticleId":43892046,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Qorvo","wgRelevantArticleId":43892046,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q18169198","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":
+"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Qorvo_-_Hillsboro%2C_Oregon.JPG/1200px-Qorvo_-_Hillsboro%2C_Oregon.JPG"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Qorvo&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Qorvo&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Qorvo"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Qorvo rootpage-Qorvo stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Qorvo" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Qorvo" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Qorvo</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Qorvo" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Qorvo" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Qorvo&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<p><b>Qorvo</b> is an American semiconductor company that designs, manufactures, and supplies radio-frequency systems for applications that drive wireless and broadband communications, as well as foundry services. The company, which trades on <a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a>, was created by the merger of <a href="/wiki/TriQuint_Semiconductor" title="TriQuint Semiconductor">TriQuint Semiconductor</a> and <a href="/wiki/RF_Micro_Devices" title="RF Micro Devices">RF Micro Devices</a>, which was announced in 2014 and completed on January 1, 2015.<sup id="cite_ref-formed_2-0" class="reference"><a href="#cite_note-formed-2">[2]</a></sup><sup id="cite_ref-name_3-0" class="reference"><a href="#cite_note-name-3">[3]</a></sup> The headquarters for the company originally were in both <a href="/wiki/Hillsboro,_Oregon" title="Hillsboro, Oregon">Hillsboro, Oregon</a> (home of TriQuint), and <a href="/wiki/Greensboro,_North_Carolina" title="Greensboro, North Carolina">Greensboro, North Carolina</a> (home of RFMD),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> but in mid-2016 the company began referring to its <a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a> site as its exclusive headquarters.<sup id="cite_ref-oreg-2016aug_5-0" class="reference"><a href="#cite_note-oreg-2016aug-5">[5]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">Qorvo</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Qorvo_logo_black.png" class="image"><img alt="Qorvo logo black.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Qorvo_logo_black.png/220px-Qorvo_logo_black.png" decoding="async" width="220" height="66" data-file-width="1926" data-file-height="575"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a>: <a rel="nofollow" class="external text" href="https://www.nasdaq.com/symbol/qrvo">QRVO</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US74736K1016">US74736K1016</a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;">Wireless handsets, base station, broadband communications, military, foundry</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">2015</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Greensboro,_North_Carolina" title="Greensboro, North Carolina">Greensboro, North Carolina</a><br> (with other campus in <a href="/wiki/Hillsboro,_Oregon" title="Hillsboro, Oregon">Hillsboro, Oregon</a>)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Robert Bruggeworth (<a href="/wiki/Chief_executive_officer" title="Chief executive officer">CEO</a>) <br>Mark Murphy (<a href="/wiki/Chief_financial_officer" title="Chief financial officer">CFO</a>)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a href="/wiki/Surface_acoustic_wave" title="Surface acoustic wave">SAW</a> and BAW filters, <a href="/wiki/GaAs" class="mw-redirect" title="GaAs">GaAs</a> and <a href="/wiki/GaN" class="mw-redirect" title="GaN">GaN</a> foundry services and components</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">8,600<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th><td style="line-height: 1.35em;"><a href="/wiki/TriQuint_Semiconductor" title="TriQuint Semiconductor">TriQuint Semiconductor</a><br><a href="/wiki/RF_Micro_Devices" title="RF Micro Devices">RF Micro Devices</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://qorvo.com">qorvo<wbr></wbr>.com</a></span></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Qorvo_-_Hillsboro,_Oregon.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Qorvo_-_Hillsboro%2C_Oregon.JPG/220px-Qorvo_-_Hillsboro%2C_Oregon.JPG" decoding="async" width="220" height="171" class="thumbimage" data-file-width="1377" data-file-height="1072"></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Qorvo_-_Hillsboro,_Oregon.JPG" class="internal" title="Enlarge"></a></div>Qorvo's location in Hillsboro, Oregon, formerly the headquarters of TriQuint Semiconductor</div></div></div>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Name"><span class="tocnumber">2</span> <span class="toctext">Name</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Qorvo&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>Qorvo was created on January 1, 2015, with the merger of TriQuint Semiconductor and RF Micro Devices (RFMD).<sup id="cite_ref-formed_2-1" class="reference"><a href="#cite_note-formed-2">[2]</a></sup> In June 2015, the new company became a component of the <a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a>, replacing tobacco company <a href="/wiki/Lorillard" class="mw-redirect" title="Lorillard">Lorillard</a>.<sup id="cite_ref-sp_6-0" class="reference"><a href="#cite_note-sp-6">[6]</a></sup> At the time of joining the S&amp;P 500, Qorvo was <a href="/wiki/Market_capitalization" title="Market capitalization">valued</a> at $12 billion.<sup id="cite_ref-sp_6-1" class="reference"><a href="#cite_note-sp-6">[6]</a></sup> The company employs more than 8,000 people.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> As of mid-2016, the <a href="/wiki/Oregon" title="Oregon">Oregon</a> plant alone was employing almost 1,000 people.<sup id="cite_ref-oreg-2016aug_5-1" class="reference"><a href="#cite_note-oreg-2016aug-5">[5]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Name">Name</span><span class="mw-editsection"><a href="/w/index.php?title=Qorvo&amp;action=edit&amp;section=2" title="Edit section: Name" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>Pronounced "kor-vo", the name is intended to reflect the "core technologies and innovations" the companies plan to enable following their combination. The name's first syllable is meant to evoke "chorus" – people (TriQuint and RFMD) working in unison, as well as "core" technology.  The second syllable, "vo", is meant to indicate voyage or travel through air or space.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Qorvo&amp;action=edit&amp;section=3" title="Edit section: References" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/qorvo/">"Qorvo"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Qorvo&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Fqorvo%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQorvo" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-formed-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-formed_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-formed_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Arcieri, Katie (January 2, 2015). <a rel="nofollow" class="external text" href="http://www.bizjournals.com/portland/blog/techflash/2015/01/qrvo-trading-begins-after-merger-between-triquint.html">"QRVO: Trading begins after merger between TriQuint and RF Micro"</a>. <i>Triad Business Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">4 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Triad+Business+Journal&amp;rft.atitle=QRVO%3A+Trading+begins+after+merger+between+TriQuint+and+RF+Micro&amp;rft.date=2015-01-02&amp;rft.aulast=Arcieri&amp;rft.aufirst=Katie&amp;rft_id=http%3A%2F%2Fwww.bizjournals.com%2Fportland%2Fblog%2Ftechflash%2F2015%2F01%2Fqrvo-trading-begins-after-merger-between-triquint.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQorvo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-name-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-name_3-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Spencer, Malia (September 18, 2014). <a rel="nofollow" class="external text" href="http://www.bizjournals.com/portland/blog/2014/09/qorvo-the-company-formerly-known-as-triquint.html">"Qorvo, the company formerly known as TriQuint"</a>. <i>Portland Business Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Portland+Business+Journal&amp;rft.atitle=Qorvo%2C+the+company+formerly+known+as+TriQuint&amp;rft.date=2014-09-18&amp;rft.aulast=Spencer&amp;rft.aufirst=Malia&amp;rft_id=http%3A%2F%2Fwww.bizjournals.com%2Fportland%2Fblog%2F2014%2F09%2Fqorvo-the-company-formerly-known-as-triquint.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQorvo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Spencer, Malia (September 19, 2014). <a rel="nofollow" class="external text" href="http://www.bizjournals.com/portland/blog/2014/09/triquint-ceo-qorvo-to-site-its-headquarters-in.html">"TriQuint CEO: Qorvo to site its headquarters in Portland ... and in North Carolina (Photos)"</a>. <i>Portland Business Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Portland+Business+Journal&amp;rft.atitle=TriQuint+CEO%3A+Qorvo+to+site+its+headquarters+in+Portland+...+and+in+North+Carolina+%28Photos%29&amp;rft.date=2014-09-19&amp;rft.aulast=Spencer&amp;rft.aufirst=Malia&amp;rft_id=http%3A%2F%2Fwww.bizjournals.com%2Fportland%2Fblog%2F2014%2F09%2Ftriquint-ceo-qorvo-to-site-its-headquarters-in.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQorvo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-oreg-2016aug-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-oreg-2016aug_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-oreg-2016aug_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Rogoway, Mike (August 6, 2016) [published online August 3]. <a rel="nofollow" class="external text" href="http://www.oregonlive.com/silicon-forest/index.ssf/2016/08/qorvo_hillsboro_no_longer_a_he.html">"Qorvo headquarters now officially in North Carolina, not Hillsboro"</a>. <i>The Oregonian</i>. p. C10<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Oregonian&amp;rft.atitle=Qorvo+headquarters+now+officially+in+North+Carolina%2C+not+Hillsboro&amp;rft.pages=C10&amp;rft.date=2016-08-06&amp;rft.aulast=Rogoway&amp;rft.aufirst=Mike&amp;rft_id=http%3A%2F%2Fwww.oregonlive.com%2Fsilicon-forest%2Findex.ssf%2F2016%2F08%2Fqorvo_hillsboro_no_longer_a_he.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQorvo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-sp-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-sp_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sp_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Rogoway, Mike (June 9, 2015). <a rel="nofollow" class="external text" href="http://www.oregonlive.com/silicon-forest/index.ssf/2015/06/qorvo_hillsboro_chipmaker_set.html">"Qorvo, Hillsboro chipmaker, will join S&amp;P 500"</a>. <i>The Oregonian/OregonLive</i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Oregonian%2FOregonLive&amp;rft.atitle=Qorvo%2C+Hillsboro+chipmaker%2C+will+join+S%26P+500&amp;rft.date=2015-06-09&amp;rft.aulast=Rogoway&amp;rft.aufirst=Mike&amp;rft_id=http%3A%2F%2Fwww.oregonlive.com%2Fsilicon-forest%2Findex.ssf%2F2015%2F06%2Fqorvo_hillsboro_chipmaker_set.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQorvo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.qorvo.com/careers/life-at-qorvo">http://www.qorvo.com/careers/life-at-qorvo</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">Rogoway, Mike (September 18, 2014). <a rel="nofollow" class="external text" href="http://www.oregonlive.com/silicon-forest/index.ssf/2014/09/triquint_rfmd_confirm_new_name.html">"TriQuint, RFMD confirm new name: Qorvo"</a>. <i>The Oregonian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 1,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Oregonian&amp;rft.atitle=TriQuint%2C+RFMD+confirm+new+name%3A+Qorvo&amp;rft.date=2014-09-18&amp;rft.aulast=Rogoway&amp;rft.aufirst=Mike&amp;rft_id=http%3A%2F%2Fwww.oregonlive.com%2Fsilicon-forest%2Findex.ssf%2F2014%2F09%2Ftriquint_rfmd_confirm_new_name.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQorvo" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Qorvo&amp;action=edit&amp;section=4" title="Edit section: External links" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li>Business data for Qorvo: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=QRVO">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=QRVO">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=QRVO">SEC filings</a></li></ul></div></li></ul></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Qorvo&amp;oldid=933160441">https://en.wikipedia.org/w/index.php?title=Qorvo&amp;oldid=933160441</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Qorvo"
+				data-user-name="Pancho507"
+				data-user-gender="unknown"
+				data-timestamp="1577694625">
+				<span>Last edited on 30 December 2019, at 08:30</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Qorvo&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.280","walltime":"0.384","ppvisitednodes":{"value":1223,"limit":1000000},"postexpandincludesize":{"value":22417,"limit":2097152},"templateargumentsize":{"value":1633,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":23090,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  358.735      1 -total"," 43.79%  157.079      1 Template:Infobox_company"," 39.01%  139.930      1 Template:Infobox"," 32.81%  117.698      1 Template:Reflist"," 21.48%   77.069      1 Template:Cite_web"," 19.43%   69.702      9 Template:Wikidata"," 13.05%   46.804      1 Template:Short_description","  9.28%   33.290      1 Template:Pagetype","  7.47%   26.796      6 Template:Cite_news","  5.86%   21.037      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.165","limit":"10.000"},"limitreport-memusage":{"value":4123180,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20200416060525","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Qorvo","url":"https:\/\/en.wikipedia.org\/wiki\/Qorvo","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18169198","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18169198","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2014-09-20T21:05:57Z","dateModified":"2019-12-30T08:30:25Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1c\/Qorvo_-_Hillsboro%2C_Oregon.JPG","headline":"American technology company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1391"});});</script>		</body>
+		</html>
+		

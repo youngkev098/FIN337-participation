@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>WEC Energy Group - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"Xpib2ApAEJkAALToGvYAAABH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"WEC_Energy_Group","wgTitle":"WEC Energy Group","wgCurRevisionId":940480872,"wgRevisionId":940480872,"wgArticleId":4846118,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"WEC_Energy_Group","wgRelevantArticleId":4846118,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q8027166","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/7/7e/Wisconsin_Energy_Corporation_logo.png"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=WEC_Energy_Group&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=WEC_Energy_Group&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/WEC_Energy_Group"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-WEC_Energy_Group rootpage-WEC_Energy_Group stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=WEC+Energy+Group" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=WEC+Energy+Group" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">WEC Energy Group</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/WEC_Energy_Group" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=WEC+Energy+Group" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=WEC_Energy_Group&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><p><b>WEC Energy Group Inc.</b>, based in <a href="/wiki/Milwaukee,_Wisconsin" class="mw-redirect" title="Milwaukee, Wisconsin">Milwaukee, Wisconsin</a>, provides electricity and natural gas to 4.4 million customers across four states.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The company operates through its brands – We Energies (Wisconsin Electric Power and Wisconsin Gas), Wisconsin Public Service, Peoples Gas, North Shore Gas, Michigan Gas Utilities, Minnesota Energy Resources and Upper Michigan Energy Resources.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">WEC Energy Group</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Wisconsin_Energy_Corporation_logo.png" class="image"><img alt="Wisconsin Energy Corporation logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/7/7e/Wisconsin_Energy_Corporation_logo.png/200px-Wisconsin_Energy_Corporation_logo.png" decoding="async" width="200" height="69" data-file-width="551" data-file-height="189"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:WEC">WEC</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;">Diversified utilities</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1896</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Milwaukee,_Wisconsin" class="mw-redirect" title="Milwaukee, Wisconsin">Milwaukee, Wisconsin</a><br><a href="/wiki/United_States" title="United States">United States</a></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Gale Klappa, Executive Chairman, Kevin Fletcher, CEO</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;">$7.65 billion <a href="/wiki/United_States_dollar" title="United States dollar">USD</a> (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">8,000<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.wecenergygroup.com">www<wbr></wbr>.wecenergygroup<wbr></wbr>.com</a></span></td></tr></tbody></table><p>WEC Energy Group's headquarters is located at 231 W. Michigan Street in Milwaukee.
+</p><p>On 29 July 2015, the company completed its acquisition of <a href="/wiki/Integrys_Energy_Group" title="Integrys Energy Group">Integrys Energy Group</a> in a deal worth $9.1 billion.<sup id="cite_ref-wecenergygroup_3-0" class="reference"><a href="#cite_note-wecenergygroup-3">[3]</a></sup></p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Companies"><span class="tocnumber">1</span> <span class="toctext">Companies</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Primergy_merger"><span class="tocnumber">3</span> <span class="toctext">Primergy merger</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Companies">Companies</span><span class="mw-editsection"><a href="/w/index.php?title=WEC_Energy_Group&amp;action=edit&amp;section=1" title="Edit section: Companies" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>We Energies, the umbrella name for Wisconsin Electric Power and Wisconsin Gas, provides electricity and natural gas to customers in Wisconsin.</li>
+<li><a href="/wiki/Peoples_Gas_Light_and_Coke_Company" class="mw-redirect" title="Peoples Gas Light and Coke Company">Peoples Gas Light and Coke Company</a> provides <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a> to customers in the city of Chicago.</li>
+<li><a href="/wiki/Wisconsin_Public_Service_Corporation" title="Wisconsin Public Service Corporation">Wisconsin Public Service Corporation</a> provides electricity and natural gas to customers in northeastern Wisconsin.</li>
+<li><a href="/w/index.php?title=Minnesota_Energy_Resources_Corporation&amp;action=edit&amp;redlink=1" class="new" title="Minnesota Energy Resources Corporation (page does not exist)">Minnesota Energy Resources Corporation</a> provides natural gas to customers in Minnesota.</li>
+<li><a href="/w/index.php?title=Michigan_Gas_Utilities_Corporation&amp;action=edit&amp;redlink=1" class="new" title="Michigan Gas Utilities Corporation (page does not exist)">Michigan Gas Utilities Corporation</a> provides natural gas to customers in lower Michigan.</li>
+<li><a href="/w/index.php?title=North_Shore_Gas_Company&amp;action=edit&amp;redlink=1" class="new" title="North Shore Gas Company (page does not exist)">North Shore Gas Company</a> provides natural gas to customers in Chicago's northern suburbs.</li>
+<li>Upper Michigan Energy Resources provides electric and natural gas to customers in Michigan's Upper Peninsula.</li>
+<li>Bluewater Gas Storage provides natural gas storage and hub services for We Energies and Wisconsin Public Service.</li>
+<li>We Power, which designs, builds and owns electric generating plants.</li>
+<li>Wispark LLC, which develops and invests in real estate, industrial/office buildings and urban redevelopment projects.</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=WEC_Energy_Group&amp;action=edit&amp;section=2" title="Edit section: History" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<table class="box-Prose plainlinks metadata ambox ambox-style ambox-Prose" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This article <b>is in <a href="/wiki/MOS:LIST" class="mw-redirect" title="MOS:LIST">list</a> format, but may read better as <a href="/wiki/MOS:PROSE" class="mw-redirect" title="MOS:PROSE">prose</a></b>.<span class="hide-when-compact"> You can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=WEC_Energy_Group&amp;action=edit">converting this article</a>, if appropriate. <a href="/wiki/Help:Editing" title="Help:Editing">Editing help</a> is available.</span>  <small class="date-container"><i>(<span class="date">July 2015</span>)</i></small></div></td></tr></tbody></table><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Public_Service_Building_Milwaukee_Wisconsin.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Public_Service_Building_Milwaukee_Wisconsin.jpg/220px-Public_Service_Building_Milwaukee_Wisconsin.jpg" decoding="async" width="220" height="147" class="thumbimage" data-file-width="3888" data-file-height="2592"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 147px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Public_Service_Building_Milwaukee_Wisconsin.jpg/220px-Public_Service_Building_Milwaukee_Wisconsin.jpg" data-alt="" data-width="220" data-height="147" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Public_Service_Building_Milwaukee_Wisconsin.jpg" class="internal" title="Enlarge"></a></div>Headquarters building in Milwaukee</div></div></div>
+<ul><li><b>1896</b>  The Milwaukee Electric Railway and Light Company was formed as a subsidiary of the <a href="/wiki/North_American_Company" title="North American Company">North American Company</a> to provide interurban rail service in a 12,000-square-mile (31,000 km<sup>2</sup>) area of southeastern Wisconsin. In time, the company began selling electricity not needed to power the interurban trains to individuals and businesses.</li>
+<li><b>1919</b>  Experiments at the company's East Wells Power Plant (then called <a href="/wiki/Oneida_Street_Station" title="Oneida Street Station">Oneida Street Station</a>) in downtown Milwaukee, proved that use of pulverized coal reduced the cost of producing electric power and conserved fuel.</li>
+<li><b>1921</b>  Wisconsin Electric Power Company is formed by the North American Company to build and operate   the Lakeside Power Plant in St. Francis, Wisconsin. Lakeside was the world's first power plant to burn pulverized coal exclusively.</li>
+<li><b>1935</b>  The first of five 80-megawatt units at Port Washington Power Plant was brought on line. From 1935 to 1948, Port Washington was the most efficient coal-fueled power plant in the world.</li>
+<li><b>1938</b>   Milwaukee Electric Railway and Light was merged into Wisconsin Electric.</li>
+<li><b>1941</b>  Wisconsin Electric purchased Wisconsin Gas &amp; Electric Company and Wisconsin Michigan Power Company, which also had been under the North American Company.</li>
+<li><b>1946</b>  Wisconsin Electric becomes an independent company, no longer part of the North American Company.<sup id="cite_ref-supreme_4-0" class="reference"><a href="#cite_note-supreme-4">[4]</a></sup></li>
+<li><b>1953</b>  Wisconsin Electric placed into service the first 120-megawatt unit at Oak Creek Power Plant. Seven additional units were completed through 1968.</li>
+<li><b>1970</b>  Wisconsin Electric's 908-megawatt Point Beach Nuclear Plant began operation and gained a worldwide reputation for efficiency.</li>
+<li><b>1980</b>  Wisconsin Electric placed the first 580-megawatt unit at Pleasant Prairie into service. A second unit was added in 1985.</li>
+<li><b>1987</b>  Wisconsin Electric reorganized as a holding company, Wisconsin Energy Corporation, with Wisconsin Electric, Wispark, Wisvest and Witech as subsidiaries.</li>
+<li><b>1994</b>  Wisconsin Energy purchased Lake Geneva-based Wisconsin Southern Gas Co. and merged it into Wisconsin Natural, which subsequently merged with Wisconsin Electric in 1995.</li>
+<li><b>1998</b>  Wisconsin Energy bought ESELCO, parent company of the <a href="/wiki/Edison_Sault_Electric_Company" title="Edison Sault Electric Company">Edison Sault Electric Company</a>, based in Sault Ste. Marie, Michigan.</li>
+<li><b>2000</b>  WICOR, holding company of Wisconsin Gas, became part of Wisconsin Energy, creating the largest electric and natural gas provider in Wisconsin. The corporation also announced a 10-year plant to invest US$7.0 billion to build five new power plants, to upgrade existing plants and to improve its electric distribution system.</li>
+<li><b>2001</b>  American Transmission Company, the first multi-state all-transmission utility in the United States, was formed by Wisconsin's major utilities, and Wisconsin Electric transferred ownership of its transmission lines to American Transmission in exchange for shares in the new company.</li>
+<li><b>2002</b>  Wisconsin Electric and Wisconsin Gas began doing business as We Energies.</li>
+<li><b>2004</b>  Wisconsin Energy sold the non-energy assets of WICOR for US$850 million as part of its strategy to divest its non-core businesses.</li>
+<li><b>2005</b>  Construction of two 615-megawatt coal-fired units began at the Oak Creek Power Plant site. The same year, the first of two 545-megawatt natural-gas-fueled units began commercial operation at Port Washington Generating Station.</li>
+<li><b>2007</b>  Wisconsin Energy sold Point Beach Nuclear Plant to FPL Energy for approximately US$924 million, with We Energies entitled to the output for the life of the plant.</li>
+<li><b>2008</b>  The <a href="/wiki/Blue_Sky_Green_Field_Wind_Farm" class="mw-redirect" title="Blue Sky Green Field Wind Farm">Blue Sky Green Field Wind Farm</a> began operation on a 10,600-acre (43 km<sup>2</sup>) site with 88 turbines (145-megawatt capacity) in Wisconsin's Fond du Lac County.</li>
+<li><b>2009</b>  We Energies received approval to construct and operate the Glacier Hills Wind Park in Wisconsin's Columbia County. The company also announced plans to build a biomass generating facility at the Domtar paper mill in Rothschild, Wisconsin.</li>
+<li><b>2010</b>  The first of two 615-megawatt coal-fueled units at the company's Oak Creek expansion site attains commercial operation on Feb. 2. Wisconsin Energy completed the sale of Edison Sault Electric Company to Cloverland Electric Cooperative. In May, construction began on the Glacier Hills Wind Park in Columbia County.</li>
+<li><b>2011</b>  The second of two 615-megawatt coal-fueled units at the company's Oak Creek expansion site attains commercial operation on Jan. 12. Glacier Hills Wind Park began operating 90 turbines in the towns of Randolph and Scott in Wisconsin.</li>
+<li><b>2013</b>  A 50-megawatt, biomass-based, cogeneration facility in Rothschild, Wisconsin, began commercial operation to provide base-load power for the electric system and steam to the Domtar paper mill.</li>
+<li><b>2014</b>  Wisconsin Energy announced that it was purchasing <a href="/wiki/Integrys_Energy_Group" title="Integrys Energy Group">Integrys Energy Group</a>, parent company of Peoples Gas, North Shore Gas and Wisconsin Public Service, for $9.1 billion.</li>
+<li><b>2015</b>  Wisconsin Energy completes acquisition of Integrys Energy Group, forming WEC Energy Group.</li>
+<li><b>2017</b>  WEC Energy Group acquired Bluewater Gas Storage, a Michigan-based company, to provide about one-third of storage needs for WEC Energy Group's natural gas distribution companies in Wisconsin.</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Primergy_merger">Primergy merger</span><span class="mw-editsection"><a href="/w/index.php?title=WEC_Energy_Group&amp;action=edit&amp;section=3" title="Edit section: Primergy merger" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>On May 3, 1995, Wisconsin Energy Corporation and <a href="/wiki/Northern_States_Power_Company" title="Northern States Power Company">Northern States Power Company</a> (<a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:NSP)">NSP)</a> each filed a <a href="/wiki/Securities_and_Exchange_Commission" class="mw-redirect" title="Securities and Exchange Commission">Securities and Exchange Commission</a> <a href="/wiki/Form_8-K" title="Form 8-K">Form 8-K</a> to combine in a merger-of-equals transaction to form Primergy Corporation. It would have been the 10th largest investor-owned electric and gas utility company in the United States, based on market capitalization at that time of about US$6.0 billion.<sup id="cite_ref-sec950503_5-0" class="reference"><a href="#cite_note-sec950503-5">[5]</a></sup><sup id="cite_ref-sec950503-2_6-0" class="reference"><a href="#cite_note-sec950503-2-6">[6]</a></sup>  NSP would have been the nominal survivor, and the merged company would be headquartered in <a href="/wiki/Minneapolis" title="Minneapolis">Minneapolis</a> (headquarters of the old NSP), but the merged company would have been registered in Wisconsin.
+</p><p>On May 16, 1997, both CEOs announced that the boards of directors of both companies had terminated the merger plan because of approval delays by the U.S. Department of Justice, the SEC, and state regulators in Minnesota and Wisconsin.<sup id="cite_ref-prnewswire_7-0" class="reference"><a href="#cite_note-prnewswire-7">[7]</a></sup> They also stated that regulatory agencies were changing their merger policies as they were considering the companies' filing and that further delay would reduce the benefits of the Primergy transaction.<sup id="cite_ref-prnewswire_7-1" class="reference"><a href="#cite_note-prnewswire-7">[7]</a></sup></p><p>The delay already had put the merger five months behind schedule and had reduced earnings for both utilities by a total of US$58 million to that point. In addition, Wisconsin Energy's stock had fallen about 13% since early 1995 when the deal had been announced, while NSP's stock had risen by 6%. The case was considered to be a <a href="/wiki/Bellwether" title="Bellwether">bellwether</a> in the utilities industry, putting an end to the rapid pace of mergers and acquisitions that had been ongoing up to then.<sup id="cite_ref-journalsentinel_8-0" class="reference"><a href="#cite_note-journalsentinel-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=WEC_Energy_Group&amp;action=edit&amp;section=4" title="Edit section: References" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/wec-energy-group/">"WEC Energy Group"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=WEC+Energy+Group&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Fwec-energy-group%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWEC+Energy+Group" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/wec-energy-group/">"WEC Energy Group"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=WEC+Energy+Group&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Fwec-energy-group%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWEC+Energy+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-wecenergygroup-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-wecenergygroup_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://phx.corporate-ir.net/phoenix.zhtml?c=114170&amp;p=irol-newsArticle&amp;ID=2063295">[1]</a>, WEC Energy Group, July 29</span>
+</li>
+<li id="cite_note-supreme-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-supreme_4-0">^</a></b></span> <span class="reference-text"><cite><i><a href="/wiki/North_American_Co._v._Securities_and_Exchange_Commission" class="mw-redirect" title="North American Co. v. Securities and Exchange Commission">North American Co. v. Securities and Exchange Commission</a></i></cite>, <a rel="nofollow" class="external text" href="http://caselaw.lp.findlaw.com/scripts/printer_friendly.pl?page=us/327/686.html">327 U.S. 686</a> (1946).  FindLaw.com</span>
+</li>
+<li id="cite_note-sec950503-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-sec950503_5-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.secinfo.com/d3998.a7.6.htm">Wisconsin Energy Corp. Form 8-K</a>, SEC Info, Filed On 5/3/95, SEC File 1-09057, Accession Number 107815-95-8</span>
+</li>
+<li id="cite_note-sec950503-2-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-sec950503-2_6-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.secinfo.com/drDX9.a11.6.htm">Xcel Energy Inc. Form 8-K</a>, Filed On 5/3/95, SEC File 1-03034, Accession Number 898822-95-46</span>
+</li>
+<li id="cite_note-prnewswire-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-prnewswire_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-prnewswire_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&amp;STORY=/www/story/121889&amp;EDATE=">Wisconsin Energy Corp., Northern States Power Co. Agree to Terminate Merger Proceedings</a>, PRNewswire, May 16</span>
+</li>
+<li id="cite_note-journalsentinel-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-journalsentinel_8-0">^</a></b></span> <span class="reference-text">Lee Bergquist. "<a rel="nofollow" class="external text" href="http://webcache.googleusercontent.com/search?q=cache:SrYlcRkD0NEJ:findarticles.com/p/articles/mi_qn4196/is_19970518/ai_n10333729+wisconsin+energy+primergy&amp;hl=en&amp;ct=clnk&amp;cd=7&amp;gl=us&amp;ie=UTF-8">Primergy too strong for regulators' taste</a>". <i>Milwaukee Journal Sentinel</i>, May 18, 1997.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Lee Bergquist. "<a rel="nofollow" class="external text" href="http://www.jsonline.com/business/monopoly-concerns-scuttled-wisconsin-energy-deal-with-northern-states-power-b99297218z1-264294151.html">Monopoly Concerns Scuttled WE Energy Deal and Primergy and Northern States Power</a>". <i>Milwaukee Journal Sentinel</i>, June 23, 2014. Retrieved July 20, 2015.</span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=WEC_Energy_Group&amp;action=edit&amp;section=5" title="Edit section: External links" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li><a rel="nofollow" class="external text" href="http://www.wecenergygroup.com/">WEC Energy Group</a></li>
+<li>Business data for WEC Energy Group: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=WEC">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=WEC">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.bloomberg.com/quote/WEC:US">Bloomberg</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=WEC">SEC filings</a></li></ul></div></li></ul></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=WEC_Energy_Group&amp;oldid=940480872">https://en.wikipedia.org/w/index.php?title=WEC_Energy_Group&amp;oldid=940480872</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/WEC_Energy_Group"
+				data-user-name="JzG"
+				data-user-gender="male"
+				data-timestamp="1581537814">
+				<span>Last edited on 12 February 2020, at 20:03</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=WEC_Energy_Group&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.276","walltime":"0.404","ppvisitednodes":{"value":1181,"limit":1000000},"postexpandincludesize":{"value":15958,"limit":2097152},"templateargumentsize":{"value":1921,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9595,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  366.390      1 -total"," 45.71%  167.474      1 Template:Infobox_company"," 41.84%  153.306      1 Template:Infobox"," 24.93%   91.341      1 Template:Reflist"," 20.83%   76.319      2 Template:Cite_web"," 16.50%   60.453      9 Template:Wikidata"," 13.01%   47.651      1 Template:Prose"," 12.93%   47.375      1 Template:Br_separated_entries"," 10.56%   38.695      1 Template:Ambox","  8.66%   31.742      2 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.151","limit":"10.000"},"limitreport-memusage":{"value":4404747,"limit":52428800}},"cachereport":{"origin":"mw1411","timestamp":"20200416072040","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"WEC Energy Group","url":"https:\/\/en.wikipedia.org\/wiki\/WEC_Energy_Group","sameAs":"http:\/\/www.wikidata.org\/entity\/Q8027166","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q8027166","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-04-21T23:43:53Z","dateModified":"2020-02-12T20:03:34Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/7e\/Wisconsin_Energy_Corporation_logo.png","headline":"provides electricity and natural gas to 4.4 million customers"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":132,"wgHostname":"mw1395"});});</script>		</body>
+		</html>
+		

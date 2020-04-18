@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Oneok - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpicxQpAICkAAG6fve0AAAAU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Oneok","wgTitle":"Oneok","wgCurRevisionId":930369034,"wgRevisionId":930369034,"wgArticleId":4765652,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Oneok","wgRelevantArticleId":4765652,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"ONEOK","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Oneok","wgWikibaseItemId":"Q11074156","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},
+"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/0c/Oneok_building.jpg"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Oneok&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Oneok&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Oneok"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Oneok rootpage-Oneok stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Oneok" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Oneok" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Oneok</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Oneok" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Oneok" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Oneok&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=ONEOK&amp;redirect=no" class="mw-redirect" title="ONEOK">ONEOK</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><p><b>ONEOK, Inc.</b> (pronounced "One-Oak") is a diversified <a href="/wiki/Fortune_500" title="Fortune 500">Fortune 500</a> corporation based in <a href="/wiki/Tulsa,_Oklahoma" title="Tulsa, Oklahoma">Tulsa, Oklahoma</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> ONEOK was founded in 1906 as <b>Oklahoma Natural Gas Company</b>, but It changed its corporate name to ONEOK in December 1980. It also owns major <a href="/wiki/Natural_gas_liquids" class="mw-redirect" title="Natural gas liquids">natural gas liquids</a> (NGL) systems due to the 2005 acquisition of <a href="/wiki/Koch_Industries" title="Koch Industries">Koch Industries</a> natural gas businesses.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">ONEOK, Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:ONEOK_Logo_.svg" class="image"><img alt="ONEOK Logo .svg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ab/ONEOK_Logo_.svg/220px-ONEOK_Logo_.svg.png" decoding="async" width="220" height="67" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ab/ONEOK_Logo_.svg/330px-ONEOK_Logo_.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ab/ONEOK_Logo_.svg/440px-ONEOK_Logo_.svg.png 2x" data-file-width="366" data-file-height="111"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:OKE">OKE</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US6826801036">US6826801036 </a><a href="https://www.wikidata.org/wiki/Q11074156?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Natural_gas_utility" class="mw-redirect" title="Natural gas utility">Natural gas utility</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1906</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;">Ryan C. Haynes<br>C.B. Ames</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Tulsa,_Oklahoma" title="Tulsa, Oklahoma">Tulsa, Oklahoma</a></div>, <div style="display: inline;" class="country-name"><a href="/wiki/United_States" title="United States">U.S.</a></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Terry K. Spencer <small>(CEO)</small><br>John Gibson <small>(Chairman)</small></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a href="/wiki/Natural_Gas" class="mw-redirect" title="Natural Gas">Natural Gas</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;">$12.6 billion <small>(2018)<img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></small></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;">$305.45 million <small>(2009)<img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" decoding="async" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300"><sup id="cite_ref-finance_2-0" class="reference"><a href="#cite_note-finance-2">[2]</a></sup></small></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;">$12.8 billion <small>(2009)<img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300">2.3%<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></small></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">2,684 (2019)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><a rel="nofollow" class="external free" href="http://www.oneok.com/">http://www.oneok.com/</a></td></tr></tbody></table><div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Oneok_building.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Oneok_building.jpg/220px-Oneok_building.jpg" decoding="async" width="220" height="165" class="thumbimage" data-file-width="1024" data-file-height="768"></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Oneok_building.jpg" class="internal" title="Enlarge"></a></div>OneOK headquarters in Tulsa, Oklahoma on 20 March 2007</div></div></div>
+<p>ONEOK's Energy Services operation focuses primarily on marketing natural gas and related services throughout the U.S. Energy Services, which derives more than 84 percent of its earnings from the physical marketing business, showed an operating income increase of $26.5 million. Energy Services’ retail business participates in customer gas choice program in Nebraska and Wyoming.
+</p><p>On December 22, 2005,  The ONEOK Foundation said it would donate $1 million this winter to assist residents in Oklahoma, Kansas and Texas with their energy bills.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p><p>In 2007, <i>Fortune</i> magazine named ONEOK the most admired company in the energy industry.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p><p>ONEOK's predecessor, Oklahoma Natural Gas Company (ONG), had been headquartered in an <a href="/wiki/Art_Deco" title="Art Deco">Art Deco</a> <a href="/wiki/Oklahoma_Natural_Gas_Company_Building" title="Oklahoma Natural Gas Company Building">building</a> on the northwest corner of Seventh Street and Boston Avenue in Tulsa since 1928. In 1982, ONEOK chairman, J. E. Tyree, announced plans to demolish the ONG building and replace it with a new 16-story tower. However, this did not happen. Instead, ONEOK bought a new Cities Service Company building still under construction (later renamed <a href="/wiki/Citgo" title="Citgo">Citgo</a>) in August, 1982. The Cities Service Company, undergoing financial difficulties, already had a project underway to build a high-rise headquarters building at Fifth and Boulder. ONEOK realized that it would be more economical to cap the planned structure at 17 stories and move its headquarters there, rather than to proceed with its original plan. It completed the new black granite and glass tower in 1984.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p><p>In 2009, ONEOK sponsored the construction of <a href="/wiki/ONEOK_Field" title="ONEOK Field">ONEOK Field</a>, the new Tulsa Drillers minor league baseball stadium in downtown Tulsa.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Notes"><span class="tocnumber">2</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Oneok&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:ONGBuildingTulsa.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/ONGBuildingTulsa.jpg/220px-ONGBuildingTulsa.jpg" decoding="async" width="220" height="363" class="thumbimage" data-file-width="1606" data-file-height="2651"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 363px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/ONGBuildingTulsa.jpg/220px-ONGBuildingTulsa.jpg" data-alt="" data-width="220" data-height="363" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ONGBuildingTulsa.jpg" class="internal" title="Enlarge"></a></div>Oklahoma Natural Gas Company headquarters in Tulsa, Oklahoma built in 1928</div></div></div>
+<p>Oklahoma Natural Gas Company (ONG) was founded in 1906 by two attorneys, <a href="/wiki/Dennis_T._Flynn" class="mw-redirect" title="Dennis T. Flynn">Dennis T. Flynn</a> and <a href="/w/index.php?title=Charles_B._Ames&amp;action=edit&amp;redlink=1" class="new" title="Charles B. Ames (page does not exist)">Charles B. Ames</a>, who planned to develop the natural gas that was a byproduct of the northern Oklahoma oilfields. ONG incorporated on October 9, 1906, under the laws of Oklahoma Territory. Flynn was president and Ames the secretary.  Joined by Chicago entrepreneur, H. M. Byllesby, for whom they worked, they also formed the <a href="/wiki/Oklahoma_Gas_%26_Electric" title="Oklahoma Gas &amp; Electric">Oklahoma Gas and Electric Company</a> (OG&amp;E) to bring natural gas from the Cleveland Oil Field to <a href="/wiki/Oklahoma_City" title="Oklahoma City">Oklahoma City</a>, using it to generate electric power. Byllesby soon resigned, but Glenn T. Braden and Theodore N. Barnsdall joined ONG. Both were already experienced oilmen. Together, they owned the Osage and Oklahoma Gas Company. Braden had been an executive of <a href="/wiki/Standard_Oil_Company" class="mw-redirect" title="Standard Oil Company">Standard Oil Company</a> and Barnsdall an oil producer.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[a]</a></sup> ONG built a natural gas pipeline from the Osage fields to Oklahoma City which went into service December 28, 1907. ONG extended the line to <a href="/wiki/Guthrie,_Oklahoma" title="Guthrie, Oklahoma">Guthrie</a> and <a href="/wiki/Shawnee,_Oklahoma" title="Shawnee, Oklahoma">Shawnee</a>. It also built the first gas pipeline compressor station in the state in 1910.<sup id="cite_ref-EOHC-ONG_10-0" class="reference"><a href="#cite_note-EOHC-ONG-10">[9]</a></sup> Braden followed Flynn as president of the company.
+</p><p>ONG continued to build pipelines throughout Oklahoma. By the time Braden retired in 1921, ONG owned over 1,300 miles (2,100 km) of lines and served over a half million customers in 48 of the state's 77 counties. In 1928, it built its noted headquarters building in Tulsa. It reorganized several times, first becoming a Maryland Corporation, then a Delaware Corporation.<sup id="cite_ref-EOHC-ONG_10-1" class="reference"><a href="#cite_note-EOHC-ONG-10">[9]</a></sup></p><p>In December 1980, the Oklahoma Natural Gas board voted to reorganize as a holding company, ONEOK Inc. <a href="/wiki/Oklahoma_Natural_Gas" title="Oklahoma Natural Gas">Oklahoma Natural Gas</a> became ONEOK's leading subsidiary, headquartered in Oklahoma City. The parent company is headquartered in Tulsa.<sup id="cite_ref-EOHC-ONG_10-2" class="reference"><a href="#cite_note-EOHC-ONG-10">[9]</a></sup></p><p>In 1996, ONEOK acquired the natural gas operations of Kansas utility Western Resources (now <a href="/wiki/Westar_Energy" class="mw-redirect" title="Westar Energy">Westar Energy</a>) and reorganized them as <a href="/wiki/Kansas_Gas_Service" title="Kansas Gas Service">Kansas Gas Service</a>. In 2003, it acquired the Texas properties of Southern Union Gas, which became another ONEOK operating company, Texas Gas service.
+</p><p>In February 2014, ONEOK spun off its natural gas distribution companies–Oklahoma Natural Gas, Kansas Gas Service, and Texas Gas Services–into a separate publicly traded company, <a href="/wiki/ONE_Gas" title="ONE Gas">ONE Gas</a>. For all intents and purposes, ONEOK had spun out the core of the original Oklahoma Natural Gas.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><a href="/w/index.php?title=Oneok&amp;action=edit&amp;section=2" title="Edit section: Notes" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<div class="reflist" style="list-style-type: lower-alpha;">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Barnsdall owned the Barnsdall oil company and became the namesake of <a href="/wiki/Barnsdall,_Oklahoma" title="Barnsdall, Oklahoma">Barnsdall, Oklahoma</a>.</span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><a href="/w/index.php?title=Oneok&amp;action=edit&amp;section=3" title="Edit section: See also" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li><a href="/wiki/Guardian_Pipeline" title="Guardian Pipeline">Guardian Pipeline</a></li>
+<li><a href="/wiki/Oklahoma_Natural_Gas_Company_Building" title="Oklahoma Natural Gas Company Building">Oklahoma Natural Gas Company Building</a></li>
+<li><a href="/wiki/ONE_Gas" title="ONE Gas">ONE Gas</a></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Oneok&amp;action=edit&amp;section=4" title="Edit section: References" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://craft.co/oneok/revenue">"ONEOK revenue"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ONEOK+revenue&amp;rft_id=https%3A%2F%2Fcraft.co%2Foneok%2Frevenue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOneok" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-finance-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-finance_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=NYSE:OKE&amp;fstype=ii">"Financial Statements for ONEOK, Inc"</a>. google finance<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Financial+Statements+for+ONEOK%2C+Inc.&amp;rft.pub=google+finance&amp;rft_id=https%3A%2F%2Fwww.google.com%2Ffinance%3Fq%3DNYSE%3AOKE%26fstype%3Dii&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOneok" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.oneok.com/~/media/MiscDocs/OKEFactsheet.ashx">"ONEOK 2009/2010 Factsheet"</a>. 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ONEOK+2009%2F2010+Factsheet&amp;rft.date=2010&amp;rft_id=http%3A%2F%2Fwww.oneok.com%2F~%2Fmedia%2FMiscDocs%2FOKEFactsheet.ashx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOneok" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://craft.co/oneok">"ONEOK Company Profile"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ONEOK+Company+Profile&amp;rft_id=https%3A%2F%2Fcraft.co%2Foneok&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOneok" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/oneok/">"Oneok"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Oneok&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Foneok%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOneok" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://newsok.com/energybroneok-fund-to-help-poor-pay-energy-bills/article/2924687">"ONEOK fund to help poor pay energy bills"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ONEOK+fund+to+help+poor+pay+energy+bills&amp;rft_id=http%3A%2F%2Fnewsok.com%2Fenergybroneok-fund-to-help-poor-pay-energy-bills%2Farticle%2F2924687&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOneok" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://money.cnn.com/magazines/fortune/mostadmired/2007/snapshots/10137.html">2007 Fortune Most Admired: Oneok</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Davis, Kirby Lee "These Walls: Oneok Plaza in Tulsa". Journal Record, The (Oklahoma City). FindArticles.com. Retrieved July 14, 2011.  <a rel="nofollow" class="external autonumber" href="http://findarticles.com/p/articles/mi_qn4182/is_20090123/ai_n31294369/">[1]</a></span>
+</li>
+<li id="cite_note-EOHC-ONG-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-EOHC-ONG_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EOHC-ONG_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EOHC-ONG_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.okhistory.org/publications/enc/entry.php?entry=OK068">Dianna Everett, "Oklahoma Natural Gas Company." <i>Encyclopedia of Oklahoma History and Culture</i>.</a> Retrieved September 13, 2014.</span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Oneok&amp;action=edit&amp;section=5" title="Edit section: External links" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li><a rel="nofollow" class="external text" href="http://www.oneok.com/">Official Website</a></li>
+<li>Business data for ONEOK: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=OKE">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=OKE">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=OKE">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Oneok&amp;oldid=930369034">https://en.wikipedia.org/w/index.php?title=Oneok&amp;oldid=930369034</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Oneok"
+				data-user-name="170.250.33.160"
+				data-user-gender="unknown"
+				data-timestamp="1576110871">
+				<span>Last edited on 12 December 2019, at 00:34</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Oneok&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.355","ppvisitednodes":{"value":1263,"limit":1000000},"postexpandincludesize":{"value":27425,"limit":2097152},"templateargumentsize":{"value":2004,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18922,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  315.686      1 -total"," 43.29%  136.653      1 Template:Infobox_company"," 37.24%  117.557      1 Template:Infobox"," 33.54%  105.880      2 Template:Reflist"," 27.66%   87.328      6 Template:Cite_web"," 15.13%   47.757      1 Template:Br_separated_entries"," 13.96%   44.064      7 Template:Wikidata"," 11.51%   36.345      1 Template:Convert","  3.64%   11.494      1 Template:Tulsa_companies","  3.49%   11.016      1 Template:Notelist"]},"scribunto":{"limitreport-timeusage":{"value":"0.128","limit":"10.000"},"limitreport-memusage":{"value":4808977,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20200416052430","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Oneok","url":"https:\/\/en.wikipedia.org\/wiki\/Oneok","sameAs":"http:\/\/www.wikidata.org\/entity\/Q11074156","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q11074156","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-04-16T02:41:37Z","dateModified":"2019-12-12T00:34:31Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0c\/Oneok_building.jpg"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1320"});});</script>		</body>
+		</html>
+		

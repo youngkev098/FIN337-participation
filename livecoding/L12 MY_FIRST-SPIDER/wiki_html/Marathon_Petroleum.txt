@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Marathon Petroleum - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"Xph2rApAICwAAJIJoI8AAABA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Marathon_Petroleum","wgTitle":"Marathon Petroleum","wgCurRevisionId":951199100,"wgRevisionId":951199100,"wgArticleId":1209923,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Marathon_Petroleum","wgRelevantArticleId":1209923,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q458363","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marathon_Oil_logo_2009.svg/1200px-Marathon_Oil_logo_2009.svg.png"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Marathon_Petroleum&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Marathon_Petroleum&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Marathon_Petroleum"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Marathon_Petroleum rootpage-Marathon_Petroleum stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Marathon+Petroleum" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Marathon+Petroleum" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Marathon Petroleum</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Marathon_Petroleum" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Marathon+Petroleum" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Marathon_Petroleum&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Marathon_Oil" title="Marathon Oil">Marathon Oil</a>.</div>
+<p><b>Marathon Petroleum Corporation</b> is an <a href="/wiki/Petroleum_industry_in_the_United_States" class="mw-redirect" title="Petroleum industry in the United States">American petroleum</a> refining, marketing, and transportation company headquartered in <a href="/wiki/Findlay,_Ohio" title="Findlay, Ohio">Findlay</a>, <a href="/wiki/Ohio" title="Ohio">Ohio</a>. The company was a wholly owned subsidiary of <a href="/wiki/Marathon_Oil" title="Marathon Oil">Marathon Oil</a> until a <a href="/wiki/Corporate_spin-off" title="Corporate spin-off">corporate spin-off</a> in 2011.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Marathon Petroleum Corporation</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Marathon_Oil_logo_2009.svg" class="image"><img alt="Marathon Oil logo 2009.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marathon_Oil_logo_2009.svg/200px-Marathon_Oil_logo_2009.svg.png" decoding="async" width="200" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marathon_Oil_logo_2009.svg/300px-Marathon_Oil_logo_2009.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marathon_Oil_logo_2009.svg/400px-Marathon_Oil_logo_2009.svg.png 2x" data-file-width="99" data-file-height="77"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:MPC">MPC</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US56585A1025">US56585A1025 </a><a href="https://www.wikidata.org/wiki/Q458363?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Oil_and_gas" class="mw-redirect" title="Oil and gas">Oil and gas</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Predecessors</th><td style="line-height: 1.35em;">Marathon Oil (1984)<br><a href="/wiki/Ashland_Inc." class="mw-redirect" title="Ashland Inc.">Ashland Inc.</a><br> <a href="/wiki/U.S._Steel" title="U.S. Steel">USX Corporation</a><br><a href="/wiki/Marathon_Oil" title="Marathon Oil">Marathon Oil</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">September 1, 1998<span class="noprint">; 21 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1998-09-01</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Findlay,_Ohio" title="Findlay, Ohio">Findlay</a>, <a href="/wiki/Ohio" title="Ohio">Ohio</a></div>, <div style="display: inline;" class="country-name"><a href="/wiki/United_States" title="United States">United States</a></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of locations</div></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li>5,600 independent Marathon Brand stations</li><li>2,740 <a href="/wiki/Speedway_LLC" title="Speedway LLC">Speedway</a> locations</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">Worldwide</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Gary_R._Heminger" title="Gary R. Heminger">Gary R. Heminger</a><br><span style="font-size:85%;">(Chairman and CEO)</span><br><a href="/wiki/Gregory_J._Goff" title="Gregory J. Goff">Gregory J. Goff</a><br><span style="font-size:85%;">(Executive Vice Chairman)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><div class="hlist">
+<ul><li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Petrochemical" title="Petrochemical">Petrochemicals</a></li>
+<li><a href="/wiki/Gasoline" title="Gasoline">Gasoline</a></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Production output</div></th><td style="line-height: 1.35em;">1,900,000 barrels per day of refined crude oil (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Services</th><td class="category" style="line-height: 1.35em;"><div class="hlist">
+<ul><li><a href="/wiki/Pipeline_transport#Oil_and_natural_gas" title="Pipeline transport">Pipeline transport</a></li>
+<li><a href="/wiki/Oil_refinery" title="Oil refinery">Oil refining</a></li>
+<li><a href="/wiki/Marketing" title="Marketing">Marketing</a></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap"><a href="/wiki/United_States_dollar" title="United States dollar">US$</a>96.504 billion</span> (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$3.969 billion</span> (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$3.432 billion</span> (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$49.047 billion</span> (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$14.033 billion</span> (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">~43,800 (December 2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Division_(business)" title="Division (business)">Divisions</a></th><td style="line-height: 1.35em;"><a href="/wiki/Speedway_LLC" title="Speedway LLC">Speedway LLC</a><br><a href="/wiki/Catlettsburg_Refinery" title="Catlettsburg Refinery">Catlettsburg Refining</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.marathonpetroleum.com/">www<wbr></wbr>.marathonpetroleum<wbr></wbr>.com</a></span></td></tr><tr><td colspan="2" style="text-align:center;line-height: 1.35em;"><b>Footnotes / references</b><br><sup id="cite_ref-10-K_1-0" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr></tbody></table><p>Following its acquisition of <a href="/wiki/Andeavor" title="Andeavor">Andeavor</a> on October 1, 2018, Marathon Petroleum became the largest <a href="/wiki/Petroleum_refinery" class="mw-redirect" title="Petroleum refinery">petroleum refinery</a> operator in the <a href="/wiki/United_States" title="United States">United States</a>, with 16 refineries and over 3 million <a href="/wiki/Barrels_per_day" class="mw-redirect" title="Barrels per day">barrels per day</a> of refining capacity.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Marathon Petroleum ranked No. 41 on the 2018 <a href="/wiki/Fortune_500" title="Fortune 500">Fortune 500</a> list of the largest United States corporations by total revenue.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:MelsMarathon.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MelsMarathon.jpg/220px-MelsMarathon.jpg" decoding="async" width="220" height="165" class="thumbimage" data-file-width="1280" data-file-height="960"></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:MelsMarathon.jpg" class="internal" title="Enlarge"></a></div>Marathon Gas Station in Long Grove, IL</div></div></div>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Operations"><span class="tocnumber">1</span> <span class="toctext">Operations</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul><li class="toclevel-2 tocsection-3"><a href="#Former_parent_company"><span class="tocnumber">2.1</span> <span class="toctext">Former parent company</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Predecessor_company"><span class="tocnumber">2.2</span> <span class="toctext">Predecessor company</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Post-corporate_spin-off_from_Marathon_Oil"><span class="tocnumber">2.3</span> <span class="toctext">Post-corporate spin-off from Marathon Oil</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Refinery_fire"><span class="tocnumber">2.4</span> <span class="toctext">Refinery fire</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#2018_acquisition_of_Andeavor,_planned_spin-off_of_Speedway_LLC"><span class="tocnumber">2.5</span> <span class="toctext">2018 acquisition of Andeavor, planned spin-off of Speedway LLC</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-8"><a href="#Finances"><span class="tocnumber">3</span> <span class="toctext">Finances</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Operations">Operations</span><span class="mw-editsection"><a href="/w/index.php?title=Marathon_Petroleum&amp;action=edit&amp;section=1" title="Edit section: Operations" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>The company owns:
+</p>
+<ul><li>16 refineries<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> with a total crude oil throughput of 2,913,900 barrels per calendar day (bpcd):</li></ul><table class="wikitable sortable"><tbody><tr><th scope="col">#
+</th>
+<th scope="col">Name
+</th>
+<th scope="col">Location
+</th>
+<th scope="col">Throughput
+</th></tr><tr><td>1
+</td>
+<td><a href="/w/index.php?title=Anacortes_Refinery&amp;action=edit&amp;redlink=1" class="new" title="Anacortes Refinery (page does not exist)">Anacortes Refinery</a>
+</td>
+<td><a href="/wiki/Anacortes,_Washington" title="Anacortes, Washington">Anacortes, Washington</a>
+</td>
+<td>119,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>2
+</td>
+<td><a href="/w/index.php?title=Canton_Refinery&amp;action=edit&amp;redlink=1" class="new" title="Canton Refinery (page does not exist)">Canton Refinery</a>
+</td>
+<td><a href="/wiki/Canton,_Ohio" title="Canton, Ohio">Canton, Ohio</a>
+</td>
+<td>93,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>3
+</td>
+<td><a href="/wiki/Catlettsburg_Refinery" title="Catlettsburg Refinery">Catlettsburg Refinery</a>
+</td>
+<td><a href="/wiki/Catlettsburg,_Kentucky" title="Catlettsburg, Kentucky">Catlettsburg, Kentucky</a>
+</td>
+<td>277,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>4
+</td>
+<td><a href="/wiki/Boynton%E2%80%93Oakwood_Heights_(Detroit)#Industry" title="Boynton–Oakwood Heights (Detroit)">Detroit Refinery</a>
+</td>
+<td><a href="/wiki/Detroit" title="Detroit">Detroit, Michigan</a>
+</td>
+<td>140,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>5
+</td>
+<td><a href="/w/index.php?title=Dickinson_Refinery&amp;action=edit&amp;redlink=1" class="new" title="Dickinson Refinery (page does not exist)">Dickinson Refinery</a>
+</td>
+<td><a href="/wiki/Dickinson,_North_Dakota" title="Dickinson, North Dakota">Dickinson, North Dakota</a>
+</td>
+<td>19,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>6
+</td>
+<td><a href="/w/index.php?title=El_Paso_Refinery&amp;action=edit&amp;redlink=1" class="new" title="El Paso Refinery (page does not exist)">El Paso Refinery</a>
+</td>
+<td><a href="/wiki/El_Paso,_Texas" title="El Paso, Texas">El Paso, Texas</a>
+</td>
+<td>131,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>7
+</td>
+<td><a href="/w/index.php?title=Gallup_Refinery&amp;action=edit&amp;redlink=1" class="new" title="Gallup Refinery (page does not exist)">Gallup Refinery</a>
+</td>
+<td><a href="/wiki/Gallup,_New_Mexico" title="Gallup, New Mexico">Gallup, New Mexico</a>
+</td>
+<td>26,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>8
+</td>
+<td><a href="/w/index.php?title=Galveston_Bay_Refinery&amp;action=edit&amp;redlink=1" class="new" title="Galveston Bay Refinery (page does not exist)">Galveston Bay Refinery</a>
+</td>
+<td><a href="/wiki/Texas_City,_Texas" title="Texas City, Texas">Texas City, Texas</a>
+</td>
+<td>585,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>9
+</td>
+<td><a href="/wiki/Garyville_Refinery" title="Garyville Refinery">Garyville Refinery</a>
+</td>
+<td><a href="/wiki/Garyville,_Louisiana" title="Garyville, Louisiana">Garyville, Louisiana</a>
+</td>
+<td>564,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>10
+</td>
+<td><a href="/w/index.php?title=Kenai_Refinery&amp;action=edit&amp;redlink=1" class="new" title="Kenai Refinery (page does not exist)">Kenai Refinery</a>
+</td>
+<td><a href="/wiki/Kenai,_Alaska" title="Kenai, Alaska">Kenai, Alaska</a>
+</td>
+<td>68,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>11
+</td>
+<td><a href="/w/index.php?title=Los_Angeles_Refinery&amp;action=edit&amp;redlink=1" class="new" title="Los Angeles Refinery (page does not exist)">Los Angeles Refinery</a>
+</td>
+<td><a href="/wiki/Wilmington,_California" class="mw-redirect" title="Wilmington, California">Wilmington, California</a>
+</td>
+<td>363,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>12
+</td>
+<td><a href="/wiki/Mandan_Refinery" title="Mandan Refinery">Mandan Refinery</a>
+</td>
+<td><a href="/wiki/Mandan,_North_Dakota" title="Mandan, North Dakota">Mandan, North Dakota</a>
+</td>
+<td>71,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>13
+</td>
+<td><a href="/w/index.php?title=Martinez_Refinery&amp;action=edit&amp;redlink=1" class="new" title="Martinez Refinery (page does not exist)">Martinez Refinery</a>
+</td>
+<td><a href="/wiki/Martinez,_California" title="Martinez, California">Martinez, California</a>
+</td>
+<td>161,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>14
+</td>
+<td><a href="/w/index.php?title=Robinson_Refinery&amp;action=edit&amp;redlink=1" class="new" title="Robinson Refinery (page does not exist)">Robinson Refinery</a>
+</td>
+<td><a href="/wiki/Robinson,_Illinois" title="Robinson, Illinois">Robinson, Illinois</a>
+</td>
+<td>245,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>15
+</td>
+<td><a href="/w/index.php?title=Salt_Lake_City_Refinery&amp;action=edit&amp;redlink=1" class="new" title="Salt Lake City Refinery (page does not exist)">Salt Lake City Refinery</a>
+</td>
+<td><a href="/wiki/Salt_Lake_City,_Utah" class="mw-redirect" title="Salt Lake City, Utah">Salt Lake City, Utah</a>
+</td>
+<td>61,000 barrels per calendar day (bpcd)
+</td></tr><tr><td>16
+</td>
+<td><a href="/w/index.php?title=St._Paul_Refinery&amp;action=edit&amp;redlink=1" class="new" title="St. Paul Refinery (page does not exist)">St. Paul Refinery</a>
+</td>
+<td><a href="/wiki/St._Paul_Park,_Minnesota" title="St. Paul Park, Minnesota">St. Paul Park, Minnesota</a>
+</td>
+<td>98,000 barrels per calendar day (bpcd)
+</td></tr></tbody></table><ul><li>The <a href="/wiki/Speedway_LLC" title="Speedway LLC">Speedway LLC</a> retail chain, which includes approximately 4,000 retail outlets, is the second largest chain of company-owned and operated retail gasoline and convenience stores in the United States.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li>Leasehold or ownership interests in approximately 8,400 miles (13,500 km) of <a href="/wiki/Petroleum" title="Petroleum">petroleum</a> pipelines and 5,000 miles (8,050 km) of <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a> and <a href="/wiki/Natural_gas_liquids" class="mw-redirect" title="Natural gas liquids">natural gas liquids</a> pipelines as well as related transportation and distribution assets such as railcars, barges, and processing terminals.</li>
+<li>A 20.4% interest, including a controlling 2% <a href="/wiki/General_partner" title="General partner">general partner</a> interest, in MPLX, a public <a href="/wiki/Master_limited_partnership" title="Master limited partnership">master limited partnership</a> that owns <a href="/wiki/Pipeline_transport" title="Pipeline transport">pipelines</a> and other <a href="/wiki/Midstream" title="Midstream">midstream</a> assets related to the transportation and storage of <a href="/wiki/Crude_oil" class="mw-redirect" title="Crude oil">crude oil</a>. <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:MPLX">MPLX</a> <sup id="cite_ref-10K_6-0" class="reference"><a href="#cite_note-10K-6">[6]</a></sup></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Marathon_Petroleum&amp;action=edit&amp;section=2" title="Edit section: History" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Marathon_Petroleum_Co._HQ.JPG" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marathon_Petroleum_Co._HQ.JPG/220px-Marathon_Petroleum_Co._HQ.JPG" decoding="async" width="220" height="147" class="thumbimage" data-file-width="2160" data-file-height="1440"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 147px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marathon_Petroleum_Co._HQ.JPG/220px-Marathon_Petroleum_Co._HQ.JPG" data-alt="" data-width="220" data-height="147" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Marathon_Petroleum_Co._HQ.JPG" class="internal" title="Enlarge"></a></div>The Marathon Petroleum Headquarters in Findlay, Ohio</div></div></div>
+<p>Marathon Petroleum Corporation was formed on November 9, 1998, as a subsidiary of <a href="/wiki/Marathon_Oil" title="Marathon Oil">Marathon Oil</a>.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Former_parent_company">Former parent company</span><span class="mw-editsection"><a href="/w/index.php?title=Marathon_Petroleum&amp;action=edit&amp;section=3" title="Edit section: Former parent company" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p><a href="/wiki/Marathon_Oil" title="Marathon Oil">Marathon Oil</a>, the company's former parent, dates back to 1887 when several small oil companies in Ohio banded together to form The Ohio Oil Company.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> In 1889, it was purchased by John D. Rockefeller's Standard Oil. It remained a part of <a href="/wiki/Standard_Oil" title="Standard Oil">Standard Oil</a> until the Standard Oil Trust was broken in 1911. In 1930, The Ohio Oil Company bought the Transcontinental Oil Company and established the "Marathon" brand name. In 1962, the company changed its name to "Marathon Oil Company". From 1982 until 2002, Marathon Oil was a subsidiary of <a href="/wiki/U.S._Steel" title="U.S. Steel">U.S. Steel</a>.
+</p><p>In 2011, Marathon Oil announced the spin-off of its downstream refining and marketing assets to a separate company called Marathon Petroleum Corporation.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Predecessor_company">Predecessor company</span><span class="mw-editsection"><a href="/w/index.php?title=Marathon_Petroleum&amp;action=edit&amp;section=4" title="Edit section: Predecessor company" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The predecessor company of Marathon Petroleum Corporation, Marathon Petroleum Company LLC, formerly known as Marathon Ashland Petroleum LLC, was formed by the merger of the refining operations of <a href="/wiki/Marathon_Oil" title="Marathon Oil">Marathon Oil</a> and <a href="/wiki/Ashland_Inc." class="mw-redirect" title="Ashland Inc.">Ashland Inc.</a> in 1998. In 2005, the company became a 100% owned subsidiary of <a href="/wiki/Marathon_Oil" title="Marathon Oil">Marathon Oil</a>.<sup id="cite_ref-history_8-0" class="reference"><a href="#cite_note-history-8">[8]</a></sup></p><p>In 2006, Marathon began using <a href="/wiki/STP_(motor_oil_company)" title="STP (motor oil company)">STP</a>-branded additives in its gasoline.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p><p>In 2009, the company completed a $3.9 billion expansion of its refinery in <a href="/wiki/Garyville,_Louisiana" title="Garyville, Louisiana">Garyville, Louisiana</a>, that increased the plant’s capacity by 180,000 barrels per day.<sup id="cite_ref-history_8-1" class="reference"><a href="#cite_note-history-8">[8]</a></sup></p><p>In 2010, the company sold its 74,000 barrel-per-day refinery in <a href="/wiki/St._Paul_Park,_Minnesota" title="St. Paul Park, Minnesota">St. Paul Park, Minnesota</a>, along with associated terminals, pipelines, and inventory as well as 166 <a href="/wiki/SuperAmerica" title="SuperAmerica">SuperAmerica</a> convenience stores to Northern Tier Energy for $900 million.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Post-corporate_spin-off_from_Marathon_Oil">Post-corporate spin-off from Marathon Oil</span><span class="mw-editsection"><a href="/w/index.php?title=Marathon_Petroleum&amp;action=edit&amp;section=5" title="Edit section: Post-corporate spin-off from Marathon Oil" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Marathon_Petroleum_Complex.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Marathon_Petroleum_Complex.jpg/220px-Marathon_Petroleum_Complex.jpg" decoding="async" width="220" height="165" class="thumbimage" data-file-width="4032" data-file-height="3024"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 165px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Marathon_Petroleum_Complex.jpg/220px-Marathon_Petroleum_Complex.jpg" data-alt="" data-width="220" data-height="165" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Marathon_Petroleum_Complex.jpg" class="internal" title="Enlarge"></a></div>The Marathon Petroleum campus.</div></div></div>
+<p>On June 30, 2011, Marathon Oil distributed all of its shares in the company to its shareholders via a <a href="/wiki/Corporate_spin-off" title="Corporate spin-off">corporate spin-off</a>.<sup id="cite_ref-10K_6-1" class="reference"><a href="#cite_note-10K-6">[6]</a></sup></p><p>In June 2012, <a href="/wiki/Wheeling,_West_Virginia" title="Wheeling, West Virginia">Wheeling, West Virginia</a>-based Tri-State Petroleum signed a contract to switch 50 stations in <a href="/wiki/Ohio" title="Ohio">Ohio</a>, <a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>, and <a href="/wiki/West_Virginia" title="West Virginia">West Virginia</a> to the Marathon brand. Most of Tri-State's stations before the deal were <a href="/wiki/ExxonMobil" title="ExxonMobil">ExxonMobil</a>-branded stations, the majority <a href="/wiki/Exxon" title="Exxon">Exxon</a> as well as a few scattered <a href="/wiki/Mobil" title="Mobil">Mobil</a> stations in the immediate Wheeling area. Included in the deal were 18 Exxon stations in the <a href="/wiki/Pittsburgh_metropolitan_area" class="mw-redirect" title="Pittsburgh metropolitan area">Pittsburgh metropolitan area</a>, significantly boosting Marathon's presence in the <a href="/wiki/Pittsburgh" title="Pittsburgh">Pittsburgh</a> market, where former parent company <a href="/wiki/U.S._Steel" title="U.S. Steel">U.S. Steel</a> is based. (Exxon would offset its Pittsburgh losses by taking over the retail contracts of several <a href="/wiki/Shell_Oil_Company" title="Shell Oil Company">Shell</a> stations in the area, leaving Shell with a significantly reduced presence, while the Mobil brand was withdrawn from the <a href="/wiki/Northern_Panhandle_of_West_Virginia" title="Northern Panhandle of West Virginia">Northern Panhandle of West Virginia</a> altogether.) Before the deal, Marathon had a much smaller presence in <a href="/wiki/Western_Pennsylvania" title="Western Pennsylvania">Western Pennsylvania</a>, while having a somewhat larger presence in West Virginia and an almost <a href="/wiki/Omnipresence" title="Omnipresence">ubiquitous</a> presence in <a href="/wiki/Appalachian_Ohio" title="Appalachian Ohio">Southern Ohio</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p><p>In 2013, Marathon purchased numerous assets from <a href="/wiki/BP" title="BP">BP</a> including a 451,000 barrel per day refinery in Texas City, Texas, four light product distribution terminals, and retail marketing contracts for 1,200 retail stations throughout the southeastern United States.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p><p>In 2014, <a href="/wiki/Speedway_LLC" title="Speedway LLC">Speedway LLC</a>, a subsidiary of the company, purchased the retail operations of <a href="/wiki/Hess_Corporation" title="Hess Corporation">Hess Corporation</a> for $2.82 billion.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Refinery_fire">Refinery fire</span><span class="mw-editsection"><a href="/w/index.php?title=Marathon_Petroleum&amp;action=edit&amp;section=6" title="Edit section: Refinery fire" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>In 2016, a fire at the Galveston Bay refinery in <a href="/wiki/Texas_City,_Texas" title="Texas City, Texas">Texas City, Texas</a>, injured three contract workers, resulting in a lawsuit seeking $1 million in damages.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Multiple lawsuits were filed resulting in Marathon paying $86 million to settle.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h3 class="in-block"><span id="2018_acquisition_of_Andeavor.2C_planned_spin-off_of_Speedway_LLC"></span><span class="mw-headline" id="2018_acquisition_of_Andeavor,_planned_spin-off_of_Speedway_LLC">2018 acquisition of Andeavor, planned spin-off of Speedway LLC</span><span class="mw-editsection"><a href="/w/index.php?title=Marathon_Petroleum&amp;action=edit&amp;section=7" title="Edit section: 2018 acquisition of Andeavor, planned spin-off of Speedway LLC" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>On April 30, 2018, Marathon agreed to buy <a href="/wiki/Andeavor" title="Andeavor">Andeavor</a>, an independent refinery and oil company based in the Western United States, for $23 billion. Marathon will acquire all of Andeavor's outstanding shares.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> On October 1, 2018, the merger was completed. This merger brings the SuperAmerica convenience stores back to Speedway.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> On October 31, 2019, Marathon announced plans to spin off their Speedway convenience stores. Gary Heminger will also retire from his role as  Marathon chairman and CEO. <sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Finances">Finances</span><span class="mw-editsection"><a href="/w/index.php?title=Marathon_Petroleum&amp;action=edit&amp;section=8" title="Edit section: Finances" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<table class="wikitable"><caption><b>Financial data in $ millions</b><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></caption>
+<tbody><tr><th>Year
+</th>
+<th>2008
+</th>
+<th>2009
+</th>
+<th>2010
+</th>
+<th>2011
+</th>
+<th>2012
+</th>
+<th>2013
+</th>
+<th>2014
+</th>
+<th>2015
+</th>
+<th>2016
+</th>
+<th>2017
+</th>
+<th>2018
+</th>
+<th>2019
+</th></tr><tr><td><a href="/wiki/Revenue" title="Revenue">Revenue</a>
+</td>
+<td>65,258
+</td>
+<td>45,530
+</td>
+<td>62,487
+</td>
+<td>78,638
+</td>
+<td>82,243
+</td>
+<td>100,160
+</td>
+<td>97,817
+</td>
+<td>72,051
+</td>
+<td>63,339
+</td>
+<td>74,733
+</td>
+<td>96,504
+</td>
+<td>123,949
+</td></tr><tr><td><a href="/wiki/Net_Income" class="mw-redirect" title="Net Income">Net Income</a>
+</td>
+<td>1,215
+</td>
+<td>449
+</td>
+<td>622
+</td>
+<td>2,385
+</td>
+<td>3,383
+</td>
+<td>2,108
+</td>
+<td>2,524
+</td>
+<td>2,852
+</td>
+<td>1,174
+</td>
+<td>3,432
+</td>
+<td>2,780
+</td>
+<td>2,637
+</td></tr><tr><td><a href="/wiki/Assets" class="mw-redirect" title="Assets">Assets</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>23,232
+</td>
+<td>25,745
+</td>
+<td>27,223
+</td>
+<td>28,385
+</td>
+<td>30,425
+</td>
+<td>43,115
+</td>
+<td>44,413
+</td>
+<td>49,047
+</td>
+<td>92,940
+</td>
+<td>98,556
+</td></tr><tr><td>Employees
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>25,985
+</td>
+<td>29,865
+</td>
+<td>45,340
+</td>
+<td>45,440
+</td>
+<td>44,460
+</td>
+<td>43,800
+</td>
+<td>60,350
+</td>
+<td>60,910
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Marathon_Petroleum&amp;action=edit&amp;section=9" title="Edit section: References" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-10-K-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-10-K_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/1510295/000151029518000024/mpc-20171231x10k.htm">"Marathon Petroleum Corporation 2017 Annual Report (Form 10-K)"</a>. <i>sec.gov</i>. <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">U.S. Securities and Exchange Commission</a>. February 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=sec.gov&amp;rft.atitle=Marathon+Petroleum+Corporation+2017+Annual+Report+%28Form+10-K%29&amp;rft.date=2018-02&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F1510295%2F000151029518000024%2Fmpc-20171231x10k.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarathon+Petroleum" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ir.marathonpetroleum.com/file/Index?KeyFile=395196897">Marathon Petroleum Corp. Announces Successful Completion Of Andeavor Combination, Creating The Leading US Refining, Midstream And Marketing Company</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/list/">"Fortune 500 Companies 2018: Who Made the List"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Fortune+500+Companies+2018%3A+Who+Made+the+List&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Flist%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarathon+Petroleum" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.marathonpetroleum.com/Operations/Refining_and_Marketing/Refining/">Marathon Petroleum: Refining &amp; Marketing</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.cspdailynews.com/company-news/ranking-top-40-c-store-chains-2019-update#page=3">https://www.cspdailynews.com/company-news/ranking-top-40-c-store-chains-2019-update#page=3</a></span>
+</li>
+<li id="cite_note-10K-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-10K_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-10K_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/1510295/000151029516000078/mpc-20151231x10k.htm">Marathon Petroleum 2015 Form 10-K Annual Report</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20181024085643/http://www.marathonpetroleum.com/content/includes/timeline/default.html">"Marathon Petroleum's 125-Year Journey"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.marathonpetroleum.com/content/includes/timeline/default.html">the original</a> on October 24, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">Sep 25,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Marathon+Petroleum%27s+125-Year+Journey&amp;rft_id=http%3A%2F%2Fwww.marathonpetroleum.com%2Fcontent%2Fincludes%2Ftimeline%2Fdefault.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarathon+Petroleum" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-history-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-history_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-history_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.marathonpetroleum.com/About_MPC/Corporate_Profile/History/">Marathon Petroleum: History</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.marathonpetroleum.com/brand/Stations_and_Stores/Gasoline_with_STP_Additives/">"Marathon Gasoline with STP Additives"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">27 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Marathon+Gasoline+with+STP+Additives&amp;rft_id=http%3A%2F%2Fwww.marathonpetroleum.com%2Fbrand%2FStations_and_Stores%2FGasoline_with_STP_Additives%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarathon+Petroleum" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://ir.marathonoil.com/releasedetail.cfm?ReleaseID=651917">"Marathon Signs Definitive Agreements With ACON Investments and TPG Capital For Sale Of Minnesota Downstream Assets"</a>. October 6, 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Marathon+Signs+Definitive+Agreements+With+ACON+Investments+and+TPG+Capital+For+Sale+Of+Minnesota+Downstream+Assets&amp;rft.date=2010-10-06&amp;rft_id=http%3A%2F%2Fir.marathonoil.com%2Freleasedetail.cfm%3FReleaseID%3D651917&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarathon+Petroleum" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://triblive.com/business/2074333-74/marathon-state-stations-tri-brand-gas-mcglinn-petroleum-based-converting#axzz2JPJ5ZDbZ">"Gas station operator converting 18 to Marathon brand"</a>. TribLIVE<span class="reference-accessdate">. Retrieved <span class="nowrap">April 20,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gas+station+operator+converting+18+to+Marathon+brand&amp;rft.pub=TribLIVE&amp;rft_id=http%3A%2F%2Ftriblive.com%2Fbusiness%2F2074333-74%2Fmarathon-state-stations-tri-brand-gas-mcglinn-petroleum-based-converting%23axzz2JPJ5ZDbZ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarathon+Petroleum" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170921102720/http://ir.marathonpetroleum.com/phoenix.zhtml?c=246631&amp;p=irol-newsArticle&amp;ID=1780580">"Purchase of BP's Texas City Refinery and Related Assets Closes"</a>. February 1, 2013. Archived from <a rel="nofollow" class="external text" href="http://ir.marathonpetroleum.com/phoenix.zhtml?c=246631&amp;p=irol-newsArticle&amp;ID=1780580">the original</a> on September 21, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">March 8,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Purchase+of+BP%27s+Texas+City+Refinery+and+Related+Assets+Closes&amp;rft.date=2013-02-01&amp;rft_id=http%3A%2F%2Fir.marathonpetroleum.com%2Fphoenix.zhtml%3Fc%3D246631%26p%3Dirol-newsArticle%26ID%3D1780580&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarathon+Petroleum" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170921080025/http://ir.marathonpetroleum.com/phoenix.zhtml?c=246631&amp;p=irol-newsArticle&amp;ID=1972675">"Purchase of Hess' Retail Operations and Related Assets Closes"</a>. October 1, 2014. Archived from <a rel="nofollow" class="external text" href="http://ir.marathonpetroleum.com/phoenix.zhtml?c=246631&amp;p=irol-newsArticle&amp;ID=1972675">the original</a> on September 21, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">March 8,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Purchase+of+Hess%27+Retail+Operations+and+Related+Assets+Closes&amp;rft.date=2014-10-01&amp;rft_id=http%3A%2F%2Fir.marathonpetroleum.com%2Fphoenix.zhtml%3Fc%3D246631%26p%3Dirol-newsArticle%26ID%3D1972675&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarathon+Petroleum" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-refinery-lawsuit-marathon-pete-galves-idUSKCN0UX2RB">"Marathon Petroleum sued in Texas court over Jan. 11 refinery fire: lawyers"</a>. January 19, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Marathon+Petroleum+sued+in+Texas+court+over+Jan.+11+refinery+fire%3A+lawyers&amp;rft.date=2016-01-19&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-refinery-lawsuit-marathon-pete-galves-idUSKCN0UX2RB&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarathon+Petroleum" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nydailynews.com/newswires/news/national/marathon-petroleum-pay-86-million-settle-texas-fire-lawsuits-article-1.3381128">"Marathon Petroleum to pay 86 million to settle Texas fire lawsuits"</a>. August 3, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Marathon+Petroleum+to+pay+86+million+to+settle+Texas+fire+lawsuits&amp;rft.date=2017-08-03&amp;rft_id=http%3A%2F%2Fwww.nydailynews.com%2Fnewswires%2Fnews%2Fnational%2Fmarathon-petroleum-pay-86-million-settle-texas-fire-lawsuits-article-1.3381128&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarathon+Petroleum" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ir.marathonpetroleum.com/phoenix.zhtml?c=246631&amp;p=irol-newsArticle&amp;ID=2345399">"Marathon Petroleum Corporation - Investor Relations - News Release"</a>. <i>ir.marathonpetroleum.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ir.marathonpetroleum.com&amp;rft.atitle=Marathon+Petroleum+Corporation+-+Investor+Relations+-+News+Release&amp;rft_id=http%3A%2F%2Fir.marathonpetroleum.com%2Fphoenix.zhtml%3Fc%3D246631%26p%3Dirol-newsArticle%26ID%3D2345399&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarathon+Petroleum" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since March 2020">permanent dead link</span></a></i>]</span></sup></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news">DiChristopher, Tom (2018-05-01). <a rel="nofollow" class="external text" href="https://www.cnbc.com/2018/05/01/marathon-petroleum-andeavor-merger-checks-the-boxes-where-it-counts.html">"Marathon-Andeavor merger checks the boxes where it counts: Texas, Mexico and the high seas"</a>. <i>CNBC</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-05-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNBC&amp;rft.atitle=Marathon-Andeavor+merger+checks+the+boxes+where+it+counts%3A+Texas%2C+Mexico+and+the+high+seas&amp;rft.date=2018-05-01&amp;rft.aulast=DiChristopher&amp;rft.aufirst=Tom&amp;rft_id=https%3A%2F%2Fwww.cnbc.com%2F2018%2F05%2F01%2Fmarathon-petroleum-andeavor-merger-checks-the-boxes-where-it-counts.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarathon+Petroleum" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://ir.marathonpetroleum.com/file/Index?KeyFile=395197014">http://ir.marathonpetroleum.com/file/Index?KeyFile=395197014</a></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://ir.marathonpetroleum.com/file/Index?KeyFile=400741555">http://ir.marathonpetroleum.com/file/Index?KeyFile=400741555</a></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://ir.marathonpetroleum.com/file/Index?KeyFile=400742219">http://ir.marathonpetroleum.com/file/Index?KeyFile=400742219</a></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.macrotrends.net/stocks/charts/MPC/marathon-petroleum/revenue">"Marathon Petroleum Revenue 2010-2019 | MPC"</a>. <i>www.macrotrends.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-03-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.macrotrends.net&amp;rft.atitle=Marathon+Petroleum+Revenue+2010-2019+%7C+MPC&amp;rft_id=https%3A%2F%2Fwww.macrotrends.net%2Fstocks%2Fcharts%2FMPC%2Fmarathon-petroleum%2Frevenue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarathon+Petroleum" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Marathon_Petroleum&amp;action=edit&amp;section=10" title="Edit section: External links" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li><a rel="nofollow" class="external text" href="http://www.marathonpetroleum.com">Marathon Petroleum Homepage</a></li>
+<li>Business data for Marathon Petroleum: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=MPC">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=MPC">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=MPC">SEC filings</a></li></ul></div></li></ul></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Marathon_Petroleum&amp;oldid=951199100">https://en.wikipedia.org/w/index.php?title=Marathon_Petroleum&amp;oldid=951199100</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Marathon_Petroleum"
+				data-user-name="DannyS712"
+				data-user-gender="unknown"
+				data-timestamp="1586995814">
+				<span>Last edited on 16 April 2020, at 00:10</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Marathon_Petroleum&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"0.562","ppvisitednodes":{"value":2131,"limit":1000000},"postexpandincludesize":{"value":47964,"limit":2097152},"templateargumentsize":{"value":5377,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":44020,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  473.089      1 -total"," 46.43%  219.650      1 Template:Infobox_company"," 43.33%  204.990      1 Template:Infobox"," 41.22%  195.014      1 Template:Reflist"," 21.27%  100.631      8 Template:Cite_web"," 14.15%   66.932      1 Template:Br_separated_entries"," 13.77%   65.162      7 Template:Wikidata"," 11.46%   54.221      1 Template:Dead_link"," 10.03%   47.455      1 Template:Fix","  7.99%   37.811      2 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.186","limit":"10.000"},"limitreport-memusage":{"value":6111943,"limit":52428800}},"cachereport":{"origin":"mw1353","timestamp":"20200416051037","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Marathon Petroleum","url":"https:\/\/en.wikipedia.org\/wiki\/Marathon_Petroleum","sameAs":"http:\/\/www.wikidata.org\/entity\/Q458363","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q458363","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-11-25T21:39:46Z","dateModified":"2020-04-16T00:10:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/39\/Marathon_Oil_logo_2009.svg","headline":"American petroleum refining, marketing, and transportation company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":159,"wgHostname":"mw1323"});});</script>		</body>
+		</html>
+		

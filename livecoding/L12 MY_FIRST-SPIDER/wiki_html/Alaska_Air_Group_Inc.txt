@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Alaska Air Group - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoJrgpAMMQAAXsfsE8AAACU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Alaska_Air_Group","wgTitle":"Alaska Air Group","wgCurRevisionId":950076682,"wgRevisionId":950076682,"wgArticleId":2776452,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Alaska_Air_Group","wgRelevantArticleId":2776452,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Alaska_Air_Group_Inc","wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Alaska_Air_Group","wgWikibaseItemId":"Q4033665","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,
+"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Alaska_Air_Group&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Alaska_Air_Group&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Alaska_Air_Group"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Alaska_Air_Group rootpage-Alaska_Air_Group stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alaska+Air+Group" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Alaska+Air+Group" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Alaska Air Group</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Alaska_Air_Group" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Alaska+Air+Group" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Alaska_Air_Group&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Alaska_Air_Group_Inc&amp;redirect=no" class="mw-redirect" title="Alaska Air Group Inc">Alaska Air Group Inc</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<p><b>Alaska Air Group</b> is an <a href="/wiki/List_of_airline_holding_companies" title="List of airline holding companies">airline holding company</a> based in <a href="/wiki/SeaTac,_Washington" title="SeaTac, Washington">SeaTac, Washington</a>, United States. 
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Alaska Air Group, Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Alaska_Air_Group_logo.svg" class="image"><img alt="Alaska Air Group logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Alaska_Air_Group_logo.svg/260px-Alaska_Air_Group_logo.svg.png" decoding="async" width="260" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Alaska_Air_Group_logo.svg/390px-Alaska_Air_Group_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Alaska_Air_Group_logo.svg/520px-Alaska_Air_Group_logo.svg.png 2x" data-file-width="283" data-file-height="38"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:ALK">ALK</a></li><li><a href="/wiki/DJTA" class="mw-redirect" title="DJTA">DJTA</a> component</li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US0116591092">US0116591092 </a><a href="https://www.wikidata.org/wiki/Q4033665?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Transportation" class="mw-redirect" title="Transportation">Transportation</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1985<span class="noprint">; 35 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1985</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/SeaTac,_Washington" title="SeaTac, Washington">SeaTac, Washington</a></div>, <div style="display: inline;" class="country-name">U.S.</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">United States</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Brad_Tilden" title="Brad Tilden">Brad Tilden</a> (Chairman and CEO)<br> Ben Minicucci (President)<br> Gary Beck (COO and EVP)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Services</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Airline" title="Airline">Airline</a> <a href="/wiki/Service_(economics)" title="Service (economics)">Services</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>8.264 Billion (2018)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>643 Million (<i>2018</i>)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a>437 Million (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_dollar" title="United States dollar">US$</a>10.912 Billion (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_dollar" title="United States dollar">US$</a>3.751 Billion (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">23,376 <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> (2018)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th><td style="line-height: 1.35em;"><div>
+<ul><li><a href="/wiki/Alaska_Airlines" title="Alaska Airlines">Alaska Airlines</a>
+<ul><li>McGee Air Services</li></ul></li>
+<li><a href="/wiki/Horizon_Air" title="Horizon Air">Horizon Air</a></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://alaskaair.com">alaskaair<wbr></wbr>.com</a></span></td></tr></tbody></table><p>The group owns two certificated airlines, <a href="/wiki/Alaska_Airlines" title="Alaska Airlines">Alaska Airlines</a>, a mainline carrier, and <a href="/wiki/Horizon_Air" title="Horizon Air">Horizon Air</a>, a regional carrier.<sup id="cite_ref-Alaska-Air-Group-Oct-2012-8-K_4-0" class="reference"><a href="#cite_note-Alaska-Air-Group-Oct-2012-8-K-4">[4]</a></sup> Alaska Airlines in turn wholly owns an aircraft ground handling company, McGee Air Services.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Corporate_affairs"><span class="tocnumber">2</span> <span class="toctext">Corporate affairs</span></a>
+<ul><li class="toclevel-2 tocsection-3"><a href="#Business_trends"><span class="tocnumber">2.1</span> <span class="toctext">Business trends</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Headquarters"><span class="tocnumber">2.2</span> <span class="toctext">Headquarters</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-5"><a href="#Operations"><span class="tocnumber">3</span> <span class="toctext">Operations</span></a>
+<ul><li class="toclevel-2 tocsection-6"><a href="#Fleet"><span class="tocnumber">3.1</span> <span class="toctext">Fleet</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Route_network"><span class="tocnumber">3.2</span> <span class="toctext">Route network</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Alaska_Air_Group&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>Alaska Air Group was formed in 1985 as a holding company for Alaska Airlines, and a year later it acquired Horizon Air and <a href="/wiki/Jet_America_Airlines" title="Jet America Airlines">Jet America Airlines</a>. Jet America Airlines was merged into Alaska Airlines in 1987.<sup id="cite_ref-History_5-0" class="reference"><a href="#cite_note-History-5">[5]</a></sup></p><p>In 2011, Alaska Air Group replaced the <a href="/wiki/AMR_Corporation" title="AMR Corporation">AMR Corporation</a> in the <a href="/wiki/Dow_Jones_Transportation_Average" title="Dow Jones Transportation Average">Dow Jones Transportation Average</a> following AMR's filing for bankruptcy.<sup id="cite_ref-DowJonesTransportationAvg_6-0" class="reference"><a href="#cite_note-DowJonesTransportationAvg-6">[6]</a></sup></p><p>On March 29, 2016 Alaska Airlines announced that it would form a wholly owned subsidiary called McGee Air Services, a dedicated airline services company. McGee competes with other companies to provide ground handling, aircraft cleaning and wheelchair services to Alaska Airlines.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p><p>On April 4, 2016, Alaska Air Group announced plans to acquire <a href="/wiki/Virgin_America" title="Virgin America">Virgin America</a>, pending approval from US government regulators and Virgin America shareholders;<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> the acquisition was completed on December 14, 2016.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> The total price was approximately $2.6 billion. Until 2018, Alaska Air Group continued to operate <a href="/wiki/Alaska_Airlines" title="Alaska Airlines">Alaska Airlines</a> and <a href="/wiki/Virgin_America" title="Virgin America">Virgin America</a> as separate airlines and continued to honor both Alaska's Mileage Plan and Virgin America's Elevate loyalty programs.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Following the acquisition of <a href="/wiki/Virgin_America" title="Virgin America">Virgin America</a>,  the actual number of Alaska Air Group employees had increased from 15,143 at the end of 2015 to 19,112 (12,224 at Alaska Airlines, 3,616 at Horizon Air, and 3,252 at Virgin America) by the end of 2016.<sup id="cite_ref-2016_Results_11-0" class="reference"><a href="#cite_note-2016_Results-11">[11]</a></sup></p><p>On March 22, 2017 the company announced that Alaska Air Group would merge <a href="/wiki/Virgin_America" title="Virgin America">Virgin America</a> and <a href="/wiki/Alaska_Airlines" title="Alaska Airlines">Alaska Airlines</a>, with the combined airline to operate under the Alaska Airlines brand. The merger was largely completed on April 25, 2018 and the Virgin America brand was fully retired by June 2, 2019.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Corporate_affairs">Corporate affairs</span><span class="mw-editsection"><a href="/w/index.php?title=Alaska_Air_Group&amp;action=edit&amp;section=2" title="Edit section: Corporate affairs" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<h3 class="in-block"><span class="mw-headline" id="Business_trends">Business trends</span><span class="mw-editsection"><a href="/w/index.php?title=Alaska_Air_Group&amp;action=edit&amp;section=3" title="Edit section: Business trends" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The key trends for Alaska Air Group over recent years are shown below (as at year ending December 31):
+</p>
+<center>
+<table class="wikitable"><tbody><tr><th style="background: #3c3b3f;">
+</th>
+<th style="background: #3c3b3f;"><span style="color:white;">2008</span>
+</th>
+<th style="background: #3c3b3f;"><span style="color:white;">2009</span>
+</th>
+<th style="background: #3c3b3f;"><span style="color:white;">2010</span>
+</th>
+<th style="background: #3c3b3f;"><span style="color:white;">2011</span>
+</th>
+<th style="background: #3c3b3f;"><span style="color:white;">2012</span>
+</th>
+<th style="background: #3c3b3f;"><span style="color:white;">2013</span>
+</th>
+<th style="background: #3c3b3f;"><span style="color:white;">2014</span>
+</th>
+<th style="background: #3c3b3f;"><span style="color:white;">2015</span>
+</th>
+<th style="background: #3c3b3f;"><span style="color:white;">2016</span>
+</th>
+<th style="background: #3c3b3f;"><span style="color:white;">2017</span>
+</th>
+<th style="background: #3c3b3f;"><span style="color:white;">2018</span>
+</th>
+<th style="background: #3c3b3f;"><span style="color:white;">2019</span>
+</th></tr><tr><td>Revenue (US$m)
+</td>
+<td align="center">3,663
+</td>
+<td align="center">3,400
+</td>
+<td align="center">3,832
+</td>
+<td align="center">4,318
+</td>
+<td align="center">4,657
+</td>
+<td align="center">5,156
+</td>
+<td align="center">5,368
+</td>
+<td align="center">5,598
+</td>
+<td align="center">5,931
+</td>
+<td align="center">7,933
+</td>
+<td align="center">8,264
+</td>
+<th align="center">8,781
+</th></tr><tr><td>Net profit (US$m)
+</td>
+<td align="center"><span style="color:red">−136</span>
+</td>
+<td align="center">122
+</td>
+<td align="center">251
+</td>
+<td align="center">245
+</td>
+<td align="center">316
+</td>
+<td align="center">508
+</td>
+<td align="center">605
+</td>
+<td align="center">848
+</td>
+<td align="center">814
+</td>
+<td align="center">1,028
+</td>
+<td align="center">437
+</td>
+<th align="center">769
+</th></tr><tr><td>Number of employees (average <a href="/wiki/Full-time_equivalent" title="Full-time equivalent">FTE</a>)
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">11,955
+</td>
+<td align="center">12,163
+</td>
+<td align="center">12,739
+</td>
+<td align="center">13,858
+</td>
+<td align="center">14,760
+</td>
+<td align="center">
+</td>
+<td align="center">21,641
+</td>
+<th align="center">22,126
+</th></tr><tr><td>Number of passengers (m)
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">23.3
+</td>
+<td align="center">24.8
+</td>
+<td align="center">25.9
+</td>
+<td align="center">27.4
+</td>
+<td align="center">29.3
+</td>
+<td align="center">31.9
+</td>
+<td align="center">41.9
+</td>
+<td align="center">44.0
+</td>
+<td align="center">45.8
+</td>
+<th align="center">46.7
+</th></tr><tr><td>Passenger load factor (%)
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">82.4
+</td>
+<td align="center">84.5
+</td>
+<td align="center">85.9
+</td>
+<td align="center">85.6
+</td>
+<td align="center">85.1
+</td>
+<td align="center">84.1
+</td>
+<td align="center">84.1
+</td>
+<td align="center">84.3
+</td>
+<td align="center">83.7
+</td>
+<th align="center">84.1
+</th></tr><tr><td>Number of aircraft (at year end)
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">190
+</td>
+<td align="center">196
+</td>
+<td align="center">212
+</td>
+<td align="center">285
+</td>
+<td align="center">304
+</td>
+<td align="center">330
+</td>
+<th align="center">332
+</th></tr><tr><td><small><i>Notes/sources</i></small>
+</td>
+<td align="center"><sup id="cite_ref-macrotrends_14-0" class="reference"><a href="#cite_note-macrotrends-14">[14]</a></sup></td>
+<td align="center"><sup id="cite_ref-macrotrends_14-1" class="reference"><a href="#cite_note-macrotrends-14">[14]</a></sup></td>
+<td align="center"><sup id="cite_ref-AnnualReport2014_15-0" class="reference"><a href="#cite_note-AnnualReport2014-15">[15]</a></sup></td>
+<td align="center"><sup id="cite_ref-AnnualReport2014_15-1" class="reference"><a href="#cite_note-AnnualReport2014-15">[15]</a></sup></td>
+<td align="center"><sup id="cite_ref-AnnualReport2014_15-2" class="reference"><a href="#cite_note-AnnualReport2014-15">[15]</a></sup></td>
+<td align="center"><sup id="cite_ref-AnnualReport2014_15-3" class="reference"><a href="#cite_note-AnnualReport2014-15">[15]</a></sup></td>
+<td align="center"><sup id="cite_ref-AnnualReport2014_15-4" class="reference"><a href="#cite_note-AnnualReport2014-15">[15]</a></sup></td>
+<td align="center"><sup id="cite_ref-AnnualReport2015_16-0" class="reference"><a href="#cite_note-AnnualReport2015-16">[16]</a></sup></td>
+<td align="center"><sup id="cite_ref-2017_Results_17-0" class="reference"><a href="#cite_note-2017_Results-17">[17]</a></sup><sup id="cite_ref-2018InvDay_18-0" class="reference"><a href="#cite_note-2018InvDay-18">[18]</a></sup><br><sup id="cite_ref-2016_Results_11-1" class="reference"><a href="#cite_note-2016_Results-11">[11]</a></sup></td>
+<td align="center"><sup id="cite_ref-macrotrends_14-2" class="reference"><a href="#cite_note-macrotrends-14">[14]</a></sup><sup id="cite_ref-2017_Results_17-1" class="reference"><a href="#cite_note-2017_Results-17">[17]</a></sup><br><sup id="cite_ref-2018InvDay_18-1" class="reference"><a href="#cite_note-2018InvDay-18">[18]</a></sup></td>
+<td align="center"><sup id="cite_ref-2019_Results_19-0" class="reference"><a href="#cite_note-2019_Results-19">[19]</a></sup></td>
+<td align="center"><sup id="cite_ref-2019_Results_19-1" class="reference"><a href="#cite_note-2019_Results-19">[19]</a></sup></td></tr></tbody></table></center>
+<h3 class="in-block"><span class="mw-headline" id="Headquarters">Headquarters</span><span class="mw-editsection"><a href="/w/index.php?title=Alaska_Air_Group&amp;action=edit&amp;section=4" title="Edit section: Headquarters" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Alaska_Airlines_4920s0.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alaska_Airlines_4920s0.jpg/220px-Alaska_Airlines_4920s0.jpg" decoding="async" width="220" height="97" class="thumbimage" data-file-width="6180" data-file-height="2727"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 97px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alaska_Airlines_4920s0.jpg/220px-Alaska_Airlines_4920s0.jpg" data-alt="" data-width="220" data-height="97" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Alaska_Airlines_4920s0.jpg" class="internal" title="Enlarge"></a></div>Alaska Air Group headquarters in <a href="/wiki/SeaTac,_Washington" title="SeaTac, Washington">SeaTac, Washington</a></div></div></div>
+<p>The Alaska Air Group headquarters is located at 19300 International Boulevard, <a href="/wiki/SeaTac,_Washington" title="SeaTac, Washington">SeaTac, Washington</a>, United States. 
+</p><p>On May 3, 2018 Alaska Airlines unveiled plans to construct a 128,000-square-foot building near <a href="/wiki/Seattle%E2%80%93Tacoma_International_Airport" title="Seattle–Tacoma International Airport">Sea-Tac Airport</a> to provide office space for its growing workforce. The new building will be across the street from Alaska's Corporate Headquarters and adjacent to its Flight Training Center.  Construction was expected to be completed by early 2020.<sup id="cite_ref-Building_20-0" class="reference"><a href="#cite_note-Building-20">[20]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Operations">Operations</span><span class="mw-editsection"><a href="/w/index.php?title=Alaska_Air_Group&amp;action=edit&amp;section=5" title="Edit section: Operations" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<h3 class="in-block"><span class="mw-headline" id="Fleet">Fleet</span><span class="mw-editsection"><a href="/w/index.php?title=Alaska_Air_Group&amp;action=edit&amp;section=6" title="Edit section: Fleet" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Alaska Air Group operates a mix of <a href="/wiki/Airbus" title="Airbus">Airbus</a>, <a href="/wiki/Boeing" title="Boeing">Boeing</a>, <a href="/wiki/Bombardier_Aerospace" class="mw-redirect" title="Bombardier Aerospace">Bombardier</a>, and <a href="/wiki/Embraer" title="Embraer">Embraer</a> aircraft through its subsidiaries <a href="/wiki/Alaska_Airlines" title="Alaska Airlines">Alaska Airlines</a> and <a href="/wiki/Horizon_Air" title="Horizon Air">Horizon Air</a>. As of October 2017, <a href="/wiki/Alaska_Airlines" title="Alaska Airlines">Alaska Airlines</a>' fleet consisted of 248 jet aircraft,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> and <a href="/wiki/Horizon_Air" title="Horizon Air">Horizon Air</a>'s fleet consisted of 41 turboprop and 16 jet aircraft, with the combined fleet under Alaska Air Group's management numbering 298 aircraft.
+</p><p>Alaska Air Group has created a new branding identity for its Horizon Air subsidiary and other independently owned and separately directed affiliate <a href="/wiki/Regional_airline" title="Regional airline">regional airlines</a> it chooses to contract to do regional flying business into markets too limited to be flown only on Alaska Airlines <a href="/wiki/Mainline_(flight)" class="mw-redirect" title="Mainline (flight)">mainline</a> equipment. Among the other airlines now sub-contracted to do additional flying for the Alaska Air Group is <a href="/wiki/SkyWest,_Inc." title="SkyWest, Inc.">SkyWest, Inc.</a>'s <a href="/wiki/SkyWest_Airlines" title="SkyWest Airlines">SkyWest Airlines</a>, whose <a href="/wiki/Bombardier_CRJ700_series#CRJ700" title="Bombardier CRJ700 series">Bombardier CRJ700</a> and <a href="/wiki/Embraer_E-Jet_family#E170_and_E175" title="Embraer E-Jet family">Embraer E175</a> aircraft dedicated to providing service for the Alaska Air Group are painted in a very similar manner to Alaska Horizon's. SkyWest's fleet however, is branded <i>Alaska SkyWest</i> to differentiate that airline's aircraft from those of Horizon Air.<sup id="cite_ref-AS_Group_Fleet_22-0" class="reference"><a href="#cite_note-AS_Group_Fleet-22">[22]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Route_network">Route network</span><span class="mw-editsection"><a href="/w/index.php?title=Alaska_Air_Group&amp;action=edit&amp;section=7" title="Edit section: Route network" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Through <a href="/wiki/Alaska_Airlines" title="Alaska Airlines">Alaska Airlines</a> and <a href="/wiki/Horizon_Air" title="Horizon Air">Horizon Air</a>, Alaska Air Group services the passenger and cargo markets of the <a href="/wiki/Pacific_Northwest" title="Pacific Northwest">Pacific Northwest</a> with its extensive route network hub through <a href="/wiki/Seattle%E2%80%93Tacoma_International_Airport" title="Seattle–Tacoma International Airport">Seattle/Tacoma</a> and <a href="/wiki/Portland_International_Airport" title="Portland International Airport">Portland International Airports</a>, and the state of <a href="/wiki/Alaska" title="Alaska">Alaska</a> through <a href="/wiki/Ted_Stevens_Anchorage_International_Airport" title="Ted Stevens Anchorage International Airport">Ted Stevens Anchorage International Airport</a>. After the demise of <a href="/wiki/Aloha_Airlines" title="Aloha Airlines">Aloha Airlines</a> and <a href="/wiki/ATA_Airlines" title="ATA Airlines">ATA Airlines</a> in 2008, Alaska Air Group expanded heavily centering on Hawaii and other non-<a href="/wiki/Airline_hub" title="Airline hub">airline hub</a> secondary <a href="/wiki/Lower_48" class="mw-redirect" title="Lower 48">mainland</a> cities and airports, including <a href="/wiki/San_Diego_International_Airport" title="San Diego International Airport">San Diego International Airport</a> and <a href="/wiki/San_Jose_International_Airport" title="San Jose International Airport">San Jose International Airport</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> After the acquisition of <a href="/wiki/Virgin_America" title="Virgin America">Virgin America</a> in 2016, Alaska Air Group further expanded into <a href="/wiki/California" title="California">California</a> through <a href="/wiki/Virgin_America" title="Virgin America">Virgin America</a>'s hubs at <a href="/wiki/San_Francisco_International_Airport" title="San Francisco International Airport">San Francisco</a> and <a href="/wiki/Los_Angeles_International_Airport" title="Los Angeles International Airport">Los Angeles International Airports</a>, and focus city at <a href="/wiki/Dallas_Love_Field" title="Dallas Love Field">Dallas Love Field</a> in <a href="/wiki/Texas" title="Texas">Texas</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Alaska_Air_Group&amp;action=edit&amp;section=8" title="Edit section: References" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news">Clarke, Patrick (11 November 2019). <a rel="nofollow" class="external text" href="https://www.travelpulse.com/news/airlines/alaska-airlines-announces-senior-leadership-changes.html">"Alaska Airlines Announces Senior Leadership Changes"</a>. <i><a href="/wiki/TravelPulse" class="mw-redirect" title="TravelPulse">TravelPulse</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=TravelPulse&amp;rft.atitle=Alaska+Airlines+Announces+Senior+Leadership+Changes&amp;rft.date=2019-11-11&amp;rft.aulast=Clarke&amp;rft.aufirst=Patrick&amp;rft_id=https%3A%2F%2Fwww.travelpulse.com%2Fnews%2Fairlines%2Falaska-airlines-announces-senior-leadership-changes.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.alaskaair.com/news-releases/news-release-details/alaska-air-group-reports-fourth-quarter-2018-and-full-year">"News Release, Investors"</a>. <i>Alaska Airlines</i>. Alaska Airlines, Inc. May 26, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Alaska+Airlines&amp;rft.atitle=News+Release%2C+Investors&amp;rft.date=2019-05-26&amp;rft_id=http%3A%2F%2Finvestor.alaskaair.com%2Fnews-releases%2Fnews-release-details%2Falaska-air-group-reports-fourth-quarter-2018-and-full-year&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/alaska-air-group/">"Alaska Air Group"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Alaska+Air+Group&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Falaska-air-group%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Alaska-Air-Group-Oct-2012-8-K-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Alaska-Air-Group-Oct-2012-8-K_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://pdf.secdatabase.com/2022/0000766421-17-000059.pdf">"Alaska Air Group, Form 8-K, Current Report, Filing Date Oct 10, 2017"</a> <span class="cs1-format">(PDF)</span>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">October 24,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alaska+Air+Group%2C+Form+8-K%2C+Current+Report%2C+Filing+Date+Oct+10%2C+2017&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fpdf.secdatabase.com%2F2022%2F0000766421-17-000059.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-History-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-History_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.alaskaair.com/content/about-us/history/history-by-decade">"Alaska Airlines history by decade"</a>. Alaska Airlines<span class="reference-accessdate">. Retrieved <span class="nowrap">March 18,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alaska+Airlines+history+by+decade&amp;rft.pub=Alaska+Airlines&amp;rft_id=https%3A%2F%2Fwww.alaskaair.com%2Fcontent%2Fabout-us%2Fhistory%2Fhistory-by-decade&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-DowJonesTransportationAvg-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-DowJonesTransportationAvg_6-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Hwang, Inyoung (30 November 2011). <a rel="nofollow" class="external text" href="http://www.businessweek.com/news/2011-11-30/alaska-air-to-replace-amr-in-dow-jones-transportation-average.html">"Alaska Air to Replace AMR in Dow Jones Transportation Average"</a>. <i><a href="/wiki/Bloomberg_Businessweek" title="Bloomberg Businessweek">Bloomberg Businessweek</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120418100203/http://www.businessweek.com/news/2011-11-30/alaska-air-to-replace-amr-in-dow-jones-transportation-average.html">Archived</a> from the original on 2012-04-18<span class="reference-accessdate">. Retrieved <span class="nowrap">9 May</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bloomberg+Businessweek&amp;rft.atitle=Alaska+Air+to+Replace+AMR+in+Dow+Jones+Transportation+Average&amp;rft.date=2011-11-30&amp;rft.aulast=Hwang&amp;rft.aufirst=Inyoung&amp;rft_id=http%3A%2F%2Fwww.businessweek.com%2Fnews%2F2011-11-30%2Falaska-air-to-replace-amr-in-dow-jones-transportation-average.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mcgeeairservices.com/20160329.html">"Alaska Airlines Announces the Formation of a New Subsidiary - McGee Air Services"</a>. <i>McGee Air Services</i>. March 29, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">October 28,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=McGee+Air+Services&amp;rft.atitle=Alaska+Airlines+Announces+the+Formation+of+a+New+Subsidiary+-+McGee+Air+Services&amp;rft.date=2016-03-29&amp;rft_id=http%3A%2F%2Fwww.mcgeeairservices.com%2F20160329.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/business-35960128">"Alaska Air to acquire Virgin America in $4bn deal"</a>. BBC News. April 4, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">April 4,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Alaska+Air+to+acquire+Virgin+America+in+%244bn+deal&amp;rft.date=2016-04-04&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fbusiness-35960128&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://newsroom.alaskaair.com/2016-12-14-Alaska-Air-Group-closes-acquisition-of-Virgin-America-becomes-the-5th-largest-U-S-airline">"Alaska Air Group closes acquisition of Virgin America, becomes the 5th largest U.S. airline"</a>. <i>Alaska Airlines</i> (Press release). Alaska Airlines, Inc. December 14, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alaska+Air+Group+closes+acquisition+of+Virgin+America%2C+becomes+the+5th+largest+U.S.+airline&amp;rft.pub=Alaska+Airlines%2C+Inc.&amp;rft.date=2016-12-14&amp;rft_id=https%3A%2F%2Fnewsroom.alaskaair.com%2F2016-12-14-Alaska-Air-Group-closes-acquisition-of-Virgin-America-becomes-the-5th-largest-U-S-airline&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Kim, Susanna (April 4, 2016). <a rel="nofollow" class="external text" href="http://abcnews.go.com/Business/virgin-america-alaska-air-merger/story?id=38143131">"What You Should Know About the Virgin America, Alaska Air Merger"</a>. <i>ABC News – Breaking News, Latest News, Headlines &amp; Videos</i>. ABC News Internet.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ABC+News+%E2%80%93+Breaking+News%2C+Latest+News%2C+Headlines+%26+Videos&amp;rft.atitle=What+You+Should+Know+About+the+Virgin+America%2C+Alaska+Air+Merger&amp;rft.date=2016-04-04&amp;rft.au=Kim%2C+Susanna&amp;rft_id=http%3A%2F%2Fabcnews.go.com%2FBusiness%2Fvirgin-america-alaska-air-merger%2Fstory%3Fid%3D38143131&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-2016_Results-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-2016_Results_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2016_Results_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://pdf.secdatabase.com/1979/0000766421-17-000016.pdf">"Alaska Air Group, Form 10-K, Annual Report, Filing Date Feb 28, 2017"</a> <span class="cs1-format">(PDF)</span>. secdatabase.com<span class="reference-accessdate">. Retrieved <span class="nowrap">October 24,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alaska+Air+Group%2C+Form+10-K%2C+Annual+Report%2C+Filing+Date+Feb+28%2C+2017&amp;rft.pub=secdatabase.com&amp;rft_id=http%3A%2F%2Fpdf.secdatabase.com%2F1979%2F0000766421-17-000016.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Goldman, David and Ostrower, Jon (March 23, 2017). <a rel="nofollow" class="external text" href="http://money.cnn.com/2017/03/22/news/companies/virgin-america-alaska-airlines-brand/">"Alaska Airlines is killing off the Virgin America brand"</a>. <i>CNN Money</i>. Cable News Network.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNN+Money&amp;rft.atitle=Alaska+Airlines+is+killing+off+the+Virgin+America+brand&amp;rft.date=2017-03-23&amp;rft.au=Goldman%2C+David+and+Ostrower%2C+Jon&amp;rft_id=http%3A%2F%2Fmoney.cnn.com%2F2017%2F03%2F22%2Fnews%2Fcompanies%2Fvirgin-america-alaska-airlines-brand%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: multiple names: authors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://simpleflying.com/last-virgin-america-repainted/">"End Of An Era - Last Remaining Virgin America Plane Repainted"</a>. <i>Simple Flying</i>. 2019-05-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-02-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Simple+Flying&amp;rft.atitle=End+Of+An+Era+-+Last+Remaining+Virgin+America+Plane+Repainted&amp;rft.date=2019-05-27&amp;rft_id=https%3A%2F%2Fsimpleflying.com%2Flast-virgin-america-repainted%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-macrotrends-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-macrotrends_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-macrotrends_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-macrotrends_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.macrotrends.net/stocks/charts/ALK/alaska-air/revenue">"Alaska Air Revenue 2006-2018 | ALK"</a>. <i>www.macrotrends.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-10-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.macrotrends.net&amp;rft.atitle=Alaska+Air+Revenue+2006-2018+%7C+ALK&amp;rft_id=https%3A%2F%2Fwww.macrotrends.net%2Fstocks%2Fcharts%2FALK%2Falaska-air%2Frevenue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-AnnualReport2014-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-AnnualReport2014_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AnnualReport2014_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AnnualReport2014_15-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-AnnualReport2014_15-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-AnnualReport2014_15-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://investor.alaskaair.com/static-files/85b5971e-c481-44f3-8686-5841f7e47dac">"Alaska Air Group Annual Report 2014"</a>. March 27, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alaska+Air+Group+Annual+Report+2014&amp;rft.date=2015-03-27&amp;rft_id=https%3A%2F%2Finvestor.alaskaair.com%2Fstatic-files%2F85b5971e-c481-44f3-8686-5841f7e47dac&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-AnnualReport2015-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-AnnualReport2015_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://investor.alaskaair.com/static-files/550e2d06-103d-403d-a542-36aa7d87cbd5">"Alaska Air Group Form 10-K Annual Report for the fiscal year ended December 31, 2015"</a>. February 11, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alaska+Air+Group+Form+10-K+Annual+Report+for+the+fiscal+year+ended+December+31%2C+2015&amp;rft.date=2016-02-11&amp;rft_id=https%3A%2F%2Finvestor.alaskaair.com%2Fstatic-files%2F550e2d06-103d-403d-a542-36aa7d87cbd5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-2017_Results-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-2017_Results_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2017_Results_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://investor.alaskaair.com/news-releases/news-release-details/alaska-air-group-reports-december-2017-and-full-year-operational">"Alaska Air Group reports December 2017 and full-year operational results"</a>. January 12, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alaska+Air+Group+reports+December+2017+and+full-year+operational+results&amp;rft.date=2018-01-12&amp;rft_id=https%3A%2F%2Finvestor.alaskaair.com%2Fnews-releases%2Fnews-release-details%2Falaska-air-group-reports-december-2017-and-full-year-operational&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-2018InvDay-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-2018InvDay_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2018InvDay_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://alaskaairgroupinc.gcs-web.com/static-files/94dea078-6b34-4db7-837a-452723220c5b">"ALK Investor Day 2018"</a>. 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ALK+Investor+Day+2018&amp;rft.date=2018&amp;rft_id=https%3A%2F%2Falaskaairgroupinc.gcs-web.com%2Fstatic-files%2F94dea078-6b34-4db7-837a-452723220c5b&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-2019_Results-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-2019_Results_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2019_Results_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://investor.alaskaair.com/news-releases/news-release-details/alaska-air-group-reports-fourth-quarter-2019-and-full-year">"Alaska Air Group reports fourth quarter 2019 and full-year results"</a>. January 28, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alaska+Air+Group+reports+fourth+quarter+2019+and+full-year+results&amp;rft.date=2020-01-28&amp;rft_id=https%3A%2F%2Finvestor.alaskaair.com%2Fnews-releases%2Fnews-release-details%2Falaska-air-group-reports-fourth-quarter-2019-and-full-year&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Building-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Building_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://investor.alaskaair.com/news-releases/news-release-details/alaska-airlines-reinforces-hometown-commitment-office-expansion">"Alaska Airlines reinforces hometown commitment with office expansion near Sea-Tac Airport"</a>. May 3, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alaska+Airlines+reinforces+hometown+commitment+with+office+expansion+near+Sea-Tac+Airport&amp;rft.date=2018-05-03&amp;rft_id=https%3A%2F%2Finvestor.alaskaair.com%2Fnews-releases%2Fnews-release-details%2Falaska-airlines-reinforces-hometown-commitment-office-expansion&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.planespotters.net/airline/Alaska-Airlines">"Alaska Airlines Fleet Details and History"</a>. <i>Planespotters.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 24,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Planespotters.net&amp;rft.atitle=Alaska+Airlines+Fleet+Details+and+History&amp;rft_id=https%3A%2F%2Fwww.planespotters.net%2Fairline%2FAlaska-Airlines&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-AS_Group_Fleet-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-AS_Group_Fleet_22-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alaskaair.com/as/www2/company/Fleet/Fleet.asp">"Information about the planes we fly"</a>. <i>Alaska Airlines</i>. Alaska Airlines, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">October 24,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Alaska+Airlines&amp;rft.atitle=Information+about+the+planes+we+fly&amp;rft_id=http%3A%2F%2Fwww.alaskaair.com%2Fas%2Fwww2%2Fcompany%2FFleet%2FFleet.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news">Segal, Dave (February 15, 2013). <a rel="nofollow" class="external text" href="https://skift.com/2013/02/15/alaska-airlines-ceo-abates-rumors-that-a-merger-with-hawaiian-could-be-next/">"Alaska Airlines successfully fills voids in Hawaii left by failed airlines"</a>. <i>The Honolulu Star-Advertiser</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 21,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Honolulu+Star-Advertiser&amp;rft.atitle=Alaska+Airlines+successfully+fills+voids+in+Hawaii+left+by+failed+airlines&amp;rft.date=2013-02-15&amp;rft.aulast=Segal&amp;rft.aufirst=Dave&amp;rft_id=https%3A%2F%2Fskift.com%2F2013%2F02%2F15%2Falaska-airlines-ceo-abates-rumors-that-a-merger-with-hawaiian-could-be-next%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://newsroom.alaskaair.com/cities-served">"Cities served"</a>. <i>Alaska Airlines</i>. Alaska Airlines, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">October 24,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Alaska+Airlines&amp;rft.atitle=Cities+served&amp;rft_id=https%3A%2F%2Fnewsroom.alaskaair.com%2Fcities-served&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlaska+Air+Group" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Alaska_Air_Group&amp;action=edit&amp;section=9" title="Edit section: External links" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li>Business data for Alaska Air Group: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=ALK">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=ALK">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=ALK">SEC filings</a></li></ul></div></li></ul><div style="float:right;">
+<style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul><li><span><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" decoding="async" width="28" height="28" class="noviewer" data-file-width="512" data-file-height="512"></noscript><span class="lazy-image-placeholder" style="width: 28px;height: 28px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" data-alt="" data-width="28" data-height="28" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-class="noviewer"> </span></span><span><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li>
+<li><span><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aviacionavion.png/28px-Aviacionavion.png" decoding="async" width="28" height="28" class="noviewer" data-file-width="1600" data-file-height="1600"></noscript><span class="lazy-image-placeholder" style="width: 28px;height: 28px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aviacionavion.png/28px-Aviacionavion.png" data-alt="" data-width="28" data-height="28" data-class="noviewer"> </span></span><span><a href="/wiki/Portal:Aviation" title="Portal:Aviation">Aviation portal</a></span></li></ul></div>
+<div style="clear:both;"></div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"><tbody><tr>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <wbr></wbr><i><b><a href="https://commons.wikimedia.org/wiki/Category:Alaska_Airlines" class="extiw" title="commons:Category:Alaska Airlines">Alaska Airlines</a></b></i> and <wbr></wbr><i><b><a href="https://commons.wikimedia.org/wiki/Category:Horizon_Air" class="extiw" title="commons:Category:Horizon Air">Horizon Air</a></b></i>.</td></tr></tbody></table></div>
+<div style="clear:both;"></div>
+
+
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Alaska_Air_Group&amp;oldid=950076682">https://en.wikipedia.org/w/index.php?title=Alaska_Air_Group&amp;oldid=950076682</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Alaska_Air_Group"
+				data-user-name="Oknazevad"
+				data-user-gender="unknown"
+				data-timestamp="1586488860">
+				<span>Last edited on 10 April 2020, at 03:21</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Alaska_Air_Group&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.460","walltime":"0.620","ppvisitednodes":{"value":3265,"limit":1000000},"postexpandincludesize":{"value":88444,"limit":2097152},"templateargumentsize":{"value":4283,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":77176,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  522.319      1 -total"," 40.68%  212.470      1 Template:Reflist"," 30.09%  157.143      1 Template:Infobox_company"," 27.42%  143.220      1 Template:Infobox"," 18.98%   99.137      5 Template:Cite_news"," 13.15%   68.693     14 Template:Cite_web"," 10.72%   55.969      1 Template:Short_description"," 10.46%   54.618      1 Template:Br_separated_entries"," 10.19%   53.249      8 Template:Wikidata","  7.25%   37.852      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.216","limit":"10.000"},"limitreport-memusage":{"value":6746510,"limit":52428800}},"cachereport":{"origin":"mw1401","timestamp":"20200417065933","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Alaska Air Group","url":"https:\/\/en.wikipedia.org\/wiki\/Alaska_Air_Group","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4033665","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4033665","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-27T15:49:36Z","dateModified":"2020-04-10T03:21:00Z","headline":"airline holding company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":140,"wgHostname":"mw1354"});});</script>		</body>
+		</html>
+		

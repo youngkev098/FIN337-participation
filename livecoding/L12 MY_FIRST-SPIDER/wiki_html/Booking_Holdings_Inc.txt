@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Booking Holdings - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoKKwpAAL8AAyyyYcMAAAAL","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Booking_Holdings","wgTitle":"Booking Holdings","wgCurRevisionId":951174122,"wgRevisionId":951174122,"wgArticleId":44829655,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Booking_Holdings","wgRelevantArticleId":44829655,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Booking_Holdings_Inc","wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Booking_Holdings","wgWikibaseItemId":"Q18674747","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,
+"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Booking_Holdings&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Booking_Holdings&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Booking_Holdings"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Booking_Holdings rootpage-Booking_Holdings stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Booking+Holdings" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Booking+Holdings" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Booking Holdings</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Booking_Holdings" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Booking+Holdings" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Booking_Holdings&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Booking_Holdings_Inc&amp;redirect=no" class="mw-redirect" title="Booking Holdings Inc">Booking Holdings Inc</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<p><b>Booking Holdings Inc.</b> is an American company organized in <a href="/wiki/Delaware" title="Delaware">Delaware</a> and based in <a href="/wiki/Norwalk,_Connecticut" title="Norwalk, Connecticut">Norwalk, Connecticut</a>, that owns and operates several <a href="/wiki/Travel_website#Fare_aggregators_and_metasearch_engines" title="Travel website">travel fare aggregators</a> and travel fare <a href="/wiki/Metasearch_engine" title="Metasearch engine">metasearch engines</a> including namesake and flagship <a href="/wiki/Booking.com" title="Booking.com">Booking.com</a>, <a href="/wiki/Priceline.com" title="Priceline.com">Priceline.com</a>, <a href="/wiki/Agoda.com" class="mw-redirect" title="Agoda.com">Agoda.com</a>, <a href="/wiki/Kayak.com" class="mw-redirect" title="Kayak.com">Kayak.com</a>,
+<a href="/wiki/Cheapflights" title="Cheapflights">Cheapflights</a>, Rentalcars.com, <a href="/wiki/Momondo" title="Momondo">Momondo</a>, and <a href="/wiki/OpenTable" title="OpenTable">OpenTable</a>. It operates websites in about 40 <a href="/wiki/Language" title="Language">languages</a> and 200 countries. In 2017, 89% of its gross profit was made outside the United States – most of which used Booking.com.<sup id="cite_ref-10K_3-1" class="reference"><a href="#cite_note-10K-3">[3]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">Booking Holdings Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Booking_Holdings_Inc._Logo.svg" class="image"><img alt="Booking Holdings Inc. Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Booking_Holdings_Inc._Logo.svg/220px-Booking_Holdings_Inc._Logo.svg.png" decoding="async" width="220" height="53" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Booking_Holdings_Inc._Logo.svg/330px-Booking_Holdings_Inc._Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Booking_Holdings_Inc._Logo.svg/440px-Booking_Holdings_Inc._Logo.svg.png 2x" data-file-width="512" data-file-height="123"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Formerly</div></th><td class="nickname" style="line-height: 1.35em;"><div class="plainlist"><ul><li>Priceline.com Incorporated (1998–2014)</li><li>The Priceline Group Inc. (2014–2018)</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a>: <a rel="nofollow" class="external text" href="https://www.nasdaq.com/symbol/bkng">BKNG</a></li><li><a href="/wiki/NASDAQ-100" title="NASDAQ-100">NASDAQ-100</a> component</li><li><a href="/wiki/S%26P_100" title="S&amp;P 100">S&amp;P 100</a> component</li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US09857L1089">US09857L1089 </a><a href="https://www.wikidata.org/wiki/Q18674747?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Travel" title="Travel">Travel</a><br><a href="/wiki/Technology" title="Technology">Technology</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1996<span class="noprint">; 24 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1996</span>)</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Jay_S._Walker" title="Jay S. Walker">Jay S. Walker</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Norwalk,_Connecticut" title="Norwalk, Connecticut">Norwalk, Connecticut</a></div>, <div style="display: inline;" class="country-name">U.S.</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Glenn D. Fogel<br>(<a href="/wiki/President_(corporate_title)" title="President (corporate title)">President</a> and <a href="/wiki/Chief_executive_officer" title="Chief executive officer">CEO</a>)<br>Daniel Finnegan (<a href="/wiki/Chief_financial_officer" title="Chief financial officer">CFO</a>)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a href="/wiki/Booking.com" title="Booking.com">Booking.com</a><br><a href="/wiki/Priceline.com" title="Priceline.com">Priceline.com</a><br><a href="/wiki/Agoda.com" class="mw-redirect" title="Agoda.com">Agoda.com</a><br><a href="/wiki/Kayak.com" class="mw-redirect" title="Kayak.com">Kayak.com</a><br><a href="/wiki/Cheapflights" title="Cheapflights">Cheapflights</a><br>Rentalcars.com<br><a href="/wiki/Momondo" title="Momondo">momondo</a><br>Mundi<br><a href="/wiki/OpenTable" title="OpenTable">OpenTable</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_dollar" title="United States dollar">US$</a>14.527 <a href="/wiki/1,000,000,000" title="1,000,000,000">billion</a> <span style="font-size:85%;">(2018)</span></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$5.534 billion <span style="font-size:85%;">(2018)</span></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$3.998 billion <span style="font-size:85%;">(2018)</span></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> US$22.687 billion <span style="font-size:85%;">(2018)</span></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><span class="nowrap"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300"> US$8.871 billion <span style="font-size:85%;">(2018)</span></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">24,500 (2019)<sup id="cite_ref-Fortune_2-0" class="reference"><a href="#cite_note-Fortune-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://bookingholdings.com">bookingholdings<wbr></wbr>.com</a></span></td></tr><tr><td colspan="2" style="text-align:center;line-height: 1.35em;"><b>Footnotes / references</b><br><sup id="cite_ref-10K_3-0" class="reference"><a href="#cite_note-10K-3">[3]</a></sup></td></tr></tbody></table><p>In 2017, consumers booked 673.1 million room nights of accommodation, 73.0 million rental car days, and 6.9 million airplane tickets using websites owned by Booking Holdings.<sup id="cite_ref-10K_3-2" class="reference"><a href="#cite_note-10K-3">[3]</a></sup></p><p>In 2017, 93.4% of revenues were derived from <a href="/wiki/Commission_(remuneration)" title="Commission (remuneration)">commissions</a> and 6.6% of revenues were derived from <a href="/wiki/Advertising" title="Advertising">advertising</a>.<sup id="cite_ref-10K_3-3" class="reference"><a href="#cite_note-10K-3">[3]</a></sup></p><p>The company ranked 216th on the 2019 <a href="/wiki/Fortune_500" title="Fortune 500">Fortune 500</a> list of the largest United States corporations by revenue.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Management"><span class="tocnumber">1.1</span> <span class="toctext">Management</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Acquisitions"><span class="tocnumber">1.2</span> <span class="toctext">Acquisitions</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">3</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Booking_Holdings&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>In 1997, <a href="/wiki/Jay_S._Walker" title="Jay S. Walker">Jay S. Walker</a> founded the company in <a href="/wiki/Stamford,_Connecticut" title="Stamford, Connecticut">Stamford, Connecticut</a>, which launched <a href="/wiki/Priceline.com" title="Priceline.com">Priceline.com</a>, an online travel site, that used a <a href="/wiki/Name_Your_Own_Price" title="Name Your Own Price">Name Your Own Price</a> bidding model.<sup id="cite_ref-founder_5-0" class="reference"><a href="#cite_note-founder-5">[5]</a></sup></p><p>In 1999, the company became a <a href="/wiki/Public_company" title="Public company">public company</a> via an <a href="/wiki/Initial_public_offering" title="Initial public offering">initial public offering</a>, making Walker, who owned a 35% stake in the company, a multi-billionaire.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-founder_5-1" class="reference"><a href="#cite_note-founder-5">[5]</a></sup></p><p>The company experimented with selling other products and services such as groceries, gasoline, home mortgages, and cars, but these offerings were discontinued in 2000.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p><p>On April 1, 2014, the name of the company was changed from priceline.com Incorporated to The Priceline Group Inc.<sup id="cite_ref-10K_3-4" class="reference"><a href="#cite_note-10K-3">[3]</a></sup></p><p>In July 2017, the company acquired the Momondo Group.<sup id="cite_ref-PR_Newswire_9-0" class="reference"><a href="#cite_note-PR_Newswire-9">[9]</a></sup></p><p>In August 2017, KAYAK acquired the assets of Mundi, a Brazilian metasearch company.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p><p>On February 21, 2018, the name of the company was changed from The Priceline Group Inc. to Booking Holdings.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> On February 27, 2018, the company changed its ticker symbol from "PCLN" to "BKNG".
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Management">Management</span><span class="mw-editsection"><a href="/w/index.php?title=Booking_Holdings&amp;action=edit&amp;section=2" title="Edit section: Management" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Jeff Boyd was named Chief Executive Officer in 2002 and remained in that role until becoming Chairman of the Board for Booking Holdings in 2013.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p><p>Effective January 1, 2014, <a href="/wiki/Darren_Huston" title="Darren Huston">Darren Huston</a> was named Chief Executive Officer of the company, replacing Jeff Boyd.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> On April 28, 2016, Huston was forced to resign following an extramarital affair and Boyd was named interim CEO.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p><p>Effective January 1, 2017, Glenn D. Fogel was named Chief Executive Officer and President.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Acquisitions">Acquisitions</span><span class="mw-editsection"><a href="/w/index.php?title=Booking_Holdings&amp;action=edit&amp;section=3" title="Edit section: Acquisitions" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<table class="wikitable sortable"><tbody><tr><th scope="col">#
+</th>
+<th scope="col">Year
+</th>
+<th scope="col">Company
+</th>
+<th scope="col" style="width:80px;">Price
+</th>
+<th scope="col" class="unsortable">Ref(s).
+</th></tr><tr><td>
+</td>
+<td><span data-sort-value="000000001997-01-01-0000" style="white-space:nowrap">1997</span>
+</td>
+<td><a href="/wiki/Priceline.com" title="Priceline.com">Priceline.com</a>
+</td>
+<td>
+</td>
+<td style="text-align:center;"><sup id="cite_ref-profitable_18-0" class="reference"><a href="#cite_note-profitable-18">[18]</a></sup></td></tr><tr><td>1
+</td>
+<td><span data-sort-value="000000002004-01-01-0000" style="white-space:nowrap">2004</span>
+</td>
+<td>Major stakes in Travelweb and Active Hotels
+</td>
+<td>
+</td>
+<td style="text-align:center;"><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></td></tr><tr><td>2
+</td>
+<td><span data-sort-value="000000002005-01-01-0000" style="white-space:nowrap">2005</span>
+</td>
+<td><a href="/wiki/Booking.com" title="Booking.com">Booking.com</a>
+</td>
+<td>$133 million
+</td>
+<td style="text-align:center;"><sup id="cite_ref-profitable_18-1" class="reference"><a href="#cite_note-profitable-18">[18]</a></sup></td></tr><tr><td>3
+</td>
+<td><span data-sort-value="000000002007-01-01-0000" style="white-space:nowrap">2007</span>
+</td>
+<td><a href="/wiki/Agoda" title="Agoda">Agoda</a>.com
+</td>
+<td>
+</td>
+<td style="text-align:center;"><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></td></tr><tr><td>4
+</td>
+<td><span data-sort-value="000000002010-01-01-0000" style="white-space:nowrap">2010</span>
+</td>
+<td>TravelJigsaw / Rentalcars.com
+</td>
+<td>
+</td>
+<td style="text-align:center;"><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></td></tr><tr><td>5
+</td>
+<td><span data-sort-value="000000002013-01-01-0000" style="white-space:nowrap">2013</span>
+</td>
+<td><a href="/wiki/Kayak.com" class="mw-redirect" title="Kayak.com">Kayak.com</a>
+</td>
+<td>$1.8 billion
+</td>
+<td style="text-align:center;"><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></td></tr><tr><td>6
+</td>
+<td><span data-sort-value="000000002014-01-01-0000" style="white-space:nowrap">2014</span>
+</td>
+<td><a href="/wiki/OpenTable" title="OpenTable">OpenTable</a>
+</td>
+<td>$2.6 billion
+</td>
+<td style="text-align:center;"><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></td></tr><tr><td>7
+</td>
+<td><span data-sort-value="000000002014-01-01-0000" style="white-space:nowrap">2014</span>
+</td>
+<td>Buuteeq and Hotel Ninjas
+</td>
+<td>$98 million
+</td>
+<td style="text-align:center;"><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></td></tr><tr><td>8
+</td>
+<td><span data-sort-value="000000002015-01-01-0000" style="white-space:nowrap">2015</span>
+</td>
+<td>Rocketmiles
+</td>
+<td>
+</td>
+<td style="text-align:center;"><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></td></tr><tr><td>9
+</td>
+<td><span data-sort-value="000000002017-01-01-0000" style="white-space:nowrap">2017</span>
+</td>
+<td><a href="/wiki/Momondo" title="Momondo">Momondo</a> and <a href="/wiki/Cheapflights" title="Cheapflights">Cheapflights</a>
+</td>
+<td>$550 million
+</td>
+<td style="text-align:center;"><sup id="cite_ref-PR_Newswire_9-1" class="reference"><a href="#cite_note-PR_Newswire-9">[9]</a></sup></td></tr><tr><td>10
+</td>
+<td><span data-sort-value="000000002017-01-01-0000" style="white-space:nowrap">2017</span>
+</td>
+<td>Mundi
+</td>
+<td>
+</td>
+<td style="text-align:center;"><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></td></tr><tr><td>11
+</td>
+<td><span data-sort-value="000000002018-01-01-0000" style="white-space:nowrap">2018</span>
+</td>
+<td>FareHarbor
+</td>
+<td>
+</td>
+<td style="text-align:center;"><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></td></tr><tr><td>12
+</td>
+<td><span data-sort-value="000000002018-01-01-0000" style="white-space:nowrap">2018</span>
+</td>
+<td>Minority stake in <a href="/wiki/DiDi_(company)" class="mw-redirect" title="DiDi (company)">DiDi</a>
+</td>
+<td>$500 million
+</td>
+<td style="text-align:center;"><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></td></tr><tr><td>13
+</td>
+<td><span data-sort-value="000000002018-01-01-0000" style="white-space:nowrap">2018</span>
+</td>
+<td><a href="/wiki/HotelsCombined" title="HotelsCombined">HotelsCombined</a>
+</td>
+<td>$140 million
+</td>
+<td style="text-align:center;"><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></td></tr><tr><td>14
+</td>
+<td><span data-sort-value="000000002019-01-01-0000" style="white-space:nowrap">2019</span>
+</td>
+<td>Venga
+</td>
+<td>
+</td>
+<td style="text-align:center;"><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Booking_Holdings&amp;action=edit&amp;section=4" title="Edit section: References" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.booking.com/general.html?tmpl=docs%2Fabout">https://www.booking.com/general.html?tmpl=docs%2Fabout</a></span>
+</li>
+<li id="cite_note-Fortune-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fortune_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://fortune.com/fortune500/booking-holdings/">https://fortune.com/fortune500/booking-holdings/</a></span>
+</li>
+<li id="cite_note-10K-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-10K_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-10K_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-10K_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-10K_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-10K_3-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/1075531/000107553118000015/pcln-20171231_10k.htm#s679534D3B78B0B5C91C7CB7EEF77C506">"Booking Holdings 2017 Annual Report Form (10-K)"</a>. <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">U.S. Securities and Exchange Commission</a>. February 27, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">August 22,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Booking+Holdings+2017+Annual+Report+Form+%2810-K%29&amp;rft.pub=U.S.+Securities+and+Exchange+Commission&amp;rft.date=2018-02-27&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F1075531%2F000107553118000015%2Fpcln-20171231_10k.htm%23s679534D3B78B0B5C91C7CB7EEF77C506&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/booking-holdings/">"Booking Holdings"</a>. <i>Fortune</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Booking+Holdings&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Fbooking-holdings%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-founder-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-founder_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-founder_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Weber, Thomas E.; Petersen, Andrea (April 1, 1999). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB922927682927802935">"Priceline's Initial Public Offering Turns Founder Into Billionaire"</a>. <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=Priceline%27s+Initial+Public+Offering+Turns+Founder+Into+Billionaire&amp;rft.date=1999-04-01&amp;rft.aulast=Weber&amp;rft.aufirst=Thomas+E.&amp;rft.au=Petersen%2C+Andrea&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2FSB922927682927802935&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"><span style="font-size:0.95em; font-size:90%; color:#555">(subscription required)</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news">Piskora, Beth (March 31, 1999). <a rel="nofollow" class="external text" href="https://nypost.com/1999/03/31/priceline-blasts-off-online-ticketing-enterprise-ipo-up-331/">"Priceline Blasts Off – Online Ticketing Enterprise IPO Up 3 331%"</a>. <i><a href="/wiki/The_New_York_Post" class="mw-redirect" title="The New York Post">The New York Post</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Post&amp;rft.atitle=Priceline+Blasts+Off+%E2%80%93+Online+Ticketing+Enterprise+IPO+Up+3+331%25&amp;rft.date=1999-03-31&amp;rft.aulast=Piskora&amp;rft.aufirst=Beth&amp;rft_id=https%3A%2F%2Fnypost.com%2F1999%2F03%2F31%2Fpriceline-blasts-off-online-ticketing-enterprise-ipo-up-331%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Brooks, Nancy Rivera (October 5, 2000). <a rel="nofollow" class="external text" href="https://articles.latimes.com/2000/feb/26/business/fi-2917">"Priceline.com to Put Gas Up for Bid on Web"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=Priceline.com+to+Put+Gas+Up+for+Bid+on+Web&amp;rft.date=2000-10-05&amp;rft.aulast=Brooks&amp;rft.aufirst=Nancy+Rivera&amp;rft_id=https%3A%2F%2Farticles.latimes.com%2F2000%2Ffeb%2F26%2Fbusiness%2Ffi-2917&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.cbsnews.com/news/priceline-runs-out-of-gas-groceries/">"Priceline Runs Out of Gas, Groceries"</a>. <i><a href="/wiki/CBS_News" title="CBS News">CBS News</a></i>. February 26, 2000.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CBS+News&amp;rft.atitle=Priceline+Runs+Out+of+Gas%2C+Groceries&amp;rft.date=2000-02-26&amp;rft_id=http%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fpriceline-runs-out-of-gas-groceries%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-PR_Newswire-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-PR_Newswire_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PR_Newswire_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.prnewswire.com/news-releases/the-priceline-group-completes-the-acquisition-of-momondo-group-300492526.html">"The Priceline Group Completes the Acquisition of Momondo Group"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. 24 July 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Priceline+Group+Completes+the+Acquisition+of+Momondo+Group&amp;rft.pub=PR+Newswire&amp;rft.date=2017-07-24&amp;rft_id=http%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fthe-priceline-group-completes-the-acquisition-of-momondo-group-300492526.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">McDonald, Michele (3 August 2017). <a rel="nofollow" class="external text" href="https://www.phocuswire.com/Kayak-acquires-Brazilian-travel-metasearch-site-Mundi">"Kayak acquires Brazilian travel metasearch site Mundi"</a>. <i><a href="/wiki/Phocuswire" class="mw-redirect" title="Phocuswire">Phocuswire</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Phocuswire&amp;rft.atitle=Kayak+acquires+Brazilian+travel+metasearch+site+Mundi&amp;rft.date=2017-08-03&amp;rft.aulast=McDonald&amp;rft.aufirst=Michele&amp;rft_id=https%3A%2F%2Fwww.phocuswire.com%2FKayak-acquires-Brazilian-travel-metasearch-site-Mundi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">O'Neill, Sean (4 August 2017). <a rel="nofollow" class="external text" href="https://skift.com/2017/08/04/kayak-acquires-struggling-brazilian-metasearch-company-mundi/">"Kayak Acquires Assets of Struggling Brazilian Metasearch Company Mundi"</a>. <i>Skift</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Skift&amp;rft.atitle=Kayak+Acquires+Assets+of+Struggling+Brazilian+Metasearch+Company+Mundi&amp;rft.date=2017-08-04&amp;rft.aulast=O%27Neill&amp;rft.aufirst=Sean&amp;rft_id=https%3A%2F%2Fskift.com%2F2017%2F08%2F04%2Fkayak-acquires-struggling-brazilian-metasearch-company-mundi%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Josephs, Leslie (21 February 2018). <a rel="nofollow" class="external text" href="https://www.cnbc.com/2018/02/21/priceline-group-changes-name-to-booking-holdings.html">"Online travel giant Priceline Group changes name to Booking Holdings"</a>. <i><a href="/wiki/CNBC" title="CNBC">CNBC</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNBC&amp;rft.atitle=Online+travel+giant+Priceline+Group+changes+name+to+Booking+Holdings&amp;rft.date=2018-02-21&amp;rft.aulast=Josephs&amp;rft.aufirst=Leslie&amp;rft_id=https%3A%2F%2Fwww.cnbc.com%2F2018%2F02%2F21%2Fpriceline-group-changes-name-to-booking-holdings.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">VANIAN, JONATHAN (21 February 2018). <a rel="nofollow" class="external text" href="http://fortune.com/2018/02/21/priceline-group-booking-holdings/">"Why Priceline Group Is Changing Its Name to Booking Holdings"</a>. <i><a href="/wiki/Fortune_(magazine)" title="Fortune (magazine)">Fortune</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Fortune&amp;rft.atitle=Why+Priceline+Group+Is+Changing+Its+Name+to+Booking+Holdings&amp;rft.date=2018-02-21&amp;rft.aulast=VANIAN&amp;rft.aufirst=JONATHAN&amp;rft_id=http%3A%2F%2Ffortune.com%2F2018%2F02%2F21%2Fpriceline-group-booking-holdings%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news">Lincoln, Kevin (January 19, 2012). <a rel="nofollow" class="external text" href="http://www.businessinsider.com/priceline-jeff-boyd-2012-1">"Meet The Man Who Turned Priceline Into A $24 Billion Company"</a>. <i><a href="/wiki/Business_Insider" title="Business Insider">Business Insider</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Business+Insider&amp;rft.atitle=Meet+The+Man+Who+Turned+Priceline+Into+A+%2424+Billion+Company&amp;rft.date=2012-01-19&amp;rft.aulast=Lincoln&amp;rft.aufirst=Kevin&amp;rft_id=http%3A%2F%2Fwww.businessinsider.com%2Fpriceline-jeff-boyd-2012-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">Clampet, Jason (November 7, 2013). <a rel="nofollow" class="external text" href="https://skift.com/2013/11/07/breaking-priceline-replaces-ceo-boyd-to-remain-chairman/">"Priceline Replaces CEO With Booking.com Boss"</a>. <i>Skift</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Skift&amp;rft.atitle=Priceline+Replaces+CEO+With+Booking.com+Boss&amp;rft.date=2013-11-07&amp;rft.aulast=Clampet&amp;rft.aufirst=Jason&amp;rft_id=https%3A%2F%2Fskift.com%2F2013%2F11%2F07%2Fbreaking-priceline-replaces-ceo-boyd-to-remain-chairman%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.prnewswire.com/news-releases/priceline-group-ceo-darren-huston-resigns-chairman-jeffery-h-boyd-appointed-interim-ceo-300259053.html">"Priceline Group CEO Darren Huston Resigns; Chairman Jeffery H. Boyd Appointed Interim CEO"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. April 28, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Priceline+Group+CEO+Darren+Huston+Resigns%3B+Chairman+Jeffery+H.+Boyd+Appointed+Interim+CEO&amp;rft.pub=PR+Newswire&amp;rft.date=2016-04-28&amp;rft_id=http%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fpriceline-group-ceo-darren-huston-resigns-chairman-jeffery-h-boyd-appointed-interim-ceo-300259053.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.prnewswire.com/news-releases/the-priceline-group-names-glenn-fogel-ceo-300379379.html">"The Priceline Group Names Glenn Fogel CEO"</a> (Press release). <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a>. December 15, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Priceline+Group+Names+Glenn+Fogel+CEO&amp;rft.pub=PR+Newswire&amp;rft.date=2016-12-15&amp;rft_id=http%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fthe-priceline-group-names-glenn-fogel-ceo-300379379.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-profitable-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-profitable_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-profitable_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">O'Neill, Sean (October 2, 2012). <a rel="nofollow" class="external text" href="https://www.phocuswire.com/Why-Pricelines-purchase-of-Booking-com-was-the-most-profitable-travel-deal-of-the-2000s">"Why Priceline's Purchase of Booking.com Was the Most Profitable Deal of the 2000s"</a>. <i><a href="/wiki/Phocuswire" class="mw-redirect" title="Phocuswire">Phocuswire</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Phocuswire&amp;rft.atitle=Why+Priceline%27s+Purchase+of+Booking.com+Was+the+Most+Profitable+Deal+of+the+2000s&amp;rft.date=2012-10-02&amp;rft.aulast=O%27Neill&amp;rft.aufirst=Sean&amp;rft_id=https%3A%2F%2Fwww.phocuswire.com%2FWhy-Pricelines-purchase-of-Booking-com-was-the-most-profitable-travel-deal-of-the-2000s&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB108362212858400714">"Priceline Posts Profit, Buys Travelweb"</a>. <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i>. May 3, 2004.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=Priceline+Posts+Profit%2C+Buys+Travelweb&amp;rft.date=2004-05-03&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2FSB108362212858400714&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"><span style="font-size:0.95em; font-size:90%; color:#555">(subscription required)</span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/idUSIN20071108160105PCLN20071108">"Priceline.com Acquires Asian Online Hotel Reservation Service Company Agoda"</a>. <i><a href="/wiki/Reuters" title="Reuters">Reuters</a></i>. November 8, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Reuters&amp;rft.atitle=Priceline.com+Acquires+Asian+Online+Hotel+Reservation+Service+Company+Agoda&amp;rft.date=2007-11-08&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2FidUSIN20071108160105PCLN20071108&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news">Schaal, Dennis (May 18, 2010). <a rel="nofollow" class="external text" href="https://www.phocuswire.com/Priceline-acquires-car-rental-firm-TravelJigsaw-as-part-of-expansion-drive">"Priceline Acquires Car Rental Firm Travel Jigsaw As Part of Expansion Drive"</a>. <i><a href="/wiki/Phocuswire" class="mw-redirect" title="Phocuswire">Phocuswire</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Phocuswire&amp;rft.atitle=Priceline+Acquires+Car+Rental+Firm+Travel+Jigsaw+As+Part+of+Expansion+Drive&amp;rft.date=2010-05-18&amp;rft.aulast=Schaal&amp;rft.aufirst=Dennis&amp;rft_id=https%3A%2F%2Fwww.phocuswire.com%2FPriceline-acquires-car-rental-firm-TravelJigsaw-as-part-of-expansion-drive&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news">Lardinois, Frederic (November 8, 2012). <a rel="nofollow" class="external text" href="https://techcrunch.com/2012/11/08/priceline-com-acquires-kayak-for-1-8-billion/">"Priceline.com Acquires Kayak For $1.8 Billion, Will Allow Kayak To Continue To Operate Independently"</a>. <i><a href="/wiki/TechCrunch" title="TechCrunch">TechCrunch</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=TechCrunch&amp;rft.atitle=Priceline.com+Acquires+Kayak+For+%241.8+Billion%2C+Will+Allow+Kayak+To+Continue+To+Operate+Independently&amp;rft.date=2012-11-08&amp;rft.aulast=Lardinois&amp;rft.aufirst=Frederic&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2012%2F11%2F08%2Fpriceline-com-acquires-kayak-for-1-8-billion%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news">Sharf, Samantha (June 13, 2014). <a rel="nofollow" class="external text" href="https://www.forbes.com/sites/samanthasharf/2014/06/13/priceline-reserves-opentable-for-2-6-billion/#37e63e743892">"Priceline Reserves OpenTable for 2.6 Billion"</a>. <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Forbes&amp;rft.atitle=Priceline+Reserves+OpenTable+for+2.6+Billion&amp;rft.date=2014-06-13&amp;rft.aulast=Sharf&amp;rft.aufirst=Samantha&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fsamanthasharf%2F2014%2F06%2F13%2Fpriceline-reserves-opentable-for-2-6-billion%2F%2337e63e743892&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation news">Schaal, Dennis (August 11, 2014). <a rel="nofollow" class="external text" href="https://skift.com/2014/08/11/priceline-group-paid-98-million-for-buuteeq-and-hotel-ninjas/">"Priceline Group Paid $98 Million for Buuteeq and Hotel Ninjas"</a>. <i>Skift</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Skift&amp;rft.atitle=Priceline+Group+Paid+%2498+Million+for+Buuteeq+and+Hotel+Ninjas&amp;rft.date=2014-08-11&amp;rft.aulast=Schaal&amp;rft.aufirst=Dennis&amp;rft_id=https%3A%2F%2Fskift.com%2F2014%2F08%2F11%2Fpriceline-group-paid-98-million-for-buuteeq-and-hotel-ninjas%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation news">Elahi, Amina; Karp, Gregory (February 19, 2015). <a rel="nofollow" class="external text" href="http://www.chicagotribune.com/bluesky/originals/chi-priceline-to-acquire-rocketmiles-bsi-story.html">"Priceline to acquire Chicago startup Rocketmiles, says report"</a>. <i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chicago+Tribune&amp;rft.atitle=Priceline+to+acquire+Chicago+startup+Rocketmiles%2C+says+report&amp;rft.date=2015-02-19&amp;rft.aulast=Elahi&amp;rft.aufirst=Amina&amp;rft.au=Karp%2C+Gregory&amp;rft_id=http%3A%2F%2Fwww.chicagotribune.com%2Fbluesky%2Foriginals%2Fchi-priceline-to-acquire-rocketmiles-bsi-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news">O'Neill, Sean (4 August 2017). <a rel="nofollow" class="external text" href="https://skift.com/2017/08/04/kayak-acquires-struggling-brazilian-metasearch-company-mundi/">"Kayak Acquires Assets of Struggling Brazilian Metasearch Company Mundi"</a>. <i>Skift</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Skift&amp;rft.atitle=Kayak+Acquires+Assets+of+Struggling+Brazilian+Metasearch+Company+Mundi&amp;rft.date=2017-08-04&amp;rft.aulast=O%27Neill&amp;rft.aufirst=Sean&amp;rft_id=https%3A%2F%2Fskift.com%2F2017%2F08%2F04%2Fkayak-acquires-struggling-brazilian-metasearch-company-mundi%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/booking-holdings-announces-it-has-signed-an-agreement-to-acquire-fareharbor-300632814.html">"Booking Holdings Announces it has Signed an Agreement to Acquire FareHarbor"</a>. <i>Cision PS newswire</i>. 19 April 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">11 February</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cision+PS+newswire&amp;rft.atitle=Booking+Holdings+Announces+it+has+Signed+an+Agreement+to+Acquire+FareHarbor&amp;rft.date=2018-04-19&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fbooking-holdings-announces-it-has-signed-an-agreement-to-acquire-fareharbor-300632814.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://thehustle.co/Booking-Priceline-DiDi-Shatner/">"The corporation formerly known as Priceline just invested half a billion in DiDi Chuxing"</a>. <i>The Hustle</i>. 18 July 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Hustle&amp;rft.atitle=The+corporation+formerly+known+as+Priceline+just+invested+half+a+billion+in+DiDi+Chuxing&amp;rft.date=2018-07-18&amp;rft_id=https%3A%2F%2Fthehustle.co%2FBooking-Priceline-DiDi-Shatner%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/1075531/000107553118000044/bkng6301810q.htm">"Booking Holdings Inc. QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934"</a>. <i>The Hustle</i>. 30 June 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">11 February</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Hustle&amp;rft.atitle=Booking+Holdings+Inc.+QUARTERLY+REPORT+PURSUANT+TO+SECTION+13+OR+15%28d%29+OF+THE+SECURITIES+EXCHANGE+ACT+OF+1934&amp;rft.date=2018-06-30&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F1075531%2F000107553118000044%2Fbkng6301810q.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/booking-holdings-agrees-to-acquire-venga-300842570.html">"Booking Holdings Agrees to Acquire Venga"</a>. <i>Cision PR Newswire</i>. 2019-05-02<span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cision+PR+Newswire&amp;rft.atitle=Booking+Holdings+Agrees+to+Acquire+Venga&amp;rft.date=2019-05-02&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fbooking-holdings-agrees-to-acquire-venga-300842570.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABooking+Holdings" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Booking_Holdings&amp;action=edit&amp;section=5" title="Edit section: External links" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"><tbody><tr>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Booking_Holdings" class="extiw" title="commons:Category:Booking Holdings"><span style="">Booking Holdings</span></a></b></i>.</td></tr></tbody></table><ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.bookingholdings.com">Official website</a></span></span></li>
+<li>Business data for Booking Holdings Inc.: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=BKNG">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=BKNG">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.bloomberg.com/quote/BKNG:US">Bloomberg</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=BKNG">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Booking_Holdings&amp;oldid=951174122">https://en.wikipedia.org/w/index.php?title=Booking_Holdings&amp;oldid=951174122</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Booking_Holdings"
+				data-user-name="Cyberfan195"
+				data-user-gender="unknown"
+				data-timestamp="1586986108">
+				<span>Last edited on 15 April 2020, at 21:28</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Booking_Holdings&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.532","walltime":"0.702","ppvisitednodes":{"value":2619,"limit":1000000},"postexpandincludesize":{"value":88447,"limit":2097152},"templateargumentsize":{"value":5200,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":88115,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  603.558      1 -total"," 34.92%  210.738      1 Template:Reflist"," 33.80%  204.014      1 Template:Infobox_company"," 31.29%  188.871      1 Template:Infobox"," 14.03%   84.671      4 Template:Cite_web"," 13.48%   81.363     21 Template:Cite_news"," 10.43%   62.923      1 Template:Short_description","  9.62%   58.040      1 Template:Br_separated_entries","  9.12%   55.053      7 Template:Wikidata","  7.55%   45.566      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.244","limit":"10.000"},"limitreport-memusage":{"value":6560957,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20200417064521","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Booking Holdings","url":"https:\/\/en.wikipedia.org\/wiki\/Booking_Holdings","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18674747","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18674747","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2014-12-24T16:32:22Z","dateModified":"2020-04-15T21:28:28Z","headline":"Online travel & related services company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1387"});});</script>		</body>
+		</html>
+		

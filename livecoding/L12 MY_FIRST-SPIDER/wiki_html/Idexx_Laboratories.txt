@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Idexx Laboratories - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoLmQpAIIIAAwA@VWcAAADJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Idexx_Laboratories","wgTitle":"Idexx Laboratories","wgCurRevisionId":944636682,"wgRevisionId":944636682,"wgArticleId":6355410,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Idexx_Laboratories","wgRelevantArticleId":6355410,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1758392","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Idexx_Laboratories&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Idexx_Laboratories&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Idexx_Laboratories"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Idexx_Laboratories rootpage-Idexx_Laboratories stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Idexx+Laboratories" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Idexx+Laboratories" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Idexx Laboratories</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Idexx_Laboratories" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Idexx+Laboratories" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Idexx_Laboratories&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><p><b>IDEXX Laboratories, Inc.</b> is an American  <a href="/wiki/Multinational_corporation" title="Multinational corporation">multinational corporation</a>  <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> engaged in the development, manufacture, and distribution of products and services for the companion animal veterinary, livestock and poultry, water testing, and dairy markets. Incorporated in 1983 and headquartered in <a href="/wiki/Westbrook,_Maine" title="Westbrook, Maine">Westbrook, Maine</a>, and EMEA in <a href="/wiki/Hoofddorp,_Netherlands" class="mw-redirect" title="Hoofddorp, Netherlands">Hoofddorp, Netherlands</a>,
+IDEXX offers products to customers in over 175 countries around the world and employs over 7,000 people in full-and part-time positions (as of 31 December 2017<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Idexx_Laboratories&amp;action=edit">[update]</a></sup>).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> There are three main segments of the company: Companion Animal Group, Water, and Livestock, Poultry and Dairy (LPD). In addition, the company also manufactures and sells pet-side SNAP tests for a variety of animal health diagnostic uses.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">IDEXX Laboratories, Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:IDEXX_Labs.svg" class="image"><img alt="IDEXX Labs.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ac/IDEXX_Labs.svg/220px-IDEXX_Labs.svg.png" decoding="async" width="220" height="66" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ac/IDEXX_Labs.svg/330px-IDEXX_Labs.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ac/IDEXX_Labs.svg/440px-IDEXX_Labs.svg.png 2x" data-file-width="207" data-file-height="62"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a>: <a rel="nofollow" class="external text" href="https://www.nasdaq.com/symbol/idxx">IDXX</a></li><li><a href="/wiki/NASDAQ-100" title="NASDAQ-100">NASDAQ-100</a> component</li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US45168D1046">US45168D1046 </a><a href="https://www.wikidata.org/wiki/Q1758392?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Healthcare" class="mw-redirect" title="Healthcare">Healthcare</a> Diagnostic Substances</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1983<span class="noprint">; 37 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1983</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Westbrook,_Maine" title="Westbrook, Maine">Westbrook, Maine</a></div>, <div style="display: inline;" class="country-name"><a href="/wiki/United_States" title="United States">United States</a></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><div class="plainlist">
+<ul><li>Lawrence D. Kingsley (<span style="font-size:85%;"><a href="/wiki/Chairman" class="mw-redirect" title="Chairman">Chairman</a></span>)</li>
+<li>Jay Mazelsky (<span style="font-size:85%;"><a href="/wiki/Chief_Executive_Officer" class="mw-redirect" title="Chief Executive Officer">Chief Executive Officer</a>, <a href="/wiki/President_(corporate_title)" title="President (corporate title)">President</a></span>)</li>
+<li>Brian P. McKeon (<span style="font-size:85%;"><a href="/wiki/Chief_Financial_Officer" class="mw-redirect" title="Chief Financial Officer">Chief Financial Officer</a></span>)</li>
+<li>(as of 31 December 2017<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Idexx_Laboratories&amp;action=edit">[update]</a></sup>)</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">$</a> 2.4B (as of 31 December 2018<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Idexx_Laboratories&amp;action=edit">[update]</a></sup>)</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">7,000 (as of 31 December 2017<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Idexx_Laboratories&amp;action=edit">[update]</a></sup>)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.idexx.com/">idexx.com</a></span></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Products_&amp;_Services"><span class="tocnumber">1</span> <span class="toctext">Products &amp; Services</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Companion_Animal_Group"><span class="tocnumber">1.1</span> <span class="toctext">Companion Animal Group</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Water_testing"><span class="tocnumber">1.2</span> <span class="toctext">Water testing</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Livestock_and_Poultry_Diagnostics"><span class="tocnumber">1.3</span> <span class="toctext">Livestock and Poultry Diagnostics</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-5"><a href="#Stock_Performance"><span class="tocnumber">2</span> <span class="toctext">Stock Performance</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span id="Products_.26_Services"></span><span class="mw-headline" id="Products_&amp;_Services">Products &amp; Services</span><span class="mw-editsection"><a href="/w/index.php?title=Idexx_Laboratories&amp;action=edit&amp;section=1" title="Edit section: Products &amp; Services" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<h3 class="in-block"><span class="mw-headline" id="Companion_Animal_Group">Companion Animal Group</span><span class="mw-editsection"><a href="/w/index.php?title=Idexx_Laboratories&amp;action=edit&amp;section=2" title="Edit section: Companion Animal Group" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The Companion Animal Group ("CAG") provides in-clinic laboratory <a href="/wiki/Analyzer" class="mw-redirect" title="Analyzer">analyzers</a> for companion animals. Analyzers measure blood cell counts as well as levels of certain <a href="/wiki/Enzyme" title="Enzyme">enzymes</a> in blood or urine for the purpose of monitoring health conditions. Major products of this segment are the Catalyst Dx Chemistry Analyzer and the VetTest Chemistry Analyzer, Symmetric dimethylarginine (SDMA),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> ProCyte Dx Hematology Analyzer, the LaserCyte Hematology Analyzer, the IDEXX VetAutoread Hematology Analyzer, the SNAP Pro analyzer, and so on, among other laboratory equipment and analytical services.  Other areas of the CAG division are centered on <a href="/wiki/Diagnostic_imaging" class="mw-redirect" title="Diagnostic imaging">diagnostic imaging</a> and veterinary practice management software systems, including the flagship program Cornerstone, as well as DVMax (acquired from Sneakers Software, Inc., a New York City-based company, under terms of <a href="/wiki/Chapter_11,_Title_11,_United_States_Code" title="Chapter 11, Title 11, United States Code">Ch. 11</a> reorganization <a rel="nofollow" class="external autonumber" href="http://dvmax.com/P/Reorganization02.html">[2]</a>) in late 2012 <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20140512214109/http://www.idexx.com/view/xhtml/en_us/corporate/news/press-releases/20121220pr.jsf">[3]</a>), Animana and several legacy practice management software systems.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Water_testing">Water testing</span><span class="mw-editsection"><a href="/w/index.php?title=Idexx_Laboratories&amp;action=edit&amp;section=3" title="Edit section: Water testing" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The Water segment provides products to measure microbiological parameters in water. Products of this segment include the Colilert, Colilert-18, and Colisure tests. Water products are sold in over 120 countries around the globe.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Livestock_and_Poultry_Diagnostics">Livestock and Poultry Diagnostics</span><span class="mw-editsection"><a href="/w/index.php?title=Idexx_Laboratories&amp;action=edit&amp;section=4" title="Edit section: Livestock and Poultry Diagnostics" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The Livestock and Poultry Diagnostics division provides products to detect diseases in livestock and poultry. Products of this segment include tests for Avian Influenza (AI), Bovine Viral Diarrhoea Virus (BVDV), Porcine Reproductive and Respiratory Syndrome (PRRS), and Bovine Spongiform Encephalopathy (BSE or mad cow disease).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Stock_Performance">Stock Performance</span><span class="mw-editsection"><a href="/w/index.php?title=Idexx_Laboratories&amp;action=edit&amp;section=5" title="Edit section: Stock Performance" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>IDEXX is a publicly traded stock and ended 2019 with a market cap of $22.40Bn and share price of $261.13 (up 43.1% on the year).
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Idexx_Laboratories&amp;action=edit&amp;section=6" title="Edit section: References" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://www.spice-indices.com/idpfiles/spice-assets/resources/public/documents/465757_idxx5cc4shak6.pdf?force_download=true">[1]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170106102407/https://www.spice-indices.com/idpfiles/spice-assets/resources/public/documents/465757_idxx5cc4shak6.pdf?force_download=true">Archived</a> 2017-01-06 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nasdaq.com/press-release/idexx-laboratories-joins-the-nasdaq100-index-20170320-00359">"Today's Stock Market News and Analysis from Nasdaq.com"</a>. <i>NASDAQ.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NASDAQ.com&amp;rft.atitle=Today%27s+Stock+Market+News+and+Analysis+from+Nasdaq.com&amp;rft_id=http%3A%2F%2Fwww.nasdaq.com%2Fpress-release%2Fidexx-laboratories-joins-the-nasdaq100-index-20170320-00359&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdexx+Laboratories" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170629062007/https://www.idexx.com/files/corporate/about-idexx/investor-relations/earnings-releases/2016/fin-results-q4-2016.pdf">"Download your file - IDEXX US"</a> <span class="cs1-format">(PDF)</span>. <i>www.idexx.com</i>. Archived from <a rel="nofollow" class="external text" href="https://www.idexx.com/files/corporate/about-idexx/investor-relations/earnings-releases/2016/fin-results-q4-2016.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2017-06-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.idexx.com&amp;rft.atitle=Download+your+file+-+IDEXX+US&amp;rft_id=https%3A%2F%2Fwww.idexx.com%2Ffiles%2Fcorporate%2Fabout-idexx%2Finvestor-relations%2Fearnings-releases%2F2016%2Ffin-results-q4-2016.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdexx+Laboratories" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Dale, Steve. <a rel="nofollow" class="external text" href="http://www.chicagotribune.com/lifestyles/pets/sns-201508251830--tms--petwrldctnya-a20150826-20150826-column.html">"New test allows early diagnosis of chronic kidney disease in cats"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+test+allows+early+diagnosis+of+chronic+kidney+disease+in+cats&amp;rft.aulast=Dale&amp;rft.aufirst=Steve&amp;rft_id=http%3A%2F%2Fwww.chicagotribune.com%2Flifestyles%2Fpets%2Fsns-201508251830--tms--petwrldctnya-a20150826-20150826-column.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdexx+Laboratories" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170214005712/https://www.idexx.com/corporate/about-idexx/what-we-do/making-a-world-of-difference.html">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.idexx.com/corporate/about-idexx/what-we-do/making-a-world-of-difference.html">the original</a> on 2017-02-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=https%3A%2F%2Fwww.idexx.com%2Fcorporate%2Fabout-idexx%2Fwhat-we-do%2Fmaking-a-world-of-difference.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdexx+Laboratories" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.reuters.com/finance/stocks/companyProfile?rpc=66&amp;symbol=IDXX.O">"Company Full Description"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Company+Full+Description&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FcompanyProfile%3Frpc%3D66%26symbol%3DIDXX.O&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdexx+Laboratories" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Idexx_Laboratories&amp;action=edit&amp;section=7" title="Edit section: External links" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.idexx.com">Official website</a></span></span></li></ul>
+<p><br></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Factory_USA.svg" class="image"><noscript><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Factory_USA.svg/30px-Factory_USA.svg.png" decoding="async" width="30" height="25" data-file-width="465" data-file-height="390"></noscript><span class="lazy-image-placeholder" style="width: 30px;height: 25px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Factory_USA.svg/30px-Factory_USA.svg.png" data-alt="Stub icon" data-width="30" data-height="25" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Factory_USA.svg/45px-Factory_USA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Factory_USA.svg/60px-Factory_USA.svg.png 2x"> </span></a></td><td><i>This United States manufacturing company–related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Idexx_Laboratories&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:US-manufacturing-company-stub" title="Template:US-manufacturing-company-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:US-manufacturing-company-stub" title="Template talk:US-manufacturing-company-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:US-manufacturing-company-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Idexx_Laboratories&amp;oldid=944636682">https://en.wikipedia.org/w/index.php?title=Idexx_Laboratories&amp;oldid=944636682</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Idexx_Laboratories"
+				data-user-name="Betterplace11"
+				data-user-gender="unknown"
+				data-timestamp="1583716278">
+				<span>Last edited on 9 March 2020, at 01:11</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Idexx_Laboratories&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.446","ppvisitednodes":{"value":2488,"limit":1000000},"postexpandincludesize":{"value":48043,"limit":2097152},"templateargumentsize":{"value":7370,"limit":2097152},"expansiondepth":{"value":28,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16135,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  382.397      1 -total"," 59.89%  229.002      1 Template:Infobox_company"," 56.63%  216.546      1 Template:Infobox"," 28.44%  108.762      1 Template:Reflist"," 22.71%   86.844      5 Template:Cite_web"," 17.68%   67.589     11 Template:Wikidata"," 16.10%   61.572      1 Template:Br_separated_entries"," 14.80%   56.594      4 Template:As_of"," 12.17%   46.555      1 Template:Plainlist","  7.69%   29.425      4 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.135","limit":"10.000"},"limitreport-memusage":{"value":4323137,"limit":52428800}},"cachereport":{"origin":"mw1372","timestamp":"20200417054735","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Idexx Laboratories","url":"https:\/\/en.wikipedia.org\/wiki\/Idexx_Laboratories","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1758392","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1758392","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-08-09T19:16:07Z","dateModified":"2020-03-09T01:11:18Z","headline":"American multinational corporation"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1411"});});</script>		</body>
+		</html>
+		

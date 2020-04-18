@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ametek - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoJ4ApAMNEABB2mqbEAAABD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ametek","wgTitle":"Ametek","wgCurRevisionId":946396740,"wgRevisionId":946396740,"wgArticleId":38360114,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Ametek","wgRelevantArticleId":38360114,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"AMETEK_Inc.","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Ametek","wgWikibaseItemId":"Q470317","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},
+"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ametek&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ametek&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ametek"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ametek rootpage-Ametek stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ametek" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Ametek" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Ametek</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Ametek" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Ametek" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Ametek&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=AMETEK_Inc.&amp;redirect=no" class="mw-redirect" title="AMETEK Inc.">AMETEK Inc.</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<p><b>AMETEK, Inc.</b> is an American global manufacturer of electronic instruments and electromechanical devices with a headquarters in the United States and over 220 manufacturing sites worldwide.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">AMETEK, Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Ametek_Logo.svg" class="image"><img alt="Ametek Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ametek_Logo.svg/220px-Ametek_Logo.svg.png" decoding="async" width="220" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ametek_Logo.svg/330px-Ametek_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ametek_Logo.svg/440px-Ametek_Logo.svg.png 2x" data-file-width="250" data-file-height="41"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:AME">AME</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US0311001004">US0311001004 </a><a href="https://www.wikidata.org/wiki/Q470317?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Manufacturer" class="mw-redirect" title="Manufacturer">Manufacturer</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1930<span class="noprint">; 90 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1930</span>)</span> (as American Machine and Metals)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Berwyn,_Pennsylvania" title="Berwyn, Pennsylvania">Berwyn</a>, <a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;"><a href="/wiki/World" title="World">Worldwide</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><span class="nowrap">David A. Zapico</span><br><span class="nowrap"><small>(<a href="/wiki/Chairman_and_CEO" class="mw-redirect" title="Chairman and CEO">Chairman and CEO</a>)</small></span><br><span class="nowrap">William J. Burke</span><br><span class="nowrap"><small>(<a href="/wiki/CFO" class="mw-redirect" title="CFO">CFO</a>)</small></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><span class="nowrap"><a href="/wiki/Electronic_instruments" class="mw-redirect" title="Electronic instruments">Electronic instruments</a></span><br><span class="nowrap"><a href="/wiki/Electromechanical" class="mw-redirect" title="Electromechanical">Electromechanical</a> devices</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/US%24" class="mw-redirect" title="US$">US$</a> 4.30 billion <small>(2017)</small></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/US%24" class="mw-redirect" title="US$">US$</a> 936.9 million <small>(2017)</small></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/US%24" class="mw-redirect" title="US$">US$</a> 606.0 million <small>(2017)</small></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/US%24" class="mw-redirect" title="US$">US$</a> 7.8 billion <small>(2017)</small></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><span class="nowrap"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/US%24" class="mw-redirect" title="US$">US$</a> 4.03 billion <small>(2017)</small></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">16,900<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.ametek.com/">www<wbr></wbr>.ametek<wbr></wbr>.com</a></span></td></tr><tr><td colspan="2" style="text-align:center;line-height: 1.35em;"><b>Footnotes / references</b><br><sup id="cite_ref-2017_Annual_Report_2-0" class="reference"><a href="#cite_note-2017_Annual_Report-2">[2]</a></sup></td></tr></tbody></table><p>The company was founded in 1930. The company's original name, <i>American Machine and Metals</i>, was changed to AMETEK in the early 1960s, reflecting AME's evolution from a provider of heavy machinery to a manufacturer of analytical instruments, precision components and specialty materials.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p><p>The firm has two operating groups (the <i>Electronic Instruments Group</i> and the <i>Electromechanical Group</i>).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Together, these groups and their divisions comprise over 100 brands, including analytical instruments, monitoring, testing and calibration devices as well as electrical motors, pumps and interconnects.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The company's headquarters are in <a href="/wiki/Berwyn,_Pennsylvania" title="Berwyn, Pennsylvania">Berwyn, Pennsylvania</a>.
+</p><p>AMETEK is listed on the <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">New York Stock Exchange</a>. Its common stock is a component of the <a href="/wiki/S%26P_500_Index" title="S&amp;P 500 Index">S&amp;P 500</a> index and the <a href="/wiki/Russell_1000_Index" title="Russell 1000 Index">Russell 1000</a> index
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Acquisition_History"><span class="tocnumber">1</span> <span class="toctext">Acquisition History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Divisions"><span class="tocnumber">2</span> <span class="toctext">Divisions</span></a>
+<ul><li class="toclevel-2 tocsection-3"><a href="#Creaform"><span class="tocnumber">2.1</span> <span class="toctext">Creaform</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Acquisition_History">Acquisition History</span><span class="mw-editsection"><a href="/w/index.php?title=Ametek&amp;action=edit&amp;section=1" title="Edit section: Acquisition History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>History prior to 1999 is incomplete.
+</p>
+<table class="wikitable"><tbody><tr><th>Acquisition Date
+</th>
+<th>Company Name
+</th>
+<th>Business
+</th></tr><tr><td>Jan 12, 1998
+</td>
+<td><a href="/w/index.php?title=Rotron_Inc.&amp;action=edit&amp;redlink=1" class="new" title="Rotron Inc. (page does not exist)">Rotron Inc.</a>
+</td>
+<td>Aerospace motors, fans and blowers
+</td></tr><tr><td>May 3, 1999
+</td>
+<td><a href="/w/index.php?title=Gulton-Statham&amp;action=edit&amp;redlink=1" class="new" title="Gulton-Statham (page does not exist)">Gulton-Statham</a>
+</td>
+<td>High-accuracy electronic pressure transmitters and transducers
+</td></tr><tr><td>Aug 2, 1999
+</td>
+<td>Patriot Sensors &amp; Controls Corp.
+</td>
+<td>Position sensors, aviation sensors and tank-level gauges
+</td></tr><tr><td>Dec 3, 1999
+</td>
+<td><a href="/w/index.php?title=Drexelbrook_Engineering&amp;action=edit&amp;redlink=1" class="new" title="Drexelbrook Engineering (page does not exist)">Drexelbrook Engineering</a>
+</td>
+<td>Point and continuous level measurement
+</td></tr><tr><td>May 21, 2001
+</td>
+<td>GS Electric
+</td>
+<td>Universal and permanent magnet motors
+</td></tr><tr><td>Jul 9, 2001
+</td>
+<td>Edax Inc.
+</td>
+<td>Analytic instrumentation
+</td></tr><tr><td>Mar 5, 2003
+</td>
+<td>Solidstate Controls Inc.
+</td>
+<td>Uninterruptable power supply systems
+</td></tr><tr><td>Sep 8, 2003
+</td>
+<td>Chandler Engineering and Grabner Instruments
+</td>
+<td>Drilling, production enhancement, &amp; fuels analysis instruments
+</td></tr><tr><td>Jun 21, 2004
+</td>
+<td>Taylor Hobson Holdings Ltd
+</td>
+<td>Ultra-precision measurement instrumentation
+</td></tr><tr><td>Jul 19, 2004
+</td>
+<td>Hughes-Treitler Manufacturing Corp.
+</td>
+<td>Heat exchangers and thermal management subsystems
+</td></tr><tr><td>Jun 14, 2005
+</td>
+<td>Spectro Beteiligungs (Spectro Analytical Instruments GmbH  &amp; Co)
+</td>
+<td><a href="/wiki/Atomic_spectroscopy" title="Atomic spectroscopy">Atomic spectroscopy</a> instrumentation
+</td></tr><tr><td>Jun 21, 2005
+</td>
+<td>Xtreme Energy
+</td>
+<td>Patented technology for <a href="/wiki/Brushless_DC_motor" class="mw-redirect" title="Brushless DC motor">brushless DC micro-motors</a>
+</td></tr><tr><td>Sep 7, 2005
+</td>
+<td>Quizix Inc.
+</td>
+<td>Precision pumping systems
+</td></tr><tr><td>Sep 26, 2005
+</td>
+<td>Solartron
+</td>
+<td>Analytical instruments
+</td></tr><tr><td>Oct 10, 2005
+</td>
+<td>HCC Industries
+</td>
+<td>Highly engineered hermetic connectors
+</td></tr><tr><td>Feb 16, 2006
+</td>
+<td>Pulsar Technologies Inc
+</td>
+<td>Specialized communications equipment
+</td></tr><tr><td>May 15, 2006
+</td>
+<td>PennEngineering Motion Technologies
+</td>
+<td>Motion-technology
+</td></tr><tr><td>Jun 15, 2006
+</td>
+<td><a href="/wiki/Land_Instruments_International" title="Land Instruments International">Land Instruments International</a>
+</td>
+<td>Infrared temperature measurement, combustion-efficiency and emissions-monitoring
+</td></tr><tr><td>Sep 28, 2006
+</td>
+<td>General Ceramics
+</td>
+<td>Hermetic microelectronic packages
+</td></tr><tr><td>Nov 6, 2006
+</td>
+<td>Precitech
+</td>
+<td>Ultra-precision machining systems
+</td></tr><tr><td>Jun 5, 2007
+</td>
+<td>Advanced Industries Inc.
+</td>
+<td>Starter generators
+</td></tr><tr><td>Jun 5, 2007
+</td>
+<td>B&amp;S Aircraft Parts &amp; Accessories
+</td>
+<td>Jet overhaul services
+</td></tr><tr><td>Jun 20, 2007
+</td>
+<td>Hamilton Precision Metals Inc.
+</td>
+<td>Precision metal strip
+</td></tr><tr><td>Aug 13, 2007
+</td>
+<td>Cameca SAS
+</td>
+<td>Electron probe microanalysis instrumentation and Low-energy X-ray emission spectroscopy
+</td></tr><tr><td>Dec 14, 2007
+</td>
+<td>California Instruments
+</td>
+<td>Programmable power
+</td></tr><tr><td>Feb 11, 2008
+</td>
+<td>Newage Testing
+</td>
+<td>Testing equipment
+</td></tr><tr><td>Feb 21, 2008
+</td>
+<td>Drake Air
+</td>
+<td>Heat-transfer repair services
+</td></tr><tr><td>Feb 26, 2008
+</td>
+<td>Motion Control Group
+</td>
+<td>Customized motors and motion control products
+</td></tr><tr><td>Apr 14, 2008
+</td>
+<td>Reading Alloys
+</td>
+<td>Niche specialty metals
+</td></tr><tr><td>Jun 12, 2008
+</td>
+<td><a href="/wiki/Vision_Research_Phantom" class="mw-redirect" title="Vision Research Phantom">Vision Research</a>
+</td>
+<td>High-speed digital imaging systems
+</td></tr><tr><td>Aug 25, 2008
+</td>
+<td>Xantrex Technology Inc.
+</td>
+<td>Programmable power
+</td></tr><tr><td>Nov 3, 2008
+</td>
+<td>Muirhead Aerospace
+</td>
+<td>Aerospace and defense
+</td></tr><tr><td>Jan 20, 2009
+</td>
+<td>High Standard Aviation
+</td>
+<td>Electrical/electromechanical, hydraulic and pneumatic repair services
+</td></tr><tr><td>Sep 28, 2009
+</td>
+<td>Unispec Marketing Pvt. Ltd.
+</td>
+<td>Affiliated businesses
+</td></tr><tr><td>Sep 28, 2009
+</td>
+<td>Thelsha Technical Services Pvt. Ltd
+</td>
+<td>Affiliated businesses
+</td></tr><tr><td>Jan 26, 2010
+</td>
+<td>Sterling Ultra Precision
+</td>
+<td>Machine tools for the ophthalmic lens
+</td></tr><tr><td>April 8, 2010
+</td>
+<td>Imago Scientific Instruments
+</td>
+<td>3D atom probes
+</td></tr><tr><td>June 1, 2010
+</td>
+<td>Technical Services for Electronics
+</td>
+<td>Engineered interconnect solutions
+</td></tr><tr><td>July 1, 2010
+</td>
+<td>Haydon Enterprises
+</td>
+<td>High-precision motion control products
+</td></tr><tr><td>Aug 19, 2010
+</td>
+<td>American Reliance's Power Division
+</td>
+<td>Direct current power supplies and electronic loads
+</td></tr><tr><td>Nov 9, 2010
+</td>
+<td>Atlas Material Testing Technology
+</td>
+<td>Weathering test instruments
+</td></tr><tr><td>April 28, 2011
+</td>
+<td>Avicenna Technology, Inc
+</td>
+<td>Medical device industry
+</td></tr><tr><td>May 9, 2011
+</td>
+<td>Coining Holding Company
+</td>
+<td>Metal preforms, microstampings and bonding wire solutions
+</td></tr><tr><td>Oct 17, 2011
+</td>
+<td>Reichert  Technologies
+</td>
+<td>Eye care
+</td></tr><tr><td>Oct 25, 2011
+</td>
+<td>EM Test GmbH
+</td>
+<td>Electronic test and measurement equipment
+</td></tr><tr><td>Jan 3, 2012
+</td>
+<td>Technical Manufacturing Corporation
+</td>
+<td>Vibration isolation systems and optical test benches
+</td></tr><tr><td>Jan 26, 2012
+</td>
+<td>O'Brien Corporation
+</td>
+<td>Fluid and gas handling solutions
+</td></tr><tr><td>May 21, 2012
+</td>
+<td>Dunkermotoren GmbH
+</td>
+<td>Advanced motion control solutions
+</td></tr><tr><td>Oct 23, 2012
+</td>
+<td>Micro-Poise Measurement Systems
+</td>
+<td>Integrated test and measurement solutions for the tire industry
+</td></tr><tr><td>Dec 17, 2012
+</td>
+<td>Aero Components International
+</td>
+<td>Aviation repair operations
+</td></tr><tr><td>Dec 17, 2012
+</td>
+<td>Avtech Avionics and Instruments
+</td>
+<td>Aviation repair operations
+</td></tr><tr><td>Jan 2, 2013
+</td>
+<td>Sunpower, Inc
+</td>
+<td>Stirling cycle cryocoolers and externally heated <a href="/wiki/Stirling_engine" title="Stirling engine">stirling engine</a> technology
+</td></tr><tr><td>Jan 2, 2013
+</td>
+<td>Crystal Engineering
+</td>
+<td>Pressure calibrators and digital test gauges
+</td></tr><tr><td>Aug 7, 2013
+</td>
+<td>Controls Southeast, Inc.
+</td>
+<td>Custom-engineered thermal solutions
+</td></tr><tr><td>Oct 29, 2013
+</td>
+<td>Creaform (3D)
+</td>
+<td>Portable 3D measurement technologies
+</td></tr><tr><td>Dec 4, 2013
+</td>
+<td>Powervar
+</td>
+<td>Power management systems and <a href="/wiki/Uninterruptible_power_supply" title="Uninterruptible power supply">uninterruptible power supply</a> (UPS) systems
+</td></tr><tr><td>Jan 3, 2014
+</td>
+<td><a href="/wiki/Teseq" title="Teseq">Teseq</a>  Group
+</td>
+<td>Test and measurement instrumentation for electromagnetic compatibility (EMC) testing
+</td></tr><tr><td>Feb 10, 2014
+</td>
+<td><a href="/wiki/VTI_Instruments" title="VTI Instruments">VTI Instruments</a>
+</td>
+<td>High precision test and measurement instrumentation
+</td></tr><tr><td>June 20, 2014
+</td>
+<td><a href="/wiki/Zygo_Corporation" title="Zygo Corporation">Zygo Corporation</a>
+</td>
+<td>Non-contact optical metrology
+</td></tr><tr><td>Aug. 5, 2014
+</td>
+<td>AMPTEK, Inc.
+</td>
+<td>X-ray detectors using <a href="/wiki/X-ray_fluorescence" title="X-ray fluorescence">x-ray fluorescence</a> (XRF)
+</td></tr><tr><td>Aug. 5, 2014
+</td>
+<td>Luphos GmbH
+</td>
+<td>Non-contact metrology technology
+</td></tr><tr><td>May 8, 2015
+</td>
+<td>Global Tubes
+</td>
+<td>Small-diameter precision tubing
+</td></tr><tr><td>July 7, 2015
+</td>
+<td>Surface Inspection Systems Division, Cognex Corp.
+</td>
+<td>Vision systems for surface flaw and defect detection
+</td></tr><tr><td>Nov 1, 2016
+</td>
+<td>Laserage Technology Corporation
+</td>
+<td>Laser fabrication for medical device market
+</td></tr><tr><td>Aug 4, 2016
+</td>
+<td>Nu Instruments
+</td>
+<td>High-end elemental analysis
+</td></tr><tr><td>Aug 4, 2016
+</td>
+<td>HS Foils
+</td>
+<td>Materials analysis
+</td></tr><tr><td>Feb 5, 2016
+</td>
+<td>Brookfield Engineering
+</td>
+<td>Laboratory <a href="/wiki/Viscosity" title="Viscosity">viscosity</a> and <a href="/wiki/Rheology" title="Rheology">rheology</a> instruments
+</td></tr><tr><td>Feb 5, 2016
+</td>
+<td>ESP/SurgeX
+</td>
+<td>Power protection
+</td></tr><tr><td>Feb 7, 2017
+</td>
+<td>Rauland-Borg Corporation
+</td>
+<td>Healthcare communications solutions
+</td></tr><tr><td>April 17, 2017
+</td>
+<td>MOCON, Inc.
+</td>
+<td>Laboratory and field gas analysis instrumentation
+</td></tr><tr><td>December 19, 2017
+</td>
+<td>Arizona Instrument
+</td>
+<td>Laboratory moisture analysis and field toxic gas analyzers
+</td></tr><tr><td>January 19, 2018
+</td>
+<td>FMH Aerospace
+</td>
+<td>Aerospace components
+</td></tr><tr><td>April 9, 2018
+</td>
+<td>SoundCom Systems
+</td>
+<td>Communication solutions integration
+</td></tr><tr><td>September 27, 2019
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.gatan.com/">Gatan</a>
+</td>
+<td>Electron microscope instrumentation and software
+</td></tr><tr><td>February 5, 2020
+</td>
+<td>IntelliPower
+</td>
+<td>Uninterruptible power systems
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Divisions">Divisions</span><span class="mw-editsection"><a href="/w/index.php?title=Ametek&amp;action=edit&amp;section=2" title="Edit section: Divisions" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<h3 class="in-block"><span class="mw-headline" id="Creaform">Creaform</span><span class="mw-editsection"><a href="/w/index.php?title=Ametek&amp;action=edit&amp;section=3" title="Edit section: Creaform" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>Creaform manufactures <a href="/wiki/Metrology" title="Metrology">metrology</a> and <a href="/wiki/3D_modeling" title="3D modeling">3D engineering</a> devices for use in shop-floor environments<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> It is based in <a href="/wiki/L%C3%A9vis,_Quebec" title="Lévis, Quebec">Lévis</a>, <a href="/wiki/Quebec" title="Quebec">Quebec</a>, Canada.  The company was founded in 2002 by Martin Lamontagne and two co-workers at Modelex.<sup id="cite_ref-:0_8-0" class="reference"><a href="#cite_note-:0-8">[8]</a></sup> It began with a $200,000 loan from the <a href="/wiki/Business_Development_Bank_of_Canada" title="Business Development Bank of Canada">Business Development Bank of Canada</a>.<sup id="cite_ref-:0_8-1" class="reference"><a href="#cite_note-:0-8">[8]</a></sup>  In 2009, the company sold its 1000th laser scanner<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>, priced from $50 -100,000.<sup id="cite_ref-”Aniwaa”_10-0" class="reference"><a href="#cite_note-%E2%80%9DAniwaa%E2%80%9D-10">[10]</a></sup> Creaform was acquired by Ametek in 2013 for $120 million in cash.<sup id="cite_ref-:4_11-0" class="reference"><a href="#cite_note-:4-11">[11]</a></sup> At the time, Creaform had annual sales of $52 million.<sup id="cite_ref-:4_11-1" class="reference"><a href="#cite_note-:4-11">[11]</a></sup> In 2017, Creaform opened a new, $20 million, headquarters in Levis.<sup id="cite_ref-:2_12-0" class="reference"><a href="#cite_note-:2-12">[12]</a></sup> The 76,000 square foot  headquarters is double the size of the old one, allowing Creaform to triple its production.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Ametek&amp;action=edit&amp;section=4" title="Edit section: References" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/ametek/">"Ametek"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Ametek&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Fametek%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmetek" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2017_Annual_Report-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2017_Annual_Report_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://phx.corporate-ir.net/phoenix.zhtml?c=104638&amp;p=irol-reportsannualtitle=AMETEK">"Annual Report"</a>. <a href="/w/index.php?title=AMETEK,_Inc.&amp;action=edit&amp;redlink=1" class="new" title="AMETEK, Inc. (page does not exist)">AMETEK, Inc.</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Annual+Report&amp;rft.pub=AMETEK%2C+Inc.&amp;rft_id=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D104638%26p%3Dirol-reportsannualtitle%3DAMETEK&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmetek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since September 2019">permanent dead link</span></a></i>]</span></sup></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130126131508/http://www.ametek.com/about/index.aspx">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.ametek.com/about/index.aspx">the original</a> on 2013-01-26<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-01-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.ametek.com%2Fabout%2Findex.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmetek" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.fundinguniverse.com/company-histories/AMETEK-Inc-Company-History.html">http://www.fundinguniverse.com/company-histories/AMETEK-Inc-Company-History.html</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.reuters.com/finance/stocks/companyProfile?symbol=AME">"Profile: Ametek Inc (AME)"</a>. <i>Reuters</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Reuters&amp;rft.atitle=Profile%3A+Ametek+Inc+%28AME%29&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FcompanyProfile%3Fsymbol%3DAME&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmetek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130201054807/http://www.ametek.com/products/index.aspx">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.ametek.com/products/index.aspx">the original</a> on 2013-02-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-01-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.ametek.com%2Fproducts%2Findex.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmetek" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Firth, Niall (2007-02-26). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180113202958/https://www.highbeam.com/doc/1G1-159978791.html">"INSIGHT: Going steady"</a>. <i>The Engineer</i>. Archived from <a rel="nofollow" class="external text" href="https://www.highbeam.com/doc/1G1-159978791.html">the original</a> on 2018-01-13.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Engineer&amp;rft.atitle=INSIGHT%3A+Going+steady.&amp;rft.date=2007-02-26&amp;rft.aulast=Firth&amp;rft.aufirst=Niall&amp;rft_id=https%3A%2F%2Fwww.highbeam.com%2Fdoc%2F1G1-159978791.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmetek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-:0-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">King, Mike (2006-10-18). <a rel="nofollow" class="external text" href="https://www.pressreader.com/canada/montreal-gazette/20061018/282016142819914">"Creaform Founder Wins Award"</a>. <i>The Montreal Gazette</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Montreal+Gazette&amp;rft.atitle=Creaform+Founder+Wins+Award&amp;rft.date=2006-10-18&amp;rft.aulast=King&amp;rft.aufirst=Mike&amp;rft_id=https%3A%2F%2Fwww.pressreader.com%2Fcanada%2Fmontreal-gazette%2F20061018%2F282016142819914&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmetek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.design-engineering.com/creaform-sells-1000th-laser-scanner-10650/">"Creaform sells 1,000th laser scanner"</a>. <i>Design Engineering</i>. May 26, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Design+Engineering&amp;rft.atitle=Creaform+sells+1%2C000th+laser+scanner&amp;rft.date=2014-05-26&amp;rft_id=https%3A%2F%2Fwww.design-engineering.com%2Fcreaform-sells-1000th-laser-scanner-10650%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmetek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-”Aniwaa”-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-%E2%80%9DAniwaa%E2%80%9D_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Cherdo, Ludivine. <a rel="nofollow" class="external text" href="https://www.aniwaa.com/best-handheld-and-portable-3d-scanner">"Handheld 3D scanners 2019: top 10 selection and buying guide"</a>. <i>Aniwaa</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Aniwaa&amp;rft.atitle=Handheld+3D+scanners+2019%3A+top+10+selection+and+buying+guide&amp;rft.aulast=Cherdo&amp;rft.aufirst=Ludivine&amp;rft_id=https%3A%2F%2Fwww.aniwaa.com%2Fbest-handheld-and-portable-3d-scanner&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmetek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-:4-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-:4_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:4_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Lamontagne, Kathryne. <a rel="nofollow" class="external text" href="http://www.journaldemontreal.com/2013/10/29/creaform-achetee-par-ametek-pour-120-m">"Creaform achetée par Ametek pour 120 M$"</a>. <i>Le Journal de Montréal</i> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Le+Journal+de+Montr%C3%A9al&amp;rft.atitle=Creaform+achet%C3%A9e+par+Ametek+pour+120+M%24&amp;rft.aulast=Lamontagne&amp;rft.aufirst=Kathryne&amp;rft_id=http%3A%2F%2Fwww.journaldemontreal.com%2F2013%2F10%2F29%2Fcreaform-achetee-par-ametek-pour-120-m&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmetek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-:2-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-:2_12-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Couture, Pierre. <a rel="nofollow" class="external text" href="http://www.journaldequebec.com/2016/10/19/un-nouveau-siege-social-de-20-m-pour-creaform-a-levis">"Un nouveau siège social de 20 M$ pour Creaform à Lévis"</a>. <i>Le Journal de Québec</i> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Le+Journal+de+Qu%C3%A9bec&amp;rft.atitle=Un+nouveau+si%C3%A8ge+social+de+20+M%24+pour+Creaform+%C3%A0+L%C3%A9vis&amp;rft.aulast=Couture&amp;rft.aufirst=Pierre&amp;rft_id=http%3A%2F%2Fwww.journaldequebec.com%2F2016%2F10%2F19%2Fun-nouveau-siege-social-de-20-m-pour-creaform-a-levis&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmetek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Ametek&amp;action=edit&amp;section=5" title="Edit section: External links" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul><li><span><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" decoding="async" width="28" height="28" class="noviewer" data-file-width="512" data-file-height="512"></noscript><span class="lazy-image-placeholder" style="width: 28px;height: 28px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" data-alt="" data-width="28" data-height="28" data-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-class="noviewer"> </span></span><span><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li></ul></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Psidial.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Psidial.jpg/220px-Psidial.jpg" decoding="async" width="220" height="220" class="thumbimage" data-file-width="1641" data-file-height="1641"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 220px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Psidial.jpg/220px-Psidial.jpg" data-alt="" data-width="220" data-height="220" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Psidial.jpg" class="internal" title="Enlarge"></a></div><i>An AMETEK USG Pressure Gauge Device</i>, made by AMETEK's gauge division</div></div></div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.ametek.com">Ametek website</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.reuters.com/finance/stocks/companyProfile?symbol=AME">Company profile at Reuters</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fundinguniverse.com/company-histories/AMETEK-Inc-Company-History.html">Company history at Fundinguniverse</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.creaform3d.com/">Creaform website</a></li></ul><ul><li>Business data for AMETEK Inc: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=AME">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=AME">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=AME">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ametek&amp;oldid=946396740">https://en.wikipedia.org/w/index.php?title=Ametek&amp;oldid=946396740</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Ametek"
+				data-user-name="Sjscience"
+				data-user-gender="unknown"
+				data-timestamp="1584655959">
+				<span>Last edited on 19 March 2020, at 22:12</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Ametek&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.364","walltime":"0.517","ppvisitednodes":{"value":1800,"limit":1000000},"postexpandincludesize":{"value":44584,"limit":2097152},"templateargumentsize":{"value":4880,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":34756,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  457.576      1 -total"," 40.18%  183.842      1 Template:Infobox_company"," 37.15%  170.006      1 Template:Infobox"," 33.65%  153.989      1 Template:Reflist"," 18.60%   85.108      7 Template:Cite_web"," 15.97%   73.067      1 Template:Br_separated_entries"," 15.93%   72.888      8 Template:Wikidata"," 13.97%   63.901      1 Template:Short_description","  9.51%   43.526      1 Template:Pagetype","  7.25%   33.182      1 Template:Dead_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.180","limit":"10.000"},"limitreport-memusage":{"value":5753858,"limit":52428800}},"cachereport":{"origin":"mw1364","timestamp":"20200417060039","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ametek","url":"https:\/\/en.wikipedia.org\/wiki\/Ametek","sameAs":"http:\/\/www.wikidata.org\/entity\/Q470317","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q470317","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-01-29T03:11:09Z","dateModified":"2020-03-19T22:12:39Z","headline":"manufacturer of electronic instruments and electromechanical devices"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1367"});});</script>		</body>
+		</html>
+		

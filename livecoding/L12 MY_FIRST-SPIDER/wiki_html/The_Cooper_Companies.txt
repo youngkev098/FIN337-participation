@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>The Cooper Companies - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoKngpAAD0AACIY@1QAAADO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"The_Cooper_Companies","wgTitle":"The Cooper Companies","wgCurRevisionId":937152030,"wgRevisionId":937152030,"wgArticleId":7154013,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"The_Cooper_Companies","wgRelevantArticleId":7154013,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0
+,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1129792","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Cooper_Companies&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_Cooper_Companies&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/The_Cooper_Companies"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-The_Cooper_Companies rootpage-The_Cooper_Companies stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Cooper+Companies" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=The+Cooper+Companies" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">The Cooper Companies</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/The_Cooper_Companies" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Cooper+Companies" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=The_Cooper_Companies&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<p><b>The Cooper Companies, Inc.</b>, branded as <b>CooperCompanies</b>, is a global medical device company, publicly traded on the NYSE (NYSE:COO). With its headquarters in <a href="/wiki/San_Ramon,_California" title="San Ramon, California">San Ramon</a>, California, it has a workforce of more than 12,000 employees<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and consists of two business units, <a rel="nofollow" class="external autonumber" href="https://www.coopervision.com">[1]</a> CooperVision (CVI) which manufactures contact lenses for the vision care market, and <a rel="nofollow" class="external text" href="https://www.coopersurgical.com/">CooperSurgical</a> (CSI) which manufactures medical devices and fertility and genomic products for the women’s health care market. The Cooper Companies is a member of the S&amp;P 500 and a certified Great Place to Work in the United States.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">The Cooper Companies, Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:CC_rgb_hor_pref_aqu.jpg" class="image"><img alt="CC rgb hor pref aqu.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/CC_rgb_hor_pref_aqu.jpg/250px-CC_rgb_hor_pref_aqu.jpg" decoding="async" width="250" height="48" data-file-width="1525" data-file-height="294"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:COO">COO</a></li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US2166484020">US2166484020 </a><a href="https://www.wikidata.org/wiki/Q1129792?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Medical_device" title="Medical device">Medical Devices</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1958<span style="display:none"> (<span class="bday dtstart published updated">1958</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/San_Ramon,_California" title="San Ramon, California">San Ramon, California</a>, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">Worldwide</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Albert G. White III, President &amp; CEO</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;">Medical Devices</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">12,000 <small>(2018)</small><sup id="cite_ref-2018_Form_10-K_1-0" class="reference"><a href="#cite_note-2018_Form_10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://coopercos.com">coopercos<wbr></wbr>.com</a></span></td></tr></tbody></table><p>Through its business units, CooperVision and CooperSurgical, the company offers a range of products and services in the vision care and women’s health care markets.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Business_Units"><span class="tocnumber">2</span> <span class="toctext">Business Units</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Health_and_Wellness"><span class="tocnumber">3</span> <span class="toctext">Health and Wellness</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Cooper_Giving"><span class="tocnumber">4</span> <span class="toctext">Cooper Giving</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Sustainability"><span class="tocnumber">5</span> <span class="toctext">Sustainability</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=The_Cooper_Companies&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>CooperCompanies was founded in 1958 as Martin H. Smith Co. and later incorporated as Cooper Tinsley Laboratories Inc. in 1961. The company changed its name to Cooper Laboratories Inc. in 1967. Cooper Laboratories entered the contact lens business in 1972 when it acquired British lens maker GlobalVision.
+</p><p>In 1980, Cooper Laboratories reorganized into three business groups: CooperVision, CooperCare and CooperBiomedical, with Cooper Medical Devices Corp. added as a fourth group one year later. 
+</p><p>The company was renamed The Cooper Companies in 1987. Three years later, the company was further restructured into three business units: CooperVision, CooperSurgical and CooperVision Pharmaceuticals. The latter was dissolved in 2003. 
+</p><p>Today, CooperCompanies operates as two business units: CooperVision and CooperSurgical, which have continued to grow through various acquisitions and expansions.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p><p>Albert G. White III was named President and CEO of CooperCompanies in May 2018, leading the company toward continued investments in product innovation, strategic acquisitions, and geographic expansion to create a better future for its customers, patients and stakeholders.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Business_Units">Business Units</span><span class="mw-editsection"><a href="/w/index.php?title=The_Cooper_Companies&amp;action=edit&amp;section=2" title="Edit section: Business Units" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>CooperVision is the contact lens unit of CooperCompanies, serving contact lens wearers and eye care practitioners. CooperVision was incorporated in 1980 and today is one of the world’s largest manufacturers of soft contact lenses. Its contact lenses and related products are sold to eye care practices in over 100 countries. Products include a range of daily, two-week and monthly disposable contact lenses under the brand names MyDay®, clariti® 1 day, Avaira Vitality™, and Biofinity®, and other spherical, toric and multifocal lenses for astigmatism, nearsightedness and farsightedness, and presbyopia.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p><p>CooperSurgical is the medical device and fertility and genomics unit of CooperCompanies, serving the health care needs of women, babies and families. CooperSurgical became a business unit of the company in 1990. It has over 600 products primarily used by women’s health care providers in their offices, clinics, operating rooms, labor, and delivery suites and reproductive IVF clinics worldwide. <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Health_and_Wellness">Health and Wellness</span><span class="mw-editsection"><a href="/w/index.php?title=The_Cooper_Companies&amp;action=edit&amp;section=3" title="Edit section: Health and Wellness" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>CooperCompanies launched its employee wellness program in 2009 to support the well-being of its employees and the communities where they live and work. The robust program takes a holistic approach to wellness, providing a breadth of activities and programs organized locally at sites around the world. 
+CooperCompanies offer a robust, global wellness program that provides a breadth of activities and programs organized locally at sites around the world that have a meaningful impact. The company takes a holistic approach to wellness and employees take an active role in driving this long-standing program. 
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Cooper_Giving">Cooper Giving</span><span class="mw-editsection"><a href="/w/index.php?title=The_Cooper_Companies&amp;action=edit&amp;section=4" title="Edit section: Cooper Giving" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<p>CooperCompanies selected Optometry Giving Sight and March of Dimes as the beneficiaries of its global charitable giving program. Through the Cooper Giving program, company employees can donate year-round to both non-profits, with Cooper providing a one-for-one match.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p><p>CooperCompanies is also active in local philanthropic efforts, supporting communities in which employees live and work. 
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Sustainability">Sustainability</span><span class="mw-editsection"><a href="/w/index.php?title=The_Cooper_Companies&amp;action=edit&amp;section=5" title="Edit section: Sustainability" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<p>As part of its global sustainability efforts, over a two-year period, CooperVision converted its three Rochester, N.Y.-area sites to 100 percent renewable electricity usage.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> As of 2019, the sites now completely rely on wind power.
+</p><p>The Puerto Rico Manufacturers Association (PRMA) twice awarded the CooperVision Juana Díaz, Puerto Rico site with the Environmental Innovation Project of the Year Award. <sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> In 2017, CooperVision was recognized for minimizing raw materials usage, waste, and emissions at its Puerto Rico facility by more than 60 percent. The site also received the Puerto Rico Aqueduct and Water Authority’s (PRASA) Pre-Treatment Excellence Compliance Award for its water conservation efforts for four consecutive years.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p><p>The CooperVision contact lens manufacturing facility in Alajuela, Costa Rica, which opened in February 2016, was awarded LEED® Silver certification for its environmentally-conscious design and operation. <sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p><p>These contributions are part of Cooper’s alignment with the United Nations Sustainable Development Goals, including a focus on good health and well-being as well as establishing complementary partnerships.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><a href="/w/index.php?title=The_Cooper_Companies&amp;action=edit&amp;section=6" title="Edit section: See also" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li><a href="/wiki/List_of_S%26P_400_companies" title="List of S&amp;P 400 companies">List of S&amp;P 400 companies</a></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=The_Cooper_Companies&amp;action=edit&amp;section=7" title="Edit section: References" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-7 collapsible-block" id="mf-section-7">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-2018_Form_10-K-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-2018_Form_10-K_1-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFThe_Cooper_Companies,_Inc.2018" class="citation">The Cooper Companies, Inc. (2018-12-21), <a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/711404/000071140418000047/coo_20181031-10k.htm"><i>Form 10-K for the fiscal year ended October 31, 2018</i></a>, Washington, D.C.: U.S. Securities and Exchange Commission, File 001-08597, film 181250004<span class="reference-accessdate">, retrieved <span class="nowrap">2019-06-18</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Form+10-K+for+the+fiscal+year+ended+October+31%2C+2018&amp;rft.place=Washington%2C+D.C.&amp;rft.pub=U.S.+Securities+and+Exchange+Commission&amp;rft.date=2018-12-21&amp;rft.au=The+Cooper+Companies%2C+Inc.&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F711404%2F000071140418000047%2Fcoo_20181031-10k.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Cooper+Companies" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.coopercos.com/about/overview/">"About CooperCompanies"</a>. <i>CooperCompanies</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CooperCompanies&amp;rft.atitle=About+CooperCompanies&amp;rft_id=http%3A%2F%2Fwww.coopercos.com%2Fabout%2Foverview%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Cooper+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.greatplacetowork.com/certified-company/1100836/">"Certified Companies: CooperCompanies"</a>. <i>Great Places to Work</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Great+Places+to+Work&amp;rft.atitle=Certified+Companies%3A+CooperCompanies&amp;rft_id=https%3A%2F%2Fwww.greatplacetowork.com%2Fcertified-company%2F1100836%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Cooper+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.coopercos.com/stories/story-1/">"Our Story"</a>. <i>CooperCompanies</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CooperCompanies&amp;rft.atitle=Our+Story&amp;rft_id=https%3A%2F%2Fwww.coopercos.com%2Fstories%2Fstory-1%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Cooper+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.coopercos.com/static-files/e7135a27-a1e1-49c3-8ab6-ba5c6ca428ed">"Investor Presentation"</a>. <i>CooperCompanies</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CooperCompanies&amp;rft.atitle=Investor+Presentation&amp;rft_id=http%3A%2F%2Finvestor.coopercos.com%2Fstatic-files%2Fe7135a27-a1e1-49c3-8ab6-ba5c6ca428ed&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Cooper+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://coopervision.com">"CooperVision"</a>. <i>CooperVision</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CooperVision&amp;rft.atitle=CooperVision&amp;rft_id=http%3A%2F%2Fcoopervision.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Cooper+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.coopersurgical.com/">"CooperSurgical"</a>. <i>CooperSurgical</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CooperSurgical&amp;rft.atitle=CooperSurgical&amp;rft_id=https%3A%2F%2Fwww.coopersurgical.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Cooper+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://investor.coopercos.com/news-releases/news-release-details/coopercompanies-announces-global-support-optometry-giving-sight">"CooperCompanies Announces Global Support for Optometry Giving Sight and March of Dimes, Introduces All-Employee Matching Gifts Program"</a>. <i>CooperCompanies</i> (Press release).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CooperCompanies+Announces+Global+Support+for+Optometry+Giving+Sight+and+March+of+Dimes%2C+Introduces+All-Employee+Matching+Gifts+Program&amp;rft_id=http%3A%2F%2Finvestor.coopercos.com%2Fnews-releases%2Fnews-release-details%2Fcoopercompanies-announces-global-support-optometry-giving-sight&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Cooper+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://dailyenergyinsider.com/news/18631-coopervision-converts-three-rochester-ny-facilities-to-wind-power/">"CooperVision converts three Rochester, NY facilities to wind power"</a>. <i>Daily Energy Insider</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Daily+Energy+Insider&amp;rft.atitle=CooperVision+converts+three+Rochester%2C+NY+facilities+to+wind+power&amp;rft_id=https%3A%2F%2Fdailyenergyinsider.com%2Fnews%2F18631-coopervision-converts-three-rochester-ny-facilities-to-wind-power%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Cooper+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://industrialespr.org/industriales-premian-la-excelencia-en-sustentabilidad-ambiental-empresarial/">"INDUSTRIALES PREMIAN LA EXCELENCIA EN SUSTENTABILIDAD AMBIENTAL EMPRESARIAL"</a>. <i>Industriales Puerto Rico</i> (in Spanish).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Industriales+Puerto+Rico&amp;rft.atitle=INDUSTRIALES+PREMIAN+LA+EXCELENCIA+EN+SUSTENTABILIDAD+AMBIENTAL+EMPRESARIAL&amp;rft_id=http%3A%2F%2Findustrialespr.org%2Findustriales-premian-la-excelencia-en-sustentabilidad-ambiental-empresarial%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Cooper+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.visionmonday.com/latest-news/article/puerto-rico-honors-coopervision-for-environmental-efforts-around-water-sustainability-practices/">"Puerto Rico Honors CooperVision for Environmental Efforts Around Water Sustainability Practices"</a>. <i>Vision Monday</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vision+Monday&amp;rft.atitle=Puerto+Rico+Honors+CooperVision+for+Environmental+Efforts+Around+Water+Sustainability+Practices&amp;rft_id=https%3A%2F%2Fwww.visionmonday.com%2Flatest-news%2Farticle%2Fpuerto-rico-honors-coopervision-for-environmental-efforts-around-water-sustainability-practices%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Cooper+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.manufacturingglobal.com/leadership/coopervision-costa-rica-manufacturing-plant-earns-leed-silver-certification">"CooperVision Costa Rica manufacturing plant earns LEED Silver Certification"</a>. <i>Global Manufacturing</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Global+Manufacturing&amp;rft.atitle=CooperVision+Costa+Rica+manufacturing+plant+earns+LEED+Silver+Certification&amp;rft_id=https%3A%2F%2Fwww.manufacturingglobal.com%2Fleadership%2Fcoopervision-costa-rica-manufacturing-plant-earns-leed-silver-certification&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Cooper+Companies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=The_Cooper_Companies&amp;action=edit&amp;section=8" title="Edit section: External links" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-8 collapsible-block" id="mf-section-8">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.coopercos.com">Official website</a></span></span></li>
+<li>Business data for CooperCompanies: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=COO">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=COO">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=COO">SEC filings</a></li></ul></div></li></ul></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_Cooper_Companies&amp;oldid=937152030">https://en.wikipedia.org/w/index.php?title=The_Cooper_Companies&amp;oldid=937152030</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/The_Cooper_Companies"
+				data-user-name="240D:1A:4B5:2800:E1BF:AA48:EFB6:537C"
+				data-user-gender="unknown"
+				data-timestamp="1579762748">
+				<span>Last edited on 23 January 2020, at 06:59</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=The_Cooper_Companies&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.276","walltime":"0.374","ppvisitednodes":{"value":1382,"limit":1000000},"postexpandincludesize":{"value":29079,"limit":2097152},"templateargumentsize":{"value":1693,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":35741,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  350.635      1 -total"," 42.24%  148.104      1 Template:Infobox_company"," 37.75%  132.376      1 Template:Infobox"," 34.76%  121.866      1 Template:Reflist"," 20.15%   70.645      1 Template:Citation"," 16.99%   59.582      1 Template:Short_description"," 16.67%   58.450     11 Template:Wikidata"," 15.43%   54.095      1 Template:Br_separated_entries"," 12.31%   43.174      1 Template:Pagetype","  9.82%   34.434     10 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.153","limit":"10.000"},"limitreport-memusage":{"value":5770624,"limit":52428800}},"cachereport":{"origin":"mw1397","timestamp":"20200416083741","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"The Cooper Companies","url":"https:\/\/en.wikipedia.org\/wiki\/The_Cooper_Companies","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1129792","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1129792","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-09-25T22:51:48Z","dateModified":"2020-01-23T06:59:08Z","headline":"company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1266"});});</script>		</body>
+		</html>
+		

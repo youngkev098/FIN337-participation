@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>NiSource - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoMawpAIC0AAE08@YIAAACE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"NiSource","wgTitle":"NiSource","wgCurRevisionId":947990636,"wgRevisionId":947990636,"wgArticleId":3639771,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"NiSource","wgRelevantArticleId":3639771,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"NiSource_Inc.","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/NiSource","wgWikibaseItemId":"Q1984481","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0}
+,"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=NiSource&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=NiSource&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/NiSource"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-NiSource rootpage-NiSource stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=NiSource" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=NiSource" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">NiSource</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/NiSource" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=NiSource" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=NiSource&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=NiSource_Inc.&amp;redirect=no" class="mw-redirect" title="NiSource Inc.">NiSource Inc.</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<div role="note" class="hatnote navigation-not-searchable">"Columbia Gas" redirects here. Columbia Gas may also refer to <a href="/wiki/Columbia_Gas_of_Massachusetts" title="Columbia Gas of Massachusetts">Columbia Gas of Massachusetts</a>.</div>
+<p><b>NiSource Inc.</b> is one of the largest fully regulated utility companies in the United States, serving approximately 3.5 million natural gas customers and 500,000 electric customers across seven states through its local <b>Columbia Gas</b> and <b>NIPSCO</b> brands. The company, based in <a href="/wiki/Merrillville,_Indiana" title="Merrillville, Indiana">Merrillville, Indiana</a>, United States, has more than 8,000 employees.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">NiSource Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Nisource_logo.svg" class="image" title="NiSource logo"><img alt="NiSource logo" src="//upload.wikimedia.org/wikipedia/en/thumb/d/de/Nisource_logo.svg/200px-Nisource_logo.svg.png" decoding="async" width="200" height="35" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/de/Nisource_logo.svg/300px-Nisource_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/de/Nisource_logo.svg/400px-Nisource_logo.svg.png 2x" data-file-width="207" data-file-height="36"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:NI">NI</a></li><li><a href="/wiki/DJUA" class="mw-redirect" title="DJUA">DJUA</a> component</li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US65473P1057">US65473P1057 </a><a href="https://www.wikidata.org/wiki/Q1984481?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_utility" title="Public utility">Public utility</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1912</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Merrillville,_Indiana" title="Merrillville, Indiana">Merrillville, Indiana</a>, United States</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Joseph Hamrock, CEO</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a>, <a href="/wiki/Electricity" title="Electricity">electricity</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">8,175<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://nisource.com">nisource<wbr></wbr>.com</a></span></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Company_operations"><span class="tocnumber">1</span> <span class="toctext">Company operations</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Internal_organization"><span class="tocnumber">1.1</span> <span class="toctext">Internal organization</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-3"><a href="#Recent_corporate_actions"><span class="tocnumber">2</span> <span class="toctext">Recent corporate actions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Criticism"><span class="tocnumber">3</span> <span class="toctext">Criticism</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Massachusetts_gas_line_explosions_and_exit_from_Massachusetts"><span class="tocnumber">4</span> <span class="toctext">Massachusetts gas line explosions and exit from Massachusetts</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Company_operations">Company operations</span><span class="mw-editsection"><a href="/w/index.php?title=NiSource&amp;action=edit&amp;section=1" title="Edit section: Company operations" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>NiSource's natural gas utilities provide domestically produced supplies of natural gas to residential, commercial and industrial customers via nearly 60,000 miles of pipeline and related facilities in seven states: Indiana, Kentucky, Maryland, Massachusetts, Ohio, Pennsylvania and Virginia.
+</p><p>NiSource provides electric energy to nearly 500,000 customers, all located in northern Indiana. NiSource's electric operations include power generation, transmission and local distribution, as well as wholesale and electric transmission transactions. NiSource uses both traditional and renewable generation sources, including natural gas, hydroelectric, wind, and coal generated supplies, providing a total system operating net capability of more than 3,000 megawatts.
+</p><p>NiSource has had a <a href="/wiki/Climate_change_policy_of_the_United_States" title="Climate change policy of the United States">climate change policy</a> in place since 2009.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p><p>In 2015, NiSource was named to the Dow Jones Sustainability—North America Index for the second year in a row and for the ninth time since 1999.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Internal_organization">Internal organization</span><span class="mw-editsection"><a href="/w/index.php?title=NiSource&amp;action=edit&amp;section=2" title="Edit section: Internal organization" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>NiSource operates seven local utilities in its service region:
+</p>
+<ul><li>Northern Indiana Public Service Co. (NIPSCO)</li>
+<li><a href="/wiki/Columbia_Gas_of_Massachusetts" title="Columbia Gas of Massachusetts">Columbia Gas of Massachusetts</a> (previously Bay State Gas)</li>
+<li>Columbia Gas of Ohio</li>
+<li>Columbia Gas of Kentucky</li>
+<li>Columbia Gas of Pennsylvania</li>
+<li>Columbia Gas of Maryland</li>
+<li>Columbia Gas of Virginia</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Recent_corporate_actions">Recent corporate actions</span><span class="mw-editsection"><a href="/w/index.php?title=NiSource&amp;action=edit&amp;section=3" title="Edit section: Recent corporate actions" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>On July 1, 2015, NiSource separated <a href="/wiki/Columbia_Pipeline_Group" class="mw-redirect" title="Columbia Pipeline Group">Columbia Pipeline Group</a> (NYSE: CPGX) into a stand-alone publicly traded company. Each NiSource shareholder at the time of the separation received one share of Columbia Pipeline Group for each share of NiSource. The separation of Columbia Pipeline Group included Columbia Gas Transmission, Columbia Gulf Transmission, Columbia Midstream Group, its ownership in <a href="/w/index.php?title=Columbia_Pipeline_Partners&amp;action=edit&amp;redlink=1" class="new" title="Columbia Pipeline Partners (page does not exist)">Columbia Pipeline Partners</a> (NYSE: CPPL), and other natural gas pipeline, storage and midstream holdings.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p><p>In January 2019, the company announced that it would accelerate retirement of its five coal-fired units, and focus on "<a href="/wiki/Renewable_energy_in_the_United_States" title="Renewable energy in the United States">renewable energy</a> resources, such as <a href="/wiki/Solar_energy" title="Solar energy">solar</a> and <a href="/wiki/Wind_power" title="Wind power">wind energy</a>, along with <a href="/wiki/Grid_energy_storage" title="Grid energy storage">battery storage</a> technology," as part of an initiative titled  "Your Energy, Your Future", with a goal of "reducing <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">carbon emissions</a> by more than 90 percent by 2028."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><a href="/w/index.php?title=NiSource&amp;action=edit&amp;section=4" title="Edit section: Criticism" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>In December 2011, the nonpartisan organization <a href="/wiki/Public_Campaign#Reports" class="mw-redirect" title="Public Campaign">Public Campaign</a> criticized NiSource for spending $1.83 million on <a href="/wiki/Lobbying" title="Lobbying">lobbying</a> and <a href="/wiki/Tax_avoidance" title="Tax avoidance">not paying any taxes</a> during 2008–2010, instead getting $227 million in tax rebates, despite making a profit of $1.4 billion, and increasing executive pay by 33% to $11.2 million in 2010 for its top five executives.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> One rule NiSource, among other companies, benefitted from was a bonus depreciation rule that lowered the federal tax expense.  NiSource stated, "This law, enacted by Congress, encouraged companies like NiSource to accelerate capital investments to spur economic recovery by permitting portions of these investments to be deducted at an accelerated rate. Only the timing of the deductions was changed, and not the amount that could be deducted.  This means our income tax expense will likely be higher in the future."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Massachusetts_gas_line_explosions_and_exit_from_Massachusetts">Massachusetts gas line explosions and exit from Massachusetts</span><span class="mw-editsection"><a href="/w/index.php?title=NiSource&amp;action=edit&amp;section=5" title="Edit section: Massachusetts gas line explosions and exit from Massachusetts" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Massachusetts_gas_explosions" class="mw-redirect" title="Massachusetts gas explosions">Massachusetts gas explosions</a></div>
+<p>On September 13, 2018, 80 homes in <a href="/wiki/Andover,_Massachusetts" title="Andover, Massachusetts">Andover, Massachusetts</a>, <a href="/wiki/Lawrence,_Massachusetts" title="Lawrence, Massachusetts">Lawrence, Massachusetts</a>, and <a href="/wiki/North_Andover,_Massachusetts" title="North Andover, Massachusetts">North Andover, Massachusetts</a>, simultaneously exploded and caught fire due to issues with gas lines owned by <a href="/wiki/Columbia_Gas_of_Massachusetts" title="Columbia Gas of Massachusetts">Columbia Gas of Massachusetts</a>,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> a subsidiary of NiSource. 
+At least 25 people were injured and one was killed; residents from parts of three towns had to be evacuated for a few days and electricity service turned off until the area was inspected for gas. Gas service to 8,600 customers was disrupted, in some cases for months. Columbia Gas admitted that maintenance workers mishandled sensors that monitored gas line pressure, and pled guilty to violating the federal Pipeline Safety Act. The company paid a fine of $53 million, in addition to a $143 million settlement with residents and businesses, $83 million paid to municipalities, undisclosed amounts paid for injuries and one death, and direct spending on replacing damaged pipelines and appliances. NiSource agreed to sell its Massachusetts gas business to competitor <a href="/wiki/Eversource" class="mw-redirect" title="Eversource">Eversource</a>, at a loss compared to what it paid to acquire Columbia Gas.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=NiSource&amp;action=edit&amp;section=6" title="Edit section: References" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/nisource/">"NiSource"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=NiSource&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Fnisource%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiSource" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Environmental Health and Safety Committee, NiSource Board of Directors (April 14, 2009). <a rel="nofollow" class="external text" href="https://www.nisource.com/docs/librariesprovider2/nisource-documents/nisource-policies/nisource-climate-change-policy.pdf">"Climate Change Policy"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Climate+Change+Policy&amp;rft.date=2009-04-14&amp;rft.au=Environmental+Health+and+Safety+Committee%2C+NiSource+Board+of+Directors&amp;rft_id=https%3A%2F%2Fwww.nisource.com%2Fdocs%2Flibrariesprovider2%2Fnisource-documents%2Fnisource-policies%2Fnisource-climate-change-policy.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiSource" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news">Benman, Keith (16 September 2015). <a rel="nofollow" class="external text" href="https://www.nwitimes.com/news/nisource-named-again-to-dow-sustainability-index/article_8e606805-ee70-594d-a231-c5fb258d10de.amp.html">"NiSource named again to Dow sustainability index"</a>. <i><a href="/wiki/The_Times_of_Northwest_Indiana" title="The Times of Northwest Indiana">The Times of Northwest Indiana</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 February</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Times+of+Northwest+Indiana&amp;rft.atitle=NiSource+named+again+to+Dow+sustainability+index&amp;rft.date=2015-09-16&amp;rft.aulast=Benman&amp;rft.aufirst=Keith&amp;rft_id=https%3A%2F%2Fwww.nwitimes.com%2Fnews%2Fnisource-named-again-to-dow-sustainability-index%2Farticle_8e606805-ee70-594d-a231-c5fb258d10de.amp.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiSource" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Tincher, Sarah (2 July 2015), “Columbia Pipeline Group completes spin-off from NiSource”, The State Journal, retrieved 2 September 2015.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Ober, Andy (January 10, 2019). <a rel="nofollow" class="external text" href="http://www.insideindianabusiness.com/story/39760939/nipsco-looks-to-ride-energy-revolution">"NIPSCO Looks to Ride Energy Revolution"</a>. <i>Inside Indiana Business</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Inside+Indiana+Business&amp;rft.atitle=NIPSCO+Looks+to+Ride+Energy+Revolution&amp;rft.date=2019-01-10&amp;rft.aulast=Ober&amp;rft.aufirst=Andy&amp;rft_id=http%3A%2F%2Fwww.insideindianabusiness.com%2Fstory%2F39760939%2Fnipsco-looks-to-ride-energy-revolution&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiSource" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Grover, Sami (January 14, 2019). <a rel="nofollow" class="external text" href="https://www.treehugger.com/fossil-fuels/indiana-utility-wants-quit-coal-and-cut-co2-90-within-10-years.html">"Indiana utility to quit coal and cut CO2 90% within 10 years"</a>. <i>TreeHugger</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TreeHugger&amp;rft.atitle=Indiana+utility+to+quit+coal+and+cut+CO2+90%25+within+10+years&amp;rft.date=2019-01-14&amp;rft.aulast=Grover&amp;rft.aufirst=Sami&amp;rft_id=https%3A%2F%2Fwww.treehugger.com%2Ffossil-fuels%2Findiana-utility-wants-quit-coal-and-cut-co2-90-within-10-years.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiSource" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Portero, Ashley. <a rel="nofollow" class="external text" href="http://www.ibtimes.com/articles/264481/20111209/30-major-u-s-corporations-paid-lobby.htm">"30 Major U.S. Corporations Paid More to Lobby Congress Than Income Taxes, 2008–2010"</a>. <i><a href="/wiki/International_Business_Times" title="International Business Times">International Business Times</a></i>. <a rel="nofollow" class="external text" href="https://www.webcitation.org/64D9GyQG0?url=http://www.ibtimes.com/articles/264481/20111209/30-major-u-s-corporations-paid-lobby.htm">Archived</a> from the original on 26 December 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">26 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=International+Business+Times&amp;rft.atitle=30+Major+U.S.+Corporations+Paid+More+to+Lobby+Congress+Than+Income+Taxes%2C+2008%E2%80%932010&amp;rft.aulast=Portero&amp;rft.aufirst=Ashley&amp;rft_id=http%3A%2F%2Fwww.ibtimes.com%2Farticles%2F264481%2F20111209%2F30-major-u-s-corporations-paid-lobby.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiSource" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Tweh, Bowdeya (4 November 2011), "Report: NiSource among companies getting large tax breaks", <i>The Times of Northwest Indiana</i>, retrieved 2 September 2015.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.usatoday.com/story/news/2018/09/13/gas-explosions-massachusetts-leave-homes-fire/1295706002/">"More than 30 homes catch fire after natural gas issues north of Boston; 4 injured"</a>. <i>USA TODAY</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-09-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=USA+TODAY&amp;rft.atitle=More+than+30+homes+catch+fire+after+natural+gas+issues+north+of+Boston%3B+4+injured&amp;rft_id=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2F2018%2F09%2F13%2Fgas-explosions-massachusetts-leave-homes-fire%2F1295706002%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiSource" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Melanie Schuman; Ray Sanchez; Pierre Meilhan. <a rel="nofollow" class="external text" href="https://www.cnn.com/2018/09/13/us/massachusetts-explosions-fires/index.html">"Gas explosions, fires reported in Massachusetts towns"</a>. <i>CNN</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-09-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNN&amp;rft.atitle=Gas+explosions%2C+fires+reported+in+Massachusetts+towns&amp;rft.au=Melanie+Schuman&amp;rft.au=Ray+Sanchez&amp;rft.au=Pierre+Meilhan&amp;rft_id=https%3A%2F%2Fwww.cnn.com%2F2018%2F09%2F13%2Fus%2Fmassachusetts-explosions-fires%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiSource" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.wbur.org/bostonomix/2020/02/26/columbia-gas-federal-charges-fbi-guilty-plea">Columbia Gas Will Leave Mass. As It Pleads Guilty To Federal Charge After Disaster</a></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=NiSource&amp;action=edit&amp;section=7" title="Edit section: External links" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li><a rel="nofollow" class="external text" href="http://www.nisource.com/">NiSource homepage</a></li>
+<li>Business data for NiSource: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=NI">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=NI">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=NI">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=NiSource&amp;oldid=947990636">https://en.wikipedia.org/w/index.php?title=NiSource&amp;oldid=947990636</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/NiSource"
+				data-user-name="InternetArchiveBot"
+				data-user-gender="unknown"
+				data-timestamp="1585496063">
+				<span>Last edited on 29 March 2020, at 15:34</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=NiSource&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.419","ppvisitednodes":{"value":1423,"limit":1000000},"postexpandincludesize":{"value":51453,"limit":2097152},"templateargumentsize":{"value":1486,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":26404,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  381.040      1 -total"," 40.24%  153.344      1 Template:Infobox_company"," 36.45%  138.907      1 Template:Infobox"," 31.47%  119.908      1 Template:Reflist"," 24.61%   93.792      5 Template:Cite_web"," 15.13%   57.658      1 Template:Short_description"," 14.39%   54.851     12 Template:Wikidata"," 13.79%   52.555      1 Template:Br_separated_entries"," 10.68%   40.697      1 Template:Pagetype","  5.78%   22.006      1 Template:Ubl"]},"scribunto":{"limitreport-timeusage":{"value":"0.155","limit":"10.000"},"limitreport-memusage":{"value":5118378,"limit":52428800}},"cachereport":{"origin":"mw1389","timestamp":"20200416054231","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"NiSource","url":"https:\/\/en.wikipedia.org\/wiki\/NiSource","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1984481","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1984481","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-06T20:20:16Z","dateModified":"2020-03-29T15:34:23Z","headline":"Utility corporation based in Indiana, USA"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":141,"wgHostname":"mw1324"});});</script>		</body>
+		</html>
+		

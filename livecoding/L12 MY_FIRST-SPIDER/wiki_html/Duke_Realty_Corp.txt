@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Duke Realty - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoK3QpAMNIAAE6qg8oAAACW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Duke_Realty","wgTitle":"Duke Realty","wgCurRevisionId":918491137,"wgRevisionId":918491137,"wgArticleId":56080542,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Duke_Realty","wgRelevantArticleId":56080542,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Duke_Realty_Corp","wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Duke_Realty","wgWikibaseItemId":"Q48742298","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,
+"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Duke_Realty&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Duke_Realty&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Duke_Realty"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Duke_Realty rootpage-Duke_Realty stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Duke+Realty" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Duke+Realty" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Duke Realty</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector disabled"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Duke+Realty" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Duke_Realty&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Duke_Realty_Corp&amp;redirect=no" class="mw-redirect" title="Duke Realty Corp">Duke Realty Corp</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<p><b>Duke Realty</b> is a major United States <a href="/wiki/Real_estate_investment_trust" title="Real estate investment trust">real estate investment trust</a>, based in <a href="/wiki/Indianapolis" title="Indianapolis">Indianapolis</a>, <a href="/wiki/Indiana" title="Indiana">Indiana</a>.  It mainly owns industrial warehouses.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Duke Realty Corporation</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Duke_Realty_Logo.png" class="image"><img alt="Duke Realty Logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c1/Duke_Realty_Logo.png/220px-Duke_Realty_Logo.png" decoding="async" width="220" height="50" data-file-width="285" data-file-height="65"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_Company" class="mw-redirect" title="Public Company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:DRE">DRE</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Real_estate" title="Real estate">Real estate</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1972</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;"><div class="plainlist"><ul><li>John Rosebrough</li><li>Phil Duke</li><li>John Wynne</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="adr" style="line-height: 1.35em;"><div style="display: inline;" class="locality"><a href="/wiki/Indianapolis" title="Indianapolis">Indianapolis</a>, <a href="/wiki/Indiana" title="Indiana">Indiana</a></div>, <div style="display: inline;" class="country-name">United States</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">James B. Connor (<a href="/wiki/Chair_(official)" class="mw-redirect" title="Chair (official)">Chairman</a> and <a href="/wiki/Chief_executive_officer" title="Chief executive officer">Chief executive officer</a>)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="https://www.dukerealty.com">www<wbr></wbr>.dukerealty<wbr></wbr>.com</a></span></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Business"><span class="tocnumber">1</span> <span class="toctext">Business</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Properties"><span class="tocnumber">3</span> <span class="toctext">Properties</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_Links"><span class="tocnumber">5</span> <span class="toctext">External Links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Business">Business</span><span class="mw-editsection"><a href="/w/index.php?title=Duke_Realty&amp;action=edit&amp;section=1" title="Edit section: Business" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>Duke Realty primarily owns industrial warehouses used for distribution.<sup id="cite_ref-:3_1-0" class="reference"><a href="#cite_note-:3-1">[1]</a></sup>  Many of its properties are used by e-commerce retailers.<sup id="cite_ref-:3_1-1" class="reference"><a href="#cite_note-:3-1">[1]</a></sup>  It also owned medical offices and other offices, but it has sold almost all of these properties.  It owns properties throughout the United States, with a concentration in the Midwest and the South.  As of 2016, the three largest markets by square feet were Indianapolis, Chicago, and Atlanta, with 12.5%, 10.7%, and 9.5% of total square feet.<sup id="cite_ref-:2_2-0" class="reference"><a href="#cite_note-:2-2">[2]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Duke_Realty&amp;action=edit&amp;section=2" title="Edit section: History" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>Duke Realty was founded in 1972 by John Rosebrough, Phil Duke, and John Wynne.<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3">[3]</a></sup> Its first development was in the Park 100 neighborhood in the northwest part of Indianapolis.<sup id="cite_ref-:0_3-1" class="reference"><a href="#cite_note-:0-3">[3]</a></sup>  In 1993, Duke Realty held an IPO on the <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">New York Stock Exchange</a>, raising $310 million.<sup id="cite_ref-:0_3-2" class="reference"><a href="#cite_note-:0-3">[3]</a></sup>  In 1999, it merged with Weeks Corporation, another real estate investment trust with properties primarily in the US Southwest.<sup id="cite_ref-:1_4-0" class="reference"><a href="#cite_note-:1-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>  Weeks shareholders ended up with 28% of the new company.<sup id="cite_ref-:1_4-1" class="reference"><a href="#cite_note-:1-4">[4]</a></sup>  In 2006, it bought 32 buildings in the Washington, D.C. area from the Mark Winkler Company.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>  In May 2017, it sold its medical office properties to Healthcare Trust of America for $2.8 billion, in order to focus on its industrial properties.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>  In July 2017, Duke Realty joined the S&amp;P 500.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Properties">Properties</span><span class="mw-editsection"><a href="/w/index.php?title=Duke_Realty&amp;action=edit&amp;section=3" title="Edit section: Properties" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>Duke Realty is developing the Chesapeake Commerce Center, an industrial park, on the former site of the <a href="/wiki/Baltimore_Assembly" title="Baltimore Assembly">General Motors Baltimore Assembly Plant</a> in <a href="/wiki/Baltimore" title="Baltimore">Baltimore</a>, <a href="/wiki/Maryland" title="Maryland">Maryland</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>  As of 2016, five buildings had been built, and a sixth was under construction.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>  <a href="/wiki/Amazon_(company)" title="Amazon (company)">Amazon</a> runs a distribution center in one of the warehouses in the center.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>  It is also developing the Legacy Center, another industrial park, on the site of the former General Motors Linden Assembly in <a href="/wiki/Linden,_New_Jersey" title="Linden, New Jersey">Linden</a>, <a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>  As of 2016, three buildings have been constructed.
+</p><p>Duke Realty was one of the developers of the <a href="/wiki/Captrust_Tower" title="Captrust Tower">Captrust Tower</a> in <a href="/wiki/Raleigh,_North_Carolina" title="Raleigh, North Carolina">Raleigh</a>, <a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a> and the <a href="/wiki/Scripps_Center" title="Scripps Center">Scripps Center</a> in <a href="/wiki/Cincinnati" title="Cincinnati">Cincinnati</a>, <a href="/wiki/Ohio" title="Ohio">Ohio</a>.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Duke_Realty&amp;action=edit&amp;section=4" title="Edit section: References" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-:3-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:3_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:3_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Grant, Peter (2017-10-03). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/duke-realty-buys-a-chunk-of-logistics-properties-1507058608">"Duke Realty Buys a Chunk of Logistics Properties"</a>. <i>Wall Street Journal</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0099-9660">0099-9660</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171025033626/https://www.wsj.com/articles/duke-realty-buys-a-chunk-of-logistics-properties-1507058608">Archived</a> from the original on 2017-10-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wall+Street+Journal&amp;rft.atitle=Duke+Realty+Buys+a+Chunk+of+Logistics+Properties&amp;rft.date=2017-10-03&amp;rft.issn=0099-9660&amp;rft.aulast=Grant&amp;rft.aufirst=Peter&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fduke-realty-buys-a-chunk-of-logistics-properties-1507058608&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADuke+Realty" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-:2-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-:2_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investor.dukerealty.com/phoenix.zhtml?c=60691&amp;p=irol-sec">"Duke Realty 10K Annual Report 2016"</a>. <i>investor.dukerealty.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=investor.dukerealty.com&amp;rft.atitle=Duke+Realty+10K+Annual+Report+2016&amp;rft_id=http%3A%2F%2Finvestor.dukerealty.com%2Fphoenix.zhtml%3Fc%3D60691%26p%3Dirol-sec&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADuke+Realty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-:0-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.dukerealty.com/">"Duke Realty - Duke Realty"</a>. <i>Duke Realty</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171223102744/https://www.dukerealty.com/">Archived</a> from the original on 2017-12-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Duke+Realty&amp;rft.atitle=Duke+Realty+-+Duke+Realty&amp;rft_id=https%3A%2F%2Fwww.dukerealty.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADuke+Realty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-:1-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://money.cnn.com/1999/03/01/companies/duke/">"Duke Realty, Weeks to merge in $1.7B deal"</a>. Money. CNN. March 1, 1999. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171223102919/http://money.cnn.com/1999/03/01/companies/duke/">Archived</a> from the original on December 23, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Duke+Realty%2C+Weeks+to+merge+in+%241.7B+deal&amp;rft.pub=CNN&amp;rft.date=1999-03-01&amp;rft_id=http%3A%2F%2Fmoney.cnn.com%2F1999%2F03%2F01%2Fcompanies%2Fduke%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADuke+Realty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Sherer, Paul M.; Martinez, Barbara (1999-03-01). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB92024596538045500">"Duke Realty, Weeks Will Merge In Stock Swap Valued at $1.1 Billion"</a>. <i>Wall Street Journal</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0099-9660">0099-9660</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171224164148/https://www.wsj.com/articles/SB92024596538045500">Archived</a> from the original on 2017-12-24<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wall+Street+Journal&amp;rft.atitle=Duke+Realty%2C+Weeks+Will+Merge+In+Stock+Swap+Valued+at+%241.1+Billion&amp;rft.date=1999-03-01&amp;rft.issn=0099-9660&amp;rft.aulast=Sherer&amp;rft.aufirst=Paul+M.&amp;rft.au=Martinez%2C+Barbara&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2FSB92024596538045500&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADuke+Realty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.washingtontimes.com/news/2006/mar/3/20060303-102044-7792r/">"Winkler family firm sells off properties"</a>. <i>The Washington Times</i>. March 3, 2006. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171224164148/https://www.washingtontimes.com/news/2006/mar/3/20060303-102044-7792r/">Archived</a> from the original on December 24, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Washington+Times&amp;rft.atitle=Winkler+family+firm+sells+off+properties&amp;rft.date=2006-03-03&amp;rft_id=https%3A%2F%2Fwww.washingtontimes.com%2Fnews%2F2006%2Fmar%2F3%2F20060303-102044-7792r%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADuke+Realty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-duke-realty-assets-hta/healthcare-trust-of-america-to-buy-medical-offices-for-2-8-billion-idUSKBN17X1IK">"Duke Realty to sell medical office assets to HTA for $2.8 billion"</a>. <i>Reuters</i>. 2017-05-01. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171223102800/https://www.reuters.com/article/us-duke-realty-assets-hta/healthcare-trust-of-america-to-buy-medical-offices-for-2-8-billion-idUSKBN17X1IK">Archived</a> from the original on 2017-12-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reuters&amp;rft.atitle=Duke+Realty+to+sell+medical+office+assets+to+HTA+for+%242.8+billion&amp;rft.date=2017-05-01&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-duke-realty-assets-hta%2Fhealthcare-trust-of-america-to-buy-medical-offices-for-2-8-billion-idUSKBN17X1IK&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADuke+Realty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.ibj.com/articles/64666-duke-realty-moving-up-to-sp-500-stock-index">"Duke Realty moving up to S&amp;P 500 stock index"</a>. <i>Indianapolis Business Journal</i>. 2017-07-19. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170721182832/https://www.ibj.com/articles/64666-duke-realty-moving-up-to-sp-500-stock-index">Archived</a> from the original on 2017-07-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Indianapolis+Business+Journal&amp;rft.atitle=Duke+Realty+moving+up+to+S%26P+500+stock+index&amp;rft.date=2017-07-19&amp;rft_id=https%3A%2F%2Fwww.ibj.com%2Farticles%2F64666-duke-realty-moving-up-to-sp-500-stock-index&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADuke+Realty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news">Mirabella, Lorraine (2008-01-29). <a rel="nofollow" class="external text" href="http://articles.baltimoresun.com/2008-01-29/business/0801290144_1_feet-of-warehouse-square-feet-office-space">"Commerce Center rising at GM site"</a>. <i>The Baltimore Sun</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171224164148/http://articles.baltimoresun.com/2008-01-29/business/0801290144_1_feet-of-warehouse-square-feet-office-space">Archived</a> from the original on 2017-12-24<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Baltimore+Sun&amp;rft.atitle=Commerce+Center+rising+at+GM+site&amp;rft.date=2008-01-29&amp;rft.aulast=Mirabella&amp;rft.aufirst=Lorraine&amp;rft_id=http%3A%2F%2Farticles.baltimoresun.com%2F2008-01-29%2Fbusiness%2F0801290144_1_feet-of-warehouse-square-feet-office-space&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADuke+Realty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cijusa.com/en/encompassme-usa/21877/story/duke-realty-begins-spec-warehouse-at-chesapeake-commerce-center">"Duke Realty begins spec warehouse at Chesapeake Commerce Center - CijUsa.com"</a>. <i>cijusa.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171223103108/http://cijusa.com/en/encompassme-usa/21877/story/duke-realty-begins-spec-warehouse-at-chesapeake-commerce-center">Archived</a> from the original on 2017-12-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cijusa.com&amp;rft.atitle=Duke+Realty+begins+spec+warehouse+at+Chesapeake+Commerce+Center+-+CijUsa.com&amp;rft_id=http%3A%2F%2Fcijusa.com%2Fen%2Fencompassme-usa%2F21877%2Fstory%2Fduke-realty-begins-spec-warehouse-at-chesapeake-commerce-center&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADuke+Realty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Sherman, Natalie (2014-04-01). <a rel="nofollow" class="external text" href="http://articles.baltimoresun.com/2014-04-01/business/bs-bz-duke-warehouse-20140401_1_warehouse-southeast-baltimore-chesapeake-commerce-center">"Amazon to occupy second Baltimore warehouse"</a>. <i>The Baltimore Sun</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171223102937/http://articles.baltimoresun.com/2014-04-01/business/bs-bz-duke-warehouse-20140401_1_warehouse-southeast-baltimore-chesapeake-commerce-center">Archived</a> from the original on 2017-12-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Baltimore+Sun&amp;rft.atitle=Amazon+to+occupy+second+Baltimore+warehouse&amp;rft.date=2014-04-01&amp;rft.aulast=Sherman&amp;rft.aufirst=Natalie&amp;rft_id=http%3A%2F%2Farticles.baltimoresun.com%2F2014-04-01%2Fbusiness%2Fbs-bz-duke-warehouse-20140401_1_warehouse-southeast-baltimore-chesapeake-commerce-center&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADuke+Realty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Russell, Suzanne. <a rel="nofollow" class="external text" href="http://www.mycentraljersey.com/story/news/local/middlesex-county/2014/10/22/warehouse-open-former-gm-property/17744803/">"New warehouse opening in Linden"</a>. <i>MY CENTRAL JERSEY</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MY+CENTRAL+JERSEY&amp;rft.atitle=New+warehouse+opening+in+Linden&amp;rft.aulast=Russell&amp;rft.aufirst=Suzanne&amp;rft_id=http%3A%2F%2Fwww.mycentraljersey.com%2Fstory%2Fnews%2Flocal%2Fmiddlesex-county%2F2014%2F10%2F22%2Fwarehouse-open-former-gm-property%2F17744803%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADuke+Realty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_Links">External Links</span><span class="mw-editsection"><a href="/w/index.php?title=Duke_Realty&amp;action=edit&amp;section=5" title="Edit section: External Links" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<p><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://www.dukerealty.com">Official website</a></span></span>
+</p>
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Duke_Realty&amp;oldid=918491137">https://en.wikipedia.org/w/index.php?title=Duke_Realty&amp;oldid=918491137</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Duke_Realty"
+				data-user-name="Monkbot"
+				data-user-gender="unknown"
+				data-timestamp="1569711524">
+				<span>Last edited on 28 September 2019, at 22:58</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Duke_Realty&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.519","ppvisitednodes":{"value":1451,"limit":1000000},"postexpandincludesize":{"value":30911,"limit":2097152},"templateargumentsize":{"value":1502,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":40278,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  489.893      1 -total"," 43.21%  211.671      1 Template:Infobox_company"," 40.80%  199.852      1 Template:Infobox"," 36.59%  179.245      1 Template:Reflist"," 29.46%  144.310      8 Template:Cite_news"," 26.37%  129.174     10 Template:Wikidata"," 26.18%  128.239      1 Template:Br_separated_entries"," 10.25%   50.238      1 Template:Short_description","  7.29%   35.737      1 Template:Pagetype","  5.97%   29.243      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.202","limit":"10.000"},"limitreport-memusage":{"value":6024057,"limit":52428800}},"cachereport":{"origin":"mw1407","timestamp":"20200416110932","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Duke Realty","url":"https:\/\/en.wikipedia.org\/wiki\/Duke_Realty","sameAs":"http:\/\/www.wikidata.org\/entity\/Q48742298","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q48742298","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2017-12-18T16:03:06Z","dateModified":"2019-09-28T22:58:44Z","headline":"American real estate company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":134,"wgHostname":"mw1368"});});</script>		</body>
+		</html>
+		

@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ansys - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoJ6ApAICwAAAlr9HkAAAAQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ansys","wgTitle":"Ansys","wgCurRevisionId":947997150,"wgRevisionId":947997150,"wgArticleId":2008633,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Ansys","wgRelevantArticleId":2008633,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"ANSYS","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Ansys","wgWikibaseItemId":"Q295774","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},
+"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/11/Ansys-hq.jpg"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ansys&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ansys&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ansys"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ansys rootpage-Ansys stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ansys" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Ansys" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Ansys</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Ansys" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Ansys" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Ansys&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=ANSYS&amp;redirect=no" class="mw-redirect" title="ANSYS">ANSYS</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<p><b>Ansys, Inc.</b> is a global public company based in <a href="/wiki/Canonsburg,_Pennsylvania" title="Canonsburg, Pennsylvania">Canonsburg, Pennsylvania</a>. It develops and markets <a href="/wiki/Multiphysics" title="Multiphysics">multiphysics</a> engineering simulation software for product design, testing and operation. Ansys was founded in 1970 by <a href="/wiki/John_A._Swanson" title="John A. Swanson">John Swanson</a>. Swanson sold his interest in the company to venture capitalists in 1993. Ansys went public on <a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a> in 1996. In the 2000s, Ansys made numerous acquisitions of other engineering design companies, acquiring additional technology for fluid dynamics, electronics design, and other physics analysis. Ansys became a component of the NASDAQ-100 index on December 23, 2019.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Ansys Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Ansys-hq.jpg" class="image"><img alt="Ansys-hq.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ansys-hq.jpg/220px-Ansys-hq.jpg" decoding="async" width="220" height="128" data-file-width="432" data-file-height="251"></a><div>Ansys Inc. headquarters building in Canonsburg, Pennsylvania.</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/NASDAQ" class="mw-redirect" title="NASDAQ">NASDAQ</a>: <a rel="nofollow" class="external text" href="https://www.nasdaq.com/symbol/anss">ANSS</a></li><li><a href="/wiki/NASDAQ-100" title="NASDAQ-100">NASDAQ-100</a> component</li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US03662Q1058">US03662Q1058 </a><a href="https://www.wikidata.org/wiki/Q295774?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Computer_software" class="mw-redirect" title="Computer software">Computer software</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;"><a href="/wiki/Canonsburg,_Pennsylvania" title="Canonsburg, Pennsylvania">Canonsburg, Pennsylvania</a>, United States (1970)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Canonsburg,_Pennsylvania" title="Canonsburg, Pennsylvania">Canonsburg, Pennsylvania</a>, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">James E. Cashman III, Chairman<br>Ajei S. Gopal, President and CEO</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;">Ansys suite of engineering simulation software</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;">$1.29 billion (2018)<sup id="cite_ref-“q42018”_1-0" class="reference"><a href="#cite_note-%E2%80%9Cq42018%E2%80%9D-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;">$476.6 million (2018)<sup id="cite_ref-“q42018”_1-1" class="reference"><a href="#cite_note-%E2%80%9Cq42018%E2%80%9D-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;">$419.4 million (2018)<sup id="cite_ref-“q42018”_1-2" class="reference"><a href="#cite_note-%E2%80%9Cq42018%E2%80%9D-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;">$3.27 billion (2018)<sup id="cite_ref-“q42018”_1-3" class="reference"><a href="#cite_note-%E2%80%9Cq42018%E2%80%9D-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;">$2.65 billion (2018)<sup id="cite_ref-“q42018”_1-4" class="reference"><a href="#cite_note-%E2%80%9Cq42018%E2%80%9D-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">+3,900 (2019)<sup id="cite_ref-one_2-0" class="reference"><a href="#cite_note-one-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.ansys.com">www<wbr></wbr>.ansys<wbr></wbr>.com</a></span></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Corporate_history"><span class="tocnumber">1</span> <span class="toctext">Corporate history</span></a>
+<ul><li class="toclevel-2 tocsection-2"><a href="#Origins"><span class="tocnumber">1.1</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Growth"><span class="tocnumber">1.2</span> <span class="toctext">Growth</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Acquisitions"><span class="tocnumber">1.3</span> <span class="toctext">Acquisitions</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-5"><a href="#Engineering_Simulation_Software"><span class="tocnumber">2</span> <span class="toctext">Engineering Simulation Software</span></a>
+<ul><li class="toclevel-2 tocsection-6"><a href="#History"><span class="tocnumber">2.1</span> <span class="toctext">History</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Corporate_history">Corporate history</span><span class="mw-editsection"><a href="/w/index.php?title=Ansys&amp;action=edit&amp;section=1" title="Edit section: Corporate history" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<h3 class="in-block"><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><a href="/w/index.php?title=Ansys&amp;action=edit&amp;section=2" title="Edit section: Origins" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The idea for Ansys was first conceived by John Swanson while working at the <a href="/wiki/Westinghouse_Astronuclear_Laboratory" title="Westinghouse Astronuclear Laboratory">Westinghouse Astronuclear Laboratory</a> in the 1960s.<sup id="cite_ref-eight_3-0" class="reference"><a href="#cite_note-eight-3">[3]</a></sup> At the time, engineers performed <a href="/wiki/Finite_element_analysis" class="mw-redirect" title="Finite element analysis">finite element analysis</a> (FEA) by hand.<sup id="cite_ref-eight_3-1" class="reference"><a href="#cite_note-eight-3">[3]</a></sup> Westinghouse rejected Swanson's idea to automate FEA by developing general purpose engineering software, so Swanson left the company in 1969 to develop the software on his own.<sup id="cite_ref-eight_3-2" class="reference"><a href="#cite_note-eight-3">[3]</a></sup> He founded Ansys under the name Swanson <b>An</b>alysis <b>Sys</b>tems Inc. (SASI) the next year, working out of his farmhouse in Pittsburgh.<sup id="cite_ref-five_4-0" class="reference"><a href="#cite_note-five-4">[4]</a></sup><sup id="cite_ref-seven_5-0" class="reference"><a href="#cite_note-seven-5">[5]</a></sup></p><p>Swanson developed the initial Ansys software on punch-cards and used a mainframe computer that was rented by the hour.<sup id="cite_ref-eight_3-3" class="reference"><a href="#cite_note-eight-3">[3]</a></sup> Westinghouse hired Swanson as a consultant, under the condition that any code he developed for Westinghouse could also be included in the Ansys product line.<sup id="cite_ref-five_4-1" class="reference"><a href="#cite_note-five-4">[4]</a></sup> Westinghouse also became the first Ansys user.<sup id="cite_ref-five_4-2" class="reference"><a href="#cite_note-five-4">[4]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Growth">Growth</span><span class="mw-editsection"><a href="/w/index.php?title=Ansys&amp;action=edit&amp;section=3" title="Edit section: Growth" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>By 1991 SASI had 153 employees and $29 million in annual revenue,<sup id="cite_ref-three_6-0" class="reference"><a href="#cite_note-three-6">[6]</a></sup> controlling 10 percent of the market for <a href="/wiki/Finite_element_analysis" class="mw-redirect" title="Finite element analysis">finite element analysis</a> software.<sup id="cite_ref-three_6-1" class="reference"><a href="#cite_note-three-6">[6]</a></sup> According to <i>The Engineering Design Revolution</i>, the company became "well-respected" among engineering circles, but remained small.<sup id="cite_ref-six_7-0" class="reference"><a href="#cite_note-six-7">[7]</a></sup> In 1992, SASI acquired Compuflo, which marketed and developed fluid dynamics analysis software.<sup id="cite_ref-six_7-1" class="reference"><a href="#cite_note-six-7">[7]</a></sup></p><p>In 1993, Mr. Swanson sold his majority interest in the company to venture capitalist firm <a href="/wiki/TA_Associates" title="TA Associates">TA Associates</a>.<sup id="cite_ref-five_4-3" class="reference"><a href="#cite_note-five-4">[4]</a></sup><sup id="cite_ref-three_6-2" class="reference"><a href="#cite_note-three-6">[6]</a></sup> Peter Smith was appointed CEO<sup id="cite_ref-six_7-2" class="reference"><a href="#cite_note-six-7">[7]</a></sup> and SASI was renamed after the software, Ansys, the following year.<sup id="cite_ref-five_4-4" class="reference"><a href="#cite_note-five-4">[4]</a></sup><sup id="cite_ref-three_6-3" class="reference"><a href="#cite_note-three-6">[6]</a></sup> Ansys went public in 1996, raising about $46 million in an initial public offering.<sup id="cite_ref-six_7-3" class="reference"><a href="#cite_note-six-7">[7]</a></sup> By 1997, Ansys had grown to $50.5 million in annual revenue.<sup id="cite_ref-four_8-0" class="reference"><a href="#cite_note-four-8">[8]</a></sup> In the late 1990s, Ansys shifted its business model.<sup id="cite_ref-six_7-4" class="reference"><a href="#cite_note-six-7">[7]</a></sup> It focused less on selling software licenses and corresponding revenue declined.<sup id="cite_ref-six_7-5" class="reference"><a href="#cite_note-six-7">[7]</a></sup> However, revenue from services increased more dramatically.<sup id="cite_ref-six_7-6" class="reference"><a href="#cite_note-six-7">[7]</a></sup> From 1996 to 1999, profits at Ansys grew an average of 160 percent per year.<sup id="cite_ref-three_6-4" class="reference"><a href="#cite_note-three-6">[6]</a></sup></p><p>In February 2000, Jim Cashman was appointed CEO.<sup id="cite_ref-six_7-7" class="reference"><a href="#cite_note-six-7">[7]</a></sup> Current CEO Ajei S. Gopal was appointed in early 2017.<sup id="cite_ref-ENGINEERING.com_|_Information_&amp;_Inspiration_for_Engineers_2017_9-0" class="reference"><a href="#cite_note-ENGINEERING.com_%7C_Information_&amp;_Inspiration_for_Engineers_2017-9">[9]</a></sup><sup id="cite_ref-Picker_2016_10-0" class="reference"><a href="#cite_note-Picker_2016-10">[10]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="Acquisitions">Acquisitions</span><span class="mw-editsection"><a href="/w/index.php?title=Ansys&amp;action=edit&amp;section=4" title="Edit section: Acquisitions" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<table class="wikitable sortable"><tbody><tr><th>Year announced
+</th>
+<th>Company
+</th>
+<th class="unsortable">Business
+</th>
+<th>Value (<a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">USD</a>)
+</th>
+<th class="unsortable">References
+</th></tr><tr><td>1999
+</td>
+<td>Centric Engineering Systems
+</td>
+<td>Fluid, structural, and thermal analysis
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-three_6-5" class="reference"><a href="#cite_note-three-6">[6]</a></sup></td></tr><tr><td>2000
+</td>
+<td>ICEM CFD Engineering
+</td>
+<td>Mesh simulations
+</td>
+<td>$12.4 million.
+</td>
+<td><sup id="cite_ref-three_6-6" class="reference"><a href="#cite_note-three-6">[6]</a></sup><sup id="cite_ref-two_11-0" class="reference"><a href="#cite_note-two-11">[11]</a></sup></td></tr><tr><td>2001
+</td>
+<td>Cadoe
+</td>
+<td>Computer-aided design
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-five_4-5" class="reference"><a href="#cite_note-five-4">[4]</a></sup><sup id="cite_ref-three_6-7" class="reference"><a href="#cite_note-three-6">[6]</a></sup><sup id="cite_ref-two_11-1" class="reference"><a href="#cite_note-two-11">[11]</a></sup></td></tr><tr><td>2003
+</td>
+<td>CFX
+</td>
+<td>Fluid dynamics simulation
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-three_6-8" class="reference"><a href="#cite_note-three-6">[6]</a></sup></td></tr><tr><td>2005
+</td>
+<td>Century Dynamics
+</td>
+<td><a href="/wiki/Hydrodynamics" class="mw-redirect" title="Hydrodynamics">Hydrodynamics</a> simulation tools
+</td>
+<td>$5 million
+</td>
+<td><sup id="cite_ref-three_6-9" class="reference"><a href="#cite_note-three-6">[6]</a></sup></td></tr><tr><td>2005
+</td>
+<td>Harvard Thermal Inc.
+</td>
+<td>Simulating cooling and temperature in electronics
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-three_6-10" class="reference"><a href="#cite_note-three-6">[6]</a></sup></td></tr><tr><td>2006
+</td>
+<td>Fluent Inc.
+</td>
+<td>Fluid dynamics tools
+</td>
+<td>$299 million
+</td>
+<td><sup id="cite_ref-three_6-11" class="reference"><a href="#cite_note-three-6">[6]</a></sup><sup id="cite_ref-six_7-8" class="reference"><a href="#cite_note-six-7">[7]</a></sup></td></tr><tr><td>2008
+</td>
+<td>Ansoft Corporation
+</td>
+<td>Electronics design
+</td>
+<td>$823.8 million
+</td>
+<td><sup id="cite_ref-three_6-12" class="reference"><a href="#cite_note-three-6">[6]</a></sup></td></tr><tr><td>2011
+</td>
+<td>Apache Design Solutions
+</td>
+<td>Semiconductor simulation
+</td>
+<td>$310 million
+</td>
+<td><sup id="cite_ref-ten_12-0" class="reference"><a href="#cite_note-ten-12">[12]</a></sup></td></tr><tr><td>2012
+</td>
+<td>Esterel Technologies
+</td>
+<td>Simulating interactions between software and hardware
+</td>
+<td>$53 million
+</td>
+<td><sup id="cite_ref-Stackpole_2012_13-0" class="reference"><a href="#cite_note-Stackpole_2012-13">[13]</a></sup></td></tr><tr><td>2013
+</td>
+<td>EVEN (Evolutionary Engineering)
+</td>
+<td>Cloud-based software for engineering composites
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-Jenkins_2015_14-0" class="reference"><a href="#cite_note-Jenkins_2015-14">[14]</a></sup><sup id="cite_ref-Elsevier_BV_2014_pp._42–46_15-0" class="reference"><a href="#cite_note-Elsevier_BV_2014_pp._42%E2%80%9346-15">[15]</a></sup></td></tr><tr><td>2014
+</td>
+<td>Reaction Design
+</td>
+<td>Chemistry and combustion simulation
+</td>
+<td>$19.25 million
+</td>
+<td><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></td></tr><tr><td>2014
+</td>
+<td>SpaceClaim
+</td>
+<td>3D modeling
+</td>
+<td>$85 million
+</td>
+<td><sup id="cite_ref-Gartner_Inc._2014_17-0" class="reference"><a href="#cite_note-Gartner_Inc._2014-17">[17]</a></sup><sup id="cite_ref-Newton_2014_18-0" class="reference"><a href="#cite_note-Newton_2014-18">[18]</a></sup></td></tr><tr><td>2015
+</td>
+<td>Gear Design Solutions (2015)
+</td>
+<td>Analytics software
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-Pittsburgh_Post-Gazette_2015_19-0" class="reference"><a href="#cite_note-Pittsburgh_Post-Gazette_2015-19">[19]</a></sup></td></tr><tr><td>2015
+</td>
+<td>Delcross Technologies
+</td>
+<td>Systems analysis
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></td></tr><tr><td>2015
+</td>
+<td>Newmerical Technologies International Inc.
+</td>
+<td>In-flight icing simulation
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></td></tr><tr><td>2016
+</td>
+<td>KPIT medini Technologies AG
+</td>
+<td>Automotive design
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></td></tr><tr><td>2017
+</td>
+<td>CLK Design Automation
+</td>
+<td>Transistor-level simulation for semiconductor IP and system-on-chip (SoC) designs
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></td></tr><tr><td>2017
+</td>
+<td>Computational Engineering International, Inc. (CEI)
+</td>
+<td>Advanced post-processing and visualization
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></td></tr><tr><td>2017
+</td>
+<td>3DSIM
+</td>
+<td><a href="/wiki/3D_printing" title="3D printing">3D printing</a>
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></td></tr><tr><td>2018
+</td>
+<td>OPTIS
+</td>
+<td>Optical simulations
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-Digital_Engineering_2018_26-0" class="reference"><a href="#cite_note-Digital_Engineering_2018-26">[26]</a></sup></td></tr><tr><td>2019
+</td>
+<td>Helic
+</td>
+<td>Electromagnetic crosstalk simulation
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></td></tr><tr><td>2019
+</td>
+<td>Granta Design
+</td>
+<td>Material intelligence
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-3D_Printing_Industry_2019_28-0" class="reference"><a href="#cite_note-3D_Printing_Industry_2019-28">[28]</a></sup></td></tr><tr><td>2019
+</td>
+<td>DfR Solutions
+</td>
+<td>Electronic automated design
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-Semiconductor_Engineering_2019_29-0" class="reference"><a href="#cite_note-Semiconductor_Engineering_2019-29">[29]</a></sup></td></tr><tr><td>2019
+</td>
+<td>LSTC
+</td>
+<td>Advanced finite element analysis
+</td>
+<td>$775 million
+</td>
+<td><sup id="cite_ref-Walsh_2019_30-0" class="reference"><a href="#cite_note-Walsh_2019-30">[30]</a></sup></td></tr><tr><td>2019
+</td>
+<td>Dynardo
+</td>
+<td>PIDO technology
+</td>
+<td>Not disclosed
+</td>
+<td><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Engineering_Simulation_Software">Engineering Simulation Software</span><span class="mw-editsection"><a href="/w/index.php?title=Ansys&amp;action=edit&amp;section=5" title="Edit section: Engineering Simulation Software" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>Ansys develops and markets engineering simulation software for use across the product life cycle.<sup id="cite_ref-four_8-1" class="reference"><a href="#cite_note-four-8">[8]</a></sup> Ansys Mechanical <a href="/wiki/Finite_element_analysis" class="mw-redirect" title="Finite element analysis">finite element analysis</a> software is used to simulate computer models of structures, electronics, or machine components for analyzing strength, toughness, elasticity, temperature distribution, electromagnetism, fluid flow, and other attributes.<sup id="cite_ref-four_8-2" class="reference"><a href="#cite_note-four-8">[8]</a></sup> Ansys is used to determine how a product will function with different specifications, without building test products or conducting crash tests.<sup id="cite_ref-three_6-13" class="reference"><a href="#cite_note-three-6">[6]</a></sup> For example, Ansys software may simulate how a bridge will hold up after years of traffic, how to best process salmon in a cannery to reduce waste, or how to design a slide that uses less material without sacrificing safety.<sup id="cite_ref-seven_5-1" class="reference"><a href="#cite_note-seven-5">[5]</a></sup></p><p>Most Ansys simulations are performed using the Ansys Workbench system,<sup id="cite_ref-nine_32-0" class="reference"><a href="#cite_note-nine-32">[32]</a></sup> which is one of the company's main products.<sup id="cite_ref-three_6-14" class="reference"><a href="#cite_note-three-6">[6]</a></sup> Typically Ansys users break down larger structures into small components that are each modeled and tested individually.<sup id="cite_ref-seven_5-2" class="reference"><a href="#cite_note-seven-5">[5]</a></sup> A user may start by defining the dimensions of an object,<sup id="cite_ref-seventeen_33-0" class="reference"><a href="#cite_note-seventeen-33">[33]</a></sup> and then adding weight, pressure, temperature and other physical properties.<sup id="cite_ref-seventeen_33-1" class="reference"><a href="#cite_note-seventeen-33">[33]</a></sup> Finally, the Ansys software simulates and analyzes movement, fatigue, fractures, fluid flow, temperature distribution, electromagnetic efficiency and other effects over time.<sup id="cite_ref-seventeen_33-2" class="reference"><a href="#cite_note-seventeen-33">[33]</a></sup></p><p>Ansys also develops software for data management and backup, academic research and teaching.<sup id="cite_ref-three_6-15" class="reference"><a href="#cite_note-three-6">[6]</a></sup> Ansys software is sold on an annual subscription basis.<sup id="cite_ref-three_6-16" class="reference"><a href="#cite_note-three-6">[6]</a></sup></p>
+<h3 class="in-block"><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Ansys&amp;action=edit&amp;section=6" title="Edit section: History" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<p>The first commercial version of Ansys software was labeled version 2.0 and released in 1971.<sup id="cite_ref-three_6-17" class="reference"><a href="#cite_note-three-6">[6]</a></sup><sup id="cite_ref-two_11-2" class="reference"><a href="#cite_note-two-11">[11]</a></sup> At the time, the software was made up of boxes of punch cards, and the program was typically run overnight to get results the following morning.<sup id="cite_ref-five_4-6" class="reference"><a href="#cite_note-five-4">[4]</a></sup> In 1975, non-linear and thermo-electric features were added.<sup id="cite_ref-two_11-3" class="reference"><a href="#cite_note-two-11">[11]</a></sup> The software was exclusively used on mainframes,<sup id="cite_ref-six_7-9" class="reference"><a href="#cite_note-six-7">[7]</a></sup> until version 3.0 (the second release) was introduced for the <a href="/wiki/VAXstation" title="VAXstation">VAXstation</a> in 1979.<sup id="cite_ref-five_4-7" class="reference"><a href="#cite_note-five-4">[4]</a></sup> Version 3 had a command line interface like <a href="/wiki/DOS" title="DOS">DOS</a>.<sup id="cite_ref-Lee_2017_p._51_34-0" class="reference"><a href="#cite_note-Lee_2017_p._51-34">[34]</a></sup></p><p>In 1980, <a href="/wiki/Apple_II" title="Apple II">Apple II</a> was released, allowing Ansys to convert to a graphical user interface in version 4 later that year.<sup id="cite_ref-Lee_2017_p._51_34-1" class="reference"><a href="#cite_note-Lee_2017_p._51-34">[34]</a></sup> Version 4 of the Ansys software was easier to use and added features to simulate electromagnetism.<sup id="cite_ref-five_4-8" class="reference"><a href="#cite_note-five-4">[4]</a></sup> In 1989, Ansys began working with Compuflo.<sup id="cite_ref-five_4-9" class="reference"><a href="#cite_note-five-4">[4]</a></sup> Compuflo's Flotran fluid dynamics software was integrated into Ansys by version 5, which was released in 1993.<sup id="cite_ref-five_4-10" class="reference"><a href="#cite_note-five-4">[4]</a></sup> Performance improvements in version 5.1 shortened processing time two to four-fold, and was followed by a series of performance improvements to keep pace with advancements in computing.<sup id="cite_ref-six_7-10" class="reference"><a href="#cite_note-six-7">[7]</a></sup> Ansys also began integrating its software with CAD software, such as <a href="/wiki/Autodesk" title="Autodesk">Autodesk</a>.<sup id="cite_ref-six_7-11" class="reference"><a href="#cite_note-six-7">[7]</a></sup></p><p>In 1996, Ansys released the DesignSpace structural analysis software, the LS-DYNA crash and drop test simulation product, and the Ansys Computational Fluid Dynamics (CFD) simulator.<sup id="cite_ref-two_11-4" class="reference"><a href="#cite_note-two-11">[11]</a></sup> Ansys also added parallel processing support for PCs with multiple processors.<sup id="cite_ref-two_11-5" class="reference"><a href="#cite_note-two-11">[11]</a></sup> The educational product Ansys/ed was introduced in 1998.<sup id="cite_ref-five_4-11" class="reference"><a href="#cite_note-five-4">[4]</a></sup> Version 6.0 of the main Ansys product was released in December 2001.<sup id="cite_ref-five_4-12" class="reference"><a href="#cite_note-five-4">[4]</a></sup> Version 6.0 made large-scale modeling practical for the first time, but many users were frustrated by a new blue user interface.<sup id="cite_ref-five_4-13" class="reference"><a href="#cite_note-five-4">[4]</a></sup> The interface was redone a few months later in 6.1.<sup id="cite_ref-five_4-14" class="reference"><a href="#cite_note-five-4">[4]</a></sup> Version 8.0 introduced the Ansys multi-field solver, which allows users to simulate how multiple physics problems would interact with one another.<sup id="cite_ref-Engineers_2004_35-0" class="reference"><a href="#cite_note-Engineers_2004-35">[35]</a></sup></p><p>Version 8.0 was published in 2005<sup id="cite_ref-two_11-6" class="reference"><a href="#cite_note-two-11">[11]</a></sup> and introduced Ansys' <a href="/wiki/Fluid%E2%80%93structure_interaction" title="Fluid–structure interaction">fluid–structure interaction</a> software,<sup id="cite_ref-two_11-7" class="reference"><a href="#cite_note-two-11">[11]</a></sup> which simulates the effect structures and fluids have on one another. Ansys also released its  Probabilistic Design System and DesignXplorer software products, which both deal with probabilities and randomness of physical elements.<sup id="cite_ref-Reh_Beley_Mukherjee_Khor_2006_pp._17–43_36-0" class="reference"><a href="#cite_note-Reh_Beley_Mukherjee_Khor_2006_pp._17%E2%80%9343-36">[36]</a></sup> In 2009 version 12 was released with an overhauled second version of Workbench.<sup id="cite_ref-two_11-8" class="reference"><a href="#cite_note-two-11">[11]</a></sup><sup id="cite_ref-Dadkhah_Zecher_2009_p._1-PA5_37-0" class="reference"><a href="#cite_note-Dadkhah_Zecher_2009_p._1-PA5-37">[37]</a></sup> Ansys also began increasingly consolidating features into the Workbench software.<sup id="cite_ref-nine_32-1" class="reference"><a href="#cite_note-nine-32">[32]</a></sup></p><p>Version 15 of Ansys was released in 2014.<sup id="cite_ref-nine_32-2" class="reference"><a href="#cite_note-nine-32">[32]</a></sup> It added a new features for composites, bolted connections, and better mesh tools.<sup id="cite_ref-nine_32-3" class="reference"><a href="#cite_note-nine-32">[32]</a></sup> In February 2015, version 16 introduced the AIM physics engine and Electronics Desktop, which is for semiconductor design.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> The following year, version 17 introduced a new user interface and performance improvement for computing fluid dynamics problems.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> In January 2017, Ansys released version 18.<sup id="cite_ref-aduhfaekl_40-0" class="reference"><a href="#cite_note-aduhfaekl-40">[40]</a></sup> Version 18 allowed users to collect real-world data from products and then incorporate that data into future simulations.<sup id="cite_ref-aduhfaekl_40-1" class="reference"><a href="#cite_note-aduhfaekl-40">[40]</a></sup> The Ansys Application Builder, which allows engineers to build, use, and sell custom engineering tools, was also introduced with version 18.<sup id="cite_ref-aduhfaekl_40-2" class="reference"><a href="#cite_note-aduhfaekl-40">[40]</a></sup></p><p>Released in January 2020, Ansys R1 2020 updates Ansys’ simulation process and data management (SPDM), materials information and electromagnetics product offerings.<sup id="cite_ref-Engineering_2020_41-0" class="reference"><a href="#cite_note-Engineering_2020-41">[41]</a></sup> In early 2020, the Ansys Academic Program surpassed one million student downloads.<sup id="cite_ref-Pulse_2.0_2020_42-0" class="reference"><a href="#cite_note-Pulse_2.0_2020-42">[42]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Ansys&amp;action=edit&amp;section=7" title="Edit section: References" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-“q42018”-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-%E2%80%9Cq42018%E2%80%9D_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-%E2%80%9Cq42018%E2%80%9D_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-%E2%80%9Cq42018%E2%80%9D_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-%E2%80%9Cq42018%E2%80%9D_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-%E2%80%9Cq42018%E2%80%9D_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="https://otp.tools.investis.com/clients/us/ansys3/SEC/sec-show.aspx?FilingId=13261807&amp;Cik=0001013462&amp;Type=PDF&amp;hasPdf=1"><i>Form 10-K for Ansys, Inc.</i></a>, Ansys</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Form+10-K+for+Ansys%2C+Inc.&amp;rft.pub=Ansys&amp;rft_id=https%3A%2F%2Fotp.tools.investis.com%2Fclients%2Fus%2Fansys3%2FSEC%2Fsec-show.aspx%3FFilingId%3D13261807%26Cik%3D0001013462%26Type%3DPDF%26hasPdf%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-one-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-one_2-0">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="https://otp.tools.investis.com/clients/us/ansys3/SEC/sec-show.aspx?Type=html&amp;FilingId=13725410&amp;CIK=0001013462&amp;Index=10000#ANSS2019093010Q_HTM_S96440A067B625A9DA5235E7DDFE03879"><i>Form 10-Q: 2019</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">January 9,</span> 2020</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Form+10-Q%3A+2019&amp;rft_id=https%3A%2F%2Fotp.tools.investis.com%2Fclients%2Fus%2Fansys3%2FSEC%2Fsec-show.aspx%3FType%3Dhtml%26FilingId%3D13725410%26CIK%3D0001013462%26Index%3D10000%23ANSS2019093010Q_HTM_S96440A067B625A9DA5235E7DDFE03879&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-eight-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-eight_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-eight_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-eight_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-eight_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.readingeagle.com/ap/article/ansys-opens-new-markets-with-user-friendly-software">"Ansys opens new markets with user-friendly software"</a>. Associated Press. May 16, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ansys+opens+new+markets+with+user-friendly+software&amp;rft.date=2017-05-16&amp;rft_id=http%3A%2F%2Fwww.readingeagle.com%2Fap%2Farticle%2Fansys-opens-new-markets-with-user-friendly-software&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-five-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-five_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-five_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-five_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-five_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-five_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-five_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-five_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-five_4-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-five_4-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-five_4-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-five_4-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-five_4-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-five_4-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-five_4-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-five_4-14"><sup><i><b>o</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Lee, H.-H. (2017). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=G4EEDgAAQBAJ&amp;pg=PA50"><i>Finite Element Simulations with ANSYS Workbench 17</i></a>. SDC Publications. p. 50. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-63057-088-0" title="Special:BookSources/978-1-63057-088-0"><bdi>978-1-63057-088-0</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Finite+Element+Simulations+with+ANSYS+Workbench+17&amp;rft.pages=50&amp;rft.pub=SDC+Publications&amp;rft.date=2017&amp;rft.isbn=978-1-63057-088-0&amp;rft.aulast=Lee&amp;rft.aufirst=H.-H.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DG4EEDgAAQBAJ%26pg%3DPA50&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-seven-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-seven_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-seven_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-seven_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Houser, Mark (February 5, 1995). "Small firm big player in software industry". <i>Tribune</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Tribune&amp;rft.atitle=Small+firm+big+player+in+software+industry&amp;rft.date=1995-02-05&amp;rft.aulast=Houser&amp;rft.aufirst=Mark&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-three-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-three_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-three_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-three_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-three_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-three_6-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-three_6-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-three_6-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-three_6-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-three_6-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-three_6-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-three_6-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-three_6-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-three_6-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-three_6-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-three_6-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-three_6-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-three_6-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-three_6-17"><sup><i><b>r</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><i>Ansys Inc</i>. <i>The International Directory of Company Histories</i>. <b>115</b>. St. James Press. pp. 23–25. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1558627782" title="Special:BookSources/1558627782"><bdi>1558627782</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ansys+Inc.&amp;rft.pages=23-25&amp;rft.pub=St.+James+Press&amp;rft.isbn=1558627782&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-six-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-six_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-six_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-six_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-six_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-six_7-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-six_7-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-six_7-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-six_7-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-six_7-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-six_7-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-six_7-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-six_7-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Weisberg, David. "22". <a rel="nofollow" class="external text" href="http://www.cadhistory.net/22%20Analysis.pdf"><i>The Engineering Design Revolution</i></a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=22&amp;rft.btitle=The+Engineering+Design+Revolution&amp;rft.aulast=Weisberg&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fwww.cadhistory.net%2F22%2520Analysis.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-four-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-four_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-four_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-four_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><i>Ansys</i>. <i>Pennsylvania Technology Directory</i>. 1999. p. 25.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ansys&amp;rft.pages=25&amp;rft.date=1999&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-ENGINEERING.com_|_Information_&amp;_Inspiration_for_Engineers_2017-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-ENGINEERING.com_%7C_Information_&amp;_Inspiration_for_Engineers_2017_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14067/ANSYS-New-CEO-Focuses-on-the-Digital-Twin-IoT-and-Core-Technology.aspx">"ANSYS' New CEO Focuses on the Digital Twin, IoT and Core Technology"</a>. <i>Engineering.com | Information &amp; Inspiration for Engineers</i>. January 10, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">June 16,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Engineering.com+%26%23124%3B+Information+%26+Inspiration+for+Engineers&amp;rft.atitle=ANSYS%27+New+CEO+Focuses+on+the+Digital+Twin%2C+IoT+and+Core+Technology&amp;rft.date=2017-01-10&amp;rft_id=http%3A%2F%2Fwww.engineering.com%2FDesignSoftware%2FDesignSoftwareArticles%2FArticleID%2F14067%2FANSYS-New-CEO-Focuses-on-the-Digital-Twin-IoT-and-Core-Technology.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Picker_2016-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Picker_2016_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Picker, Leslie (August 30, 2016). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2016/08/30/business/dealbook/ansys-inc-names-ajei-gopal-chief-executive.html">"Ansys Inc. Names Chief Executive"</a>. <i>The New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 16,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Ansys+Inc.+Names+Chief+Executive&amp;rft.date=2016-08-30&amp;rft.aulast=Picker&amp;rft.aufirst=Leslie&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2016%2F08%2F30%2Fbusiness%2Fdealbook%2Fansys-inc-names-ajei-gopal-chief-executive.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-two-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-two_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-two_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-two_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-two_11-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-two_11-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-two_11-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-two_11-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-two_11-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-two_11-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Wahab, M.A. (2014). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=w698AwAAQBAJ&amp;pg=PA59"><i>The Mechanics of Adhesives in Composite and Metal Joints: Finite Element Analysis with ANSYS</i></a>. Destech Publications Incorporated. p. 59. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-60595-096-9" title="Special:BookSources/978-1-60595-096-9"><bdi>978-1-60595-096-9</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 3,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Mechanics+of+Adhesives+in+Composite+and+Metal+Joints%3A+Finite+Element+Analysis+with+ANSYS&amp;rft.pages=59&amp;rft.pub=Destech+Publications+Incorporated&amp;rft.date=2014&amp;rft.isbn=978-1-60595-096-9&amp;rft.aulast=Wahab&amp;rft.aufirst=M.A.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dw698AwAAQBAJ%26pg%3DPA59&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-ten-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-ten_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Editorial, Reuters (June 30, 2011). <a rel="nofollow" class="external text" href="https://www.reuters.com/article/apache-ansys-idUSL3E7HU1TE20110630">"Update 3 – Ansys to buy Apache Design for $310 mln"</a>. <i>Reuters</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Reuters&amp;rft.atitle=Update+3+%E2%80%93+Ansys+to+buy+Apache+Design+for+%24310+mln&amp;rft.date=2011-06-30&amp;rft.aulast=Editorial&amp;rft.aufirst=Reuters&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fapache-ansys-idUSL3E7HU1TE20110630&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Stackpole_2012-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Stackpole_2012_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Stackpole, Beth (June 5, 2012). <a rel="nofollow" class="external text" href="https://www.designnews.com/design-hardware-software/ansys-takes-aim-embedded-software/140524912029263">"ANSYS Takes Aim at Embedded Software"</a>. <i>Design News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Design+News&amp;rft.atitle=ANSYS+Takes+Aim+at+Embedded+Software&amp;rft.date=2012-06-05&amp;rft.aulast=Stackpole&amp;rft.aufirst=Beth&amp;rft_id=https%3A%2F%2Fwww.designnews.com%2Fdesign-hardware-software%2Fansys-takes-aim-embedded-software%2F140524912029263&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Jenkins_2015-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jenkins_2015_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Jenkins, Bruce (January 26, 2015). <a rel="nofollow" class="external text" href="http://www.digitaleng.news/virtual_desktop/2015/01/design-exploration-outlook-acquisitions-and-mergers-2015/">"Design Exploration Outlook: Acquisitions and Mergers 2015"</a>. <i>Virtual Desktop</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Virtual+Desktop&amp;rft.atitle=Design+Exploration+Outlook%3A+Acquisitions+and+Mergers+2015&amp;rft.date=2015-01-26&amp;rft.aulast=Jenkins&amp;rft.aufirst=Bruce&amp;rft_id=http%3A%2F%2Fwww.digitaleng.news%2Fvirtual_desktop%2F2015%2F01%2Fdesign-exploration-outlook-acquisitions-and-mergers-2015%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Elsevier_BV_2014_pp._42–46-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Elsevier_BV_2014_pp._42%E2%80%9346_15-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Mergers, acquisitions and joint ventures review – 2013". <i>Reinforced Plastics</i>. Elsevier BV. <b>58</b> (1): 42–46. 2014. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fs0034-3617%2814%2970042-6">10.1016/s0034-3617(14)70042-6</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0034-3617">0034-3617</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reinforced+Plastics&amp;rft.atitle=Mergers%2C+acquisitions+and+joint+ventures+review+%E2%80%93+2013&amp;rft.volume=58&amp;rft.issue=1&amp;rft.pages=42-46&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1016%2Fs0034-3617%2814%2970042-6&amp;rft.issn=0034-3617&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Linder, Courtney (January 3, 2014). <a rel="nofollow" class="external text" href="https://investors.ansys.com/company-information/acquisitions-and-partnerships/">"Ansys Acquisition History"</a>. <i>Ansys</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 29,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ansys&amp;rft.atitle=Ansys+Acquisition+History&amp;rft.date=2014-01-03&amp;rft.aulast=Linder&amp;rft.aufirst=Courtney&amp;rft_id=https%3A%2F%2Finvestors.ansys.com%2Fcompany-information%2Facquisitions-and-partnerships%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Gartner_Inc._2014-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gartner_Inc._2014_17-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Halpern, Marc (May 8, 2014). <a rel="nofollow" class="external text" href="https://www.gartner.com/doc/2733922/ansys-spaceclaim-purchase-enhances-engineering">"Ansys' SpaceClaim Purchase Enhances Engineering Productivity"</a>. <i>Gartner Inc</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gartner+Inc.&amp;rft.atitle=Ansys%27+SpaceClaim+Purchase+Enhances+Engineering+Productivity&amp;rft.date=2014-05-08&amp;rft.aulast=Halpern&amp;rft.aufirst=Marc&amp;rft_id=https%3A%2F%2Fwww.gartner.com%2Fdoc%2F2733922%2Fansys-spaceclaim-purchase-enhances-engineering&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Newton_2014-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Newton_2014_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Newton, Randall (April 1, 2014). <a rel="nofollow" class="external text" href="http://gfxspeak.com/2014/05/01/acquires-spaceclaim-million/">"Ansys acquires SpaceClaim for $85 million"</a>. <i>GraphicSpeak</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GraphicSpeak&amp;rft.atitle=Ansys+acquires+SpaceClaim+for+%2485+million&amp;rft.date=2014-04-01&amp;rft.aulast=Newton&amp;rft.aufirst=Randall&amp;rft_id=http%3A%2F%2Fgfxspeak.com%2F2014%2F05%2F01%2Facquires-spaceclaim-million%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Pittsburgh_Post-Gazette_2015-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pittsburgh_Post-Gazette_2015_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.post-gazette.com/business/news-briefs/2015/06/09/Gear-Design-Solutions-acquired-by-Southpointe-based-Ansys/stories/201506090043">"Gear Design Solutions acquired by Southpointe-based Ansys; merican Medical Association taps Altoona surgeon"</a>. <i>Pittsburgh Post-Gazette</i>. June 9, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">June 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pittsburgh+Post-Gazette&amp;rft.atitle=Gear+Design+Solutions+acquired+by+Southpointe-based+Ansys%3B+merican+Medical+Association+taps+Altoona+surgeon&amp;rft.date=2015-06-09&amp;rft_id=http%3A%2F%2Fwww.post-gazette.com%2Fbusiness%2Fnews-briefs%2F2015%2F06%2F09%2FGear-Design-Solutions-acquired-by-Southpointe-based-Ansys%2Fstories%2F201506090043&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Todd, Deborah (September 2, 2015). <a rel="nofollow" class="external text" href="http://www.post-gazette.com/business/tech-news/2015/09/02/Ansys-acquires-Delcross-Technologies-pittsburgh/stories/201509020177">"Ansys acquires Delcross Technologies"</a>. <i>Pittsburgh Post-Gazette</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pittsburgh+Post-Gazette&amp;rft.atitle=Ansys+acquires+Delcross+Technologies&amp;rft.date=2015-09-02&amp;rft.aulast=Todd&amp;rft.aufirst=Deborah&amp;rft_id=http%3A%2F%2Fwww.post-gazette.com%2Fbusiness%2Ftech-news%2F2015%2F09%2F02%2FAnsys-acquires-Delcross-Technologies-pittsburgh%2Fstories%2F201509020177&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ansys.com/about-ansys/news-center/02-04-15-ansys-acquires-assets-of-newmerical-technologies-international">"ANSYS Acquires Assets Of Newmerical Technologies International"</a>. <i>www.ansys.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-11-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.ansys.com&amp;rft.atitle=ANSYS+Acquires+Assets+Of+Newmerical+Technologies+International&amp;rft_id=https%3A%2F%2Fwww.ansys.com%2Fabout-ansys%2Fnews-center%2F02-04-15-ansys-acquires-assets-of-newmerical-technologies-international&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Goldbacher, Alfred. <a rel="nofollow" class="external text" href="http://www.elektroniknet.de/elektronik/elektronikfertigung/kauf-des-analysespezialsten-kpit-medini-technologies-135781.html">"Ansys Inc.: Kauf des Analysespezialsten KPIT medini Technologies"</a>. <i>Elektronik</i> (in German)<span class="reference-accessdate">. Retrieved <span class="nowrap">June 17,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Elektronik&amp;rft.atitle=Ansys+Inc.%3A+Kauf+des+Analysespezialsten+KPIT+medini+Technologies&amp;rft.aulast=Goldbacher&amp;rft.aufirst=Alfred&amp;rft_id=http%3A%2F%2Fwww.elektroniknet.de%2Felektronik%2Felektronikfertigung%2Fkauf-des-analysespezialsten-kpit-medini-technologies-135781.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">Linder, Courtney (March 10, 2017). <a rel="nofollow" class="external text" href="https://investors.ansys.com/company-information/acquisitions-and-partnerships/">"Ansys Acquisition History"</a>. <i>Ansys</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 29,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ansys&amp;rft.atitle=Ansys+Acquisition+History&amp;rft.date=2017-03-10&amp;rft.aulast=Linder&amp;rft.aufirst=Courtney&amp;rft_id=https%3A%2F%2Finvestors.ansys.com%2Fcompany-information%2Facquisitions-and-partnerships%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Linder, Courtney (June 11, 2017). <a rel="nofollow" class="external text" href="https://investors.ansys.com/company-information/acquisitions-and-partnerships/">"Ansys Acquisition History"</a>. <i>Ansys</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 29,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ansys&amp;rft.atitle=Ansys+Acquisition+History&amp;rft.date=2017-06-11&amp;rft.aulast=Linder&amp;rft.aufirst=Courtney&amp;rft_id=https%3A%2F%2Finvestors.ansys.com%2Fcompany-information%2Facquisitions-and-partnerships%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web">Linder, Courtney (November 15, 2017). <a rel="nofollow" class="external text" href="http://www.post-gazette.com/business/tech-news/2017/11/15/Ansys-acquires-additive-manufacturing-firm-3DSIM-3D-printing-pittsburgh/stories/201711150159">"Ansys acquires additive manufacturing firm 3DSIM to reduce manufacturing costs"</a>. <i>Pittsburgh Post-Gazette</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pittsburgh+Post-Gazette&amp;rft.atitle=Ansys+acquires+additive+manufacturing+firm+3DSIM+to+reduce+manufacturing+costs&amp;rft.date=2017-11-15&amp;rft.aulast=Linder&amp;rft.aufirst=Courtney&amp;rft_id=http%3A%2F%2Fwww.post-gazette.com%2Fbusiness%2Ftech-news%2F2017%2F11%2F15%2FAnsys-acquires-additive-manufacturing-firm-3DSIM-3D-printing-pittsburgh%2Fstories%2F201711150159&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Digital_Engineering_2018-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Digital_Engineering_2018_26-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.digitaleng.news/de/ansys-acquire-optis/">"ANSYS to Acquire OPTIS"</a>. <i>Digital Engineering</i>. April 5, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">April 14,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Engineering&amp;rft.atitle=ANSYS+to+Acquire+OPTIS&amp;rft.date=2018-04-05&amp;rft_id=http%3A%2F%2Fwww.digitaleng.news%2Fde%2Fansys-acquire-optis%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation news">Torrance, Luke (January 22, 2019). <a rel="nofollow" class="external text" href="https://www.bizjournals.com/pittsburgh/news/2019/01/22/ansys-to-acquire-software-company.html">"ANSYS to acquire software company"</a>. <i>Pittsburgh Business Times</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pittsburgh+Business+Times&amp;rft.atitle=ANSYS+to+acquire+software+company&amp;rft.date=2019-01-22&amp;rft.aulast=Torrance&amp;rft.aufirst=Luke&amp;rft_id=https%3A%2F%2Fwww.bizjournals.com%2Fpittsburgh%2Fnews%2F2019%2F01%2F22%2Fansys-to-acquire-software-company.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3D_Printing_Industry_2019-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-3D_Printing_Industry_2019_28-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Jackson, Beau (January 24, 2019). <a rel="nofollow" class="external text" href="https://3dprintingindustry.com/news/what-the-ansys-acquisition-of-granta-design-means-for-additive-manufacturing-customers-147762/">"What the ANSYS acquisition of Granta Design means for additive manufacturing customers"</a>. <i>3D Printing Industry</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 1,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=3D+Printing+Industry&amp;rft.atitle=What+the+ANSYS+acquisition+of+Granta+Design+means+for+additive+manufacturing+customers&amp;rft.date=2019-01-24&amp;rft.aulast=Jackson&amp;rft.aufirst=Beau&amp;rft_id=https%3A%2F%2F3dprintingindustry.com%2Fnews%2Fwhat-the-ansys-acquisition-of-granta-design-means-for-additive-manufacturing-customers-147762%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Semiconductor_Engineering_2019-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-Semiconductor_Engineering_2019_29-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://semiengineering.com/week-in-review-design-low-power-41/">"Week In Review: Design, Low Power"</a>. <i>Semiconductor Engineering</i>. May 3, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">January 1,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Semiconductor+Engineering&amp;rft.atitle=Week+In+Review%3A+Design%2C+Low+Power&amp;rft.date=2019-05-03&amp;rft_id=https%3A%2F%2Fsemiengineering.com%2Fweek-in-review-design-low-power-41%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Walsh_2019-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Walsh_2019_30-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Walsh, Jeremy (December 8, 2019). <a rel="nofollow" class="external text" href="https://pleasantonweekly.com/news/2019/12/08/livermore-tech-company-sold-for-775m">"Livermore tech company sold for $775M"</a>. <i>PleasantonWeekly.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 1,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PleasantonWeekly.com&amp;rft.atitle=Livermore+tech+company+sold+for+%24775M&amp;rft.date=2019-12-08&amp;rft.aulast=Walsh&amp;rft.aufirst=Jeremy&amp;rft_id=https%3A%2F%2Fpleasantonweekly.com%2Fnews%2F2019%2F12%2F08%2Flivermore-tech-company-sold-for-775m&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation news">Mericle, Julia (November 7, 2019). <a rel="nofollow" class="external text" href="https://www.bizjournals.com/pittsburgh/news/2019/11/07/ansys-closes-third-quarter-with-two-acquisitions.html">"ANSYS closes third quarter with two acquisitions"</a>. <i>Pittsburgh Business Times</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pittsburgh+Business+Times&amp;rft.atitle=ANSYS+closes+third+quarter+with+two+acquisitions&amp;rft.date=2019-11-07&amp;rft.aulast=Mericle&amp;rft.aufirst=Julia&amp;rft_id=https%3A%2F%2Fwww.bizjournals.com%2Fpittsburgh%2Fnews%2F2019%2F11%2F07%2Fansys-closes-third-quarter-with-two-acquisitions.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-nine-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-nine_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nine_32-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nine_32-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-nine_32-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.develop3d.com/reviews/review-ansys-workbench-15">"Review: Ansys Workbench 15"</a>. <i>DEVELOP3D</i>. May 27, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DEVELOP3D&amp;rft.atitle=Review%3A+Ansys+Workbench+15&amp;rft.date=2014-05-27&amp;rft_id=http%3A%2F%2Fwww.develop3d.com%2Freviews%2Freview-ansys-workbench-15&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-seventeen-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-seventeen_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-seventeen_33-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-seventeen_33-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Nakasone, Y (2006). <i>Engineering analysis with ANSYS software</i>. Oxford Burlington, MA: Butterworth-Heinemann. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7506-6875-0" title="Special:BookSources/978-0-7506-6875-0"><bdi>978-0-7506-6875-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Engineering+analysis+with+ANSYS+software&amp;rft.place=Oxford+Burlington%2C+MA&amp;rft.pub=Butterworth-Heinemann&amp;rft.date=2006&amp;rft.isbn=978-0-7506-6875-0&amp;rft.aulast=Nakasone&amp;rft.aufirst=Y&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Lee_2017_p._51-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lee_2017_p._51_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lee_2017_p._51_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Lee, H.H. (2017). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=G4EEDgAAQBAJ&amp;pg=PA51"><i>Finite Element Simulations with ANSYS Workbench 17:</i></a>. SDC Publications. p. 51. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-63057-088-0" title="Special:BookSources/978-1-63057-088-0"><bdi>978-1-63057-088-0</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 15,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Finite+Element+Simulations+with+ANSYS+Workbench+17%3A&amp;rft.pages=51&amp;rft.pub=SDC+Publications&amp;rft.date=2017&amp;rft.isbn=978-1-63057-088-0&amp;rft.aulast=Lee&amp;rft.aufirst=H.H.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DG4EEDgAAQBAJ%26pg%3DPA51&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Engineers_2004-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-Engineers_2004_35-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Engineers, American Institute of Chemical (2004). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=FbovAQAAIAAJ"><i>Chemical Engineering Progress</i></a>. American Institute of Chemical Engineers<span class="reference-accessdate">. Retrieved <span class="nowrap">June 15,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chemical+Engineering+Progress&amp;rft.pub=American+Institute+of+Chemical+Engineers&amp;rft.date=2004&amp;rft.aulast=Engineers&amp;rft.aufirst=American+Institute+of+Chemical&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DFbovAQAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Reh_Beley_Mukherjee_Khor_2006_pp._17–43-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Reh_Beley_Mukherjee_Khor_2006_pp._17%E2%80%9343_36-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Reh, Stefan; Beley, Jean-Daniel; Mukherjee, Siddhartha; Khor, Eng Hui (2006). "Probabilistic finite element analysis using ANSYS". <i>Structural Safety</i>. Elsevier BV. <b>28</b> (1–2): 17–43. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.strusafe.2005.03.010">10.1016/j.strusafe.2005.03.010</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0167-4730">0167-4730</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Structural+Safety&amp;rft.atitle=Probabilistic+finite+element+analysis+using+ANSYS&amp;rft.volume=28&amp;rft.issue=1%E2%80%932&amp;rft.pages=17-43&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1016%2Fj.strusafe.2005.03.010&amp;rft.issn=0167-4730&amp;rft.aulast=Reh&amp;rft.aufirst=Stefan&amp;rft.au=Beley%2C+Jean-Daniel&amp;rft.au=Mukherjee%2C+Siddhartha&amp;rft.au=Khor%2C+Eng+Hui&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Dadkhah_Zecher_2009_p._1-PA5-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dadkhah_Zecher_2009_p._1-PA5_37-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Dadkhah, F.; Zecher, J. (2009). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=pODC_LOeeiwC&amp;pg=SA1-PA5"><i>Ansys Workbench Software Tutorial with Multimedia CD: Release 12</i></a>. SDC publications. Schroff Development Corporation. p. 1-PA5. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-58503-581-6" title="Special:BookSources/978-1-58503-581-6"><bdi>978-1-58503-581-6</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 16,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ansys+Workbench+Software+Tutorial+with+Multimedia+CD%3A+Release+12&amp;rft.series=SDC+publications&amp;rft.pages=1-PA5&amp;rft.pub=Schroff+Development+Corporation&amp;rft.date=2009&amp;rft.isbn=978-1-58503-581-6&amp;rft.aulast=Dadkhah&amp;rft.aufirst=F.&amp;rft.au=Zecher%2C+J.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DpODC_LOeeiwC%26pg%3DSA1-PA5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web">Lockwood, Anthony (February 11, 2015). <a rel="nofollow" class="external text" href="http://www.digitaleng.news/de/ansys-16-0-launches/">"ANSYS 16.0 Launches"</a>. <i>Digital Engineering</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 16,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Engineering&amp;rft.atitle=ANSYS+16.0+Launches&amp;rft.date=2015-02-11&amp;rft.aulast=Lockwood&amp;rft.aufirst=Anthony&amp;rft_id=http%3A%2F%2Fwww.digitaleng.news%2Fde%2Fansys-16-0-launches%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web">Wasserman, Shawn (February 5, 2016). <a rel="nofollow" class="external text" href="http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/11449/ANSYS-Fluent-170-Introduces-New-User-Interface.aspx">"ANSYS Fluent 17.0 Introduces New User Interface"</a>. <i>Engineering.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 16,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Engineering.com&amp;rft.atitle=ANSYS+Fluent+17.0+Introduces+New+User+Interface&amp;rft.date=2016-02-05&amp;rft.aulast=Wasserman&amp;rft.aufirst=Shawn&amp;rft_id=http%3A%2F%2Fwww.engineering.com%2FDesignSoftware%2FDesignSoftwareArticles%2FArticleID%2F11449%2FANSYS-Fluent-170-Introduces-New-User-Interface.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-aduhfaekl-40"><span class="mw-cite-backlink">^ <a href="#cite_ref-aduhfaekl_40-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-aduhfaekl_40-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-aduhfaekl_40-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Wasserman, Shawn (January 31, 2017). <a rel="nofollow" class="external text" href="http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/14205/ANSYS-18-Release-Focuses-on-Digital-Twin-IoT-and-Engineering-Apps.aspx">"ANSYS 18 Release Focuses on Digital Twin, IoT and Engineering Apps"</a>. <i>Engineering.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">June 16,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Engineering.com&amp;rft.atitle=ANSYS+18+Release+Focuses+on+Digital+Twin%2C+IoT+and+Engineering+Apps&amp;rft.date=2017-01-31&amp;rft.aulast=Wasserman&amp;rft.aufirst=Shawn&amp;rft_id=http%3A%2F%2Fwww.engineering.com%2FDesignSoftware%2FDesignSoftwareArticles%2FArticleID%2F14205%2FANSYS-18-Release-Focuses-on-Digital-Twin-IoT-and-Engineering-Apps.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Engineering_2020-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-Engineering_2020_41-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Engineering, Digital (January 30, 2020). <a rel="nofollow" class="external text" href="https://www.digitalengineering247.com/article/ansys-2020-r1-digitally-threads-simulation-across-product-lifecycle-processes">"ANSYS 2020 R1 Threads Simulation Across Product Lifecycle Processes"</a>. <i>Digital Engineering</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 5,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Engineering&amp;rft.atitle=ANSYS+2020+R1+Threads+Simulation+Across+Product+Lifecycle+Processes&amp;rft.date=2020-01-30&amp;rft.aulast=Engineering&amp;rft.aufirst=Digital&amp;rft_id=https%3A%2F%2Fwww.digitalengineering247.com%2Farticle%2Fansys-2020-r1-digitally-threads-simulation-across-product-lifecycle-processes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Pulse_2.0_2020-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pulse_2.0_2020_42-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Chowdhry, Amit (January 22, 2020). <a rel="nofollow" class="external text" href="https://pulse2.com/ansys-academic-milestones/">"ANSYS: Student Software Program Hits Several Major Milestones"</a>. <i>Pulse 2.0</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 1,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pulse+2.0&amp;rft.atitle=ANSYS%3A+Student+Software+Program+Hits+Several+Major+Milestones&amp;rft.date=2020-01-22&amp;rft.aulast=Chowdhry&amp;rft.aufirst=Amit&amp;rft_id=https%3A%2F%2Fpulse2.com%2Fansys-academic-milestones%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsys" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Ansys&amp;action=edit&amp;section=8" title="Edit section: External links" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li><a rel="nofollow" class="external text" href="http://www.ansys.com/">Official website</a></li>
+<li class="mw-empty-elt">
+<li>Business data for Ansys: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=ANSS">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=ANSS">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.bloomberg.com/quote/ANSS:US">Bloomberg</a></li><li><a rel="nofollow" class="external text" href="https://www.reuters.com/finance/stocks/overview?symbol=ANSS.O">Reuters</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=ANSS">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ansys&amp;oldid=947997150">https://en.wikipedia.org/w/index.php?title=Ansys&amp;oldid=947997150</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Ansys"
+				data-user-name="70.124.163.165"
+				data-user-gender="unknown"
+				data-timestamp="1585498777">
+				<span>Last edited on 29 March 2020, at 16:19</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Ansys&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.716","walltime":"0.857","ppvisitednodes":{"value":3088,"limit":1000000},"postexpandincludesize":{"value":117837,"limit":2097152},"templateargumentsize":{"value":2213,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":144266,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  712.426      1 -total"," 51.27%  365.261      1 Template:Reflist"," 24.15%  172.077      1 Template:Infobox_company"," 21.96%  156.437      1 Template:Infobox"," 15.46%  110.109     25 Template:Cite_web"," 11.95%   85.125      2 Template:Cite"," 10.25%   72.995      8 Template:Wikidata","  9.68%   68.958      1 Template:Br_separated_entries","  8.61%   61.311      2 Template:Cite_journal","  8.07%   57.489      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.356","limit":"10.000"},"limitreport-memusage":{"value":7098929,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20200416052723","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ansys","url":"https:\/\/en.wikipedia.org\/wiki\/Ansys","sameAs":"http:\/\/www.wikidata.org\/entity\/Q295774","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q295774","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-08T09:05:09Z","dateModified":"2020-03-29T16:19:37Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/11\/Ansys-hq.jpg","headline":"American engineering simulation software developer"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135,"wgHostname":"mw1323"});});</script>		</body>
+		</html>
+		

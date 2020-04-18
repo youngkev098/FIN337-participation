@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>FIS (company) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoLIgpAICIAAIdmFFMAAAAU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"FIS_(company)","wgTitle":"FIS (company)","wgCurRevisionId":949568104,"wgRevisionId":949568104,"wgArticleId":9190467,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"FIS_(company)","wgRelevantArticleId":9190467,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Fidelity_National_Information_Services","wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/FIS_(company)","wgWikibaseItemId":"Q1411295","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,
+"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/FIS_%28company%29_Fidelity_National_Information_Services_Inc._Corporate_Logo.svg/1200px-FIS_%28company%29_Fidelity_National_Information_Services_Inc._Corporate_Logo.svg.png"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=FIS_(company)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=FIS_(company)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/FIS_(company)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-FIS_company rootpage-FIS_company stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=FIS+%28company%29" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=FIS+%28company%29" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">FIS (company)</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/FIS_(company)" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=FIS+%28company%29" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=FIS_(company)&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Fidelity_National_Information_Services&amp;redirect=no" class="mw-redirect" title="Fidelity National Information Services">Fidelity National Information Services</a>)</span></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<p><b>Fidelity National Information Services, Inc.</b> (or <b>FIS</b>) is an American international provider of <a href="/wiki/Financial_services" title="Financial services">financial services</a> technology and outsourcing services. Headquartered in <a href="/wiki/Jacksonville,_Florida" title="Jacksonville, Florida">Jacksonville</a>, <a href="/wiki/Florida" title="Florida">Florida</a>, FIS employs 52,000 people worldwide. FIS provides payment processing and banking software, services and outsourcing of the associated technology. FIS has over 20,000 clients in more than 130 countries.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> FIS was ranked  second in the FinTech Forward 2016 rankings.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p><table class="infobox vcard" style="width:22em"><caption class="fn org">Fidelity National Information Services, Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:FIS_(company)_Fidelity_National_Information_Services_Inc._Corporate_Logo.svg" class="image"><img alt="FIS (company) Fidelity National Information Services Inc. Corporate Logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/FIS_%28company%29_Fidelity_National_Information_Services_Inc._Corporate_Logo.svg/220px-FIS_%28company%29_Fidelity_National_Information_Services_Inc._Corporate_Logo.svg.png" decoding="async" width="220" height="92" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/FIS_%28company%29_Fidelity_National_Information_Services_Inc._Corporate_Logo.svg/330px-FIS_%28company%29_Fidelity_National_Information_Services_Inc._Corporate_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/FIS_%28company%29_Fidelity_National_Information_Services_Inc._Corporate_Logo.svg/440px-FIS_%28company%29_Fidelity_National_Information_Services_Inc._Corporate_Logo.svg.png 2x" data-file-width="512" data-file-height="214"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:FIS">FIS</a><br><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500 Component</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US31620M1062">US31620M1062 </a><a href="https://www.wikidata.org/wiki/Q1411295?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;">Financial Sector</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">1968<span class="noprint">; 52 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1968</span>)</span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Jacksonville,_Florida" title="Jacksonville, Florida">Jacksonville, Florida</a>, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;">Gary A. Norcross <br> (Chairman, President &amp; CEO)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;">Banking Technology, Payment Technology, Processing Services, Information Based services</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">$12.2 billion <a href="/wiki/USD" class="mw-redirect" title="USD">USD</a> (2019)<sup id="cite_ref-10K_1-0" class="reference"><a href="#cite_note-10K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300">$1.064 1,076.3 billion <a href="/wiki/USD" class="mw-redirect" title="USD">USD</a> (2013)<sup id="cite_ref-10K_1-1" class="reference"><a href="#cite_note-10K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300">$825.0 million <a href="/wiki/USD" class="mw-redirect" title="USD">USD</a> (2013)<sup id="cite_ref-10K_1-2" class="reference"><a href="#cite_note-10K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">55,000 <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> (2017)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.fisglobal.com">www<wbr></wbr>.fisglobal<wbr></wbr>.com</a></span></td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Operations"><span class="tocnumber">1</span> <span class="toctext">Operations</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Derivatives_Utility"><span class="tocnumber">2</span> <span class="toctext">Derivatives Utility</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Mergers_and_acquisitions"><span class="tocnumber">3</span> <span class="toctext">Mergers and acquisitions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Finances"><span class="tocnumber">4</span> <span class="toctext">Finances</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Controversies"><span class="tocnumber">5</span> <span class="toctext">Controversies</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Operations">Operations</span><span class="mw-editsection"><a href="/w/index.php?title=FIS_(company)&amp;action=edit&amp;section=1" title="Edit section: Operations" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>FIS has a portfolio of products for the financial services sector, including both retail and investment banking.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p><p>They include "Profile" - a banking application based on the <a href="/wiki/Open-source_license" title="Open-source license">open source</a> <a href="/wiki/GT.M" title="GT.M">GT.M</a>—a transaction processing database engine maintained by FIS.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Derivatives_Utility">Derivatives Utility</span><span class="mw-editsection"><a href="/w/index.php?title=FIS_(company)&amp;action=edit&amp;section=2" title="Edit section: Derivatives Utility" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<table class="box-Advert plainlinks metadata ambox ambox-content ambox-Advert" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This section <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=FIS_(company)&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span>  <small class="date-container"><i>(<span class="date">September 2019</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p>FIS with the acquisition of <a href="/wiki/SunGard" title="SunGard">SunGard</a>,<sup id="cite_ref-auto_7-0" class="reference"><a href="#cite_note-auto-7">[7]</a></sup> has launched a Derivatives Utility in 2015 to transform Derivatives Clearing BSPT processing world-wide. This will guide derivatives clearing for futures commission merchants to save on <a href="/wiki/Total_cost_of_ownership" title="Total cost of ownership">total cost of ownership</a> (TCO), and the ability to allow a large focus of the operations processing to FIS, freeing each merchant to focus on each of their clients. Allowing futures merchants to reduce operational risk.<sup id="cite_ref-auto_7-1" class="reference"><a href="#cite_note-auto-7">[7]</a></sup> Beginning with <a href="/wiki/Barclays" title="Barclays">Barclays</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability#Wikipedia_and_sources_that_mirror_or_use_it" title="Wikipedia:Verifiability"><span title="This claim cites another Wikipedia article. Articles need references to reliable third-party sources. (April 2018)">circular reference</span></a></i>]</sup> in 2015, <a href="/wiki/Credit_Suisse" title="Credit Suisse">Credit Suisse</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> in 2016, and <a href="/wiki/Wedbush_Securities" title="Wedbush Securities">Wedbush Securities</a> one of the largest capitalized non-bank futures commission merchants in the United States, will move its operations processing and technology management to the FIS Derivatives Utility in 2018.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Mergers_and_acquisitions">Mergers and acquisitions</span><span class="mw-editsection"><a href="/w/index.php?title=FIS_(company)&amp;action=edit&amp;section=3" title="Edit section: Mergers and acquisitions" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>Throughout its history FIS has made many acquisitions<sup id="cite_ref-fisglobal.com_11-0" class="reference"><a href="#cite_note-fisglobal.com-11">[11]</a></sup></p>
+<ul><li>Alltel Information Services, 2003 $1.05 billion<sup id="cite_ref-fisglobal.com_11-1" class="reference"><a href="#cite_note-fisglobal.com-11">[11]</a></sup></li>
+<li><a href="/wiki/WebTone_Technologies" class="mw-redirect" title="WebTone Technologies">WebTone Technologies</a>, 2003</li>
+<li>Sanchez Computer Associates, 2004 $175 million<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+<li>Aurum Technology, 2004<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li>BankWare, 2004<sup id="cite_ref-finextra.com_14-0" class="reference"><a href="#cite_note-finextra.com-14">[14]</a></sup></li>
+<li>InterCept, 2004<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li>
+<li>Kordoba GmbH &amp; Co, 2004 $163.2 million<sup id="cite_ref-fisglobal.com_11-2" class="reference"><a href="#cite_note-fisglobal.com-11">[11]</a></sup></li>
+<li>Merger with <a href="/wiki/Certegy" title="Certegy">Certegy Inc.</a>,2006 $1.8 billion<sup id="cite_ref-fisglobal.com_11-3" class="reference"><a href="#cite_note-fisglobal.com-11">[11]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li>
+<li><a href="/wiki/EFunds_Corporation" class="mw-redirect" title="EFunds Corporation">eFunds Corporation</a> (EFD)</li>
+<li><a href="/wiki/Metavante_Corporation" class="mw-redirect" title="Metavante Corporation">Metavante Corporation</a>, 2009 $2.94 billion in stock<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li>
+<li>Compliance Coach, Inc, 2010<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></li>
+<li><a href="/wiki/Capco" title="Capco">Capco</a>, 2010,  $292 million.<sup id="cite_ref-capco.com_19-0" class="reference"><a href="#cite_note-capco.com-19">[19]</a></sup> In May 2017 FIS sold a 60% stake in Capco to CD&amp;R funds for $477 million.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></li>
+<li>TDWI - Toronto Dominion Wealth Institutional - now re-branded as Platform Securities, 2013<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></li>
+<li>mFoundry, 2013, $120 million<sup id="cite_ref-engadget.com_22-0" class="reference"><a href="#cite_note-engadget.com-22">[22]</a></sup></li>
+<li>CMSI, 2014</li>
+<li>Reliance Trust Company, 2014<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> $110 million</li>
+<li>Clear2Pay, 2014<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> $480 million</li>
+<li><a href="/wiki/SunGard" title="SunGard">SunGard</a>, 2015<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> $9.1 billion</li>
+<li><a href="/wiki/Worldpay,_Inc." title="Worldpay, Inc.">Worldpay, Inc.</a>, 2019<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> $43 billion (Deal Signed 31 July 2019)</li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Finances">Finances</span><span class="mw-editsection"><a href="/w/index.php?title=FIS_(company)&amp;action=edit&amp;section=4" title="Edit section: Finances" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<p>For the fiscal year 2017, FIS reported earnings of US$1.319 billion, with an annual revenue of US$9.123 billion, a decrease of 1.3% over the previous fiscal cycle. FIS shares traded at over $106 per share, and its market capitalization was valued at over US$33 billion in November 2018.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></p>
+<table class="wikitable float-left" style="text-align: right;"><tbody><tr><th>Year
+</th>
+<th>Revenue<br>in mil. USD$
+</th>
+<th>Net income<br>in mil. USD$
+</th>
+<th>Total Assets<br>in mil. USD$
+</th>
+<th>Price per Share<br>in USD$
+</th>
+<th>Employees
+</th></tr><tr><td>2005
+</td>
+<td>2,688
+</td>
+<td>197
+</td>
+<td>4,189
+</td>
+<td>15.77
+</td>
+<td>
+</td></tr><tr><td>2006
+</td>
+<td>2,417
+</td>
+<td>259
+</td>
+<td>7,631
+</td>
+<td>18.08
+</td>
+<td>
+</td></tr><tr><td>2007
+</td>
+<td>2,893
+</td>
+<td>561
+</td>
+<td>9,795
+</td>
+<td>22.46
+</td>
+<td>
+</td></tr><tr><td>2008
+</td>
+<td>3,360
+</td>
+<td>215
+</td>
+<td>7,500
+</td>
+<td>17.28
+</td>
+<td>
+</td></tr><tr><td>2009
+</td>
+<td>3,711
+</td>
+<td>106
+</td>
+<td>13,998
+</td>
+<td>18.23
+</td>
+<td>
+</td></tr><tr><td>2010
+</td>
+<td>5,146
+</td>
+<td>405
+</td>
+<td>14,176
+</td>
+<td>23.27
+</td>
+<td>
+</td></tr><tr><td>2011
+</td>
+<td>5,626
+</td>
+<td>470
+</td>
+<td>13,873
+</td>
+<td>25.85
+</td>
+<td>
+</td></tr><tr><td>2012
+</td>
+<td>5,796
+</td>
+<td>461
+</td>
+<td>13,550
+</td>
+<td>29.22
+</td>
+<td>
+</td></tr><tr><td>2013
+</td>
+<td>6,063
+</td>
+<td>493
+</td>
+<td>13,960
+</td>
+<td>40.54
+</td>
+<td>38,000
+</td></tr><tr><td>2014
+</td>
+<td>6,413
+</td>
+<td>679
+</td>
+<td>14,521
+</td>
+<td>52.41
+</td>
+<td>40,000
+</td></tr><tr><td>2015
+</td>
+<td>6,596
+</td>
+<td>632
+</td>
+<td>26,200
+</td>
+<td>62.80
+</td>
+<td>55,000
+</td></tr><tr><td>2016
+</td>
+<td>9,241
+</td>
+<td>568
+</td>
+<td>26,031
+</td>
+<td>69.40
+</td>
+<td>55,000
+</td></tr><tr><td>2017
+</td>
+<td>9,123
+</td>
+<td>1,319
+</td>
+<td>24,517
+</td>
+<td>86.11
+</td>
+<td>53,000
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Controversies">Controversies</span><span class="mw-editsection"><a href="/w/index.php?title=FIS_(company)&amp;action=edit&amp;section=5" title="Edit section: Controversies" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<p>On July 3, 2007, Certegy Check Services, part of FIS, announced that a worker at one of its subsidiaries stole 2.3 million consumer records containing credit card, bank account, and other personal information. This estimate was later increased to 8.5 million consumer records. The next month, a law firm filed a <a href="/wiki/Class-action_lawsuit" class="mw-redirect" title="Class-action lawsuit">class-action lawsuit</a> against CCS and parent company FIS based on the privacy breach; the firm claims that, since CCS provides check-verification services to many major U.S. stores, "consumers do not choose to use the services of these companies but rather are forced to do so".<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></p><p>In August 2011, Florida based eFunds Prepaid Solutions, part of FIS, was the victim of a sophisticated cyberattack that saw hackers steal $13 million from ATMs using 22 stolen prepaid cards belonging to a single client of FIS.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><a href="/w/index.php?title=FIS_(company)&amp;action=edit&amp;section=6" title="Edit section: See also" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li><a href="/wiki/Fidelity_National_Financial" title="Fidelity National Financial">Fidelity National Financial</a></li></ul></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=FIS_(company)&amp;action=edit&amp;section=7" title="Edit section: References" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-7 collapsible-block" id="mf-section-7">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-10K-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-10K_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-10K_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-10K_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.today/20141130082822/http://www.investor.fisglobal.com/phoenix.zhtml?c=180304&amp;p=irol-sec&amp;seccat01.1_rs=1&amp;seccat01.1_rc=10">"10-K"</a>. FIS. 28 February 2014. p. 23. Archived from <a rel="nofollow" class="external text" href="http://www.investor.fisglobal.com/phoenix.zhtml?c=180304&amp;p=irol-sec&amp;seccat01.1_rs=1&amp;seccat01.1_rc=10">the original</a> <span class="cs1-format">(PDF)</span> on 30 November 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=10-K&amp;rft.pages=23&amp;rft.pub=FIS&amp;rft.date=2014-02-28&amp;rft_id=http%3A%2F%2Fwww.investor.fisglobal.com%2Fphoenix.zhtml%3Fc%3D180304%26p%3Dirol-sec%26seccat01.1_rs%3D1%26seccat01.1_rc%3D10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/fidelity-national-information-services/">"Fidelity National Information Services"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Fidelity+National+Information+Services&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Ffidelity-national-information-services%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fisglobal.com/About-Us/About-Our-Company">"About Our Company - FIS"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Our+Company+-+FIS&amp;rft_id=http%3A%2F%2Fwww.fisglobal.com%2FAbout-Us%2FAbout-Our-Company&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.americanbanker.com/fintech-forward-2016">"FinTech Forward 2016"</a>. <i>American Banker</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Banker&amp;rft.atitle=FinTech+Forward+2016&amp;rft_id=https%3A%2F%2Fwww.americanbanker.com%2Ffintech-forward-2016&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fisglobal.com/products">"Enterprise Financial Systems - FIS"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Enterprise+Financial+Systems+-+FIS&amp;rft_id=http%3A%2F%2Fwww.fisglobal.com%2Fproducts&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://static.redhat.com/legacy/f/pdf/rhel/Profile_Benchmark_Results_11-17-2007.pdf">"Tuning and Optimizing the Red Hat Core Banking Pla"</a> <span class="cs1-format">(PDF)</span>. <i>www.redhat.com</i>. 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-09-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.redhat.com&amp;rft.atitle=Tuning+and+Optimizing+the+Red+Hat+Core+Banking+Pla&amp;rft.date=2007&amp;rft_id=https%3A%2F%2Fstatic.redhat.com%2Flegacy%2Ff%2Fpdf%2Frhel%2FProfile_Benchmark_Results_11-17-2007.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-auto-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://www.fisglobal.com/about-us/media-room/news-releases/2015/sungard-launches-industry-utility-to-transform-derivatives-clearing-processing-globally">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since September 2019">dead link</span></a></i>]</span></sup></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="/wiki/Barclays" title="Barclays">Barclays</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://www.fisglobal.com/about-us/media-room/news-releases/2016/credit-suisse-leader-in-global-cleared-derivatives-selects-fis-derivatives-utility">[2]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since September 2019">dead link</span></a></i>]</span></sup></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.investor.fisglobal.com/phoenix.zhtml?c=180304&amp;p=irol-newsArticle&amp;ID=2325679">[3]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since September 2019">dead link</span></a></i>]</span></sup></span>
+</li>
+<li id="cite_note-fisglobal.com-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-fisglobal.com_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fisglobal.com_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fisglobal.com_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-fisglobal.com_11-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fisglobal.com/aboutfis-ourcompany">"About Our Company - FIS"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Our+Company+-+FIS&amp;rft_id=http%3A%2F%2Fwww.fisglobal.com%2Faboutfis-ourcompany&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.finextra.com/newsarticle/11067/fidelity-national-financial-acquires-sanchez">"Fidelity National Financial acquires Sanchez"</a>. 29 January 2004.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fidelity+National+Financial+acquires+Sanchez&amp;rft.date=2004-01-29&amp;rft_id=https%3A%2F%2Fwww.finextra.com%2Fnewsarticle%2F11067%2Ffidelity-national-financial-acquires-sanchez&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.finextra.com/newsarticle/11143/fidelity-national-financial-to-acquire-aurum-technology">"Fidelity National Financial to acquire Aurum Technology"</a>. 9 February 2004.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fidelity+National+Financial+to+acquire+Aurum+Technology&amp;rft.date=2004-02-09&amp;rft_id=https%3A%2F%2Fwww.finextra.com%2Fnewsarticle%2F11143%2Ffidelity-national-financial-to-acquire-aurum-technology&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-finextra.com-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-finextra.com_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.finextra.com/newsarticle/11593/fidelity-national-financial-acquires-bankware-and-pro-soft">"Fidelity National Financial acquires Bankware and Pro-Soft"</a>. 7 April 2004.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fidelity+National+Financial+acquires+Bankware+and+Pro-Soft&amp;rft.date=2004-04-07&amp;rft_id=https%3A%2F%2Fwww.finextra.com%2Fnewsarticle%2F11593%2Ffidelity-national-financial-acquires-bankware-and-pro-soft&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.finextra.com/newsarticle/12457/fidelity-to-buy-intercept-postpones-ipo">"Fidelity to buy InterCept; postpones IPO"</a>. 9 September 2004.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fidelity+to+buy+InterCept%3B+postpones+IPO&amp;rft.date=2004-09-09&amp;rft_id=https%3A%2F%2Fwww.finextra.com%2Fnewsarticle%2F12457%2Ffidelity-to-buy-intercept-postpones-ipo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.finextra.com/pressarticle/7780/certegy-shareholders-agree-to-fidelity-merger">"Certegy shareholders agree to Fidelity merger"</a>. 27 January 2006.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Certegy+shareholders+agree+to+Fidelity+merger&amp;rft.date=2006-01-27&amp;rft_id=https%3A%2F%2Fwww.finextra.com%2Fpressarticle%2F7780%2Fcertegy-shareholders-agree-to-fidelity-merger&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fisglobal.com/NEWSRELEASE-2009-10-01-123">"Media Room"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Media+Room&amp;rft_id=http%3A%2F%2Fwww.fisglobal.com%2FNEWSRELEASE-2009-10-01-123&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.businesswire.com/news/home/20100614005915/en/FIS-Acquire-Compliance-Coach">"FIS to Acquire Compliance Coach, Inc"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-07-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=FIS+to+Acquire+Compliance+Coach%2C+Inc.&amp;rft_id=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20100614005915%2Fen%2FFIS-Acquire-Compliance-Coach&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-capco.com-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-capco.com_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.capco.com">"Capco - Financial Services Business and Technology Consultants"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Capco+-+Financial+Services+Business+and+Technology+Consultants&amp;rft_id=http%3A%2F%2Fwww.capco.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nasdaq.com/article/fis-to-sell-60-equity-interest-in-capco-to-receive-477-mln-in-cash-proceeds-20170523-00520">"FIS To Sell 60% Equity Interest In Capco; To Receive $477 Mln In Cash Proceeds"</a>. 22 May 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FIS+To+Sell+60%25+Equity+Interest+In+Capco%3B+To+Receive+%24477+Mln+In+Cash+Proceeds&amp;rft.date=2017-05-22&amp;rft_id=http%3A%2F%2Fwww.nasdaq.com%2Farticle%2Ffis-to-sell-60-equity-interest-in-capco-to-receive-477-mln-in-cash-proceeds-20170523-00520&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.platformsecurities.com/FISacquisition.aspx">"- FIS acquisition of Platform Securities completed"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=-+FIS+acquisition+of+Platform+Securities+completed&amp;rft_id=http%3A%2F%2Fwww.platformsecurities.com%2FFISacquisition.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-engadget.com-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-engadget.com_22-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.engadget.com/2013/02/03/fis-acquires-mobile-banking-guru-mfoundry-for-120-million/">"FIS acquires mobile banking guru mFoundry for $120 million"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FIS+acquires+mobile+banking+guru+mFoundry+for+%24120+million&amp;rft_id=https%3A%2F%2Fwww.engadget.com%2F2013%2F02%2F03%2Ffis-acquires-mobile-banking-guru-mfoundry-for-120-million%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fisglobal.com/C028450">"FIS Completes Acquisition of Reliance Financial Corporation"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FIS+Completes+Acquisition+of+Reliance+Financial+Corporation&amp;rft_id=http%3A%2F%2Fwww.fisglobal.com%2FC028450&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since December 2019">permanent dead link</span></a></i>]</span></sup></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.today/20140903122510/http://www.fisglobal.com/C029864">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.fisglobal.com/C029864">the original</a> on 2014-09-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-09-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.fisglobal.com%2FC029864&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.today/20141008090219/http://www.fisglobal.com/C031126">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.fisglobal.com/C031126">the original</a> on 2014-10-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.fisglobal.com%2FC031126&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fisglobal.com/C040107">"FIS to Acquire SunGard"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FIS+to+Acquire+SunGard&amp;rft_id=http%3A%2F%2Fwww.fisglobal.com%2FC040107&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since April 2019">permanent dead link</span></a></i>]</span></sup></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.businesswire.com/news/home/20190318005222/en/FIS-Worldpay-Combine-Accelerate-Future-Finance-Commerce">"FIS and Worldpay to Combine to Accelerate the Future of Finance and Commerce Globally"</a>. <i>www.businesswire.com</i>. March 18, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.businesswire.com&amp;rft.atitle=FIS+and+Worldpay+to+Combine+to+Accelerate+the+Future+of+Finance+and+Commerce+Globally&amp;rft.date=2019-03-18&amp;rft_id=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20190318005222%2Fen%2FFIS-Worldpay-Combine-Accelerate-Future-Finance-Commerce&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.macrotrends.net/stocks/charts/FIS/fidelity-national-information-services/revenue">"Fidelity National Information Services Revenue 2006-2018 | FIS"</a>. <i>www.macrotrends.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.macrotrends.net&amp;rft.atitle=Fidelity+National+Information+Services+Revenue+2006-2018+%7C+FIS&amp;rft_id=https%3A%2F%2Fwww.macrotrends.net%2Fstocks%2Fcharts%2FFIS%2Ffidelity-national-information-services%2Frevenue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.networkworld.com/community/node/18598">"Data breach generates class action lawsuit"</a>. <i><a href="/wiki/Network_World" class="mw-redirect" title="Network World">Network World</a></i>. 2007-08-21.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Network+World&amp;rft.atitle=Data+breach+generates+class+action+lawsuit&amp;rft.date=2007-08-21&amp;rft_id=http%3A%2F%2Fwww.networkworld.com%2Fcommunity%2Fnode%2F18598&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://krebsonsecurity.com/2011/08/coordinated-atm-heist-nets-thieves-13m/">"Coordinated ATM Heist Nets Thieves $13M"</a>. <i><a href="/wiki/Brian_Krebs" title="Brian Krebs">Brian Krebs</a></i>. 2011-08-26.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Brian+Krebs&amp;rft.atitle=Coordinated+ATM+Heist+Nets+Thieves+%2413M&amp;rft.date=2011-08-26&amp;rft_id=http%3A%2F%2Fkrebsonsecurity.com%2F2011%2F08%2Fcoordinated-atm-heist-nets-thieves-13m%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFIS+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=FIS_(company)&amp;action=edit&amp;section=8" title="Edit section: External links" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-8 collapsible-block" id="mf-section-8">
+<ul><li><a rel="nofollow" class="external text" href="http://www.fisglobal.com/">FIS</a> — official site</li>
+<li>Business data for FIS: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=FIS">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=FIS">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=FIS">SEC filings</a></li></ul></div></li></ul>
+
+
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=FIS_(company)&amp;oldid=949568104">https://en.wikipedia.org/w/index.php?title=FIS_(company)&amp;oldid=949568104</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/FIS_(company)"
+				data-user-name="Shhhnotsoloud"
+				data-user-gender="unknown"
+				data-timestamp="1586244013">
+				<span>Last edited on 7 April 2020, at 07:20</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=FIS_(company)&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.528","walltime":"0.677","ppvisitednodes":{"value":3016,"limit":1000000},"postexpandincludesize":{"value":95053,"limit":2097152},"templateargumentsize":{"value":6888,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":79611,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  600.872      1 -total"," 37.57%  225.724      1 Template:Reflist"," 28.09%  168.783      1 Template:Infobox_company"," 27.89%  167.588     25 Template:Cite_web"," 25.97%  156.051      1 Template:Infobox"," 11.37%   68.333      9 Template:Wikidata"," 11.35%   68.215      1 Template:Br_separated_entries"," 10.47%   62.917      1 Template:Short_description","  7.43%   44.646      1 Template:Pagetype","  7.39%   44.403      6 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.278","limit":"10.000"},"limitreport-memusage":{"value":7401867,"limit":52428800}},"cachereport":{"origin":"mw1354","timestamp":"20200417082806","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"FIS (company)","url":"https:\/\/en.wikipedia.org\/wiki\/FIS_(company)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1411295","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1411295","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-01-29T17:58:18Z","dateModified":"2020-04-07T07:20:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/4\/48\/FIS_%28company%29_Fidelity_National_Information_Services_Inc._Corporate_Logo.svg","headline":"company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":125,"wgHostname":"mw1332"});});</script>		</body>
+		</html>
+		

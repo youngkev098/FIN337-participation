@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Thermo Fisher Scientific - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"Xpid2ApAAD4AAIj5HPgAAAAG","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Thermo_Fisher_Scientific","wgTitle":"Thermo Fisher Scientific","wgCurRevisionId":949289190,"wgRevisionId":949289190,"wgArticleId":9814285,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Thermo_Fisher_Scientific","wgRelevantArticleId":9814285,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q643674","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},
+"wgMinervaDownloadNamespaces":[0]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thermo_Fisher_headquarters.jpg/1200px-Thermo_Fisher_headquarters.jpg"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Thermo_Fisher_Scientific&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Thermo_Fisher_Scientific&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Thermo_Fisher_Scientific rootpage-Thermo_Fisher_Scientific stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Thermo+Fisher+Scientific" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Thermo+Fisher+Scientific" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Thermo Fisher Scientific</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Thermo_Fisher_Scientific" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Thermo+Fisher+Scientific" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Thermo_Fisher_Scientific&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><table class="box-Update plainlinks metadata ambox ambox-content ambox-Update" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">Parts of this article (those related to role in coronavirus testing for the USA) need to be <b>updated</b>.<span class="hide-when-compact"> Please update this article to reflect recent events or newly available information.</span>  <small class="date-container"><i>(<span class="date">March 2020</span>)</i></small></div></td></tr></tbody></table>
+<table class="box-Expert_needed plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This article <b>needs attention from an expert in  Business</b>. The specific problem is: <b>to summarize acquisitions highlighting the most important (in the lead), and to ensure accurate and consistent article text and images regarding acquistions, of each parent company before the merger and of the combined Thermo Fisher Scientific (TFS) company since 2006</b>—as the citation-supported text says "56" since 2006, while the unsourced graphic presents 10 (with the latter's entire list failing to sum to 56, even including prior-to-purchase acquisition histories of companies TFS acquired, which should not contribute to the TFS tally)<b>.</b><span class="hide-when-compact"> <a href="/wiki/Wikipedia:WikiProject_Business" title="Wikipedia:WikiProject Business">WikiProject Business</a> may be able to help recruit an expert.</span>  <small class="date-container"><i>(<span class="date">March 2020</span>)</i></small></div></td></tr></tbody></table><p><b>Thermo Fisher Scientific</b> is a <a href="/wiki/United_States" title="United States">U.S.</a>-based provisioner of scientific instrumentation, reagents and consumables, and software and services to healthcare, life science, and other laboratories in academia, government, and industry (including in the <a href="/wiki/Biotechnology" title="Biotechnology">biotechnology</a> and <a href="/wiki/Pharmaceutical" class="mw-redirect" title="Pharmaceutical">pharmaceutical</a> sectors). Based in <a href="/wiki/Waltham,_Massachusetts" title="Waltham, Massachusetts">Waltham, Massachusetts</a>, Thermo Fisher was created in 2006 by the <a href="/wiki/Mergers_and_acquisitions" title="Mergers and acquisitions">merger</a> of <a href="/wiki/Thermo_Electron" title="Thermo Electron">Thermo Electron</a> and <a href="/wiki/Fisher_Scientific" title="Fisher Scientific">Fisher Scientific</a>, to form a company with <a href="/wiki/United_States_dollar" title="United States dollar">US$</a> 9 billion in combined revenues. 
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Thermo Fisher Scientific Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Thermo_Fisher_Scientific_logo.svg" class="image"><img alt="Thermo Fisher Scientific logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Thermo_Fisher_Scientific_logo.svg/200px-Thermo_Fisher_Scientific_logo.svg.png" decoding="async" width="200" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Thermo_Fisher_Scientific_logo.svg/300px-Thermo_Fisher_Scientific_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Thermo_Fisher_Scientific_logo.svg/400px-Thermo_Fisher_Scientific_logo.svg.png 2x" data-file-width="200" data-file-height="45"></a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:TMO">TMO</a></li><li><a href="/wiki/S%26P_100" title="S&amp;P 100">S&amp;P 100</a> component</li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US8835561023">US8835561023 </a><a href="https://www.wikidata.org/wiki/Q643674?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Laboratory#Laboratory_equipment" title="Laboratory">Laboratory equipment</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">May 14, 2006<span class="noprint">; 13 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">2006-05-14</span>)</span> by merger of <a href="/wiki/Thermo_Electron" title="Thermo Electron">Thermo Electron</a> and <a href="/wiki/Fisher_Scientific" title="Fisher Scientific">Fisher Scientific</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Waltham,_Massachusetts" title="Waltham, Massachusetts">Waltham, Massachusetts</a>, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;">Worldwide</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><div class="plainlist"><ul><li>Marc N. Casper <span style="font-size:85%;">(<a href="/wiki/President_(corporate_title)" title="President (corporate title)">President</a> &amp; <a href="/wiki/Chief_executive_officer" title="Chief executive officer">CEO</a>)</span></li><li>Ryan Snyder <span style="font-size:85%;">(<a href="/wiki/Chief_information_officer" title="Chief information officer">CIO</a>)</span></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;">Analytical/other equipment and instruments, laboratory reagents and consumables, science software and services—for research, discovery, analysis, and manufacturing (incl. pharmaceutical and diagnostic products)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap"><a href="/wiki/United_States_dollar" title="United States dollar">US$</a>24.358 billion</span> <span style="font-size:85%;">(2018)</span><sup id="cite_ref-10-K_1-0" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$3.783 billion</span> <span style="font-size:85%;">(2018)</span><sup id="cite_ref-10-K_1-1" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$2.938 billion</span> <span style="font-size:85%;">(2018)</span><sup id="cite_ref-10-K_1-2" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$56.232 billion</span> <span style="font-size:85%;">(2018)</span><sup id="cite_ref-10-K_1-3" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <span style="white-space: nowrap">US$27.586 billion</span> <span style="font-size:85%;">(2018)</span><sup id="cite_ref-10-K_1-4" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;"><abbr title="circa">c.</abbr> 70,000 <span style="font-size:85%;">(2018)</span><sup id="cite_ref-10-K_1-5" class="reference"><a href="#cite_note-10-K-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.thermofisher.com/">www<wbr></wbr>.thermofisher<wbr></wbr>.com</a></span> <a href="https://www.wikidata.org/wiki/Q643674#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></td></tr></tbody></table><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Thermo_Fisher_headquarters.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thermo_Fisher_headquarters.jpg/220px-Thermo_Fisher_headquarters.jpg" decoding="async" width="220" height="172" class="thumbimage" data-file-width="3112" data-file-height="2428"></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Thermo_Fisher_headquarters.jpg" class="internal" title="Enlarge"></a></div>Thermo Fisher Scientific's previous headquarters in Waltham, Massachusetts</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:ThermoFisherScientific2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThermoFisherScientific2.jpg/220px-ThermoFisherScientific2.jpg" decoding="async" width="220" height="146" class="thumbimage" data-file-width="4928" data-file-height="3264"></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ThermoFisherScientific2.jpg" class="internal" title="Enlarge"></a></div>Thermo Fisher Scientific office in Canada</div></div></div>
+<p>The combined company has added significantly to its technologies, workforce, and revenues through the acquisition of other reagent, consumable, instrumentation, and service providers, including of <a href="/wiki/Life_Technologies_(Thermo_Fisher_Scientific)" title="Life Technologies (Thermo Fisher Scientific)">Life Technologies Corporation</a> in 2013 (for <a href="/wiki/United_States_dollar" title="United States dollar">US$</a> 13.6 billion, for <a href="/wiki/Molecular_Probes" title="Molecular Probes">probe reagents</a> and advanced DNA sequencing services), Advanced Scientifics (<a href="/wiki/United_States_dollar" title="United States dollar">US$</a> 300 million, for bioprocessing technologies) and <a href="/wiki/Alfa_Aesar" title="Alfa Aesar">Alfa Aesar</a> (<a href="/wiki/United_States_dollar" title="United States dollar">US$</a> 405 million, for research chemicals), both in 2015; <a href="/wiki/Affymetrix" title="Affymetrix">Affymetrix</a> (<a href="/wiki/United_States_dollar" title="United States dollar">US$</a> 1.3 billion, for gene chip technologies) and MTI-GlobalStem (amount unknown, for cell transfection and neurobiology), both in 2016; <a href="/wiki/FEI_Company" title="FEI Company">FEI Company</a> (<a href="/wiki/United_States_dollar" title="United States dollar">US$</a> 4.2 billion, an <a href="/wiki/Electron_microscope" title="Electron microscope">electron microscope</a> manufacturer),<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag needs to be fact-checked with the cited source(s). (March 2020)">verification needed</span></a></i>]</sup> Finesse Solutions (amount unknown, for bioproduction control systems and software), Core Informatics (amount unknown, for cloud-based scientific data management), and Patheon (<a href="/wiki/United_States_dollar" title="United States dollar">US$</a> 7.2 billion, for its <a href="/wiki/Contract_development_and_manufacturing_organization" class="mw-redirect" title="Contract development and manufacturing organization">contract development and manufacturing</a> services), all in 2017;<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag needs to be fact-checked with the cited source(s). (March 2020)">verification needed</span></a></i>]</sup> <a href="/wiki/Becton,_Dickinson" class="mw-redirect" title="Becton, Dickinson">Becton, Dickinson</a>'s Advanced Bioprocessing business in 2018 (amount unknown, for further bioprocessing products); and Brammer Bio in 2019 (<a href="/wiki/United_States_dollar" title="United States dollar">US$</a> 1.7 billion, for gene therapy manufacturing capabilities).
+</p><p>As of 2017, the company had revenues of $21 billion and was a <a href="/wiki/Fortune_500" title="Fortune 500">Fortune 500</a> company. As of 2018, the company employed on the order of 70,000 workers, and was reporting $US 24 billion in annual revenues.
+</p><p>In March 2020, Thermo Fisher received <a href="/wiki/Emergency_use_authorization" class="mw-redirect" title="Emergency use authorization">emergency use authorization</a> from the FDA for a test for <a href="/wiki/2019-nCoV" class="mw-redirect" title="2019-nCoV">2019-nCoV</a> to help address the <a href="/wiki/2019-20_coronavirus_pandemic" class="mw-redirect" title="2019-20 coronavirus pandemic">2019-20 coronavirus pandemic</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#Predecessors_and_merger"><span class="tocnumber">1</span> <span class="toctext">Predecessors and merger</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Acquisition_history"><span class="tocnumber">2</span> <span class="toctext">Acquisition history</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Brands_currently_owned_by_Thermo-Fisher"><span class="tocnumber">3</span> <span class="toctext">Brands currently owned by Thermo-Fisher</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Research_partnership"><span class="tocnumber">4</span> <span class="toctext">Research partnership</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Predecessors_and_merger">Predecessors and merger</span><span class="mw-editsection"><a href="/w/index.php?title=Thermo_Fisher_Scientific&amp;action=edit&amp;section=1" title="Edit section: Predecessors and merger" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p><a href="/wiki/Thermo_Electron" title="Thermo Electron">Thermo Electron</a> was co-founded in 1956 by <a href="/wiki/George_N._Hatsopoulos" title="George N. Hatsopoulos">George N. Hatsopoulos</a> and Peter M Nomikos. Hatsopoulos was an <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a> PhD in <a href="/wiki/Mechanical_engineering" title="Mechanical engineering">mechanical engineering</a> and Nomikos a <a href="/wiki/Harvard_Business_School" title="Harvard Business School">Harvard Business School</a> graduate.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>  It focused on providing analytical and laboratory products and, and had revenues of over $2 billion in 2004.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p><p><a href="/wiki/Fisher_Scientific" title="Fisher Scientific">Fisher Scientific</a> was founded in 1902 by Chester G. Fisher from <a href="/wiki/Pittsburgh" title="Pittsburgh">Pittsburgh</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> It focused on providing laboratory equipment, chemicals, supplies and services used in healthcare, scientific research, safety, and education.<sup id="cite_ref-ir.thermofisher.com_7-0" class="reference"><a href="#cite_note-ir.thermofisher.com-7">[7]</a></sup></p><p>On May 14, 2006, Thermo Electron and Fisher Scientific announced that they would <a href="/wiki/Mergers_and_acquisitions" title="Mergers and acquisitions">merge</a> in a tax-free, stock-for-stock exchange; the merged company was named Thermo Fisher Scientific, and had on the order of 30,000 employees, and reported US$ 9 billion in combined revenue.<sup id="cite_ref-ReferenceA_8-0" class="reference"><a href="#cite_note-ReferenceA-8">[8]</a></sup><sup class="noprint Inline-Template noprint noexcerpt Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:NOTRS" class="mw-redirect" title="Wikipedia:NOTRS"><span title="This claim needs references to better sources. (March 2020)">better source needed</span></a></i>]</sup> On November 9, 2006, the companies announced that the merger had been completed.<sup id="cite_ref-ReferenceA_8-1" class="reference"><a href="#cite_note-ReferenceA-8">[8]</a></sup> However, the <a href="/wiki/Federal_Trade_Commission" title="Federal Trade Commission">Federal Trade Commission</a> ruled that this acquisition was anticompetitive with regard to <a href="/wiki/Centrifugal_evaporator" title="Centrifugal evaporator">centrifugal evaporators</a>, requiring Fisher to divest <a href="/wiki/Genevac" title="Genevac">Genevac</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>  In April 2007, Genevac was sold to Riverlake Partners LLC<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> and the merger closed with FTC approval.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p><p>Currently, the company's products are sold under the brand names of Thermo Scientific, Fisher Scientific, and several other recognized brand names (e.g. Chromacol, <a href="/wiki/Nalgene" title="Nalgene">Nalgene</a>, <a href="/wiki/Cellomics" title="Cellomics">Cellomics</a>, <a href="/wiki/Pierce_Biotechnology" title="Pierce Biotechnology">Pierce Protein Research</a> and <a href="/wiki/Fermentas" title="Fermentas">Fermentas</a>). According to company figures, 46% of its sales are in <a href="/wiki/Life_sciences" class="mw-redirect" title="Life sciences">life sciences</a>, 20% in <a href="/wiki/Healthcare" class="mw-redirect" title="Healthcare">healthcare</a>, and 34% in industrial/environmental and safety.<sup id="cite_ref-ir.thermofisher.com_7-1" class="reference"><a href="#cite_note-ir.thermofisher.com-7">[7]</a></sup></p><p>Thermo Fisher has offices and operations in many countries, notably the U.S. and in Europe.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Acquisition_history">Acquisition history</span><span class="mw-editsection"><a href="/w/index.php?title=Thermo_Fisher_Scientific&amp;action=edit&amp;section=2" title="Edit section: Acquisition history" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<table class="box-Contradict plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This section <b>appears to contradict itself</b> <b>on numbers of companies acquired since 2006, between unsourced graphic presentation and poorly sourced text statement</b>.<span class="hide-when-compact"> Please see the <a href="/wiki/Talk:Thermo_Fisher_Scientific" title="Talk:Thermo Fisher Scientific">talk page</a> for more information.</span>  <small class="date-container"><i>(<span class="date">March 2020</span>)</i></small></div></td></tr></tbody></table><p>The parent entities, Thermo Electron and Fisher Scientific, acquired 15 companies between them before their merger (see graphic),<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag needs to be fact-checked with the cited source(s). (March 2020)">verification needed</span></a></i>]</sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2020)">citation needed</span></a></i>]</sup> and another 56 companies since the founding of the joint company in 2006,<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag needs to be fact-checked with the cited source(s). (March 2020)">verification needed</span></a></i>]</sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> numbers which may be lower estimates.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (March 2020)">according to whom?</span></a></i>]</sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2020)">citation needed</span></a></i>]</sup></p><p>In May 2011, Thermo Fisher Scientific Inc. bought <a href="/wiki/Phadia" title="Phadia">Phadia</a> to expand in testing for allergies and <a href="/wiki/Autoimmune" class="mw-redirect" title="Autoimmune">autoimmune</a> diseases for €2.47 billion ($3.5 billion) in cash purchase.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p><p>In April 2013, after a competitive bidding with <a href="/wiki/Hoffmann-La_Roche" title="Hoffmann-La Roche">Hoffmann-La Roche</a>,<sup id="cite_ref-Brennan2013_15-0" class="reference"><a href="#cite_note-Brennan2013-15">[15]</a></sup> Thermo Fisher acquired <a href="/wiki/Life_Technologies_(Thermo_Fisher_Scientific)" title="Life Technologies (Thermo Fisher Scientific)">Life Technologies Corporation</a> for <a href="/wiki/United_States_dollar" title="United States dollar">US$</a>13.6 billion in a deal, adding further service lines related to advanced DNA sequencing and <a href="/wiki/Genetics" title="Genetics">genetic</a> testing.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p><p>In February 2015, the company announced it would acquire Advanced Scientifics for $300 million in a cash-deal. ASI designs, manufactures and delivers technologies used in bioprocessing solutions.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> In June 2015, the company announced its intention to acquire Alfa Aesar, a global manufacturer of research chemicals for $405 million<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> from <a href="/wiki/Johnson_Matthey" title="Johnson Matthey">Johnson Matthey</a>, and the acquisition was completed at the end of September<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p><p>In January 2016, the company announced it would acquire <a href="/wiki/Affymetrix" title="Affymetrix">Affymetrix</a> for $1.3 billion.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> On May 27, 2016, the company announced it would acquire <a href="/wiki/FEI_Company" title="FEI Company">FEI Company</a> for $4.2 billion, a manufacturer of <a href="/wiki/Electron_microscope" title="Electron microscope">electron microscopes</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>  This acquisition is anticipated to close in early 2017 and will contribute to the growth of Thermo's Analytical Instruments business group.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> In November the company announced it would acquire MTI-GlobalStem, a previously privately held company that develops reagents for cell transfection, neurobiology and stem cell research.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p><p>In February 2017, the company acquired Finesse Solutions, Inc., developer of scalable control automation systems and software for bioproduction after receiving early termination of the waiting period under the <a href="/wiki/Hart-Scott-Rodino_Antitrust_Improvements_Act" class="mw-redirect" title="Hart-Scott-Rodino Antitrust Improvements Act">Hart-Scott-Rodino Antitrust Improvements Act</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> The transaction was completed a day later.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> In March, the company announced it would acquire Core Informatics, provider of cloud-based platforms supporting scientific data management.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> In August, the company acquired Patheon, a <a href="/wiki/Contract_development_and_manufacturing_organization" class="mw-redirect" title="Contract development and manufacturing organization">contract development and manufacturing organization</a> serving the pharmaceutical and biotechnology sectors, for approximately $7.2 billion.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> As of 2017, the company had revenues of $20.9 billion and was a <a href="/wiki/Fortune_500" title="Fortune 500">Fortune 500</a> company.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></p><p>In September 2018, Thermo Fisher Scientific announced it had signed a definitive agreement with <a href="/wiki/Becton,_Dickinson" class="mw-redirect" title="Becton, Dickinson">Becton, Dickinson</a> and Company (BD) to acquire their Advanced Bioprocessing business.  THis BD business had annualized revenue of approximately $100 million; as of October 16, 2018, it had been integrated into Thermo Fisher's Life Sciences Solutions Segment.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><sup class="noprint Inline-Template noprint noexcerpt Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:NOTRS" class="mw-redirect" title="Wikipedia:NOTRS"><span title="This claim needs references to better sources. (March 2020)">better source needed</span></a></i>]</sup></p><p>In March 2019, Thermo Fisher announced its entry into the gene therapy manufacturing market with a $1.7 billion cash acquisition for Brammer Bio.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> In May 2019, Thermo Fisher partnered with MMJ International Holdings to manufacture drug products developed by MMJ for the treatment of <a href="/wiki/Multiple_sclerosis" title="Multiple sclerosis">Multiple Sclerosis</a> and <a href="/wiki/Huntington%27s_disease" title="Huntington's disease">Huntington's Disease</a>.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> In June, the business announced it would acquire mass spectrometry software provider, HighChem.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></p><p>In March 2020, Thermo Fisher agreed to purchase <a href="/wiki/Qiagen" title="Qiagen">Qiagen</a>, a molecular diagnostics company, for $10.1 billion.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></p>
+<div class="mw-collapsible mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:1px #aaa solid;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:center;;">Thermo Fisher Scientific Acquisitions</div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;">
+<style data-mw-deduplicate="TemplateStyles:r886050385">.mw-parser-output .treeview ul{padding:0;margin:0}.mw-parser-output .treeview li{padding:0;margin:0;list-style-type:none;list-style-image:none}.mw-parser-output .treeview li li{background:url("//upload.wikimedia.org/wikipedia/commons/f/f2/Treeview-grey-line.png")no-repeat 0 -2981px;padding-left:21px;text-indent:0.3em}.mw-parser-output .treeview li li:last-child{background-position:0 -5971px}.mw-parser-output .treeview li.emptyline>ul>.mw-empty-elt:first-child+.emptyline,.mw-parser-output .treeview li.emptyline>ul>li:first-child{background-position:0 9px}</style><div class="treeview">
+<ul><li><b>Thermo Fisher Scientific</b> <small>(formed in 2006 by the merger of Thermo Electron and Fisher Scientific)</small>
+<ul><li>Thermo Fisher Scientific
+<ul><li><a href="/wiki/Fisher_Scientific" title="Fisher Scientific">Fisher Scientific</a>
+<ul><li>Scientific Materials Co. <small>(Est 1902)</small></li>
+<li>Scientific Supplies, Ltd <small>(Acq 1925)</small></li>
+<li>Eimer &amp; Amend <small>(Acq 1940)</small></li>
+<li>E. Machlett &amp; Sons <small>(Acq 1957)</small></li>
+<li>Janssen Chimica</li>
+<li>Eastman Kodak Company <small>(Organic Chemicals division)</small></li>
+<li>Apogent Technologies Inc. <small>(Acq 2004)</small></li>
+<li>Athena Diagnostics <small>(Acq 2006)</small></li></ul></li>
+<li><a href="/wiki/Thermo_Electron" title="Thermo Electron">Thermo Electron</a>
+<ul><li>Kendro Laboratory Products <small>(Acq 2005)</small></li>
+<li>Rupprecht and Patashnick Co., Inc. <small>(Acq 2005)</small></li>
+<li>NITON LLC <small>(Acq 2005)</small></li>
+<li>InnaPhase Corporation <small>(Acq 2004)</small></li>
+<li>US Counseling Services, Inc. <small>(Acq 2004)</small></li>
+<li>Jouan SA <small>(Acq 2004)</small></li>
+<li>Laboratory Management Systems, Inc. <small>(Acq 2003)</small></li></ul></li></ul></li>
+<li><a href="/wiki/Phadia" title="Phadia">Phadia</a> <small>(Acq 2011)</small></li>
+<li><a href="/wiki/Life_Technologies_(Thermo_Fisher_Scientific)" title="Life Technologies (Thermo Fisher Scientific)">Life Technologies</a> <small>(Acq 2013)</small>
+<ul><li><a href="/wiki/Invitrogen" title="Invitrogen">Invitrogen Corporation</a> <small>(Merged 2008)</small>
+<ul><li>NOVEX</li>
+<li>Research Genetics, Inc <small>(Acq 1999)</small></li>
+<li>Ethrog Biotechnology</li>
+<li>Molecular Probes</li>
+<li>Dynal</li>
+<li>Panvera</li>
+<li>InforMax</li>
+<li>BioSource</li>
+<li>CellzDirect</li>
+<li>Zymed</li>
+<li>Caltag Laboratories</li></ul></li>
+<li><a href="/wiki/Applied_Biosystems" title="Applied Biosystems">Applied Biosystems</a> <small>(Merged 2008)</small></li></ul></li>
+<li>Advanced Scientifics <small>(Acq 2015)</small></li>
+<li>Alfa Aesar <small>(Acq 2015)</small></li>
+<li><a href="/wiki/Affymetrix" title="Affymetrix">Affymetrix</a> <small>(Acq 2016)</small>
+<ul><li>Genetic MicroSystems <small>(Acq 1999)</small></li>
+<li>Neomorphic <small>(Acq 2000)</small></li>
+<li>ParAllele Bioscience</li>
+<li><a href="/wiki/USB_Corporation" title="USB Corporation">USB Corporation</a> <small>(Acq 2008)</small></li>
+<li>Panomics <small>(Acq 2008)</small></li>
+<li>True Materials <small>(Acq 2000)</small></li>
+<li>eBioscience <small>(Acq 2012)</small></li></ul></li>
+<li>FEI Company
+<ul><li>FEI Company <small>(Merged 1997)</small>
+<ul><li>Field Electron and Ion Co. <small>(Est 1971)</small></li>
+<li><a href="/wiki/Philips" title="Philips">Philips Electron Optics</a></li></ul></li>
+<li>Micrion <small>(Acq 1999)</small></li></ul></li>
+<li>MTI-GlobalStem <small>(Acq 2016)</small></li>
+<li>Finesse Solutions, Inc. <small>(Acq 2017)</small></li>
+<li>Core Informatics <small>(Acq 2017)</small></li>
+<li><a href="/wiki/Patheon" title="Patheon">Patheon</a> <small>(Acq 2017)</small>
+<ul><li>Agere Pharmaceuticals <small>(Acq 2015)</small></li>
+<li>Gallus Pharmaceuticals <small>(Acq 2014)</small></li>
+<li><a href="/wiki/DSM_(company)" title="DSM (company)">Royal DSM NV</a> <small>(Pharmaceutical div, merged 2014)</small></li>
+<li>MOVA <small>(Acq 2004)</small></li>
+<li>Banner Pharmacaps <small>(Acq 2013)</small></li></ul></li>
+<li>Qiagen <small>(Acq 2020)</small>
+<ul><li>Molecular Staging, Inc. <small>(Acq 2004)</small></li>
+<li><a href="/wiki/Digene" title="Digene">Digene</a></li>
+<li>DxS Ltd <small>(Acq 2009)</small></li>
+<li>SABiosciences Corp. <small>(Acq 2009)</small></li>
+<li>ESE GmbH <small>(Acq 2010)</small></li>
+<li>Ipsogen S.A. <small>(Acq 2011)</small></li>
+<li>Cellestis Limited <small>(Acq 2011)</small></li>
+<li>Ingenuity Systems <small>(Acq 2013)</small></li>
+<li><a href="/wiki/CLC_bio" title="CLC bio">CLC bio</a> <small>(Acq 2013)</small></li>
+<li>Exiqon <small>(Acq 2016)</small></li>
+<li>STAT-Dx <small>(Acq 2018)</small></li>
+<li>Formulatrix <small>(Acq 2019)</small></li>
+<li>N-of-One <small>(Acq 2019)</small></li>
+<li>Molecular Staging, Inc. <small>(Acq 2010)</small></li></ul></li></ul></li></ul></div>
+</div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Brands_currently_owned_by_Thermo-Fisher">Brands currently owned by Thermo-Fisher</span><span class="mw-editsection"><a href="/w/index.php?title=Thermo_Fisher_Scientific&amp;action=edit&amp;section=3" title="Edit section: Brands currently owned by Thermo-Fisher" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<table class="box-More_citations_needed_section plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Thermo_Fisher_Scientific&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i> <a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Thermo+Fisher+Scientific%22">"Thermo Fisher Scientific"</a> – <a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Thermo+Fisher+Scientific%22+-wikipedia">news</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Thermo+Fisher+Scientific%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a> <b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Thermo+Fisher+Scientific%22+-wikipedia">books</a> <b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Thermo+Fisher+Scientific%22">scholar</a> <b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Thermo+Fisher+Scientific%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">July 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p>Source:<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></p>
+<div class="div-col columns column-width" style="-moz-column-width: 15em; -webkit-column-width: 15em; column-width: 15em;">
+<ul><li>Accumed</li>
+<li>Acros Organics BVBA</li>
+<li>Advanced Scientifics, Inc.</li>
+<li><a href="/wiki/Affymetrix" title="Affymetrix">Affymetrix</a><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></li>
+<li><a href="/wiki/Alfa_Aesar" title="Alfa Aesar">Alfa Aesar</a><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></li>
+<li>Allied Analytical Systems</li>
+<li>Ambion</li>
+<li>Amdel Instrumentation</li>
+<li>AMINCO-Bowman</li>
+<li>Applied Research Laboratories</li>
+<li>Argus</li>
+<li>ARL</li>
+<li>ARL/Fisons</li>
+<li>ATI Instruments North America</li>
+<li>Autometrics</li>
+<li>B•R•A•H•M•S USA, Inc.</li>
+<li>Baird</li>
+<li>Barnstead</li>
+<li>Best Inspection</li>
+<li><a href="/wiki/BioImage" title="BioImage">BioImage</a><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup></li>
+<li>Biolab</li>
+<li>Brandt Instruments</li>
+<li>Cahn</li>
+<li>CarePlan</li>
+<li>Carlo Erba</li>
+<li>CASCO</li>
+<li>CE Instruments</li>
+<li>CEDIA</li>
+<li>Chase</li>
+<li>Chemiclave</li>
+<li>Chromacol</li>
+<li>CIDTEC, Inc.</li>
+<li>Clintrak Clinical Labeling Services, LLC</li>
+<li>Cohesive Technologies</li>
+<li>Consolidated Technologies, Inc.</li>
+<li><a href="/wiki/CRS_Robotics" title="CRS Robotics">CRS Ltd.</a></li>
+<li>Damon/IEC</li>
+<li>Denley</li>
+<li>Diagnostix, Ltd.</li>
+<li><a href="/wiki/Dionex" title="Dionex">Dionex</a></li>
+<li>Doe and Ingalls</li>
+<li>DRI  Microgenics</li>
+<li>DUKE</li>
+<li><a href="/wiki/Howard_Clayton_Eberline" title="Howard Clayton Eberline">Eberline LLC</a></li>
+<li>EC</li>
+<li>EC Apparatus</li>
+<li>EGS Gauging, Inc.</li>
+<li>Electron</li>
+<li>Elemental</li>
+<li>EnviroTech Controls</li>
+<li>Epoxyn Products L.L.C.</li>
+<li>Epsilon</li>
+<li>Erie Handcare</li>
+<li>Erie Scientific Company</li>
+<li>ESA</li>
+<li>Esco</li>
+<li><a href="/wiki/FEI_Company" title="FEI Company">FEI Company</a><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup></li>
+<li>Fermentas Inc.</li>
+<li>Finnigan</li>
+<li>Finnzymes</li>
+<li>Fisons Instruments</li>
+<li>Fi-Streem</li>
+<li>Flow Automation</li>
+<li>Fluid Data</li>
+<li>Flux Instruments</li>
+<li>Forma</li>
+<li>Forma Scientific</li>
+<li>Gamma-Metrics LLC</li>
+<li>GH Flow Automation</li>
+<li>Gibco</li>
+<li>GK Intertest</li>
+<li>Gold Seal</li>
+<li>Goring Kerr Ltd</li>
+<li><a href="/wiki/Graseby" title="Graseby">Graseby</a></li>
+<li>H+P</li>
+<li>HAAKE</li>
+<li>Harris</li>
+<li>Harvey</li>
+<li>Hascal Systems</li>
+<li>Helix MC</li>
+<li>Herz and Partner</li>
+<li>Heto</li>
+<li>Hilger</li>
+<li>Hitech</li>
+<li>Holten</li>
+<li>Houston Atlas</li>
+<li>Hypersil-Keystone LLC</li>
+<li>Icore</li>
+<li>IEC</li>
+<li>Inel</li>
+<li>Innofluor</li>
+<li>Instrumentation Laboratory</li>
+<li>Intertest Ltd</li>
+<li>Invitrogen</li>
+<li>Ionalytics</li>
+<li>Ion Torrent</li>
+<li>Isotemp</li>
+<li>Jarrell-Ash</li>
+<li>Jewett</li>
+<li>Don Sandora Science</li>
+<li>Jouan</li>
+<li>Kay Ray</li>
+<li>Kendro</li>
+<li>Kevex</li>
+<li>Keystone Scientific</li>
+<li>KeyTek LLC</li>
+<li>Labindustries</li>
+<li>Lab-Line</li>
+<li>Labquake</li>
+<li>LabSystems, Inc.</li>
+<li>LDC</li>
+<li><a href="/wiki/Life_Technologies_(Thermo_Fisher_Scientific)" title="Life Technologies (Thermo Fisher Scientific)">Life Technologies Corporation</a></li>
+<li>Lindberg Blue M</li>
+<li>Linear</li>
+<li>Linkage Biosciences</li>
+<li>Locator</li>
+<li>Magellan Biosciences</li>
+<li>MAS  SeraMag</li>
+<li>Material Testing</li>
+<li>Matrix Technologies LLC</li>
+<li>Mattson</li>
+<li>Max Q</li>
+<li>Measuretech Canada Inc.</li>
+<li>Megapure</li>
+<li>Menzel</li>
+<li>MF Physics Corporation</li>
+<li>Microgenics Corporation</li>
+<li>MIE, Inc.</li>
+<li>Milton Roy</li>
+<li>MoistureSystems</li>
+<li>Molecular BioProducts Inc</li>
+<li>MSC Moisture Systems</li>
+<li><a href="/wiki/Nalge_Nunc_International" title="Nalge Nunc International">Nalge Nunc International Corporation</a></li>
+<li>NanoDrop</li>
+<li>Nanopure</li>
+<li>Napco</li>
+<li>National Scientific</li>
+<li>NCAT</li>
+<li>Neslab</li>
+<li>Nexray</li>
+<li>Nicolet Industrial Solutions</li>
+<li>Nicolet Instrument</li>
+<li>Nippon Jarrell Ash</li>
+<li>Niton Analyzers LLC</li>
+<li>NORAN Instruments</li>
+<li>Northern Scientific</li>
+<li>NovaWave Technologies, Inc.</li>
+<li>Novodirect (Germany)</li>
+<li>Nuclear Semiconductor</li>
+<li>Nuova</li>
+<li>Omega Data Systems</li>
+<li>One Lambda</li>
+<li>Onix</li>
+<li>OpitBind</li>
+<li>Optek</li>
+<li>Orion Inc.</li>
+<li>Owl Separation Systems</li>
+<li>Oxoid</li>
+<li><a href="/wiki/Patheon" title="Patheon">Patheon</a><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup><sup class="noprint Inline-Template noprint noexcerpt Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:NOTRS" class="mw-redirect" title="Wikipedia:NOTRS"><span title="This claim needs references to better sources. (March 2020)">better source needed</span></a></i>]</sup></li>
+<li>Pactech</li>
+<li><a href="/wiki/Pathatrix" title="Pathatrix">Pathatrix</a></li>
+<li>Peek Measurement</li>
+<li><a href="/wiki/Phadia" title="Phadia">Phadia</a></li>
+<li>Phenom-World</li>
+<li>Philips Scientific</li>
+<li>Pierce Biotechnology, Inc</li>
+<li>PMC</li>
+<li>Polychromix</li>
+<li>Polysonics</li>
+<li>Precision</li>
+<li>Priocheck</li>
+<li>Proxeon</li>
+<li>Puffer Hubbard</li>
+<li>PV Dry II</li>
+<li>Pye Unicam</li>
+<li>Pyrometer</li>
+<li><a href="/wiki/QEMSCAN" title="QEMSCAN">QEMSCAN</a></li>
+<li>QMS</li>
+<li>Quantech</li>
+<li>Quest</li>
+<li>Queue</li>
+<li>R&amp;P</li>
+<li>Ramsey Inc.</li>
+<li>Ramsey Mesulect</li>
+<li>Ramsey Process Controls</li>
+<li>RCCI Australia</li>
+<li>Redox</li>
+<li>Revco</li>
+<li>Remel</li>
+<li>Richard-Allan Scientific Company</li>
+<li>Rupprecht and Patashnick</li>
+<li>Sarasota</li>
+<li>Savant</li>
+<li>Scintag</li>
+<li>ScreenMates</li>
+<li>Sensall</li>
+<li>Sensititre</li>
+<li>Sentron Canada Inc.</li>
+<li>Seradyn</li>
+<li>SeraMag</li>
+<li>SLM Instruments</li>
+<li>Sorvall</li>
+<li>Spectrace</li>
+<li>Spectra-Physics</li>
+<li>SpectraSYSTEM</li>
+<li>Spectra-Tech</li>
+<li>Spectronex</li>
+<li>Spectronic Instruments</li>
+<li>Speedbeads</li>
+<li>SSDetect</li>
+<li>STEM</li>
+<li>Sterilemax</li>
+<li>TDX</li>
+<li>Tecno Europa</li>
+<li>Texas Nuclear</li>
+<li>Thermedics Detection de Mexico</li>
+<li>Thermolyne</li>
+<li>Thermo Shandon</li>
+<li>ThermoQuest</li>
+<li>TJA Solutions</li>
+<li>TMQ</li>
+<li>TN Technologies</li>
+<li>Tokeim Automation</li>
+<li>Tracor Northern</li>
+<li>Trek Diagnostic Systems, Inc.</li>
+<li>Tremetrics</li>
+<li>TSP</li>
+<li>Turner</li>
+<li>Unicam</li>
+<li>Unicam Vacuum Generators</li>
+<li>Unity Lab Services</li>
+<li>Vapo-Steril</li>
+<li>Varioklav</li>
+<li><a href="/wiki/Veeco" title="Veeco">Veeco</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2016)">citation needed</span></a></i>]</sup></li>
+<li>VersaTrek</li>
+<li>VG Scientific</li>
+<li>Westronics</li></ul></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Research_partnership">Research partnership</span><span class="mw-editsection"><a href="/w/index.php?title=Thermo_Fisher_Scientific&amp;action=edit&amp;section=4" title="Edit section: Research partnership" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<p>In September 2017, Thermo Fisher Scientific signed an agreement with the Institute of Pathology Heidelberg (IPH) to establish its Center of Molecular Pathology at <a href="/wiki/Heidelberg_University" title="Heidelberg University">Heidelberg University</a> Hospital as the newest member of the Next Generation Sequencing Companion Dx Center of Excellence Program (COEP). The initiative focuses on establishing strategic collaborations with leading, European-based organizations that can lead studies using Thermo Fisher's Oncomine portfolio of research panels destined for development as companion diagnostics to help drive precision <a href="/wiki/Oncology" title="Oncology">oncology</a> in the region.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Thermo_Fisher_Scientific&amp;action=edit&amp;section=5" title="Edit section: References" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references"><li id="cite_note-10-K-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-10-K_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-10-K_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-10-K_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-10-K_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-10-K_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-10-K_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/97745/000009774519000007/a201810k.htm">"Thermo Fisher Scientific Inc. 2018 Annual Report (Form 10-K)"</a>. <i>sec.gov</i>. <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">U.S. Securities and Exchange Commission</a>. December 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=sec.gov&amp;rft.atitle=Thermo+Fisher+Scientific+Inc.+2018+Annual+Report+%28Form+10-K%29&amp;rft.date=2019-12&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F97745%2F000009774519000007%2Fa201810k.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ibtimes.com/fda-approves-abbott-laboratories-coronavirus-test-company-ship-150000-kits-2942677">"FDA Approves Abbott Laboratories Coronavirus Test, Company To Ship 150,000 Kits"</a>. <i>IBTimes.com</i>. 19 March 2020. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200320210743/https://www.ibtimes.com/fda-approves-abbott-laboratories-coronavirus-test-company-ship-150000-kits-2942677">Archived</a> from the original on 20 March 2020.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=IBTimes.com&amp;rft.atitle=FDA+Approves+Abbott+Laboratories+Coronavirus+Test%2C+Company+To+Ship+150%2C000+Kits&amp;rft.date=2020-03-19&amp;rft_id=https%3A%2F%2Fwww.ibtimes.com%2Ffda-approves-abbott-laboratories-coronavirus-test-company-ship-150000-kits-2942677&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://web.mit.edu/newsoffice/founders/Thermo.html">http://web.mit.edu/newsoffice/founders/Thermo.html</a> Company founding</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://finance.google.com/finance?fstype=ii&amp;q=NYSE:TMO">"Financial Statements for Thermo Fisher Scientific Inc. - Google Finance"</a>. <i>google.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=google.com&amp;rft.atitle=Financial+Statements+for+Thermo+Fisher+Scientific+Inc.+-+Google+Finance&amp;rft_id=http%3A%2F%2Ffinance.google.com%2Ffinance%3Ffstype%3Dii%26q%3DNYSE%3ATMO&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131014195550/http://www.shadysidepres.org/sites/default/files/2013_04_07_bulletin.pdf">"Archived copy"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.shadysidepres.org/sites/default/files/2013_04_07_bulletin.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2013-10-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.shadysidepres.org%2Fsites%2Fdefault%2Ffiles%2F2013_04_07_bulletin.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thefreelibrary.com/PPG+Vice+President+Fisher+Dies.-a091223616">"PPG Vice President Fisher Dies"</a>. <i>thefreelibrary.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=thefreelibrary.com&amp;rft.atitle=PPG+Vice+President+Fisher+Dies.&amp;rft_id=http%3A%2F%2Fwww.thefreelibrary.com%2FPPG%2BVice%2BPresident%2BFisher%2BDies.-a091223616&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-ir.thermofisher.com-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-ir.thermofisher.com_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ir.thermofisher.com_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070703141935/http://ir.thermofisher.com/phoenix.zhtml?c=89145&amp;p=irol-homeProfile">"Thermo Fisher Scientific : Corporate Profile"</a>. Archived from <a rel="nofollow" class="external text" href="http://ir.thermofisher.com/phoenix.zhtml?c=89145&amp;p=irol-homeProfile">the original</a> on 2007-07-03.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Thermo+Fisher+Scientific+%3A+Corporate+Profile&amp;rft_id=http%3A%2F%2Fir.thermofisher.com%2Fphoenix.zhtml%3Fc%3D89145%26p%3Dirol-homeProfile&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-ReferenceA-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ir.thermofisher.com/phoenix.zhtml?c=89145&amp;p=irol-newsArticle&amp;ID=929319&amp;highlight=">Merger of Thermo Electron and Fisher Scientific Completed, Forming Thermo Fisher Scientific</a> <a rel="nofollow" class="external text" href="https://archive.is/20120722153658/http://ir.thermofisher.com/phoenix.zhtml?c=89145&amp;p=irol-newsArticle&amp;ID=929319&amp;highlight=">Archived</a> 2012-07-22 at <a href="/wiki/Archive.today" title="Archive.today">Archive.today</a>, press release, November 9, 2006</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ftc.gov/os/caselist/0610187/0610187dopublic.pdf">Merger of Thermo and Fisher anticompetitive</a>, FTC Ruling</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">3 April 2007. <a rel="nofollow" class="external text" href="http://www.riverlakepartners.com/documents/Genevac_Final_Press_Release.pdf">Riverlake Partners, LLC Acquires UK-based Genevac, Ltd.</a> Press Release.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ftc.gov/opa/2007/03/fyi07230.htm">FTC consent to Genevac divestiture</a>, FTC news release</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://jobs.thermofisher.com/global/en/locations">"Our Locations"</a>. Thermo Fisher Scientific<span class="reference-accessdate">. Retrieved <span class="nowrap">March 22,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Our+Locations&amp;rft.pub=Thermo+Fisher+Scientific&amp;rft_id=https%3A%2F%2Fjobs.thermofisher.com%2Fglobal%2Fen%2Flocations&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Crunchbase Staff (2 March 2020). <span class="cs1-lock-subscription" title="Paid subscription required"><a rel="nofollow" class="external text" href="https://www.crunchbase.com/search/acquisitions/field/organizations/num_acquisitions/thermo-fisher-scientific">"Acquisitions: List of Thermo Fisher Scientific's 56 Acquisitions, including Brammer Bio and HighChem"</a></span>. <i>Crunchbase.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 March</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Crunchbase.com&amp;rft.atitle=Acquisitions%3A+List+of+Thermo+Fisher+Scientific%27s+56+Acquisitions%2C+including+Brammer+Bio+and+HighChem&amp;rft.date=2020-03-02&amp;rft.au=Crunchbase+Staff&amp;rft_id=https%3A%2F%2Fwww.crunchbase.com%2Fsearch%2Facquisitions%2Ffield%2Forganizations%2Fnum_acquisitions%2Fthermo-fisher-scientific&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/2011-05-19/thermo-fisher-buys-testing-company-phadia-for-3-5-billion-2-.html">"Thermo Fisher Rises to Record After $3.5 Billion Phadia Buy"</a>. <i>Bloomberg</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bloomberg&amp;rft.atitle=Thermo+Fisher+Rises+to+Record+After+%243.5+Billion+Phadia+Buy&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2F2011-05-19%2Fthermo-fisher-buys-testing-company-phadia-for-3-5-billion-2-.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-Brennan2013-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brennan2013_15-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Brennan, Zachary (March 2013). <a rel="nofollow" class="external text" href="http://www.outsourcing-pharma.com/Preclinical-Research/Price-of-Life-Tech-Steady-at-11B-as-Roche-Joins-Bidding-War-Set-for-April">"Price of Life Tech Steady at $11B as Roche Joins Bidding War"</a>. <i>Outsourcing-Pharma.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Outsourcing-Pharma.com&amp;rft.atitle=Price+of+Life+Tech+Steady+at+%2411B+as+Roche+Joins+Bidding+War&amp;rft.date=2013-03&amp;rft.aulast=Brennan&amp;rft.aufirst=Zachary&amp;rft_id=http%3A%2F%2Fwww.outsourcing-pharma.com%2FPreclinical-Research%2FPrice-of-Life-Tech-Steady-at-11B-as-Roche-Joins-Bidding-War-Set-for-April&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news">Bill Berkrot and Susan Kelly (15 April 2013). <a rel="nofollow" class="external text" href="https://www.reuters.com/article/2013/04/15/us-lifetechnologies-thermofisher-idUSBRE93D0A620130415">"Thermo Fisher to buy Life Tech for $13.6 billion"</a>. Reuters.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Thermo+Fisher+to+buy+Life+Tech+for+%2413.6+billion&amp;rft.date=2013-04-15&amp;rft.au=Bill+Berkrot+and+Susan+Kelly&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2F2013%2F04%2F15%2Fus-lifetechnologies-thermofisher-idUSBRE93D0A620130415&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.genengnews.com/gen-news-highlights/thermo-fisher-scientific-acquires-single-use-specialist-asi-for-300m/81250894/">"Thermo Fisher Scientific Acquires Single-Use Specialist ASI for $300 Million - GEN News Highlights - GEN"</a>. <i>GEN</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GEN&amp;rft.atitle=Thermo+Fisher+Scientific+Acquires+Single-Use+Specialist+ASI+for+%24300+Million+-+GEN+News+Highlights+-+GEN&amp;rft_id=http%3A%2F%2Fwww.genengnews.com%2Fgen-news-highlights%2Fthermo-fisher-scientific-acquires-single-use-specialist-asi-for-300m%2F81250894%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.genengnews.com/gen-news-highlights/thermo-fisher-scientific-agrees-to-acquire-research-chemicals-firm/81251436/">"Thermo Fisher Scientific Agrees to Acquire Research Chemicals Firm"</a>. <i>GEN</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GEN&amp;rft.atitle=Thermo+Fisher+Scientific+Agrees+to+Acquire+Research+Chemicals+Firm&amp;rft_id=http%3A%2F%2Fwww.genengnews.com%2Fgen-news-highlights%2Fthermo-fisher-scientific-agrees-to-acquire-research-chemicals-firm%2F81251436%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ir.thermofisher.com/investors/news-and-events/news-releases/news-release-details/2015/Thermo-Fisher-Scientific-Completes-Acquisition-of-Alfa-Aesar-to-Significantly-Expand-Laboratory-Chemicals-Offering/default.aspx">"Thermo Fisher Scientific - Thermo Fisher Scientific Completes Acquisition of Alfa Aesar to Significantly Expand Laboratory Chemicals Offering"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 January</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Thermo+Fisher+Scientific+-+Thermo+Fisher+Scientific+Completes+Acquisition+of+Alfa+Aesar+to+Significantly+Expand+Laboratory+Chemicals+Offering&amp;rft_id=http%3A%2F%2Fir.thermofisher.com%2Finvestors%2Fnews-and-events%2Fnews-releases%2Fnews-release-details%2F2015%2FThermo-Fisher-Scientific-Completes-Acquisition-of-Alfa-Aesar-to-Significantly-Expand-Laboratory-Chemicals-Offering%2Fdefault.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.genengnews.com/gen-news-highlights/thermo-fisher-scientific-to-acquire-affymetrix-for-1-3b/81252211/">"Thermo Fisher Scientific to Acquire Affymetrix for $1.3B - GEN Genetic Engineering &amp; Biotechnology News - Biotech from Bench to Business - GEN"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Thermo+Fisher+Scientific+to+Acquire+Affymetrix+for+%241.3B+-+GEN+Genetic+Engineering+%26+Biotechnology+News+-+Biotech+from+Bench+to+Business+-+GEN&amp;rft_id=http%3A%2F%2Fwww.genengnews.com%2Fgen-news-highlights%2Fthermo-fisher-scientific-to-acquire-affymetrix-for-1-3b%2F81252211%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news">Hallam, Kristen (27 May 2016). <a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/articles/2016-05-27/thermo-fisher-scientific-to-buy-fei-for-about-4-2-billion">"Thermo Fisher Scientific to Buy FEI for About $4.2 Billion"</a>. Bloomberg<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Thermo+Fisher+Scientific+to+Buy+FEI+for+About+%244.2+Billion&amp;rft.date=2016-05-27&amp;rft.aulast=Hallam&amp;rft.aufirst=Kristen&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2016-05-27%2Fthermo-fisher-scientific-to-buy-fei-for-about-4-2-billion&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news">Schultz, Clark (27 May 2016). <a rel="nofollow" class="external text" href="http://seekingalpha.com/news/3186022-thermo-fisher-scientific-lands-fei-company">"Thermo Fisher Scientific lands FEI Company"</a>. <i><a href="/wiki/Seeking_Alpha" title="Seeking Alpha">Seeking Alpha</a></i>. FEI<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Seeking+Alpha&amp;rft.atitle=Thermo+Fisher+Scientific+lands+FEI+Company&amp;rft.pages=FEI&amp;rft.date=2016-05-27&amp;rft.aulast=Schultz&amp;rft.aufirst=Clark&amp;rft_id=http%3A%2F%2Fseekingalpha.com%2Fnews%2F3186022-thermo-fisher-scientific-lands-fei-company&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news">Seiffert, Don (27 May 2016). <a rel="nofollow" class="external text" href="http://www.bizjournals.com/boston/blog/bioflash/2016/05/thermo-ceo-mum-on-whether-he-had-competitors-in-4.html">"Thermo CEO mum on whether he had competitors in $4.2B bid for FEI"</a>. <i>Boston Business Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Boston+Business+Journal&amp;rft.atitle=Thermo+CEO+mum+on+whether+he+had+competitors+in+%244.2B+bid+for+FEI&amp;rft.date=2016-05-27&amp;rft.aulast=Seiffert&amp;rft.aufirst=Don&amp;rft_id=http%3A%2F%2Fwww.bizjournals.com%2Fboston%2Fblog%2Fbioflash%2F2016%2F05%2Fthermo-ceo-mum-on-whether-he-had-competitors-in-4.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.thermofisher.com/press-release/thermo-fisher-scientific-acquires-mti-globalstem">"Thermo Fisher Scientific Acquires MTI-GlobalStem - Thermo Fisher Scientific eNews"</a>. <i>news.thermofisher.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=news.thermofisher.com&amp;rft.atitle=Thermo+Fisher+Scientific+Acquires+MTI-GlobalStem+-+Thermo+Fisher+Scientific+eNews&amp;rft_id=http%3A%2F%2Fnews.thermofisher.com%2Fpress-release%2Fthermo-fisher-scientific-acquires-mti-globalstem&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.thermofisher.com/press-release/thermo-fisher-scientific-receives-early-termination-hart-scott-rodino-waiting-period-a">"Thermo Fisher Scientific Receives Early Termination of Hart-Scott-Rodino Waiting Period for Acquisition of Finesse Solutions, Inc. - Thermo Fisher Scientific eNews"</a>. <i>news.thermofisher.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=news.thermofisher.com&amp;rft.atitle=Thermo+Fisher+Scientific+Receives+Early+Termination+of+Hart-Scott-Rodino+Waiting+Period+for+Acquisition+of+Finesse+Solutions%2C+Inc.+-+Thermo+Fisher+Scientific+eNews&amp;rft_id=http%3A%2F%2Fnews.thermofisher.com%2Fpress-release%2Fthermo-fisher-scientific-receives-early-termination-hart-scott-rodino-waiting-period-a&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.thermofisher.com/press-release/thermo-fisher-scientific-completes-acquisition-finesse-solutions-inc">"Thermo Fisher Scientific Completes Acquisition of Finesse Solutions, Inc. - Thermo Fisher Scientific eNews"</a>. <i>news.thermofisher.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=news.thermofisher.com&amp;rft.atitle=Thermo+Fisher+Scientific+Completes+Acquisition+of+Finesse+Solutions%2C+Inc.+-+Thermo+Fisher+Scientific+eNews&amp;rft_id=http%3A%2F%2Fnews.thermofisher.com%2Fpress-release%2Fthermo-fisher-scientific-completes-acquisition-finesse-solutions-inc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.thermofisher.com/press-release/thermo-fisher-scientific-acquires-core-informatics-provider-leading-cloud-based-scient">"Thermo Fisher Scientific Acquires Core Informatics, Provider of Leading Cloud-Based Scientific Data Platforms - Thermo Fisher Scientific eNews"</a>. <i>news.thermofisher.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=news.thermofisher.com&amp;rft.atitle=Thermo+Fisher+Scientific+Acquires+Core+Informatics%2C+Provider+of+Leading+Cloud-Based+Scientific+Data+Platforms+-+Thermo+Fisher+Scientific+eNews&amp;rft_id=http%3A%2F%2Fnews.thermofisher.com%2Fpress-release%2Fthermo-fisher-scientific-acquires-core-informatics-provider-leading-cloud-based-scient&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web">Editors, Pharmaceutical Technology. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170912191425/http://www.pharmtech.com/thermo-fisher-scientific-acquires-patheon">"Thermo Fisher Scientific Acquires Patheon"</a>. <i>www.pharmtech.com</i>. Archived from <a rel="nofollow" class="external text" href="http://www.pharmtech.com/thermo-fisher-scientific-acquires-patheon">the original</a> on 12 September 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-09-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.pharmtech.com&amp;rft.atitle=Thermo+Fisher+Scientific+Acquires+Patheon&amp;rft.aulast=Editors&amp;rft.aufirst=Pharmaceutical+Technology&amp;rft_id=http%3A%2F%2Fwww.pharmtech.com%2Fthermo-fisher-scientific-acquires-patheon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: extra text: authors list (<a href="/wiki/Category:CS1_maint:_extra_text:_authors_list" title="Category:CS1 maint: extra text: authors list">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/fortune500/list/">"Fortune 500 Companies 2018: Who Made the List"</a>. <i>Fortune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fortune&amp;rft.atitle=Fortune+500+Companies+2018%3A+Who+Made+the+List&amp;rft_id=http%3A%2F%2Ffortune.com%2Ffortune500%2Flist%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web">Scientific, Thermo Fisher. <a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/thermo-fisher-scientific-to-acquire-advanced-bioprocessing-business-from-bd-300708650.html">"Thermo Fisher Scientific to Acquire Advanced Bioprocessing Business from BD"</a>. <i>www.prnewswire.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.prnewswire.com&amp;rft.atitle=Thermo+Fisher+Scientific+to+Acquire+Advanced+Bioprocessing+Business+from+BD&amp;rft.aulast=Scientific&amp;rft.aufirst=Thermo+Fisher&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fthermo-fisher-scientific-to-acquire-advanced-bioprocessing-business-from-bd-300708650.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web">Reporter, Jonathan Saltzman-. <a rel="nofollow" class="external text" href="https://www.bostonglobe.com/business/2019/03/25/thermo-fisher-gets-into-gene-therapy-with-deal-for-brammer-bio/tZJf1ca7rjvvOBxSafWogN/story.html">"Thermo Fisher gets into gene therapy with $1.7b deal for Brammer Bio - The Boston Globe"</a>. <i>BostonGlobe.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BostonGlobe.com&amp;rft.atitle=Thermo+Fisher+gets+into+gene+therapy+with+%241.7b+deal+for+Brammer+Bio+-+The+Boston+Globe&amp;rft.aulast=Reporter&amp;rft.aufirst=Jonathan+Saltzman-&amp;rft_id=https%3A%2F%2Fwww.bostonglobe.com%2Fbusiness%2F2019%2F03%2F25%2Fthermo-fisher-gets-into-gene-therapy-with-deal-for-brammer-bio%2FtZJf1ca7rjvvOBxSafWogN%2Fstory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://thermofisher.mediaroom.com/2019-03-24-Thermo-Fisher-Scientific-to-Acquire-Brammer-Bio-a-Leader-in-Viral-Vector-Manufacturing">"Thermo Fisher Scientific to Acquire Brammer Bio, a Leader in Viral Vector Manufacturing"</a>. <i>MediaRoom</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MediaRoom&amp;rft.atitle=Thermo+Fisher+Scientific+to+Acquire+Brammer+Bio%2C+a+Leader+in+Viral+Vector+Manufacturing&amp;rft_id=http%3A%2F%2Fthermofisher.mediaroom.com%2F2019-03-24-Thermo-Fisher-Scientific-to-Acquire-Brammer-Bio-a-Leader-in-Viral-Vector-Manufacturing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.fiercepharma.com/manufacturing/thermo-fisher-shoulders-into-gene-therapy-manufacturing-1-7b-deal-for-brammer">"Thermo Fisher shoulders into gene therapy manufacturing with $1.7B deal for Brammer"</a>. <i>FiercePharma</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FiercePharma&amp;rft.atitle=Thermo+Fisher+shoulders+into+gene+therapy+manufacturing+with+%241.7B+deal+for+Brammer&amp;rft_id=https%3A%2F%2Fwww.fiercepharma.com%2Fmanufacturing%2Fthermo-fisher-shoulders-into-gene-therapy-manufacturing-1-7b-deal-for-brammer&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web">Somerset, Sara Brittany. <a rel="nofollow" class="external text" href="https://www.forbes.com/sites/sarabrittanysomerset/2019/05/01/dispaches-from-hall-of-flowers-acquisitions-and-debuts/">"Hall Of Flowers: Acquisitions And Celebrity Cannabis Debuts"</a>. <i>Forbes</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-01-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Forbes&amp;rft.atitle=Hall+Of+Flowers%3A+Acquisitions+And+Celebrity+Cannabis+Debuts&amp;rft.aulast=Somerset&amp;rft.aufirst=Sara+Brittany&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fsarabrittanysomerset%2F2019%2F05%2F01%2Fdispaches-from-hall-of-flowers-acquisitions-and-debuts%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://multiplesclerosisnewstoday.com/news-posts/2019/08/12/mmj-international-holdings-shipping-thc-and-cbd-to-us-for-clinical-trials/">"To Support MS Cannabinoid Studies, MMJ Asks US Agency to OK Shipments from Canada"</a>. <i>Multiple Sclerosis News Today</i>. 2019-08-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-01-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Multiple+Sclerosis+News+Today&amp;rft.atitle=To+Support+MS+Cannabinoid+Studies%2C+MMJ+Asks+US+Agency+to+OK+Shipments+from+Canada&amp;rft.date=2019-08-14&amp;rft_id=https%3A%2F%2Fmultiplesclerosisnewstoday.com%2Fnews-posts%2F2019%2F08%2F12%2Fmmj-international-holdings-shipping-thc-and-cbd-to-us-for-clinical-trials%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.biospace.com/article/releases/thermo-fisher-scientific-acquires-highchem-provider-of-mass-spectrometry-software/?s=79">https://www.biospace.com/article/releases/thermo-fisher-scientific-acquires-highchem-provider-of-mass-spectrometry-software/?s=79</a></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation news">Martuscelli, Carlo (2020-03-03). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/thermo-fisher-to-buy-diagnostic-company-for-10-1-billion-11583236681">"Thermo Fisher to Buy Diagnostic Company for $10.1 Billion"</a>. <i>Wall Street Journal</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0099-9660">0099-9660</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-03-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wall+Street+Journal&amp;rft.atitle=Thermo+Fisher+to+Buy+Diagnostic+Company+for+%2410.1+Billion&amp;rft.date=2020-03-03&amp;rft.issn=0099-9660&amp;rft.aulast=Martuscelli&amp;rft.aufirst=Carlo&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fthermo-fisher-to-buy-diagnostic-company-for-10-1-billion-11583236681&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://corporate.thermofisher.com/content/dam/tf/Footer/Documents/2015%20Legal%20Entity%20Reference%20Guide.pdf">"Legal Entity Reference Guide"</a> <span class="cs1-format">(PDF)</span>. Thermo Fisher Scientific. July 1, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Legal+Entity+Reference+Guide&amp;rft.pub=Thermo+Fisher+Scientific&amp;rft.date=2015-07-01&amp;rft_id=https%3A%2F%2Fcorporate.thermofisher.com%2Fcontent%2Fdam%2Ftf%2FFooter%2FDocuments%2F2015%2520Legal%2520Entity%2520Reference%2520Guide.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.businesswire.com/news/home/20160108005915/en/">"Thermo Fisher Scientific to Acquire Affymetrix"</a>. <i>BusinessWire</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BusinessWire&amp;rft.atitle=Thermo+Fisher+Scientific+to+Acquire+Affymetrix&amp;rft_id=http%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20160108005915%2Fen%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.businesswire.com/news/home/20150930006722/en/">"Thermo Fisher Scientific Completes Acquisition of Alfa Aesar to Significantly Expand Laboratory Chemicals Offering"</a>. <i>BusinessWire</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BusinessWire&amp;rft.atitle=Thermo+Fisher+Scientific+Completes+Acquisition+of+Alfa+Aesar+to+Significantly+Expand+Laboratory+Chemicals+Offering&amp;rft_id=http%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20150930006722%2Fen%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bioimage.com/pdf/CEOletter.pdf">"Life Technologies"</a> <span class="cs1-format">(PDF)</span>. <i>www.bioimage.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.bioimage.com&amp;rft.atitle=Life+Technologies&amp;rft_id=http%3A%2F%2Fwww.bioimage.com%2Fpdf%2FCEOletter.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.businesswire.com/news/home/20160919006552/en/">"Thermo Fisher Scientific Completes Acquisition of FEI Company"</a>. <i>BusinessWire</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BusinessWire&amp;rft.atitle=Thermo+Fisher+Scientific+Completes+Acquisition+of+FEI+Company&amp;rft_id=http%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20160919006552%2Fen%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.prnewswire.com/news-releases/thermo-fisher-scientific-completes-acquisition-of-patheon-300510547.html">"Thermo Fisher Scientific Completes Acquisition of Patheon"</a>. <i>PR NewsWire</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PR+NewsWire&amp;rft.atitle=Thermo+Fisher+Scientific+Completes+Acquisition+of+Patheon&amp;rft_id=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fthermo-fisher-scientific-completes-acquisition-of-patheon-300510547.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.technologynetworks.com/tn/news/institute-of-pathology-joins-thermo-fisher-scientific-to-drive-oncology-companion-diagnostic-291618">"Institute of Pathology Joins Thermo Fisher Scientific to Drive Oncology Companion Diagnostic Development"</a>. <i>Technology Networks</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-09-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Technology+Networks&amp;rft.atitle=Institute+of+Pathology+Joins+Thermo+Fisher+Scientific+to+Drive+Oncology+Companion+Diagnostic+Development&amp;rft_id=https%3A%2F%2Fwww.technologynetworks.com%2Ftn%2Fnews%2Finstitute-of-pathology-joins-thermo-fisher-scientific-to-drive-oncology-companion-diagnostic-291618&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermo+Fisher+Scientific" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Thermo_Fisher_Scientific&amp;action=edit&amp;section=6" title="Edit section: External links" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li>Business data for Thermo Fisher Scientific: <div class="hlist hlist-separated inline"><ul><li><a rel="nofollow" class="external text" href="https://www.google.com/finance?q=TMO">Google Finance</a></li><li><a rel="nofollow" class="external text" href="https://finance.yahoo.com/q?s=TMO">Yahoo! Finance</a></li><li><a rel="nofollow" class="external text" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=TMO">SEC filings</a></li></ul></div></li></ul></section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Thermo_Fisher_Scientific&amp;oldid=949289190">https://en.wikipedia.org/w/index.php?title=Thermo_Fisher_Scientific&amp;oldid=949289190</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Thermo_Fisher_Scientific"
+				data-user-name="96.227.104.28"
+				data-user-gender="unknown"
+				data-timestamp="1586106062">
+				<span>Last edited on 5 April 2020, at 17:01</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Thermo_Fisher_Scientific&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.756","walltime":"1.012","ppvisitednodes":{"value":4715,"limit":1000000},"postexpandincludesize":{"value":138062,"limit":2097152},"templateargumentsize":{"value":14668,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":124307,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  881.031      1 -total"," 32.99%  290.659      1 Template:Reflist"," 26.75%  235.692      1 Template:Infobox_company"," 25.34%  223.278      1 Template:Infobox"," 21.55%  189.899     30 Template:Cite_web","  9.93%   87.465      4 Template:Ambox","  9.69%   85.400     10 Template:Fix","  7.55%   66.487      1 Template:Update","  7.33%   64.549     10 Template:Wikidata","  6.60%   58.118      8 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.376","limit":"10.000"},"limitreport-memusage":{"value":10279935,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20200416055531","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Thermo Fisher Scientific","url":"https:\/\/en.wikipedia.org\/wiki\/Thermo_Fisher_Scientific","sameAs":"http:\/\/www.wikidata.org\/entity\/Q643674","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q643674","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-03-02T20:07:13Z","dateModified":"2020-04-05T17:01:02Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/Thermo_Fisher_headquarters.jpg","headline":"company"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":126,"wgHostname":"mw1267"});});</script>		</body>
+		</html>
+		

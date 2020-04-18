@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Las Vegas Sands - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"XpoL8gpAMM8AAxehRccAAAAB","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Las_Vegas_Sands","wgTitle":"Las Vegas Sands","wgCurRevisionId":946444969,"wgRevisionId":946444969,"wgArticleId":1340486,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Las_Vegas_Sands","wgRelevantArticleId":1340486,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1506045","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!0,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.wikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.28"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Venetian_Las_Vegas%2C_NV.jpg/1200px-Venetian_Las_Vegas%2C_NV.jpg"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Las_Vegas_Sands&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Las_Vegas_Sands&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Las_Vegas_Sands"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Las_Vegas_Sands rootpage-Las_Vegas_Sands stable issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button"
+						class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-menu-base20 mw-ui-icon-flush-left toggle-list__toggle"
+						title="Open main menu" data-event-name="ui.mainmenu">Open main menu</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Main_Page" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Home</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Special:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Random</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Special:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>Nearby</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Las+Vegas+Sands" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Log in</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Special:MobileOptions&amp;returnto=Las+Vegas+Sands" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Settings</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikipedia:About" class="" data-event-name=""><span>About Wikipedia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikipedia:General_disclaimer" class="" data-event-name=""><span>Disclaimers</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="User navigation">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Search</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0">Las Vegas Sands</h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="page-actions" class="page-actions-menu__list">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a id="" href="/wiki/Special:MobileLanguages/Las_Vegas_Sands" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-language-base20 mw-ui-icon-with-label-desktop language-selector"
+					data-mw="interface"
+					data-event-name="menu.languages" role="button" title="Language">Language</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Las+Vegas+Sands" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-star-base20 mw-ui-icon-with-label-desktop watch-this-article mw-watchlink menu__item--page-actions-watch"
+					data-mw="interface"
+					data-event-name="menu.watch" role="button" title="Watch">Watch</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a id="ca-edit" href="/w/index.php?title=Las_Vegas_Sands&amp;action=edit&amp;section=0" class="edit-page menu__item--page-actions-edit mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 mw-ui-icon-with-label-desktop"
+					data-mw="interface"
+					data-event-name="menu.edit" role="button" title="Edit the lead section of this page">Edit</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0">
+<table class="box-Advert plainlinks metadata ambox ambox-content ambox-Advert" role="presentation"><tbody><tr><td class="mbox-text"><div class="mbox-text-span">This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Las_Vegas_Sands&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span>  <small class="date-container"><i>(<span class="date">November 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><div role="note" class="hatnote navigation-not-searchable">For the historic hotel and casino that the company was named after, see, see <a href="/wiki/Sands_Hotel" class="mw-redirect" title="Sands Hotel">Sands Hotel</a>.</div>
+<p><b>Las Vegas Sands Corporation</b> is an American <a href="/wiki/Casino" title="Casino">casino</a> and <a href="/wiki/Resort" title="Resort">resort</a> company based in <a href="/wiki/Paradise,_Nevada" title="Paradise, Nevada">Paradise, Nevada</a>, United States. Its resorts feature accommodations, gaming and entertainment, convention and exhibition facilities, restaurants and clubs, as well as an art and science museum in Singapore.
+</p><table class="infobox vcard" style="width:22em"><caption class="fn org">Las Vegas Sands Corporation</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Las_Vegas_Sands_logo.svg" class="image" title="Las Vegas Sands Logo"><img alt="Las Vegas Sands Logo" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b7/Las_Vegas_Sands_logo.svg/200px-Las_Vegas_Sands_logo.svg.png" decoding="async" width="200" height="74" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b7/Las_Vegas_Sands_logo.svg/300px-Las_Vegas_Sands_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b7/Las_Vegas_Sands_logo.svg/400px-Las_Vegas_Sands_logo.svg.png 2x" data-file-width="300" data-file-height="111"></a></td></tr><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Venetian_Las_Vegas,_NV.jpg" class="image"><img alt="Venetian Las Vegas, NV.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Venetian_Las_Vegas%2C_NV.jpg/220px-Venetian_Las_Vegas%2C_NV.jpg" decoding="async" width="220" height="165" data-file-width="2048" data-file-height="1536"></a><div><a href="/wiki/The_Venetian_(Las_Vegas)" class="mw-redirect" title="The Venetian (Las Vegas)">The Venetian Las Vegas</a> partly serves as the global corporate headquarters.</div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Public_company" title="Public company">Public</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded as</a></th><td style="line-height: 1.35em;"><div class="plainlist"><ul><li><a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>: <a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:LVS">LVS</a></li><li><a href="/wiki/S%26P_500" class="mw-redirect" title="S&amp;P 500">S&amp;P 500</a> component</li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">ISIN</a></th><td style="line-height: 1.35em;"><span class="plainlinks nourlexpansion"><a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US5178341070">US5178341070 </a><a href="https://www.wikidata.org/wiki/Q1506045?uselang=en#P946" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Industry</th><td class="category" style="line-height: 1.35em;"><a href="/wiki/Hospitality" title="Hospitality">Hospitality</a>, <a href="/wiki/Tourism" title="Tourism">Tourism</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founded</th><td style="line-height: 1.35em;">November 17, 1988</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Founder</th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Sheldon_Adelson" title="Sheldon Adelson">Sheldon Adelson</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Headquarters</th><td class="label" style="line-height: 1.35em;"><a href="/wiki/Paradise,_Nevada" title="Paradise, Nevada">Paradise, Nevada</a>, U.S.</td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height: 1.35em;"><div class="plainlist nowrap"><ul><li><a href="/wiki/China" title="China">China</a> (<a href="/wiki/Macau" title="Macau">Macau</a>)</li><li><a href="/wiki/United_States" title="United States">United States</a> (<a href="/wiki/Las_Vegas_Valley" title="Las Vegas Valley">Las Vegas Valley</a>)</li><li><a href="/wiki/Singapore" title="Singapore">Singapore</a></li></ul></div></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height: 1.35em;"><a href="/wiki/Sheldon_Adelson" title="Sheldon Adelson">Sheldon Adelson</a><br>(Chairman &amp; CEO)<br>Robert G. Goldstein<br>(President &amp; COO)<br>Patrick Dumont<br>(Executive Vice President &amp; CFO)<br>Lawrence Jacobs<br>(Executive Vice President &amp; Global General Counsel)</td></tr><tr><th scope="row" style="padding-right: 0.5em;">Products</th><td style="line-height: 1.35em;"><a href="/wiki/Gambling#Casino_games" title="Gambling">Gambling</a>, <a href="/wiki/Hotel" title="Hotel">hotels</a>, <a href="/wiki/Entertainment" title="Entertainment">entertainment</a>, <a href="/wiki/Casino" title="Casino">casinos</a>, <a href="/wiki/Resort" title="Resort">resorts</a></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Revenue</th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> <a href="/wiki/United_States_Dollar" class="mw-redirect" title="United States Dollar">US$</a> 14.5 billion (<i>FY 2014</i>)<sup id="cite_ref-10IncomeStatement_1-0" class="reference"><a href="#cite_note-10IncomeStatement-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 4.09 billion (<i>FY 2014</i>)<sup id="cite_ref-10IncomeStatement_1-1" class="reference"><a href="#cite_note-10IncomeStatement-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 2.84 billion (<i>FY 2014</i>)<sup id="cite_ref-10IncomeStatement_1-2" class="reference"><a href="#cite_note-10IncomeStatement-1">[1]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 22.3 billion (<i>FY 2014</i>)<sup id="cite_ref-10BalanceSheet_2-0" class="reference"><a href="#cite_note-10BalanceSheet-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th><td style="line-height: 1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> US$ 7.21 billion (<i>FY 2014</i>)<sup id="cite_ref-10BalanceSheet_2-1" class="reference"><a href="#cite_note-10BalanceSheet-2">[2]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Owner</th><td style="line-height: 1.35em;"><a href="/wiki/Sheldon_Adelson" title="Sheldon Adelson">Sheldon Adelson</a> (53%)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height: 1.35em;">51,500 (2020)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2020)">citation needed</span></a></i>]</sup></td></tr><tr><th scope="row" style="padding-right: 0.5em;">Website</th><td style="line-height: 1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://sands.com">sands<wbr></wbr>.com</a></span></td></tr></tbody></table><p>It has several resorts in the United States and Asia. Among its properties in the United States are two resorts on the Las Vegas Strip: <a href="/wiki/The_Venetian_Las_Vegas" title="The Venetian Las Vegas">The Venetian</a> and <a href="/wiki/The_Palazzo" title="The Palazzo">The Palazzo</a>.
+</p><p>In Asia, the <a href="/wiki/Marina_Bay_Sands" title="Marina Bay Sands">Marina Bay Sands</a> located in <a href="/wiki/Singapore" title="Singapore">Singapore</a> is the most recent addition to the company's portfolio. Through its majority-owned subsidiary <a href="/wiki/Sands_China" title="Sands China">Sands China</a>, the company owns several properties in <a href="/wiki/Macau" title="Macau">Macau</a>, including the <a href="/wiki/Sands_Macao" title="Sands Macao">Sands Macao</a>, <a href="/wiki/Sands_Cotai_Central" title="Sands Cotai Central">Sands Cotai Central</a>, <a href="/wiki/The_Venetian_Macao" title="The Venetian Macao">The Venetian Macao</a>, The Plaza Macao, Four Seasons Hotel Macao, and <a href="/wiki/The_Parisian_Macao" title="The Parisian Macao">The Parisian Macao</a>. It is the largest casino company worldwide.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul><li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Finances"><span class="tocnumber">2</span> <span class="toctext">Finances</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Political_contributions"><span class="tocnumber">3</span> <span class="toctext">Political contributions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Properties"><span class="tocnumber">4</span> <span class="toctext">Properties</span></a>
+<ul><li class="toclevel-2 tocsection-5"><a href="#Past_properties"><span class="tocnumber">4.1</span> <span class="toctext">Past properties</span></a></li>
+</ul></li>
+<li class="toclevel-1 tocsection-6"><a href="#Ownership_and_stock"><span class="tocnumber">5</span> <span class="toctext">Ownership and stock</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Aircraft"><span class="tocnumber">6</span> <span class="toctext">Aircraft</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Alleged_antibribery_violations"><span class="tocnumber">7</span> <span class="toctext">Alleged antibribery violations</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Legal_issues"><span class="tocnumber">8</span> <span class="toctext">Legal issues</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul></div>
+
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="History">History</span><span class="mw-editsection"><a href="/w/index.php?title=Las_Vegas_Sands&amp;action=edit&amp;section=1" title="Edit section: History" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>Entrepreneur <a href="/wiki/Sheldon_Adelson" title="Sheldon Adelson">Sheldon Adelson</a> and his partners Richard Katzeff, <a href="/w/index.php?title=Irwin_Chafetz&amp;action=edit&amp;redlink=1" class="new" title="Irwin Chafetz (page does not exist)">Irwin Chafetz</a>, Ted Cutler, and Jordan Shapiro bought the famous <a href="/wiki/Sands_Hotel" class="mw-redirect" title="Sands Hotel">Sands Hotel</a> in 1989. They opened the <a href="/wiki/Sands_Expo_and_Convention_Center" class="mw-redirect" title="Sands Expo and Convention Center">Sands Expo and Convention Center</a> across from the hotel in 1990. The 1.2-million-square-foot center is currently the largest privately owned convention facility in the world.
+</p><p>The Sands Hotel was having trouble competing with the newer resorts on the <a href="/wiki/Las_Vegas_Strip" title="Las Vegas Strip">Las Vegas Strip</a>, Adelson imploded it to make room for <a href="/wiki/The_Venetian_Las_Vegas" title="The Venetian Las Vegas">The Venetian</a>. Construction of the Venetian began in 1997, when themed hotels were the fashion. Modeled on Venice, Italy, it joined <a href="/wiki/Excalibur_Hotel_and_Casino" title="Excalibur Hotel and Casino">Excalibur</a>, <a href="/wiki/New_York-New_York" class="mw-redirect" title="New York-New York">New York-New York</a>, <a href="/wiki/Paris_Las_Vegas" title="Paris Las Vegas">Paris Las Vegas</a> and other themed hotels on the Las Vegas Strip.
+</p><p>When the trend in Las Vegas then shifted to more understated and "elegant" hotels, construction on <a href="/wiki/The_Palazzo" title="The Palazzo">The Palazzo</a> began in 2005. Together, the Palazzo, Venetian and Sands Expo make up the world’s largest integrated resort, with 7,100 all-suite rooms, 2.3 million square feet of convention and exhibition space, and an array of shopping, dining and entertainment options.
+</p><p>Adelson got his start through the trade show business. As early as the 1970s, he saw the potential in personal computers. He and his partners founded the computer trade show <a href="/wiki/COMDEX" title="COMDEX">COMDEX</a> in 1979. They then sold it in 1995 for more than $800 million. In 2004, Adelson took the Venetian's parent company public:<sup id="cite_ref-hit-jackpot_5-0" class="reference"><a href="#cite_note-hit-jackpot-5">[5]</a></sup> Las Vegas Sands Inc. became Las Vegas Sands Corp.
+</p><p>Perhaps because of his start in the trade show business, Adelson focused his hotel efforts on courting the convention and trade show industry. At the time, when other hotels were focusing on gambling, his approach was considered unorthodox: the traditional strategy was to keep hotel rooms minimal, so as to encourage guests to spend as much time as possible in the casino. Adelson, however, had all his hotel rooms made into luxury suites; he put in mini-bars and big screen televisions; and he created comfortable work spaces in every room. By doing all this, he counted on business from the Sands Expo and Convention Center to keep mid-week occupancy strong. This proved correct; the company now makes more money in Las Vegas from conventions than gambling.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> And Adelson's convention-centered approach is no longer considered unorthodox, but rather the paradigm in the hospitality industry in Las Vegas.
+</p><p>Adelson was also among the first to foresee the financial potential of Asia. Before his American competitors, he made the move to locate his company nearer to the Asian market. <a href="/wiki/Macau" title="Macau">Macau</a>, the former Portuguese colony handed over to China on 20 December 1999, is the only Special Administrative Region right next to mainland China where casino gambling is legal. Las Vegas Sands opened the Sands Macao in 2004.
+</p><p>Adelson next saw that 1 billion people are within a three-hour flight of Macau, and around 3 billion people are estimated to live within a five-hour flight. He realized that his company's future was in creating not one hotel, but establishing an entire strip – a Las Vegas-like Boulevard in Macau featuring many hotels of various styles and price ranges. There were physical challenges to his idea: the total area of the small peninsula and two islands that make up Macao is less than 12 square miles; this area is densely populated; and, at the time, there was no land for such a large strip.
+</p><p>So Adelson created the land: he had his company fill the bay between the Coloane and Taipa islands. He called the area the Cotai Strip.
+</p><p>He then began construction of the largest inhabited building in the world – the <a href="/wiki/Venetian_Macao" class="mw-redirect" title="Venetian Macao">Venetian Macao</a>. To ensure the structure was stable, 13,500 steel piles were driven into the bedrock below. At peak times, 15,000 people were working on the construction site. Adelson set a three-year time limit for construction. This meant building needed to take place at a rapid pace, but the building was finished on time. The hotel officially opened at 7:18 p.m. on August 28, 2007 -a time that was believed to have good <a href="/wiki/Feng_shui" title="Feng shui">feng shui</a>.
+</p><p>The resort is twice the size of its Las Vegas counterpart, with an arena that will seat 15,000 people and one of the largest exhibition centers in Asia. The resort receives between 70,000 and 100,000 visitors each day and has a staff of approximately 12,000 on site. The 550,000-square-foot casino is also the largest in the world.
+</p><p>In 2008, Las Vegas Sands opened a Four Seasons hotel next to the Venetian Macao, as well as Paiza Mansions, which are "for invited guests only". The company is also building resorts in Macau for a number of brands – The Holiday Inn, Intercontinental, and Sheraton Hotel – when they open on the <a href="/wiki/Sands_Cotai_Central" title="Sands Cotai Central">Sands Cotai Central</a> in the first quarter of 2012.
+</p><p>Despite its successes, Las Vegas Sands hit hard times in 2008 during the financial crises. At one a point the company was losing $1,000 per second. The stock price fell 97 percent within a 52-week period. To stop the bleeding, Adelson loaned the company $1billion of his own money.
+</p><p>He also continued with plans to build a $5.6 billion resort, <a href="/wiki/Marina_Bay_Sands" title="Marina Bay Sands">Marina Bay Sands</a>, in Singapore. Given the financial difficulties the company was facing, there was skepticism about the decision to build the Marina Bay Sands. However, Adelson argued that, with only one other competitor in Singapore, opening the resort would prove profitable. After it opened at the end of April, 2010, it posted a $600 million operating profit in the first eight months of business, a record in the industry.
+</p><p>The Marina Bay Sands has three 55-story towers with approximately 2,600 rooms and suites. Atop the hotel is the Sands SkyPark, a park that is set on top of the three towers. The park has vegetation, an observation deck, several restaurants, and a swimming pool that seems to flow over the building. The resort's location right next to the city center allows it to serve as an entertainment site for the local population and also a destination for business travelers and MICE (Meetings, Incentive, Convention, Exhibition) events. A year after <a href="/wiki/Marina_Bay_Sands" title="Marina Bay Sands">Marina Bay Sands</a> opened, tourism to Singapore shot up 20% and the economy expanded by 15%.
+</p><p>Las Vegas Sands continues to look for new expansion opportunities. It is keeping an eye on countries such as Japan, Korea,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Vietnam, Taiwan and Thailand. In the US, the company continues to expand its 2009 resort in Bethlehem, Pennsylvania, which opened in 2009 to compete with Atlantic City for some of the New York-area market. Las Vegas Sands has also talked about the possibility of a Florida resort.
+</p><p>In Europe, Adelson and his management team were in discussions with governments in Madrid and Barcelona. In September 2012, Las Vegas Sands Corp. announced <a href="/wiki/Madrid" title="Madrid">Madrid</a> had been chosen as the destination for the gambling resort project dubbed <a href="/wiki/Eurovegas" title="Eurovegas">Eurovegas</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> More precisely, in February 2013 it was reported the town of <a href="/wiki/Alcorc%C3%B3n" title="Alcorcón">Alcorcón</a>, in the outskirts of the Spanish capital had been chosen as the site for the "EuroVegas" project.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>  It was expected to take about ten years to build six casinos, twelve hotels, a convention center, three golf courses, shopping centers, bars and restaurants.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> However, in December 2013 the Eurovegas project was officially canceled and it will not be established anywhere in Europe.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p><p>In Q1 2015, the company proposed a <a href="/wiki/Allegiant_Stadium" title="Allegiant Stadium">65,000-seat Stadium</a> for the <a href="/wiki/Oakland_Raiders" class="mw-redirect" title="Oakland Raiders">Oakland Raiders</a> football team. The total cost would be an estimated $1.2 billion, and the stadium would be located near the Las Vegas Strip and UNLV. It would be co-developed with City of Industry, California-based <a href="/wiki/Ed_Roski_Jr." title="Ed Roski Jr.">Majestic Realty Co.</a><sup id="cite_ref-meetraiders_12-0" class="reference"><a href="#cite_note-meetraiders-12">[12]</a></sup> The proposal required $420 million from private investors and $780 million in public funding, with benefits from tourism.<sup id="cite_ref-meetraiders_12-1" class="reference"><a href="#cite_note-meetraiders-12">[12]</a></sup></p><p>In May 2019, the company sold Sands Bethlehem to the <a href="/wiki/Poarch_Band_of_Creek_Indians_of_Alabama" class="mw-redirect" title="Poarch Band of Creek Indians of Alabama">Poarch Band of Creek Indians of Alabama</a> for $1.3 billion.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Finances">Finances</span><span class="mw-editsection"><a href="/w/index.php?title=Las_Vegas_Sands&amp;action=edit&amp;section=2" title="Edit section: Finances" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p>For the fiscal year 2017, Las Vegas Sands reported earnings of US$2.806 billion, with an annual revenue of US$12.882 billion, an increase of 12.9% over the previous fiscal cycle. Las Vegas Sands shares traded at over $58 per share, and its market capitalization was valued at over US$41.1 billion in October 2018.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p><p>The company's 2018 annual report anticipated "a significant and adverse effect" from the "proliferation of gaming venues. particularly in Southeast Asia." <sup id="cite_ref-wsj_15-0" class="reference"><a href="#cite_note-wsj-15">[15]</a></sup></p>
+<table class="wikitable float-left" style="text-align: right;"><tbody><tr><th>Year
+</th>
+<th>Revenue<br>in mil. USD$
+</th>
+<th>Net income<br>in mil. USD$
+</th>
+<th>Total assets<br>in mil. USD$
+</th>
+<th>Price per share<br>in USD$
+</th>
+<th>Employees
+</th></tr><tr><td>2005
+</td>
+<td>1,741
+</td>
+<td>284
+</td>
+<td>3,880
+</td>
+<td>29.18
+</td>
+<td>
+</td></tr><tr><td>2006
+</td>
+<td>2,237
+</td>
+<td>442
+</td>
+<td>7,126
+</td>
+<td>49.16
+</td>
+<td>
+</td></tr><tr><td>2007
+</td>
+<td>2,951
+</td>
+<td>117
+</td>
+<td>11,467
+</td>
+<td>72.82
+</td>
+<td>
+</td></tr><tr><td>2008
+</td>
+<td>4,390
+</td>
+<td>−189
+</td>
+<td>17,144
+</td>
+<td>36.81
+</td>
+<td>
+</td></tr><tr><td>2009
+</td>
+<td>4,563
+</td>
+<td>−540
+</td>
+<td>20,572
+</td>
+<td>7.59
+</td>
+<td>
+</td></tr><tr><td>2010
+</td>
+<td>6,853
+</td>
+<td>407
+</td>
+<td>21,044
+</td>
+<td>21.29
+</td>
+<td>
+</td></tr><tr><td>2011
+</td>
+<td>9,411
+</td>
+<td>1,270
+</td>
+<td>22,244
+</td>
+<td>32.39
+</td>
+<td>
+</td></tr><tr><td>2012
+</td>
+<td>11,131
+</td>
+<td>1,524
+</td>
+<td>22,164
+</td>
+<td>35.27
+</td>
+<td>
+</td></tr><tr><td>2013
+</td>
+<td>13,770
+</td>
+<td>2,306
+</td>
+<td>22,724
+</td>
+<td>48.19
+</td>
+<td>48,500
+</td></tr><tr><td>2014
+</td>
+<td>14,584
+</td>
+<td>2,841
+</td>
+<td>22,354
+</td>
+<td>58.69
+</td>
+<td>48,500
+</td></tr><tr><td>2015
+</td>
+<td>11,688
+</td>
+<td>1,966
+</td>
+<td>20,863
+</td>
+<td>43.86
+</td>
+<td>46,500
+</td></tr><tr><td>2016
+</td>
+<td>11,410
+</td>
+<td>1,670
+</td>
+<td>20,469
+</td>
+<td>45.99
+</td>
+<td>49,000
+</td></tr><tr><td>2017
+</td>
+<td>12,882
+</td>
+<td>2,806
+</td>
+<td>20,687
+</td>
+<td>58.15
+</td>
+<td>50,000
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Political_contributions">Political contributions</span><span class="mw-editsection"><a href="/w/index.php?title=Las_Vegas_Sands&amp;action=edit&amp;section=3" title="Edit section: Political contributions" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p>According to the <a href="/wiki/Center_for_Responsive_Politics" title="Center for Responsive Politics">Center for Responsive Politics</a>, Las Vegas Sands was the #1 contributor to federal campaigns during the 2012 election cycle, donating $52.9 million, 100% to Republicans.<sup id="cite_ref-orgs_16-0" class="reference"><a href="#cite_note-orgs-16">[16]</a></sup>  By comparison, during that same period #2 Adelson Drug Clinic contributed $42.1 million, 100% to Republicans, and #21 <a href="/wiki/Goldman_Sachs" title="Goldman Sachs">Goldman Sachs</a> donated $8.9 million, 77% to Republicans.<sup id="cite_ref-orgs_16-1" class="reference"><a href="#cite_note-orgs-16">[16]</a></sup>  Since 1992, Las Vegas Sands has contributed $70.5 million to federal campaigns, and since 1999 has spent $5.4 million on lobbying.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Properties">Properties</span><span class="mw-editsection"><a href="/w/index.php?title=Las_Vegas_Sands&amp;action=edit&amp;section=4" title="Edit section: Properties" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<table class="wikitable"><tbody><tr style="background:#EFEFEF"><th><b>Image</b>
+</th>
+<th><b>Property</b>
+</th>
+<th><b>Location</b>
+</th>
+<th><b>Date opened</b>
+</th></tr><tr><td><a href="/wiki/File:Sands_Convention_Center_2010.jpg" class="image"><noscript><img alt="Sands Convention Center 2010.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sands_Convention_Center_2010.jpg/150px-Sands_Convention_Center_2010.jpg" decoding="async" width="150" height="100" data-file-width="3872" data-file-height="2592"></noscript><span class="lazy-image-placeholder" style="width: 150px;height: 100px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sands_Convention_Center_2010.jpg/150px-Sands_Convention_Center_2010.jpg" data-alt="Sands Convention Center 2010.jpg" data-width="150" data-height="100"> </span></a>
+</td>
+<td><a href="/wiki/Sands_Expo" title="Sands Expo">Sands Expo</a>
+</td>
+<td><a href="/wiki/Las_Vegas_Strip" title="Las Vegas Strip">Las Vegas</a>, <a href="/wiki/Nevada" title="Nevada">Nevada</a>
+</td>
+<td>1990
+</td></tr><tr><td><a href="/wiki/File:Venetian_Las_Vegas,_NV.jpg" class="image"><noscript><img alt="Venetian Las Vegas, NV.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Venetian_Las_Vegas%2C_NV.jpg/150px-Venetian_Las_Vegas%2C_NV.jpg" decoding="async" width="150" height="113" data-file-width="2048" data-file-height="1536"></noscript><span class="lazy-image-placeholder" style="width: 150px;height: 113px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Venetian_Las_Vegas%2C_NV.jpg/150px-Venetian_Las_Vegas%2C_NV.jpg" data-alt="Venetian Las Vegas, NV.jpg" data-width="150" data-height="113"> </span></a>
+</td>
+<td><a href="/wiki/The_Venetian_Las_Vegas" title="The Venetian Las Vegas">The Venetian Las Vegas</a>
+</td>
+<td><a href="/wiki/Las_Vegas_Strip" title="Las Vegas Strip">Las Vegas</a>, <a href="/wiki/Nevada" title="Nevada">Nevada</a>
+</td>
+<td>May 3, 1999
+</td></tr><tr><td>
+</td>
+<td><a href="/wiki/MSG_Sphere_Las_Vegas" class="mw-redirect" title="MSG Sphere Las Vegas">MSG Sphere Las Vegas</a>
+</td>
+<td><a href="/wiki/Las_Vegas_Strip" title="Las Vegas Strip">Las Vegas</a>, <a href="/wiki/Nevada" title="Nevada">Nevada</a>
+</td>
+<td>2021
+</td></tr><tr><td><a href="/wiki/File:Sands.JPG" class="image"><noscript><img alt="Sands.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sands.JPG/150px-Sands.JPG" decoding="async" width="150" height="113" data-file-width="2304" data-file-height="1728"></noscript><span class="lazy-image-placeholder" style="width: 150px;height: 113px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sands.JPG/150px-Sands.JPG" data-alt="Sands.JPG" data-width="150" data-height="113"> </span></a>
+</td>
+<td><a href="/wiki/Sands_Macao" title="Sands Macao">Sands Macao</a>
+</td>
+<td><a href="/wiki/Macau_Peninsula" title="Macau Peninsula">Macau Peninsula</a>, <a href="/wiki/Macau" title="Macau">Macau</a>
+</td>
+<td>May 18, 2004
+</td></tr><tr><td><div class="center"><div class="floatnone"><a href="/wiki/File:55672-The-Rolling-Stones-14-On-Fire_(13063245954).jpg" class="image"><noscript><img alt="55672-The-Rolling-Stones-14-On-Fire (13063245954).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg/100px-55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg" decoding="async" width="100" height="67" data-file-width="2048" data-file-height="1367"></noscript><span class="lazy-image-placeholder" style="width: 100px;height: 67px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg/100px-55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg" data-alt="55672-The-Rolling-Stones-14-On-Fire (13063245954).jpg" data-width="100" data-height="67"> </span></a></div></div>
+</td>
+<td><a href="/wiki/Cotai_Arena" title="Cotai Arena">Cotai Arena</a>
+</td>
+<td><a href="/wiki/Cotai_Strip" title="Cotai Strip">Cotai Strip</a>, <a href="/wiki/Macau" title="Macau">Macau</a>
+</td>
+<td>April 8, 2007
+</td></tr><tr><td><div class="center"><div class="floatnone"><a href="/wiki/File:Venetian_Macau.jpg" class="image"><noscript><img alt="Venetian Macau.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Venetian_Macau.jpg/100px-Venetian_Macau.jpg" decoding="async" width="100" height="150" data-file-width="1200" data-file-height="1800"></noscript><span class="lazy-image-placeholder" style="width: 100px;height: 150px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Venetian_Macau.jpg/100px-Venetian_Macau.jpg" data-alt="Venetian Macau.jpg" data-width="100" data-height="150"> </span></a></div></div>
+</td>
+<td><a href="/wiki/The_Venetian_Macao" title="The Venetian Macao">The Venetian Macao</a>
+</td>
+<td><a href="/wiki/Cotai_Strip" title="Cotai Strip">Cotai Strip</a>, <a href="/wiki/Macau" title="Macau">Macau</a>
+</td>
+<td>August 28, 2007
+</td></tr><tr><td><div class="center"><div class="floatnone"><a href="/wiki/File:Palazzo-at-night.JPG" class="image"><noscript><img alt="Palazzo-at-night.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Palazzo-at-night.JPG/100px-Palazzo-at-night.JPG" decoding="async" width="100" height="133" data-file-width="2304" data-file-height="3072"></noscript><span class="lazy-image-placeholder" style="width: 100px;height: 133px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Palazzo-at-night.JPG/100px-Palazzo-at-night.JPG" data-alt="Palazzo-at-night.JPG" data-width="100" data-height="133"> </span></a></div></div>
+</td>
+<td><a href="/wiki/The_Palazzo" title="The Palazzo">The Palazzo</a>
+</td>
+<td><a href="/wiki/Las_Vegas_Strip" title="Las Vegas Strip">Las Vegas</a>, <a href="/wiki/Nevada" title="Nevada">Nevada</a>
+</td>
+<td>December 30, 2007
+</td></tr><tr><td>
+</td>
+<td><a href="/w/index.php?title=The_Plaza_Macao&amp;action=edit&amp;redlink=1" class="new" title="The Plaza Macao (page does not exist)">The Plaza Macao</a>
+</td>
+<td><a href="/wiki/Cotai_Strip" title="Cotai Strip">Cotai Strip</a>, <a href="/wiki/Macau" title="Macau">Macau</a>
+</td>
+<td>August 28, 2008
+</td></tr><tr><td><a href="/wiki/File:Marina_Bay_Sands_in_the_evening_-_20101120.jpg" class="image"><noscript><img alt="Marina Bay Sands in the evening - 20101120.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Marina_Bay_Sands_in_the_evening_-_20101120.jpg/150px-Marina_Bay_Sands_in_the_evening_-_20101120.jpg" decoding="async" width="150" height="100" data-file-width="3700" data-file-height="2467"></noscript><span class="lazy-image-placeholder" style="width: 150px;height: 100px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Marina_Bay_Sands_in_the_evening_-_20101120.jpg/150px-Marina_Bay_Sands_in_the_evening_-_20101120.jpg" data-alt="Marina Bay Sands in the evening - 20101120.jpg" data-width="150" data-height="100"> </span></a>
+</td>
+<td><a href="/wiki/Marina_Bay_Sands" title="Marina Bay Sands">Marina Bay Sands</a>
+</td>
+<td><a href="/wiki/Marina_Bay,_Singapore" title="Marina Bay, Singapore">Marina Bay</a>, <a href="/wiki/Singapore" title="Singapore">Singapore</a>
+</td>
+<td>April 27, 2010
+</td></tr><tr><td><a href="/wiki/File:Sands_Cotai_Central_on_18_August_2011.jpg" class="image"><noscript><img alt="Sands Cotai Central on 18 August 2011.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sands_Cotai_Central_on_18_August_2011.jpg/150px-Sands_Cotai_Central_on_18_August_2011.jpg" decoding="async" width="150" height="113" data-file-width="3264" data-file-height="2448"></noscript><span class="lazy-image-placeholder" style="width: 150px;height: 113px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sands_Cotai_Central_on_18_August_2011.jpg/150px-Sands_Cotai_Central_on_18_August_2011.jpg" data-alt="Sands Cotai Central on 18 August 2011.jpg" data-width="150" data-height="113"> </span></a>
+</td>
+<td><a href="/wiki/Sands_Cotai_Central" title="Sands Cotai Central">Sands Cotai Central</a>
+</td>
+<td><a href="/wiki/Cotai_Strip" title="Cotai Strip">Cotai Strip</a>, <a href="/wiki/Macau" title="Macau">Macau</a>
+</td>
+<td>April 12, 2012
+</td></tr><tr><td><a href="/wiki/File:The_Parisian_Macao.jpg" class="image"><noscript><img alt="The Parisian Macao.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Parisian_Macao.jpg/150px-The_Parisian_Macao.jpg" decoding="async" width="150" height="113" data-file-width="4000" data-file-height="3000"></noscript><span class="lazy-image-placeholder" style="width: 150px;height: 113px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Parisian_Macao.jpg/150px-The_Parisian_Macao.jpg" data-alt="The Parisian Macao.jpg" data-width="150" data-height="113"> </span></a>
+</td>
+<td><a href="/wiki/The_Parisian_Macao" title="The Parisian Macao">The Parisian Macao</a>
+</td>
+<td><a href="/wiki/Cotai_Strip" title="Cotai Strip">Cotai Strip</a>, <a href="/wiki/Macau" title="Macau">Macau</a>
+</td>
+<td>September 13, 2016
+</td></tr></tbody></table><p>Las Vegas Sands also owns the <a href="/wiki/Four_Seasons_Hotel" class="mw-redirect" title="Four Seasons Hotel">Four Seasons Hotel</a> Macao, <a href="/wiki/Conrad_Hotels" title="Conrad Hotels">Conrad</a> Macao, <a href="/wiki/Holiday_Inn" title="Holiday Inn">Holiday Inn</a> Macao, <a href="/wiki/Sheraton_Grand_Macao_Hotel,_Cotai_Central" title="Sheraton Grand Macao Hotel, Cotai Central">Sheraton Macao</a> and The <a href="/wiki/St._Regis_Macao" title="St. Regis Macao">St. Regis Macao</a> at <a href="/wiki/Cotai_Strip" title="Cotai Strip">Cotai Strip</a>, <a href="/wiki/Macau" title="Macau">Macau</a>.
+</p>
+<h3 class="in-block"><span class="mw-headline" id="Past_properties">Past properties</span><span class="mw-editsection"><a href="/w/index.php?title=Las_Vegas_Sands&amp;action=edit&amp;section=5" title="Edit section: Past properties" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h3>
+<table class="wikitable"><tbody><tr style="background:#EFEFEF"><th><b>Image</b>
+</th>
+<th><b>Property</b>
+</th>
+<th><b>Location</b>
+</th>
+<th><b>Date opened</b>
+</th>
+<th><b>Date closed</b>
+</th>
+<th><b>Notes</b>
+</th></tr><tr><td><a href="/wiki/File:The_Sands_Hotel_and_Casino_in_1959.jpg" class="image"><noscript><img alt="The Sands Hotel and Casino in 1959.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_Sands_Hotel_and_Casino_in_1959.jpg/150px-The_Sands_Hotel_and_Casino_in_1959.jpg" decoding="async" width="150" height="94" data-file-width="1172" data-file-height="737"></noscript><span class="lazy-image-placeholder" style="width: 150px;height: 94px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_Sands_Hotel_and_Casino_in_1959.jpg/150px-The_Sands_Hotel_and_Casino_in_1959.jpg" data-alt="The Sands Hotel and Casino in 1959.jpg" data-width="150" data-height="94"> </span></a>
+</td>
+<td><a href="/wiki/Sands_Hotel_and_Casino" title="Sands Hotel and Casino">Sands Hotel and Casino</a>
+</td>
+<td><a href="/wiki/Las_Vegas_Strip" title="Las Vegas Strip">Las Vegas</a>, <a href="/wiki/Nevada" title="Nevada">Nevada</a>
+</td>
+<td><span data-sort-value="000000001952-12-15-0000" style="white-space:nowrap">December 15, 1952</span>
+</td>
+<td><span data-sort-value="000000001996-06-30-0000" style="white-space:nowrap">June 30, 1996</span>
+</td>
+<td>The original <a href="/wiki/Sands_Hotel" class="mw-redirect" title="Sands Hotel">Sands Hotel</a> in Las Vegas – demolished on November 26, 1996.
+</td></tr><tr><td><a href="/wiki/File:Casino061.jpg" class="image"><noscript><img alt="Casino061.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Casino061.jpg/150px-Casino061.jpg" decoding="async" width="150" height="151" data-file-width="3633" data-file-height="3664"></noscript><span class="lazy-image-placeholder" style="width: 150px;height: 151px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Casino061.jpg/150px-Casino061.jpg" data-alt="Casino061.jpg" data-width="150" data-height="151"> </span></a>
+</td>
+<td><a href="/wiki/Sands_Casino_Resort_Bethlehem" class="mw-redirect" title="Sands Casino Resort Bethlehem">Sands Casino Resort Bethlehem</a>
+</td>
+<td><a href="/wiki/Bethlehem,_Pennsylvania" title="Bethlehem, Pennsylvania">Bethlehem</a>, <a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>
+</td>
+<td><span data-sort-value="000000002009-05-22-0000" style="white-space:nowrap">May 22, 2009</span>
+</td>
+<td><span data-sort-value="999999999999-99-99-0000"></span>
+</td>
+<td>Sands Casino Resort Bethlehem was sold to Wind Creek Hospitality, a tribe-owned company of the <a href="/wiki/Poarch_Band_of_Creek_Indians" title="Poarch Band of Creek Indians">Poarch Band of Creek Indians</a> in Alabama on May, 31, 2019. The property was re-branded <a href="/wiki/Wind_Creek_Bethlehem" title="Wind Creek Bethlehem">Wind Creek Bethlehem</a> after the sale was complete.
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Ownership_and_stock">Ownership and stock</span><span class="mw-editsection"><a href="/w/index.php?title=Las_Vegas_Sands&amp;action=edit&amp;section=6" title="Edit section: Ownership and stock" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<p>In 2012, CEO <a href="/wiki/Sheldon_Adelson" title="Sheldon Adelson">Sheldon Adelson</a> and his family owned approximately 53% of the company.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> In December 2004, the company completed its initial public offering with the ticker LVS on the New York Stock Exchange at a price of $29 per share.<sup id="cite_ref-hit-jackpot_5-1" class="reference"><a href="#cite_note-hit-jackpot-5">[5]</a></sup> Only 6.8 percent of Las Vegas Sands was put on the market.<sup id="cite_ref-hit-jackpot_5-2" class="reference"><a href="#cite_note-hit-jackpot-5">[5]</a></sup> Adelson maintained 87.9 percent ownership of the company, while its management and directors owned the remaining 5.3 percent.<sup id="cite_ref-hit-jackpot_5-3" class="reference"><a href="#cite_note-hit-jackpot-5">[5]</a></sup> In October 2007, the company's <a href="/wiki/Market_capitalization" title="Market capitalization">market capitalization</a> peaked at $52 billion at $144.56 a share. However, because of general market declines and overall concern of the short-term financial health of the gambling industry, the <a href="/wiki/Market_capitalization" title="Market capitalization">market capitalization</a> sank to approximately $1 billion at less than $2 a share by March 2009.
+</p><p>On September 30, 2008, with the company stock trading at $36.11, Adelson and his wife, Dr. <a href="/wiki/Miriam_Adelson" title="Miriam Adelson">Miriam Adelson</a>, invested $475 million in the company through a 6.5% convertible note due in 2013. Subsequent to the $475 million investment by the Adelson family, and due to a further deterioration of the global economic environment, on November 11, 2008, the company announced that it will be receiving an additional investment of $525 million from Adelson and his family along with a raising an additional $1 billion in a secondary offering. The Adelsons agreed to buy 5.25 million shares of preferred stock and warrants to purchase about 87.5 million shares of common stock at an exercise price of $6 each.
+</p><p>In November 2009, the company completed an initial public offering of Sands China Ltd., its subsidiary that owns and operated its Macau properties, and raised a total of $3.3 billion in equity capital by selling a 29% interest in Sands China Ltd.
+</p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Aircraft">Aircraft</span><span class="mw-editsection"><a href="/w/index.php?title=Las_Vegas_Sands&amp;action=edit&amp;section=7" title="Edit section: Aircraft" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<p>The Las Vegas Sands fleet is leased by Tradenda Capital and includes the following aircraft (as of August 2019):<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<center>
+<table class="toccolours" border="1" cellpadding="3" style="border-collapse:collapse"><tbody><tr bgcolor="#75aadb"><th>Aircraft
+</th>
+<th>In<br>fleet
+</th>
+<th>Orders
+</th>
+<th>Passengers
+</th>
+<th>Notes
+</th></tr><tr><td><a href="/wiki/Airbus_A340" title="Airbus A340">Airbus A340-500</a>
+</td>
+<td align="center">1
+</td>
+<td align="center">—
+</td>
+<td align="center">
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Boeing_737_Classic" title="Boeing 737 Classic">Boeing 737-300</a>
+</td>
+<td align="center">2
+</td>
+<td align="center">—
+</td>
+<td align="center">
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Boeing_737_Next_Generation" title="Boeing 737 Next Generation">Boeing 737-700 BBJ</a>
+</td>
+<td align="center">4
+</td>
+<td align="center">—
+</td>
+<td align="center">
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Boeing_747SP" title="Boeing 747SP">Boeing 747SP</a>
+</td>
+<td align="center">2
+</td>
+<td align="center">—
+</td>
+<td align="center">
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Boeing_767" title="Boeing 767">Boeing 767-300ER</a>
+</td>
+<td align="center">1
+</td>
+<td align="center">—
+</td>
+<td align="center">
+</td>
+<td>
+</td></tr><tr><th><a href="/wiki/Gulfstream_G550" title="Gulfstream G550">Gulfstream GV</a>
+</th>
+<th>6
+</th>
+<th>—
+</th>
+<th>
+</th>
+<th>
+</th></tr><tr><th><b><a href="/wiki/Gulfstream_IV" title="Gulfstream IV">Gulfstream IV</a></b>
+</th>
+<th>3
+</th>
+<th>—
+</th>
+<th>
+</th>
+<th>
+</th></tr><tr><th>Total
+</th>
+<th>19
+</th>
+<th>
+</th>
+<th colspan="2">
+</th></tr></tbody></table></center>
+<p>Las Vegas Sands Corp. It operates 19 private aircraft, mainly used to transport company directors and VIP guests from its properties.
+</p><p>All aircraft are owned by Interface Operations Bermuda, Ltd, registered in Bermuda, owned by Tradenda Capital AG. But they are operated by subsidiaries:
+</p><p>– Interface Operations, LLC;
+</p><p>– Yona Aviation, LLC;
+</p><p>– Yona Aviation II, LLC;
+</p><p>– Sands Aviation, LLC;.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p><p>All operational Las Vegas Sands aircraft are based in Las Vegas <a href="/wiki/McCarran_International_Airport" title="McCarran International Airport">McCarran International Airport</a>.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Las_Vegas_Sands_Boeing_747SP_Manteufel.jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Las_Vegas_Sands_Boeing_747SP_Manteufel.jpg/220px-Las_Vegas_Sands_Boeing_747SP_Manteufel.jpg" decoding="async" width="220" height="147" class="thumbimage" data-file-width="1024" data-file-height="683"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 147px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Las_Vegas_Sands_Boeing_747SP_Manteufel.jpg/220px-Las_Vegas_Sands_Boeing_747SP_Manteufel.jpg" data-alt="" data-width="220" data-height="147" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Las_Vegas_Sands_Boeing_747SP_Manteufel.jpg" class="internal" title="Enlarge"></a></div>One of the two Sands <a href="/wiki/Boeing_747SP" title="Boeing 747SP">Boeing 747SP</a> aircraft</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Las_Vegas_Sands_Corporation_B737-300(N788LS)_(4996044822).jpg" class="image"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Las_Vegas_Sands_Corporation_B737-300%28N788LS%29_%284996044822%29.jpg/220px-Las_Vegas_Sands_Corporation_B737-300%28N788LS%29_%284996044822%29.jpg" decoding="async" width="220" height="147" class="thumbimage" data-file-width="2400" data-file-height="1599"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 147px;" data-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Las_Vegas_Sands_Corporation_B737-300%28N788LS%29_%284996044822%29.jpg/220px-Las_Vegas_Sands_Corporation_B737-300%28N788LS%29_%284996044822%29.jpg" data-alt="" data-width="220" data-height="147" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Las_Vegas_Sands_Corporation_B737-300(N788LS)_(4996044822).jpg" class="internal" title="Enlarge"></a></div>A Sands <a href="/wiki/Boeing_737-300" class="mw-redirect" title="Boeing 737-300">Boeing 737-300</a> approaching <a href="/wiki/Singapore_Changi_Airport" title="Singapore Changi Airport">Singapore Changi Airport</a></div></div></div>
+<table class="wikitable" border="1"><tbody><tr><th>Aircraft type
+</th>
+<th>Tail number
+</th>
+<th>Notes
+</th></tr><tr><td><a href="/wiki/Gulfstream_III" title="Gulfstream III">Gulfstream III</a>
+</td>
+<td>N623MS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Gulfstream_IV" title="Gulfstream IV">Gulfstream IV</a>
+</td>
+<td>N588LS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Gulfstream_IV" title="Gulfstream IV">Gulfstream IV</a>
+</td>
+<td>N688LS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Gulfstream_IV" title="Gulfstream IV">Gulfstream IV</a>
+</td>
+<td>N883LS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Gulfstream_IV" title="Gulfstream IV">Gulfstream IV</a>
+</td>
+<td>N886LS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Gulfstream_IV" title="Gulfstream IV">Gulfstream IV</a>
+</td>
+<td>N889LS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Gulfstream_IV" title="Gulfstream IV">Gulfstream IV</a>
+</td>
+<td>N972MS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Gulfstream_IV" title="Gulfstream IV">Gulfstream IV</a>
+</td>
+<td>N988LS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Gulfstream_V" title="Gulfstream V">Gulfstream V</a>
+</td>
+<td>N383LS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Airbus_A340" title="Airbus A340">Airbus A340-500</a>
+</td>
+<td>VP-BMS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Boeing_737-300" class="mw-redirect" title="Boeing 737-300">Boeing 737-300</a>
+</td>
+<td>N788LS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Boeing_737-300" class="mw-redirect" title="Boeing 737-300">Boeing 737-300</a>
+</td>
+<td>N789LS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Boeing_737-700" class="mw-redirect" title="Boeing 737-700">Boeing 737-700</a>
+</td>
+<td>N108MS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Boeing_737-700" class="mw-redirect" title="Boeing 737-700">Boeing 737-700</a>
+</td>
+<td>N887LS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Boeing_767-300" class="mw-redirect" title="Boeing 767-300">Boeing 767-300</a>
+</td>
+<td>N804MS
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Boeing_747SP" title="Boeing 747SP">Boeing 747SP</a>
+</td>
+<td>VP-BLK
+</td>
+<td>
+</td></tr><tr><td><a href="/wiki/Boeing_747SP" title="Boeing 747SP">Boeing 747SP</a>
+</td>
+<td>VQ-BMS
+</td>
+<td>
+</td></tr></tbody></table></section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Alleged_antibribery_violations">Alleged antibribery violations</span><span class="mw-editsection"><a href="/w/index.php?title=Las_Vegas_Sands&amp;action=edit&amp;section=8" title="Edit section: Alleged antibribery violations" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-7 collapsible-block" id="mf-section-7">
+<p>In March 2013, media reports claimed that Las Vegas Sands informed the <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">U.S. Securities and Exchange Commission</a> that it had likely violated federal law against bribery of foreign officials.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> The company fired back at these reports, stating in a press release: "The company did not report any violations of the anti-bribery provisions of the FCPA and it said news reports stating otherwise, such as the headline in today's New York Times which described the matter by saying 'Casino Says it Likely Cheated,' are both inflammatory and defamatory."<sup id="cite_ref-investor.lasvegassands.com_23-0" class="reference"><a href="#cite_note-investor.lasvegassands.com-23">[23]</a></sup> The company claimed that what it reported was that "in its preliminary findings the company's Audit Committee had advised that there were 'likely violations' of the books and records and internal controls provisions (i.e. 'accounting provisions') of the FCPA. A potential violation of the accounting provisions could range anywhere from a single transaction recorded incorrectly to other errors in the accounting records. The company said it will vigorously defend itself against that type of uninformed and misleading reporting."<sup id="cite_ref-investor.lasvegassands.com_23-1" class="reference"><a href="#cite_note-investor.lasvegassands.com-23">[23]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Legal_issues">Legal issues</span><span class="mw-editsection"><a href="/w/index.php?title=Las_Vegas_Sands&amp;action=edit&amp;section=9" title="Edit section: Legal issues" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-8 collapsible-block" id="mf-section-8">
+<p>On May 31, 2016, Sands reached an undisclosed financial settlement with former Sands China president Steve Jacobs, who sued the company in 2010 for breach of contract and wrongful termination.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> Terms of the settlement weren’t disclosed, but the <i><a href="/wiki/Wall_Street_Journal" class="mw-redirect" title="Wall Street Journal">Wall Street Journal</a></i> reported that the company paid Jacobs "more than $75 million".<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> Jacobs had claimed he was dismissed for "blowing the whistle on improprieties" in Macau,<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> including Jacobs’ allegations that Adelson had instructed him to investigate the financial and business affairs of senior Macau officials to obtain damaging information to use as leverage in future regulatory discussions.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> Adelson denied these allegations, characterizing Jacobs as a disgruntled ex-employee.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></p><p>On March 14, 2019, Sands reached a financial settlement with Hong Kong businessman Richard Suen, who sued the company in 2004 based on his claim that he’d been promised a $5 million ‘success fee’ and 2% of Sands’ profits from its operations in Macau in exchange for helping Sands to obtain a Macau casino concession. Two previous trials in Nevada courts had resulted in judgments that Suen was entitled to $44 million and $70 million.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> In the third trial, Suen’s attorneys argued that he was owed $347 million while Sands countered with $3.76 million. Terms of the settlement weren’t disclosed, but Sands attorney Richard Sauber said the parties had reached an "amicable settlement and resolution".<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></p>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="References">References</span><span class="mw-editsection"><a href="/w/index.php?title=Las_Vegas_Sands&amp;action=edit&amp;section=10" title="Edit section: References" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-9 collapsible-block" id="mf-section-9">
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-10IncomeStatement-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-10IncomeStatement_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-10IncomeStatement_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-10IncomeStatement_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="https://meta.wikimedia.org/wiki/Interwiki_map/discontinued#Wikinvest" class="extiw" title="wikinvest:stock/Las Vegas Sands (LVS)/Data/Income Statement">Las Vegas Sands (LVS) annual SEC income statement filing via Wikinvest</a></span>
+</li>
+<li id="cite_note-10BalanceSheet-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-10BalanceSheet_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-10BalanceSheet_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="https://meta.wikimedia.org/wiki/Interwiki_map/discontinued#Wikinvest" class="extiw" title="wikinvest:stock/Las Vegas Sands (LVS)/Data/Balance Sheet">Las Vegas Sands (LVS) annual SEC balance sheet filing via Wikinvest</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"> McDonald, Duff (8 February 2012). "Meet the woman behind Sheldon Adelson". Retrieved 2017-09-14.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.statista.com/statistics/257531/leading-casino-companies-worldwide-by-revenue/">https://www.statista.com/statistics/257531/leading-casino-companies-worldwide-by-revenue/</a></span>
+</li>
+<li id="cite_note-hit-jackpot-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-hit-jackpot_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hit-jackpot_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hit-jackpot_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-hit-jackpot_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Stutz, Howard (16 December 2004). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20041218011446/http://www.reviewjournal.com/lvrj_home/2004/Dec-16-Thu-2004/news/25486298.html">"Investors, Las Vegas Sands hit jackpot as stock goes public"</a>. <i>Las Vegas Review-Journal</i>. Archived from <a rel="nofollow" class="external text" href="http://www.reviewjournal.com/lvrj_home/2004/Dec-16-Thu-2004/news/25486298.html">the original</a> on 18 December 2004.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Las+Vegas+Review-Journal&amp;rft.atitle=Investors%2C+Las+Vegas+Sands+hit+jackpot+as+stock+goes+public&amp;rft.date=2004-12-16&amp;rft.aulast=Stutz&amp;rft.aufirst=Howard&amp;rft_id=http%3A%2F%2Fwww.reviewjournal.com%2Flvrj_home%2F2004%2FDec-16-Thu-2004%2Fnews%2F25486298.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r935243608">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://sandsconfidential.com/2011/04/24/coffee-with-mike/">"Coffee With Mike"</a>. Las Vegas Sands Blog. 24 April 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Coffee+With+Mike&amp;rft.date=2011-04-24&amp;rft_id=http%3A%2F%2Fsandsconfidential.com%2F2011%2F04%2F24%2Fcoffee-with-mike%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Puvaneswary, S (July 4, 2012). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140228150118/http://www.ttgmice.com/article/las-vegas-sands-eyes-south-korea-ir/">"Las Vegas Sands eyes South Korea IR"</a>. <i>TTGmice</i>. Archived from <a rel="nofollow" class="external text" href="http://www.ttgmice.com/article/las-vegas-sands-eyes-south-korea-ir/">the original</a> on 2014-02-28<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=TTGmice&amp;rft.atitle=Las+Vegas+Sands+eyes+South+Korea+IR&amp;rft.date=2012-07-04&amp;rft.aulast=Puvaneswary&amp;rft.aufirst=S&amp;rft_id=http%3A%2F%2Fwww.ttgmice.com%2Farticle%2Flas-vegas-sands-eyes-south-korea-ir%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120911031524/http://investor.lasvegassands.com/releasedetail.cfm?ReleaseID=705718">"Las Vegas Sands Names Madrid As Preferred Location for European Development"</a>. Las Vegas Sands. 7 September 2012. Archived from <a rel="nofollow" class="external text" href="http://investor.lasvegassands.com/releasedetail.cfm?ReleaseID=705718">the original</a> on 11 September 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Las+Vegas+Sands+Names+Madrid+As+Preferred+Location+for+European+Development&amp;rft.date=2012-09-07&amp;rft_id=http%3A%2F%2Finvestor.lasvegassands.com%2Freleasedetail.cfm%3FReleaseID%3D705718&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.nbcnews.com/id/50743178/ns/local_news-las_vegas_nv">"Spain's Alcorcon town chosen for EuroVegas resort"</a>. 8 February 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Spain%27s+Alcorcon+town+chosen+for+EuroVegas+resort&amp;rft.date=2013-02-08&amp;rft_id=http%3A%2F%2Fwww.nbcnews.com%2Fid%2F50743178%2Fns%2Flocal_news-las_vegas_nv&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.cbsnews.com/8301-501363_162-57508826/vegas-sands-picks-madrid-for-eurovegas-project/">"Vegas Sands picks Madrid for 'EuroVegas' project"</a>. cbsnews.com. 8 September 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Vegas+Sands+picks+Madrid+for+%27EuroVegas%27+project&amp;rft.date=2012-09-08&amp;rft_id=http%3A%2F%2Fwww.cbsnews.com%2F8301-501363_162-57508826%2Fvegas-sands-picks-madrid-for-eurovegas-project%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since June 2016">dead link</span></a></i>]</span></sup></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Tobias Buck (Madrid) (13 Dec 2013). <a rel="nofollow" class="external text" href="https://www.ft.com/cms/s/0/3783f5c8-63f7-11e3-98e2-00144feabdc0.html">"Sheldon Adelson cancels $30bn Eurovegas project in Spain"</a>. Financial Times (London)<span class="reference-accessdate">. Retrieved <span class="nowrap">13 Dec</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sheldon+Adelson+cancels+%2430bn+Eurovegas+project+in+Spain&amp;rft.pub=Financial+Times+%28London%29&amp;rft.date=2013-12-13&amp;rft.au=Tobias+Buck+%28Madrid%29&amp;rft_id=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F3783f5c8-63f7-11e3-98e2-00144feabdc0.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-meetraiders-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-meetraiders_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-meetraiders_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Stutz, Howard (January 28, 2016). <a rel="nofollow" class="external text" href="https://www.reviewjournal.com/business/stadium/las-vegas-sands-proposes-1b-domed-stadium-adelson-to-meet-with-raiders-owner/">"Las Vegas Sands proposes $1B domed stadium; Adelson to meet with Raiders owner"</a>. <i><a href="/wiki/Las_Vegas_Review-Journal" title="Las Vegas Review-Journal">Las Vegas Review-Journal</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Las+Vegas+Review-Journal&amp;rft.atitle=Las+Vegas+Sands+proposes+%241B+domed+stadium%3B+Adelson+to+meet+with+Raiders+owner&amp;rft.date=2016-01-28&amp;rft.aulast=Stutz&amp;rft.aufirst=Howard&amp;rft_id=https%3A%2F%2Fwww.reviewjournal.com%2Fbusiness%2Fstadium%2Flas-vegas-sands-proposes-1b-domed-stadium-adelson-to-meet-with-raiders-owner%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Harris, Jon (May 31, 2019). <a rel="nofollow" class="external text" href="https://www.mcall.com/business/mc-biz-wind-creek-closes-deal-to-acquire-sands-bethlehem-casino-20190531-jogysvu6i5g4nfzqjnycjrurwi-story.html">"The deal is complete: Sands Bethlehem casino is now owned by Wind Creek Hospitality"</a>. <i>The Morning Call</i>. Allentown, PA<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Morning+Call&amp;rft.atitle=The+deal+is+complete%3A+Sands+Bethlehem+casino+is+now+owned+by+Wind+Creek+Hospitality&amp;rft.date=2019-05-31&amp;rft.aulast=Harris&amp;rft.aufirst=Jon&amp;rft_id=https%3A%2F%2Fwww.mcall.com%2Fbusiness%2Fmc-biz-wind-creek-closes-deal-to-acquire-sands-bethlehem-casino-20190531-jogysvu6i5g4nfzqjnycjrurwi-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://investor.sands.com/financial-reports/Annual-Reports/default.aspx">"Las Vegas Sands Corp. – Financial Info – Annual Reports"</a>. <i>investor.sands.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=investor.sands.com&amp;rft.atitle=Las+Vegas+Sands+Corp.+%E2%80%93+Financial+Info+%E2%80%93+Annual+Reports&amp;rft_id=https%3A%2F%2Finvestor.sands.com%2Ffinancial-reports%2FAnnual-Reports%2Fdefault.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-wsj-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-wsj_15-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Ese Erheriene (May 7, 2019). "Casino Boom in Asia Pressures Vegas Operators: Region's new venues aim to draw gamblers beyond Macau, U.S. giants' longtime hub". Wall Street Journal. p. B5.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Casino+Boom+in+Asia+Pressures+Vegas+Operators%3A+Region%27s+new+venues+aim+to+draw+gamblers+beyond+Macau%2C+U.S.+giants%27+longtime+hub&amp;rft.pages=B5&amp;rft.date=2019-05-07&amp;rft.au=Ese+Erheriene&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-orgs-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-orgs_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-orgs_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.opensecrets.org/orgs/list.php?cycle=2012">"Top Organization Contributors"</a>. <i>OpenSecrets.org</i>. Center for Responsive Politics<span class="reference-accessdate">. Retrieved <span class="nowrap">9 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=OpenSecrets.org&amp;rft.atitle=Top+Organization+Contributors&amp;rft_id=https%3A%2F%2Fwww.opensecrets.org%2Forgs%2Flist.php%3Fcycle%3D2012&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.opensecrets.org/orgs/summary.php?id=D000020980&amp;cycle=A">"Organizations: Las Vegas Sands"</a>. <i>OpenSecrets.org</i>. Center for Responsive Politics<span class="reference-accessdate">. Retrieved <span class="nowrap">9 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=OpenSecrets.org&amp;rft.atitle=Organizations%3A+Las+Vegas+Sands&amp;rft_id=https%3A%2F%2Fwww.opensecrets.org%2Forgs%2Fsummary.php%3Fid%3DD000020980%26cycle%3DA&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news">McDonald, Duff (8 February 2012). <a rel="nofollow" class="external text" href="http://fortune.com/2012/02/08/meet-the-woman-behind-sheldon-adelson/">"Meet the woman behind Sheldon Adelson"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-09-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Meet+the+woman+behind+Sheldon+Adelson&amp;rft.date=2012-02-08&amp;rft.aulast=McDonald&amp;rft.aufirst=Duff&amp;rft_id=http%3A%2F%2Ffortune.com%2F2012%2F02%2F08%2Fmeet-the-woman-behind-sheldon-adelson%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Global Airline Guide 2016 (Part Two)". <i>Airliner World</i> (November 2016): 39.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Airliner+World&amp;rft.atitle=Global+Airline+Guide+2016+%28Part+Two%29&amp;rft.issue=November+2016&amp;rft.pages=39&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><i>rzjets.net</i> <a rel="nofollow" class="external text" href="https://rzjets.net/operators/?show=10208">https://rzjets.net/operators/?show=10208</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=rzjets.net&amp;rft_id=https%3A%2F%2Frzjets.net%2Foperators%2F%3Fshow%3D10208&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Missing or empty <code class="cs1-code">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.planespotters.net/Airline/Las-Vegas-Sands-Corporation">http://www.planespotters.net/Airline/Las-Vegas-Sands-Corporation</a> Aircraft fleet details</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news">Schwirtz, Michael (March 2, 2013). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2013/03/03/business/in-filing-casino-operator-admits-likely-violation-of-an-antibribery-law.html?_r=0">"In Filing, Casino Operator Admits Likely Violation of an Antibribery Law"</a>. <i>The New York Times</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=In+Filing%2C+Casino+Operator+Admits+Likely+Violation+of+an+Antibribery+Law&amp;rft.date=2013-03-02&amp;rft.aulast=Schwirtz&amp;rft.aufirst=Michael&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2013%2F03%2F03%2Fbusiness%2Fin-filing-casino-operator-admits-likely-violation-of-an-antibribery-law.html%3F_r%3D0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-investor.lasvegassands.com-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-investor.lasvegassands.com_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-investor.lasvegassands.com_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130621162715/http://investor.lasvegassands.com/releasedetail.cfm?ReleaseID=744731">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://investor.lasvegassands.com/releasedetail.cfm?ReleaseID%3D744731">the original</a> on 2013-06-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-08-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Finvestor.lasvegassands.com%2Freleasedetail.cfm%3FReleaseID%253D744731&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Master, Farah (1 June 2016). <a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-lasvegassands-lawsuit/las-vegas-sands-settles-with-former-ceo-of-macau-casino-unit-idUSKCN0YN30X">"Las Vegas Sands settles with former CEO of Macau casino unit"</a>. <i>Reuters</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Reuters&amp;rft.atitle=Las+Vegas+Sands+settles+with+former+CEO+of+Macau+casino+unit&amp;rft.date=2016-06-01&amp;rft.aulast=Master&amp;rft.aufirst=Farah&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-lasvegassands-lawsuit%2Flas-vegas-sands-settles-with-former-ceo-of-macau-casino-unit-idUSKCN0YN30X&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web">O’Keeffe, Kate; Berzon, Alexandra (1 June 2016). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/las-vegas-sands-to-pay-more-than-75-million-to-settle-suit-filed-by-former-macau-ceo-1464752315">"Las Vegas Sands to Pay More Than $75 Million to Settle Suit Filed by Former Macau CEO"</a>. <i>Wall Street Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wall+Street+Journal&amp;rft.atitle=Las+Vegas+Sands+to+Pay+More+Than+%2475+Million+to+Settle+Suit+Filed+by+Former+Macau+CEO&amp;rft.date=2016-06-01&amp;rft.aulast=O%E2%80%99Keeffe&amp;rft.aufirst=Kate&amp;rft.au=Berzon%2C+Alexandra&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Flas-vegas-sands-to-pay-more-than-75-million-to-settle-suit-filed-by-former-macau-ceo-1464752315&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web">Velotta, Richard N. (1 June 2016). <a rel="nofollow" class="external text" href="https://www.reviewjournal.com/business/casinos-gaming/las-vegas-sands-corp-steven-jacobs-reach-confidential-settlement-in-wrongful-termination-case/">"Las Vegas Sands Corp., Steven Jacobs reach confidential settlement in wrongful termination case"</a>. <i>Las Vegas Review-Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Las+Vegas+Review-Journal&amp;rft.atitle=Las+Vegas+Sands+Corp.%2C+Steven+Jacobs+reach+confidential+settlement+in+wrongful+termination+case&amp;rft.date=2016-06-01&amp;rft.aulast=Velotta&amp;rft.aufirst=Richard+N.&amp;rft_id=https%3A%2F%2Fwww.reviewjournal.com%2Fbusiness%2Fcasinos-gaming%2Flas-vegas-sands-corp-steven-jacobs-reach-confidential-settlement-in-wrongful-termination-case%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web">Heuer, Mike (2 June 2016). <a rel="nofollow" class="external text" href="https://www.courthousenews.com/adelson-sands-will-pay-ex-ceo-millions/">"Adelson &amp; Sands Will Pay Ex-CEO Millions"</a>. <i>Courthouse News Service</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Courthouse+News+Service&amp;rft.atitle=Adelson+%26+Sands+Will+Pay+Ex-CEO+Millions&amp;rft.date=2016-06-02&amp;rft.aulast=Heuer&amp;rft.aufirst=Mike&amp;rft_id=https%3A%2F%2Fwww.courthousenews.com%2Fadelson-sands-will-pay-ex-ceo-millions%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web">Isaacs, Matt. <a rel="nofollow" class="external text" href="https://www.motherjones.com/politics/2016/02/sheldon-adelson-macau-casinos-lawsuit/">"Megadonor Sheldon Adelson and the inside story of Chinese casino money flooding our elections"</a>. <i>Mother Jones</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Mother+Jones&amp;rft.atitle=Megadonor+Sheldon+Adelson+and+the+inside+story+of+Chinese+casino+money+flooding+our+elections&amp;rft.aulast=Isaacs&amp;rft.aufirst=Matt&amp;rft_id=https%3A%2F%2Fwww.motherjones.com%2Fpolitics%2F2016%2F02%2Fsheldon-adelson-macau-casinos-lawsuit%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web">Velotta, Richard N. (5 March 2019). <a rel="nofollow" class="external text" href="https://www.reviewjournal.com/business/casinos-gaming/judge-adelson-doesnt-have-to-testify-in-macau-licensing-case-1610888/">"Judge: Adelson doesn't have to testify in Macau licensing case"</a>. <i>Las Vegas Review-Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Las+Vegas+Review-Journal&amp;rft.atitle=Judge%3A+Adelson+doesn%E2%80%99t+have+to+testify+in+Macau+licensing+case&amp;rft.date=2019-03-05&amp;rft.aulast=Velotta&amp;rft.aufirst=Richard+N.&amp;rft_id=https%3A%2F%2Fwww.reviewjournal.com%2Fbusiness%2Fcasinos-gaming%2Fjudge-adelson-doesnt-have-to-testify-in-macau-licensing-case-1610888%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web">Ritter, Ken. <a rel="nofollow" class="external text" href="https://www.mcall.com/business/mc-vegas-sands-macau-dealmaker-settle-15-year-case-20190314-story.html">"Vegas Sands-Macau dealmaker settle 15-year case"</a>. <i>Lehigh Valley Business Cycle</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Lehigh+Valley+Business+Cycle&amp;rft.atitle=Vegas+Sands-Macau+dealmaker+settle+15-year+case&amp;rft.aulast=Ritter&amp;rft.aufirst=Ken&amp;rft_id=https%3A%2F%2Fwww.mcall.com%2Fbusiness%2Fmc-vegas-sands-macau-dealmaker-settle-15-year-case-20190314-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALas+Vegas+Sands" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r935243608"></span>
+</li>
+</ol></div></div>
+</section><h2 class="section-heading" onclick="javascript:mfTempOpenSection(10)"><div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><a href="/w/index.php?title=Las_Vegas_Sands&amp;action=edit&amp;section=11" title="Edit section: External links" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-edit-base20 edit-page mw-ui-icon-flush-right">Edit</a></span></h2><section class="mf-section-10 collapsible-block" id="mf-section-10">
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.lasvegassands.com/">Las Vegas Sands</a></span></span></li></ul>
+
+
+
+
+</section></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Las_Vegas_Sands&amp;oldid=946444969">https://en.wikipedia.org/w/index.php?title=Las_Vegas_Sands&amp;oldid=946444969</a>"</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-wikimedia-history-base20 "></span>
+		<a class="last-modified-bar__text" href="/wiki/Special:History/Las_Vegas_Sands"
+				data-user-name="Jpmcap"
+				data-user-gender="unknown"
+				data-timestamp="1584682649">
+				<span>Last edited on 20 March 2020, at 05:37</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="116" height="18" alt="Wikipedia"/></h2>
+			<div class="license">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> unless otherwise noted.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a></li><li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Las_Vegas_Sands&amp;mobileaction=toggle_view_desktop">Desktop</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.496","walltime":"0.668","ppvisitednodes":{"value":2526,"limit":1000000},"postexpandincludesize":{"value":79057,"limit":2097152},"templateargumentsize":{"value":5243,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":81736,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  540.308      1 -total"," 34.92%  188.649      1 Template:Infobox_company"," 34.60%  186.936      1 Template:Reflist"," 31.50%  170.214      1 Template:Infobox"," 20.90%  112.938     14 Template:Cite_web","  9.77%   52.778      1 Template:Short_description","  8.42%   45.485      1 Template:Br_separated_entries","  8.20%   44.324      6 Template:Wikidata","  7.35%   39.730      1 Template:Advert","  7.23%   39.048      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.225","limit":"10.000"},"limitreport-memusage":{"value":7328874,"limit":52428800}},"cachereport":{"origin":"mw1373","timestamp":"20200416051021","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Las Vegas Sands","url":"https:\/\/en.wikipedia.org\/wiki\/Las_Vegas_Sands","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1506045","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1506045","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-12-29T12:29:32Z","dateModified":"2020-03-20T05:37:29Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/56\/Venetian_Las_Vegas%2C_NV.jpg","headline":"Las Vegas Sands Corporation is an American casino and resort operating company based in Paradise, Nevada."}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":234,"wgHostname":"mw1365"});});</script>		</body>
+		</html>
+		
