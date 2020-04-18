@@ -11,3 +11,5 @@ This Repo is organized as follows:
 - **.gitignore**: holds personal files that I use for studying 
 - **README.md**: is the readMe file for this repo
 - **navigating_github**: is a file that helps me to begin to navigate gitHub better.
+
+*DISCLAMIER* I had some issues removing the .ipynb_checkpoints on Mac, but as you can see there is a .gitignore file.
